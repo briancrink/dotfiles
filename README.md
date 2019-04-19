@@ -2,8 +2,12 @@
 
 ![](/icns/banner.png)
 
-<p style='text-align: right;'>
-  <a href="https://briancrink.com"> <img src="/icns/favicon.png" width="45" height="45">
+<p>
+  <a href="https://briancrink.com"> <img src="/icns/favicon.png" width="45" height="45" align="right">
+  <a/>
+      <a href="https://twitter.com/briancrink"> <img src="/icns/twitter.png" width="55" height="55" align="right">
+  <a/>
+    <a href="https://reddit.com/user/NeonSpaceCandy"> <img src="/icns/reddit.png" width="45" height="45" align="right">
   <a/>
 </p>
 
