@@ -1,13 +1,12 @@
-# Brian's dotfiles
-
-<p float="right">
+<h1>
+Brian's dotfiles 
 <a href="https://reddit.com/user/NeonSpaceCandy">
-<img src="/icns/reddit.png" width="25" height="25"><a/>
+<img src="/icns/reddit.png" width="30" height="30" align="right"> <a/>
 <a href="https://twitter.com/briancrink">
-<img src="/icns/twitter.png" width="30" height="30"> <a/>
+<img src="/icns/twitter.png" width="35" height="35" align="right"> <a/>
 <a href="https://briancrink.com">
-<img src="/icns/favicon.png" width="25" height="25"> <a/>
-</p>
+<img src="/icns/favicon.png" width="30" height="30" align="right"> <a/>
+</h1>
 
 ![](/icns/banner.png)
 
