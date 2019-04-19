@@ -17,37 +17,29 @@ risk!
 
 3. [Web Search Engines](/search_engine/readme.md)
 
-## More dotfiles!
+## More dotfiles
 
 - [Mathias dotfiles](https://github.com/mathiasbynens/dotfiles/)
-- @ptb and [his _macOS Setup_ repository](https://github.com/ptb/mac-setup)
-- [Ben Alman](http://benalman.com/) and his
-  [dotfiles repository](https://github.com/cowboy/dotfiles)
-- [Cătălin Mariș](https://github.com/alrra) and his
-  [dotfiles repository](https://github.com/alrra/dotfiles)
-- [Gianni Chiappetta](https://butt.zone/) for sharing his
-  [amazing collection of dotfiles](https://github.com/gf3/dotfiles)
-- [Jan Moesen](http://jan.moesen.nu/) and his
-  [ancient `.bash_profile`](https://gist.github.com/1156154) +
-  [shiny _tilde_ repository](https://github.com/janmoesen/tilde)
-- [Lauri ‘Lri’ Ranta](http://lri.me/) for sharing
-  [loads of hidden preferences](http://osxnotes.net/defaults.html)
-- [Matijs Brinkhuis](https://matijs.brinkhu.is/) and his
-  [dotfiles repository](https://github.com/matijs/dotfiles)
-- [Nicolas Gallagher](http://nicolasgallagher.com/) and his
-  [dotfiles repository](https://github.com/necolas/dotfiles)
+- [Ben Alman](http://benalman.com/)'s
+  [dotfiles](https://github.com/cowboy/dotfiles)
+- [Cătălin Mariș](https://github.com/alrra)'s
+  [dotfiles](https://github.com/alrra/dotfiles)
+- [Gianni Chiappetta](https://butt.zone/)'s
+  [dotfiles](https://github.com/gf3/dotfiles)
+- [Jan Moesen](http://jan.moesen.nu/)'s
+  [dotfiles](https://gist.github.com/1156154)
+- [Lauri ‘Lri’ Ranta](http://lri.me/)'s
+  [dotfiles](http://osxnotes.net/defaults.html)
+- [Matijs Brinkhuis](https://matijs.brinkhu.is/)'s
+  [dotfiles](https://github.com/matijs/dotfiles)
+- [Nicolas Gallagher](http://nicolasgallagher.com/)'s
+  [dotfiles](https://github.com/necolas/dotfiles)
 - [Sindre Sorhus](https://sindresorhus.com/)
-- [Tom Ryder](https://sanctum.geek.nz/) and his
-  [dotfiles repository](https://sanctum.geek.nz/cgit/dotfiles.git/about)
-- [Kevin Suttle](http://kevinsuttle.com/) and his
-  [dotfiles repository](https://github.com/kevinSuttle/dotfiles) and
-  [macOS-Defaults project](https://github.com/kevinSuttle/macOS-Defaults), which
-  aims to provide better documentation for [`~/.macos`](https://mths.be/macos)
-- [Haralan Dobrev](https://hkdobrev.com/)
-- Anyone who
-  [contributed a patch](https://github.com/mathiasbynens/dotfiles/contributors)
-  or
-  [made a helpful suggestion](https://github.com/mathiasbynens/dotfiles/issues)
+- [Tom Ryder](https://sanctum.geek.nz/)'s
+  [dotfiles](https://sanctum.geek.nz/cgit/dotfiles.git/about)
+- [Kevin Suttle](http://kevinsuttle.com/)'s
+  [dotfiles](https://github.com/kevinSuttle/dotfiles)
+- @ptb's [dotfiles](https://github.com/ptb/mac-setup)
 
 ## Attribution
 
@@ -56,6 +48,6 @@ risk!
 
 ## Brian Crink
 
-[![](/icns/favicon.png =45x)](https://briancrink.com)
-[![](/icns/twitter.png =55x)](https://twitter.com/briancrink)
-[![](/icns/reddit.png =45x)](https://reddit.com/user/NeonSpaceCandy)
+[![](/icns/favicon.png =45x45)](https://briancrink.com)
+[![](/icns/twitter.png =55x55)](https://twitter.com/briancrink)
+[![](/icns/reddit.png =45x45)](https://reddit.com/user/NeonSpaceCandy)
