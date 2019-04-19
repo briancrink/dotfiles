@@ -36,11 +36,13 @@ risk!
 
 2. [macOS Defaults](https://github.com/briancrink/dotfiles/tree/master/macos)
 
-3. [Session Buddy](https://github.com/briancrink/dotfiles/tree/master/sessions)
+3. [Session Buddy](https://github.com/briancrink/dotfiles/tree/master/session_buddy)
 
 4. [Search Engines](https://github.com/briancrink/dotfiles/tree/master/search_engine)
 
 5. [Music Collection](https://github.com/briancrink/dotfiles/tree/master/music)
+
+6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/jailbreak)
 
 ## More dotfiles
 
