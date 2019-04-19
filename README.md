@@ -3,7 +3,7 @@ Brian's dotfiles
 <a href="https://reddit.com/user/NeonSpaceCandy">
 <img src="/.icns/reddit.png" width="20" height="20" align="right"> <a/>
 <a href="https://twitter.com/briancrink">
-<img src="/.icns/twitter.png" width="30" height="30" align="right"> <a/>
+<img src="/.icns/twitter.png" width="25" height="25" align="right"> <a/>
 <a href="https://briancrink.com/">
 <img src="/.icns/favicon.png" width="20" height="20" align="right"> <a/>
 </h1>
