@@ -22,6 +22,14 @@ this repository, review the code, and remove things you don’t want or need.
 Don’t blindly use my settings unless you know what that entails. Use at your own
 risk!
 
+## Guides
+
+- [archlinux wiki: dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
+- [GitHub's Unofficial Guide to dotfiles](https://dotfiles.github.io/)
+- [Getting Started with dotfiles: Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+- [An introduction to Dotfiles: Mohammed Ajmal Siddiqui](https://medium.freecodecamp.org/dive-into-dotfiles-part-1-e4eb1003cff6)
+- [How to make your dotfile management a painless affair: Mohammed Ajmal Siddiqui](https://medium.freecodecamp.org/dive-into-dotfiles-part-2-6321b4a73608)
+
 ## Setup
 
 1. [Install Packages](https://github.com/briancrink/dotfiles/tree/master/install)
