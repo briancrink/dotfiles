@@ -1,5 +1,14 @@
 # Brian's dotfiles
 
+<p float="right">
+<a href="https://reddit.com/user/NeonSpaceCandy">
+<img src="/icns/reddit.png" width="25" height="25"><a/>
+<a href="https://twitter.com/briancrink">
+<img src="/icns/twitter.png" width="30" height="30"> <a/>
+<a href="https://briancrink.com">
+<img src="/icns/favicon.png" width="25" height="25"> <a/>
+</p>
+
 ![](/icns/banner.png)
 
 <p>
