@@ -1,0 +1,2189 @@
+Content
+
+   App Store
+
+      Mac App Store
+      macappstore://showFeaturedPage
+
+      Chrome Web Store
+      https://chrome.google.com/webstore/category/extensions
+
+   Book
+
+      Audible
+      https://audible.com/
+
+      Calibre
+      https://calibre-ebook.com/download
+
+   File Storage
+
+      Box
+      https://box.com
+
+      Dropbox
+      https://dropbox.com
+
+      Google Drive
+      https://google.com/drive/
+
+      ICloud
+      https://icloud.com/
+
+      Microsoft OneDrive
+      https://onedrive.live.com/about/en-us/
+
+   Forum
+
+      Ask Different
+      https://apple.stackexchange.com/
+
+      Manjaro Deepin
+      https://forum.manjaro.org/tags/deepin
+
+      Medium
+      https://medium.com
+
+      Reddit
+      https://reddit.com
+
+      Twitter
+      https://twitter.com
+
+      TweetDeck
+      https://tweetdeck.twitter.com/
+
+      Stack Overflow
+      https://stackoverflow.com/
+
+      Wikipedia
+      https://wikipedia.org
+
+   Gaming
+
+      Steam
+      https://store.steampowered.com/
+
+      Epic Games
+      https://epicgames.com/site/en-US/home
+
+   Illustration
+
+      Adobe Creativecloud
+      https://creativecloud.adobe.com/apps/all
+
+      Adobe Creativecloud: Plans and Pricing
+      https://adobe.com/creativecloud/plans.html?promoid=3JZYBHVN&mv=other
+
+      ArtStation
+      https://artstation.com/
+
+      Behance
+      https://behance.net
+
+      Codepen.io
+      https://codepen.io/
+
+      Dribbble
+      https://dribbble.com
+
+      Edu Store | Sketch
+      https://sketchapp.com/store/edu/
+
+      Community | Sketch
+      https://sketchapp.com/community/
+
+   Management
+
+      Buffer
+      https://buffer.com/
+
+      G Suite
+      https://due.com/
+
+      TVTime
+      https://tvtime.com/
+
+      TweetDeck
+      https://tweetdeck.twitter.com/
+
+   Migration
+
+      Podsync
+      https://podsync.net/
+
+      Soundiiz
+      https://soundiiz.com
+
+      Stamp
+      https://freeyourmusic.com/
+
+   Music
+
+      Deezer
+      https://deezer.com/us/
+
+      Google Play Music
+      https://play.google.com/music
+
+      Pandora
+      https://pandora.com/
+
+      Soundcloud
+      https://soundcloud.com
+
+      Spotify
+      https://spotify.com
+
+      Tidal
+      https://tidal.com
+
+      Vox
+      https://vox.rocks/
+
+   Podcast
+
+      Audio Boom
+      https://audioboom.com/
+
+      Blurbrry
+      https://blubrry.com/
+
+      Buzz Sprout
+      https://buzzsprout.com/
+
+      Castos
+      https://castos.com/
+
+      Clearcast.io
+      https://clearcast.io/
+
+      Google Play
+      https://play.google.com/store
+
+      iTunes
+      https://apple.com/itunes
+
+      Libsyn
+      https://libsyn.com/
+
+      Overcast
+      https://overcast.fm/
+
+      Podiant
+      https://podiant.co/
+
+      Podomatic
+      https://www.podomatic.com/
+
+      Soundcloud
+      https://soundcloud.com
+
+      Spreaker
+      https://spreaker.com/
+
+      Podbean
+      https://podbean.com/
+
+      Simplecast
+      https://simplecast.com/
+
+      Spotify
+      https://spotify.com/us/
+
+      Stitcher
+      https://stitcher.com/
+
+      Zencastr
+      https://zencastr.com/
+
+   Photo
+
+      Flickr
+      https://flickr.com
+
+      Imgur
+      https://imgur.com
+
+      Instagram
+      https://instagram.com
+
+      Pinterest
+      https://pinterest.com
+
+      Unsplash
+      https://unsplash.com/
+
+   Sports
+
+      Espn
+      https://espn.com/
+
+      Hockeytv
+      https://hockeytv.com/#/
+
+      97.1 The Ticket
+      https://player.radio.com/listen/station/971-the-ticket
+
+   Tool
+
+      Hubspot: Blog Topic Generator
+      https://hubspot.com/blog-topic-generator
+
+      Portent: Title Maker
+      https://portent.com/tools/title-maker
+
+      Reverse Image Search
+      https://labnol.org/internet/mobile-reverse-image-search/29014/
+
+      WhoSampled
+      https://whosampled.com
+
+   Video
+
+      BBC America
+      https://bbcamerica.com/
+
+      Channel4
+      https://channel4.com/programmes/grand-designs
+
+      DirecTVNow
+      https://directvnow.com/
+
+      Hulu
+      https://hulu.com
+
+      Netflix
+      https://netflix.com
+
+      Playstation Vue
+      https://www.playstation.com/en-us/network/vue/
+
+      SlingTV
+      https://sling.com/
+
+      Snapchat
+      https://snapchat.com
+
+      Twitch
+      https://twitch.tv
+
+      Vimeo
+      https://vimeo.com
+
+      YouTube
+      https://youtube.com
+
+Development
+
+   Audio
+
+      Logic Pro X
+      https://www.apple.com/logic-pro/
+
+   CAD
+
+      Autodesk
+      https://autodesk.com/
+
+      SketchUp
+      https://sketchup.com/
+
+      Sketchup app
+      https://app.sketchup.com/app
+
+      SolidWorks
+      https://solidworks.com/
+
+   Home Design
+
+      Homestyler
+      https://homestyler.com/floorplan/
+
+      Tiny House | Homestyler
+      https://homestyler.com/floorplan/?assetId=914ff688-7bae-4870-8f54-c75cbcce112c
+
+      Planner 5D
+      https://planner5d.com/
+
+      Floor Planner
+      https://floorplanner.com/
+
+      Live Home 3D
+      https://livehome3d.com/
+
+      Sweet Home 3D
+      https://sweethome3d.com/download.jsp
+
+      Live Interior 3D Pro
+      https://mac-torrent-download.net/application/graphics-design/live-interior-3d-pro-2-9-8/
+
+   Continuous Delivery
+
+      Go
+      https://gocd.org/
+
+   Conversion
+
+      Scale Calculator
+      https://inchcalculator.com/scale-calculator/
+
+      HTML to Markdown
+      https://browserling.com/tools/html-to-markdown
+
+      CSV to Table Generator
+      https://www.tablesgenerator.com/markdown_tables#
+
+   Cloud Infrastructure
+
+      Amazon Web Service
+      https://console.aws.amazon.com
+
+      Google Web Service
+      https://cloud.google.com/
+
+      Microsoft Azure
+      https://azure.microsoft.com/
+
+      Open Stack
+      https://openstack.org/
+
+      vmware
+      https://vmware.com
+
+   Cloud Platform
+
+      Cloud Foundry
+      https://cloudfoundry.org
+
+   Package Manager
+
+      Homebrew | Mac OS
+      https://brew.sh/
+
+   Dataset
+
+      Kaggle
+      https://kaggle.com/datasets
+
+      AWS Datasets
+      https://aws.amazon.com/datasets/
+
+      AcademicTorrents
+      https://academictorrents.com/
+
+      Data.gov
+      https://data.gov/
+
+      Data.world
+      https://data.world/
+
+      Table 2 API
+      https://table2api.com/
+
+      Trade Bit
+      https://tradebit.com/
+
+   Data Recovery
+
+      TestDisk
+      https://cgsecurity.org/wiki/TestDisk_Download
+
+   Debugging
+
+      Debuggex
+      https://www.debuggex.com
+
+   Development Testing
+
+      Getpostman
+      https://getpostman.com/
+
+      Fill Text
+      https://filltext.com/
+
+   Encryption
+
+      GNU Privacy Guard
+      https://gnupg.org/
+
+      GPG Suite
+      https://gpgtools.org/
+
+      Gpg4win
+      https://gpg4win.org/download.html
+
+   IDE
+
+      Canopy
+      https://store.enthought.com/downloads/
+
+      JetBrains
+      https://jetbrains.com/
+
+      NetBeans
+      https://netbeans.org/
+
+      IntelliJ IDEA
+      https://jetbrains.com/idea/download/#section=mac
+
+      Visual Studio Code
+      https://code.visualstudio.com/
+
+      Xcode
+      https://developer.apple.com/xcode/
+
+   Language
+
+      ClojureScript
+      https://clojurescript.org/
+
+      Lein | Clojure
+      https://leiningen.org/
+
+      Java Development Kit
+      https://oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+      Markdown Web Dingus
+      https://daringfireball.net/projects/markdown/dingus
+
+      Markdown
+      https://daringfireball.net/projects/markdown/
+
+   Language Processing
+
+      SpaCy
+      https://spacy.io/
+
+   Monitoring
+
+      Glances
+      https://github.com/nicolargo/glances
+
+   Regex
+
+      REPL | Regexr
+      https://regexr.com/
+
+      REPL | Regex101
+      https://regex101.com/
+   
+   Shell
+
+      Oh My Zsh
+      https://ohmyz.sh/
+
+      Fish
+      https://fishshell.com/
+
+   Tool
+
+      Archbee
+      https://archbee.io/
+
+      Blossom
+      https://blossom.com
+
+      Stackshare
+      https://stackshare.io
+
+      Twilio
+      https://twilio.com
+
+      Kaggle
+      https://kaggle.com/
+
+      Sandstorm.io
+      https://sandstorm.io/
+
+      Heroku
+      https://heroku.com/
+
+      Firebase
+      https://firebase.google.com/
+
+      Oracle
+      https://oracle.com/
+
+      Wolfram
+      https://wolfram.com/
+
+      Pusher
+      https://pusher.com/
+
+      Spacy.io
+      https://spacy.io/
+
+      Web.dev
+      https://web.dev/
+
+      Table2api
+      https://table2api.com/
+
+      Standuply
+      https://standuply.com/
+
+      Bit.dev
+      https://bit.dev/
+
+      Apple xcode
+      https://developer.apple.com/xcode/
+
+      Ohmyzsh
+      https://ohmyz.sh/
+
+      Cloudflare
+      https://cloudflare.com/
+
+      Qadium
+      https://qadium.com/
+
+      Symphono
+      https://symphono.com/
+
+      Crashlytics
+      https://firebase.google.com/docs/crashlytics/
+
+      GrammaTech
+      https://go.grammatech.com/
+
+      Raygun
+      https://raygun.com/
+
+      Bugsnag
+      https://bugsnag.com/
+
+      Intermix
+      https://intermix.io/
+
+      Scalyr
+      https://scalyr.com/
+
+      Octopus
+      https://octopus.com/
+
+      ParkMyCloud
+      https://parkmycloud.com/
+
+      VividCortex
+      https://vividcortex.com/
+
+      DataDog
+      https://datadoghq.com/
+
+      Hadoop
+      https://hadoop.apache.org/
+
+      Kaggle
+      https://kaggle.com/
+
+      Couchbase
+      https://developer.couchbase.com/
+
+      MongoDB
+      https://mongodb.com/
+
+      Heptio
+      https://heptio.com/
+
+      Sunrise-Sunset
+      https://sunrise-sunset.org/
+
+      Firebase
+      https://firebase.google.com/
+
+      Heroku
+      https://heroku.com/
+
+      Sandstorm
+      https://sandstorm.io/
+
+      Teambit
+      https://github.com/teambit/bit
+
+      Atlassian
+      https://atlassian.com/
+
+      Producthunt
+      https://producthunt.com/
+
+      Betalist
+      https://betalist.com/
+
+      Webpy
+      https://webpy.org/docs/0.3/tutorial
+
+   Operating System
+
+      Vmware
+      https://vmware.com/
+
+      Ubuntu
+      https://ubuntu.com/
+
+      Debian
+      https://debian.org/
+
+      Linux Mint
+      https://linuxmint.com/
+
+      Kali
+      https://kali.org/
+
+      TrueOS
+      https://trueos.org/
+
+      MacOS Mojave Beta
+      https://zoneactu.fr/2018/06/04/telecharger-et-installer-macos-mojave-10-14-developer-beta-1-liens-dmg
+
+      MacOS Mojave
+      https://itunes.apple.com/us/app/macos-10-14-beta/id1354523149?ls=1&mt=12
+
+      Manjaro
+      https://manjaro.org/get-manjaro/
+
+      Deepin
+      https://deepin.org/en/download/
+
+      Deepin DL
+      https://sourceforge.net/projects/deepin/files/latest/download?source=files
+
+      Peppermint
+      https://peppermintos.com/
+
+      Raspbian
+      https://raspberrypi.org/downloads/
+
+      Rainmeter
+      https://rainmeter.net/
+
+      Red Hat
+      https://redhat.com/
+
+      Windows 10
+      https://microsoft.com/en-us/software-download/windows10ISO
+
+   System
+
+      Docker
+      https://docker.com/
+
+      Kubernetes
+      https://kubernetes.io/
+
+      Maestro-ng
+      https://github.com/signalfx/maestro-ng
+
+      Mesos
+      https://mesos.apache.org/
+
+
+   Version Control
+
+      Codetriage
+      https://codetriage.com/
+
+      Gist
+      https://gist.github.com/
+
+      Github
+      https://github.com
+
+      Gitlab
+      https://gitlab.com/
+
+      Bitbucket
+      https://bitbucket.org/
+
+      Beanstalk
+      https://beanstalkapp.com/
+
+   Data Visualization
+
+      D3.js library
+      https://d3js.org/
+
+      D3js
+      https://d3js.org/d3.v4.min.js
+
+      Data Viz Project
+      https://datavizproject.com/
+
+      KnightLab Projects
+      https://knightlab.northwestern.edu/projects/
+
+   Domain
+
+      Edu Domain
+      https://net.educause.edu/search.htm
+
+      Domain
+      https://domain.com/
+
+      1&1
+      https://1and1.com/
+
+      NameCheap
+      https://namecheap.com/
+
+      Name
+      https://name.com/
+
+      GoDaddy
+      https://godaddy.com/
+
+      DreamHost
+      https://dreamhost.com/
+
+      Dyn
+      https://dyn.com/
+
+      NoIP
+      https://noip.com/
+
+   Web Hosting
+
+      Digital Ocean
+      https://digitalocean.com/
+
+      Host Gator
+      https://hostgator.com/
+
+      Media Temple
+      https://mediatemple.net/
+
+      Namecheap
+      https://namecheap.com/
+
+      Squarespace
+      https://squarespace.com
+
+      SiteBuilder
+      https://sitebuilder.com/
+
+      Wix
+      https://wix.com
+
+      Wordpress
+      https://wordpress.org/
+
+   UI / UX
+
+      Adobe
+      https://adobe.com/
+
+      Adobe Creative Cloud
+      https://adobe.com/creativecloud/catalog/desktop.html?promoid=PTYTQ77P&mv=other
+
+      Craft
+      https://invisionapp.com/craft
+
+      Invision
+      https://invisionapp.com
+
+      MockPlus iDoc
+      https://idoc.mockplus.com/?hmsr=blog
+
+      Origami
+      https://origami.design/
+
+      Sketch
+      https://sketchapp.com/
+
+   Font
+
+      Google Font
+      https://google.com/fonts
+
+      Font Awesome
+      https://fontawesome.com/
+
+      FontForge
+      https://fontforge.github.io/en-US/
+
+      Font conversion
+      https://transfonter.org/ttc-unpack
+
+   Logo
+
+      99Designs
+      https://99designs.com/
+
+      CrowdSpring
+      https://crowdspring.com/
+
+      ShareIcon
+      https://shareicon.net/
+
+   Color Scheme
+
+      Coolors
+      https://coolors.co/
+
+      256 Color Chart
+      https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg
+
+Marketing
+
+   Analytics
+
+      Cyfe
+      https://cyfe.com/
+
+      Google Analytics
+      https://analytics.google.com/
+
+      Google Webmasters
+      https://google.com/webmasters/#?modal_active=none
+
+      Geckoboard
+      https://geckoboard.com/
+
+      Keyword Tool
+      https://keywordtool.io/
+
+   Brand
+
+      Brand24
+      https://brand24.com/
+
+   CRM
+
+      InfusionSoft
+      https://infusionsoft.com
+
+      Salesforce
+      https://salesforce.com
+
+      Online Invoices
+      https://onlineinvoices.com/
+
+      Hubspot
+      https://hubspot.com/
+
+   Customer Engagement
+
+      Disqus
+      https://disqus.com
+
+      Twitter
+      https://twitter.com/
+
+      Zendesk
+      https://zendesk.com/
+
+   Customer Acquisition
+
+      Launchrock
+      https://launchrock.com/
+
+   Email
+
+      Boomerang Gmail
+      https://boomeranggmail.com/
+
+      Gmail Suite
+      https://google.com/gmail/about/for-work/
+
+      LavaBit
+      https://lavabit.com/
+
+      Mailchimp
+      https://mailchimp.com/
+
+      Mailgun
+      https://app.mailgun.com/
+
+      Proton Mail
+      https://protonmail.com/
+
+      Sendgird
+      https://sendgrid.com/
+
+      Unroll.me
+      https://unroll.me/
+
+   Insight
+
+      Google Trends
+      https://trends.google.com/trends/?geo=US
+
+      Twitter Advanced Search
+      https://twitter.com/search-advanced
+
+      Twitter Trending
+      https://twitter.com/search-home?lang=en
+
+      Survey Monkey
+      https://surveymonkey.com/
+
+      U-Sentric
+      https://u-sentric.com/
+
+   News
+
+      9to5Mac
+      https://9to5mac.com/
+
+      Apple News
+      https://apple.com/news/
+
+      DistroWatch
+      https://distrowatch.com/
+
+      Flipboard
+      https://flipboard.com
+
+      Google News
+      https://news.google.com
+
+      HackerNews
+      https://thehackernews.com/
+
+      LinuxScoop
+      https://linuxscoop.com/
+
+      SE Daily
+      https://softwareengineeringdaily.com
+
+   Reporting
+
+      Jaspersoft
+      https://jaspersoft.com
+
+Productivity
+
+   Automation
+
+      Zirtual
+      https://zirtual.com/
+
+      IFTTT
+      https://ifttt.com/
+
+   Business Planning
+
+      BizPlan
+      https://bizplan.com/
+
+      Canvas Model
+      https://canvanizer.com/
+
+      Wrike
+      https://wrike.com/
+
+   Collaboration
+
+      Archbee
+      https://archbee.io/
+
+      Awwapp
+      https://awwapp.com/
+
+      Conceptboard
+      https://conceptboard.com/
+
+      Draw.io
+      https://draw.io/
+
+      ER Diagram | Erdplus
+      https://erdplus.com/#/
+
+      ER Diagram | Smartdraw
+      https://smartdraw.com/entity-relationship-diagram/er-diagram-tool.htm
+
+      ER Diagram | Sqldbm
+      https://app.sqldbm.com/
+
+      ER Diagram | Creately
+      https://creately.com/ER-diagram-software
+
+      ER Diagram | Lucidchart
+      https://lucidchart.com/pages/tour/ER_diagram_tool
+
+      Freemind
+      https://freemind.sourceforge.net/wiki/index.php/Download
+
+      Gliffy
+      https://gliffy.com/
+
+      LucidChart
+      https://lucidchart.com/
+
+      MindMup
+      https://mindmup.com/
+
+      Mindnode
+      https://mindnode.com/
+
+      Mindmup
+      https://mindmup.com/
+
+      Mindmeister
+      https://mindmeister.com/
+
+      Moqups
+      https://moqups.com/
+
+      Redpen.io
+      https://redpen.io/
+
+      SimpleMind
+      https://simplemind.eu/
+
+      Sketchboard
+      https://sketchboard.io/
+
+      Toketaware
+      https://toketaware.com/
+
+      Quip
+      https://quip.com/
+
+      Xmind
+      https://xmind.net/
+
+   Communication
+
+      Appear.in
+      https://appear.in/
+
+      Fuze
+      https://fuze.com/
+
+      Google Hangouts
+      https://hangouts.google.com/
+
+      Line
+      https://line.me/en-US/
+
+      Signal
+      https://signal.org/
+
+      Slack
+      https://slack.com
+
+      Skype
+      https://skype.com
+
+      Telegram
+      https://telegram.org/
+
+      Whatsapp
+      https://www.whatsapp.com/
+
+   Device
+
+      Acer
+      https://acer.com/
+
+      Apple
+      https://apple.com/
+
+      Asus
+      https://asus.com/
+
+      Dell
+      https://dell.com/
+
+      Google
+      https://store.google.com/
+
+      IBM
+      https://ibm.com/
+
+      Intel
+      https://intel.com/
+
+      Lenovo
+      https://lenovo.com/
+
+      Microsoft
+      https://microsoft.com/
+
+      Nvidia
+      https://nvidia.com/
+
+      Red
+      https://red.com/
+
+      Samsung
+      https://samsung.com/
+
+   Document
+
+      Evernote
+      https://evernote.com
+
+      Grammarly
+      https://grammarly.com/
+
+      Google Docs
+      https://google.com/docs
+
+      Hemingway App
+      https://hemingwayapp.com
+
+   OS Tool
+      
+      Pock
+      https://pock.pigigaldi.com/
+
+   Organization
+
+      Session Buddy
+      https://sessionbuddy.com/
+
+   Outsource
+
+      Envato
+      https://studio.envato.com/
+
+      Fiverr
+      https://fiverr.com
+
+      Freelancer
+      https://freelancer.com/
+
+      Guru
+      https://guru.com/
+
+      UpWork
+      https://upwork.com/
+
+      TopCoder
+      https://topcoder.com/
+
+   Project Management
+
+      Asana
+      https://asana.com
+
+      Atlassian
+      https://atlassian.com/
+
+      Trello
+      https://trello.com
+
+      Confluence
+      https://atlassian.com/software/confluence
+
+      Basecamp
+      https://basecamp.com/
+
+      Hey.Space
+      https://hey.space/
+
+      Pipefy
+      https://www.pipefy.com/
+
+      Pivotal Tracker
+      https://pivotaltracker.com
+
+      ProofHub
+      https://proofhub.com/
+
+      Sprintly
+      https://sprintly.com
+
+      TeamGantt
+      https://teamgantt.com
+
+      Sendtask
+      https://sendtask.com
+
+      Ryver
+      https://ryver.com/
+
+      Flock
+      https://flock.com/
+
+      Wrike
+      https://wrike.com/
+
+   Scheduling
+
+      Appoint.ly
+      https://appoint.ly/
+
+      Boomerang
+      https://boomeranggmail.com/
+
+      Hoot Suite
+      https://hootsuite.com/
+
+   Workflow
+
+      Podio
+      https://podio.com/
+
+      Wrike
+      https://wrike.com/
+
+      Zapier
+      https://zapier.com/
+
+   Workspace
+
+      Breather
+      https://breather.com/
+
+      SoHo House
+      https://sohohouse.com/
+
+Professional
+
+   Accounting
+
+      Deloitte
+      https://deloitte.com/
+
+      Due
+      https://due.com/
+
+      Mint
+      https://mint.com/
+
+      TurboTax
+      https://myturbotax.intuit.com/
+
+   Cause
+
+      Habitat for Humanity
+      https://habitat.org/
+
+      Internet.org | Facebook
+      https://info.internet.org/en/
+
+   Code Practice
+
+      AlgoExpert
+      https://algoexpert.io/
+
+      Clean Coders
+      https://cleancoders.com/
+
+      Code.org
+      https://code.org/
+
+      Codecademy
+      https://codecademy.com/
+
+      Coderbyte
+      https://coderbyte.com/
+
+      Interactive Coding Sites | Medium
+      https://medium.com/coderbyte/learn-by-doing-the-8-best-interactive-coding-websites-4c902915287c
+
+      Interviewing.io
+      https://interviewing.io/
+
+      Learn CS | Google
+      https://edu.google.com/computer-science/?modal_active=none
+
+      Programming Motherfucker
+      http://programming-motherfucker.com/become.html
+
+      Programming with Mosh
+      https://programmingwithmosh.com/
+
+      3 JavaScript Closure Problems
+      https://coderbyte.com/algorithm/3-common-javascript-closure-questions
+
+      Software Engineering Interview: Google | Youtube
+      https://youtube.com/watch?v=XKu_SEDAykw
+
+   Education
+
+      Brilliant
+      https://brilliant.org/
+
+      Coursera
+      https://coursera.org/
+
+      EdX
+      https://edx.org/
+
+      Open EDX
+      https://open.edx.org/
+
+      FutureLearn
+      https://futurelearn.com/
+
+      Iversity
+      https://iversity.org/
+
+      Khan Academy
+      https://khanacademy.org/
+
+      Open Culture
+      https://openculture.com/freeonlinecourses
+
+      Plural Sight
+      https://pluralsight.com/
+
+      Skillshare
+      https://skillshare.com/
+
+      Skillsoft
+      https://skillsoft.com/
+
+      Udacity
+      https://udacity.com/
+
+      Udemy
+      https://udemy.com/
+
+   Open Cirriculum
+
+      Introduction into Theoretical Computer Science
+      https://introtcs.org/public/
+
+      Computer Science Cirriculum
+      https://functionalcs.github.io/curriculum/
+
+      Computer Science Curriculum
+      https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing&sle=true#
+
+   Event
+
+      Blackhat
+      https://blackhat.com/
+
+      Boston NewCo Event
+      https://bos.newco.co/schedule/host-companies/
+
+      CES
+      https://ces.tech/
+
+      Defcon
+      https://defcon.org/
+
+      GoTo Con
+      https://blog.gotocon.com/
+
+      Events List
+      https://cta.tech/Events/Event-List.aspx
+
+      ICSA
+      https://icsa-conferences.org
+
+      Saturn | SEI
+      https://resources.sei.cmu.edu/news-events/events/saturn/program.cfm
+
+      Shmoocon
+      https://shmoocon.org/
+
+      SpringOnePlatform
+      https://springoneplatform.io/
+
+      Summercon
+      https://summercon.org/
+
+      Upcoming Events | Sched
+      https://sched.com/directory
+
+      WWDC
+      https://wwdc.io/
+
+      W3
+      https://e3expo.com/
+
+   Funding
+
+      Angel
+      https://angel.co/
+
+      Fundable
+      https://fundable.com/
+
+      Gust
+      https://gust.com/
+
+      Indiegogo
+      https://indiegogo.com
+
+      Kickstarter
+      https://kickstarter.com
+
+      OneVest
+      https://onevest.com/
+
+      Patreon
+      https://patreon.com
+
+   Hiring
+
+      Career Builder
+      https://careerbuilder.com/
+
+      Dice
+      https://dice.com/
+
+      GlassDoor
+      https://glassdoor.com/
+
+      Gusto
+      https://gusto.com/
+
+      Hired
+      https://hired.com/
+
+      Idealist
+      https://idealist.org/
+
+      Indeed Prime
+      https://indeed.com/prime
+
+      Indeed
+      https://indeed.com/
+
+      Internships
+      https://internships.com/
+
+      Lever
+      https://lever.co/
+
+      Linkedin
+      https://linkedin.com/
+
+      Meritpages
+      https://meritpages.com/
+
+      Monster
+      https://monster.com
+
+      UpToWork
+      https://uptowork.com/
+
+      Wayup
+      https://wayup.com/
+
+      ZipRecruiter
+      https://ziprecruiter.com/
+
+   Workplace
+
+      Humu
+      https://humu.com/
+
+   Insurance
+
+      Metlife
+      https://metlife.com/
+
+      State Farm
+      https://statefarm.com/
+
+   Investment
+
+      Acorns
+      https://app.acorns.com/
+
+      Credit Karma
+      https://creditkarma.com/
+
+      Creditwise
+      https://creditwise.capitalone.com/
+
+      eTrade
+      https://etrade.com/
+
+      Fool
+      https://fool.com/
+
+      Wallstreetsurvivor
+      https://wallstreetsurvivor.com/
+
+      Fidelity
+      https://fidelity.com/
+
+      Motif
+      https://motif.com/
+
+      ScottTrade
+      https://scottrade.com/
+
+      TDAmeriTrade
+      https://tdameritrade.com
+
+      WealthFront
+      https://wealthfront.com/
+
+      Turbo Tax
+      https://myturbotax.intuit.com/
+
+   Legal
+
+      Startup Company Lawyer
+      https://startupcompanylawyer.com/
+
+      Startup Lawyer
+      https://startuplawyer.com/
+
+   Licensing
+
+      TLDRLegal
+      https://tldrlegal.com/
+
+   Networking
+
+      Linkedin
+      https://linkedin.com
+
+      Meetup
+      https://meetup.com
+
+   Payroll
+
+      Workspoke
+      https://workspoke.com/
+
+   Petition
+
+      Change
+      https://change.org/
+
+      Whitehouse Petition
+      https://petitions.whitehouse.gov/
+
+   Platform
+
+      Betalist
+      https://betalist.com/
+
+      Clarity
+      https://clarity.fm/
+
+      Product Hunt
+      https://producthunt.com/
+
+      Startups
+      https://startups.com
+
+      Startups.co
+      https://startups.co
+
+      YCombinator
+      https://ycombinator.com/
+
+   Residence
+
+      USPS Change of Address
+      https://moversguide.usps.com/mgo/disclaimer?execution=e3s1&_flowId=icoa-main-flow
+
+   Security
+
+      4IQ
+      https://4iq.com/
+
+      Attila Sec
+      https://attilasec.com/
+
+      Authentic8
+      https://authentic8.com/
+
+      Anomali
+      https://anomali.com/
+
+      Akamai
+      https://akamai.com/
+
+      AlienVault
+      https://alienvault.com/
+
+      Accenture
+      https://accenture.com/us-en/about/security-index
+
+      ISC2
+      https://isc2.org/
+
+      UMBC
+      https://dps.umbc.edu/
+
+      Netsparker
+      https://netsparker.com/
+
+      Ninjio
+      https://ninjio.com/
+
+      Northrop Grumman
+      https://northropgrumman.com/Pages/default.aspx
+
+      Palo Alto Networks
+      https://paloaltonetworks.com/
+
+      Recorded Future
+      https://go.recordedfuture.com/cyber-daily?utm_campaign=CYB-DY&utm_content=CyberWire&utm_source=email
+
+      Redacted
+      https://redacted.com/
+
+      Revsec
+      https://revsec.com/
+
+      Rsam
+      https://rsam.com/
+
+      Roqos
+      https://roqos.com/
+
+      Sans
+      https://sans.edu/
+
+      Saul
+      https://saul.com/
+
+      Sandfly Security
+      https://sandflysecurity.com/
+
+      Security Innovation
+      https://security-innovation.org/
+
+      SCV Group
+      https://scvgroup.net/
+
+      Symantec
+      https://symantec.com/
+
+      Synopsys
+      https://synopsys.com/
+
+      Telos
+      https://telos.com/
+
+      ThreatConnect
+      https://threatconnect.com/
+
+      TrowePrice
+      https://troweprice.com/corporate/en/home.html
+
+      XMCyber
+      https://xmcyber.com/
+
+      ZeroFox
+      https://zerofox.com/
+
+      Wombat Security
+      https://wombatsecurity.com/
+
+      Virtru
+      https://virtru.com/
+
+      Netowl
+      https://netowl.com/
+
+      Nehemiah Security
+      https://nehemiahsecurity.com/
+
+      ManTech
+      https://mantech.com/
+
+      Mindpoint Group
+      https://mindpointgroup.com/
+
+      Looking Glass Cyber
+      https://lookingglasscyber.com/lets-talk/
+
+      Team Lewis
+      https://teamlewis.com/
+
+      KnowBe4
+      https://knowbe4.com/
+
+      Juniper
+      https://juniper.net/us/en/solutions/security/
+
+      JHU
+      https://isi.jhu.edu/
+
+      Invictus
+      https://invictusic.com/
+
+      Incident Response
+      https://incidentresponse.com/
+
+      ITPro
+      https://go.itpro.tv/cyber
+
+      IBM
+      https://ibm.com
+
+      Hewlett
+      https://hewlett.org/strategy/cyber/
+
+      Georgetown
+      https://scs.georgetown.edu/
+
+      Georgetown: Legal Education
+      https://law.georgetown.edu/academics/continuing-legal-education/
+
+      Bhge
+      https://bhge.com/
+
+      Bandura Cyber
+      https://banduracyber.com/
+
+      BluVector
+      https://bluvector.io/
+
+      Blue Hexagon
+      https://bluehexagon.ai/
+
+      Boozallen
+      https://boozallen.com/
+
+      Bricata
+      https://bricata.com/
+
+      Carbon Black
+      https://carbonblack.com/
+
+      Century Link
+      https://centurylink.com/
+
+      Cleared Jobs
+      https://clearedjobs.net/
+
+      CoalFire
+      https://coalfire.com/
+
+      Comodo
+      https://enterprise.comodo.com/
+
+      Control Risks
+      https://controlrisks.com/
+
+      Cooley
+      https://cooley.com/
+
+      Cyber Summit USA
+      https://cybersummitusa.com/
+
+      CyberArk
+      https://cyberark.com/
+
+      Cyber Sec Jobs
+      https://cybersecjobs.com/
+
+      Cybrary
+      https://cybrary.it/
+
+      Cybric
+      https://cybric.io/
+
+      Data Tribe
+      https://datatribe.com/
+
+      Deep Instinct
+      https://deepinstinct.com/
+
+      DePoint
+      https://defpoint.com/
+
+      DeltaRisk
+      https://deltarisk.com/
+
+      Domain Tools
+      https://domaintools.com/
+
+      Dragos
+      https://dragos.com/
+
+      Dreamport
+      https://dreamport.tech/
+
+      Edwps
+      https://edwps.com/
+
+      Enveil
+      https://enveil.com/
+
+      Ey
+      https://ey.com/en_gl
+
+      ExelonCorp
+      https://exeloncorp.com/
+
+      ExtraHop
+      https://extrahop.com/
+
+      FireEye
+      https://fireeye.com/
+
+      Gemalto
+      https://safenet.gemalto.com/
+
+      Cisco
+      https://cisco.com/
+
+      Expanse
+      https://expanse.co/
+
+   Threat Prevention
+
+      Cylance
+      https://cylance.com/en-us/index.html
+
+      ObserveIt
+      https://observeit.com/
+
+   Network Testing
+
+      CanYouSeeMe
+      https://canyouseeme.org/
+
+      DNS Leaktest
+      https://dnsleaktest.com/
+
+      Fast
+      https://fast.com/
+
+      Hotel Wifi Test
+      https://hotelwifitest.com/
+
+      IP Leak
+      https://ipleak.com/
+
+   Penetration Testing
+
+      MetaSploit
+      https://metasploit.com/
+
+      Kali Linux Tools
+      https://tools.kali.org/
+
+   Privacy
+
+      DuckDuckGo
+      https://duckduckgo.com/
+
+      ExpressVPN
+      https://expressvpn.com/
+
+      FrootVPN
+      https://frootvpn.com/
+
+      IPVanish
+      https://ipvanish.com/
+
+      NordVPN
+      https://nordvpn.com/
+
+      PrivateInternetAccess
+      https://privateinternetaccess.com/
+
+      Privacy
+      https://privacy.com/
+
+      Tor
+      https://torproject.org/
+
+Sales
+
+   Banking
+
+      Apple Pay
+      https://apple.com
+
+      Bank of America
+      https://bankofamerica.com
+
+      Chase
+      https://chase.com
+
+      Discover
+      https://discover.com
+
+      Paypal
+      https://paypal.com/
+
+      Simple
+      https://simple.com/
+
+   Coin
+
+      Bitcoin
+      https://bitcoin.org/en/
+
+      Litecoin
+      https://litecoin.org/
+
+      Doge Coin
+      https://dogecoin.com/
+
+      Converter
+      https://preev.com/
+
+      Bitcoin Volatility
+      https://bitcoinvolatility.io/
+
+   Delivery
+
+      DHL
+      https://dhl.com
+
+      FedEx
+      https://fedex.com/
+
+      Parcel
+      https://itunes.apple.com/us/app/parcel-delivery-tracking/id375589283?mt=8
+
+      UPS
+      https://ups.com/
+
+      USPS
+      https://usps.com/
+
+   E-Commerce
+
+      Gumroad
+      https://gumroad.com
+
+      PayPal
+      https://paypal.com
+
+      Shopify
+      https://shopify.com
+
+   Marketplace
+
+      Amazon
+      https://amazon.com/
+
+      Alibaba
+      https://alibaba.com/
+
+      Craigslist
+      https://craigslist.org/
+
+      Ebay
+      https://ebay.com/
+
+      Etsy
+      https://etsy.com/
+
+      Letgo
+      https://us.letgo.com/
+
+      Offerup
+      https://offerup.com/
+
+   Point-of-Sale
+
+      PayPal
+      https://paypal.com
+
+      Square
+      https://squareup.com/
+
+      Stripe
+      https://stripe.com/
+
+      GNU Taler
+      https://taler.net/en/index.html
+
+   Platform
+
+      Ethereum
+      https://ethereum.org/
+
+      Prospect.io
+      https://prospect.io/
+
+   Ticket
+
+      Fandango
+      https://fandango.com/
+
+      StubHub
+      https://stubhub.com/
+
+      SongKick
+      https://songkick.com/
+
+   Tool
+
+      Camel Camel Camel
+      https://camelcamelcamel.com/
+
+      Search Tempest
+      https://searchtempest.com/
+
+      UniDays: Student Verification
+      https://myunidays.com
+
+Travel
+
+   Airline
+
+      Air New Zealand
+      https://airnewzealand.com/
+
+      Delta
+      https://delta.com/
+
+      ETIHAD Airways
+      https://etihad.com
+
+      SingaporeAir
+      https://singaporeair.com/
+
+      Southwest
+      https://southwest.com
+
+      Thai Airways
+      https://thaiairways.com/
+
+      United Airlines
+      https://united.com/
+
+      Qantas
+      https://qantas.com/
+
+      Qatar Airways
+      https://qatarairways.com/
+
+   Dining
+
+      OpenTable
+      https://opentable.com/
+
+   Driving
+
+      Carbuzz
+      https://carbuzz.com/
+
+      Aston Martin
+      https://global.astonmartin.com/
+
+      Bentley
+      https://bentleymotors.com/
+
+      BMW
+      https://bmwusa.com/
+
+      Lamborghini
+      https://lamborghini.com/
+
+      Lotus
+      https://lotuscars.com/
+
+      Ferrari
+      https://ferrari.com/
+
+      Mercedes Benz
+      https://mbusa.com/
+
+      Mini
+      https://miniusa.com/
+
+      College Grad Credit | Mini
+      https://miniusa.com/tools/shopping/national-offer-support/college-grad-offer.html
+
+      Porsche
+      https://www.porsche.com/usa/
+
+      Rolls Royce
+      https://rolls-roycemotorcars.com/
+
+      Tesla
+      https://tesla.com/
+
+   Lodging
+
+      Airbnb
+      https://airbnb.com
+
+      Hostels
+      https://hostels.com/
+
+      Marriott
+      https://marriott.com/
+
+   Navigation
+
+      Google Maps
+      https://google.com/maps
+
+   Railway
+
+      Amtrak
+      https://amtrak.com/
+
+      Ventra Chicago
+      https://ventrachicago.com/
+
+      Viarail
+      https://viarail.ca/en
+
+      Ride UTA
+      https://farepay.rideuta.com/
+
+   Rideshare
+
+      Lyft
+      https://lyft.com
+
+      Uber
+      https://uber.com
+
+   Rewards
+
+      Award Hacker
+      https://awardhacker.com/
+
+      Award Mapper
+      https://awardmapper.com/
+
+      Award Wallet
+      https://awardwallet.com/
+
+      Compare Cards
+      https://www.comparecards.com/
+
+      Wallet Points
+      https://wallet.points.com
+
+      Frequent Flyer Miles
+      https://milez.biz/en/index.php
+
+   Sailing
+
+      Findacrew
+      https://findacrew.net/
+
+      Lake-express
+      https://lake-express.com/
+
+      Desperatesailors
+      https://desperatesailors.com/
+
+   Tool
+
+      Adioso
+      https://adioso.com/
+
+      Cheap Flights
+      https://cheapflights.com/
+
+      Expedia
+      https://expedia.com/
+
+      Kayak
+      https://kayak.com
+
+      Matrix
+      https://matrix.itasoftware.com/
+
+      Bootsnall
+      https://bootsnall.com/
+
+      Locationindie
+      https://locationindie.com/
+
+      Worldofwanderlust
+      https://worldofwanderlust.com/
+
+      Lonelyplanet
+      https://lonelyplanet.com/

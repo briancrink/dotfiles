@@ -24,11 +24,13 @@ risk!
 
 ## Setup
 
-1. [Install Packages]()
+1. [Install Packages](https://github.com/briancrink/dotfiles/tree/master/install)
 
-2. [macOS Defaults]()
+2. [macOS Defaults](https://github.com/briancrink/dotfiles/tree/master/macos)
 
-3. [Web Search Engines](/search_engine/readme.md)
+3. [Session Buddy](https://github.com/briancrink/dotfiles/tree/master/sessions)
+
+4. [Search Engines](https://github.com/briancrink/dotfiles/tree/master/search_engine)
 
 ## More dotfiles
 

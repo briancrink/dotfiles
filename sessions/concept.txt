@@ -1,0 +1,1569 @@
+AI
+
+   AI
+
+      AI v. Machine Learning
+      https://thenextweb.com/syndication/2018/11/21/the-difference-between-ai-and-machine-learning-explained/
+
+      Machine learning, meet quantum computing | Technology Review
+      https://www.technologyreview.com/s/612435/machine-learning-meet-quantum-computing/amp/
+
+      Tensor Flow
+      https://tensorflow.org/
+
+      TensorFlow.js | Medium
+      https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db
+
+      Deep Learning and Neural Networks with Python | Skillshare
+      https://skillshare.com/classes/Deep-Learning-and-Neural-Networks-with-Python/45606211/classroom/discussions?enrolledRedirect=1
+
+      Deep Learning Course | Sundog Education
+      https://sundog-education.com/deep-learning/
+
+      Deep Learning Course Material | Sundog Education
+      http://media.sundog-soft.com/DeepLearning.zip
+
+      AI Flow Chart | Technology Review
+      https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/
+
+      Cognitive AI
+      http://cognitive-ai.com/
+
+      Deep Reinforcement Learning That Matters
+      https://arxiv.org/pdf/1709.06560.pdf
+
+Algorithms
+
+   Algorithms
+
+      Free Algorithm Books
+      https://github.com/790013438/Free-Algorithm-Books-1/tree/master/book
+
+Angular
+
+   Documentation
+
+      AngularJS Introduction | W3schools
+      https://w3schools.com/angular/angular_intro.asp
+
+      Angular.json | Generate Missing .JSON File
+      https://stackoverflow.com/questions/45207900/how-to-generate-angular-cli-json-file-in-angular-cli/45705204#45705204
+
+      Clean Code Checklist in Angular
+      https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
+
+      Understanding the Angular CLI Workspace File
+      https://nitayneeman.com/posts/understanding-the-angular-cli-workspace-file/
+
+   Talk
+
+      Angular - All Talks from ng-conf 2018
+      https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/
+
+   Tutorial
+
+      Angular Course: Beginner to Advanced | Udemy
+      https://udemy.com/the-complete-angular-master-class/
+
+      Angular Tutorial: Mosh | YouTube
+      https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT
+
+Anonymity
+
+   Anonymity
+
+      NSA Revelations
+      https://projects.propublica.org/nsa-grid/
+
+      Black Hat World
+      https://blackhatworld.com/blackhat-seo/
+
+API
+
+   API
+
+      Sunrise-sunset
+      https://sunrise-sunset.org/api
+
+      Sunrise Sunset API
+      https://api.sunrise-sunset.org/json?lat=43.292800&lng=-86.170390
+
+   Concept
+
+      What is an API? | Youtube
+      https://youtube.com/watch?v=s7wmiS2mSXY
+
+      Intro to REST | Youtube
+      https://youtube.com/watch?v=YCcAE2SCQ6k
+
+      REST Vs SOAP | Youtube
+      https://youtube.com/watch?v=TvGLm7BijJY
+
+      REST API Concepts | Youtube
+      https://youtube.com/watch?v=7YcW25PHnAA
+
+      REST API's Explained | YouTube
+      https://www.youtube.com/watch?v=FOZtRzY5x8E
+
+   Documentation
+
+      Designing a REST API by URI v. Query String | Stack Exchange
+      https://softwareengineering.stackexchange.com/questions/270898/designing-a-rest-api-by-uri-vs-query-string
+
+      Common Mistakes of Writing API Requests | Medium
+      https://itnext.io/the-most-common-mistake-of-writing-api-requests-4eda46dce03d
+
+      API Testing
+      https://simpleprogrammer.com/api-testing/
+
+      Create a REST API For Xamarin Prototyping
+      https://devlinduldulao.pro/how-to-quickly-create-a-rest-api-web-service-for-xamarin-prototyping/
+
+      REST API Downfalls: The Dawn of GraphQL | Medium
+      https://medium.com/@ottovw/rest-api-downfalls-and-dawn-of-graphql-dd00991a0eb8
+
+Architecture
+
+   Architecture
+
+      30x40 Design Workshop | Youtube
+      https://youtube.com/user/30by40/videos
+
+      Printing a Plan at Scale
+      https://homedesignersoftware.com/support/article/KB-00116/printing-a-plan-at-a-specific-scale.html
+
+AWS
+
+   AWS
+
+      Project Omega Example | Lucidchart
+      https://lucidchart.com/documents/view/703f6119-4838-4bbb-bc7e-be2fb75e89e5/0
+
+      AWS Essentials | Udemy
+      https://udemy.com/aws-essentials/learn/v4/content
+
+C / C++ / C#
+
+   C / C++ / C#
+
+      C# Fundamentals
+      https://fedoramagazine.org/c-fundamentals-hello-world/
+
+      Building a Website with C++
+      https://blog.sourcerer.io/building-a-website-with-c-db942c801aee
+
+      C# vs. C++: Which Language is Right for Your Software Project?
+      https://upwork.com/hiring/development/c-sharp-vs-c-plus-plus/
+
+      C and Cpp Debugging in VS Code | Github
+      https://github.com/LambdaSchool/CS-Wiki/wiki/C-and-Cpp-Debugging-in-VS-Code
+
+      How to Debug C/C++ with VSCode | Github
+      https://74th.github.io/vscode-debug-specs/cpp/
+
+      LIB vs. DLL in C++ | Stackoverflow
+      https://stackoverflow.com/questions/140061/when-to-use-dynamic-vs-static-libraries
+
+      Import DLL Library | Stackoverflow
+      https://stackoverflow.com/questions/3573475/how-does-the-import-library-work-details
+
+Clojure
+
+   Documentation
+
+      Clojure
+      https://clojure.org/
+
+      Clojure: Download
+      https://clojure.org/community/downloads
+
+      Leiningen Documentation
+      https://leiningen.org/#docs
+
+      Closure Compiler | Google
+      https://developers.google.com/closure/compiler/
+
+      Clojure 2018 | Cognitect
+      https://blog.cognitect.com/blog/2017/1/31/clojure-2018-results
+
+      Clojure: Useful Resources
+      https://tutorialspoint.com/clojure/clojure_useful_resources.htm
+
+      Clojure: Getting Started
+      https://braveclojure.com/getting-started/
+
+      Clojure: Helping Build Abstractions
+      https://medium.com/@cyppan/how-clojure-helps-you-build-powerful-abstractions-a89c25ba573e
+
+      Clojure: Getting Started
+      https://clojure.org/guides/getting_started
+
+      Atom Clojure Setup | Gist
+      https://gist.github.com/jasongilman/d1f70507bed021b48625
+
+      Atom Problem | Lispcast
+      https://lispcast.com/atom-problem/
+
+      Atoms | Clojure
+      https://clojure.org/reference/atoms
+
+      Cortex | Github
+      https://github.com/originrose/cortex
+
+      Emacs | Clojure
+      https://braveclojure.com/basic-emacs/
+
+      Figwheel Reagent | Blog
+      https://timothypratley.blogspot.com/2015/07/you-should-be-using-figwheelreagent.html
+
+      Clojure | Basics
+      https://braveclojure.com/getting-started/
+
+      Cognitect, Inc.
+      https://cognitect.com/index.html
+
+      Intro to Clojure | Reddit
+      https://reddit.com/r/programming/comments/9w32u1/introduction_to_clojure_one_of_the_best_and_most/?st=JOD9PYDZ&sh=4f13c8c1
+
+      Supermarket: Comparison of Functional Java and Clojure | Github
+      https://github.com/inqwell/supermarket
+
+      Clojure in Production
+      https://demystifyfp.com/clojure/blog/clojure-in-production/
+
+      Introduction to Clojure
+      https://hypi.io/blog/solutions/introduction-to-clojure/#
+
+      Reactive Canvas with Clojurescript and Vue
+      https://dev.to/deciduously/reactive-canvas-with-clojurescript-and-vue-4nj
+
+      Clojurescript Quickstart
+      https://clojurescript.org/guides/quick-start
+
+      Cljs Cheatsheet
+      https://cljs.info/cheatsheet/
+
+      Clojurescript and D3 Reagent
+      https://szakmeister.net/blog/2015/nov/26/clojurescript-d3-and-reagent/
+
+   Playground
+
+      Clara | Github
+      https://github.com/cerner/clara-rules
+
+      Experimenting with Clojure 1.9's Tools | Github
+      https://github.com/ethagnawl/tools-deps-experiment
+
+   Talk
+
+      Jadn
+      https://jadn.com/talk/
+
+      Clojure Concurrency - Rich Hickey | Youtube
+      https://youtube.com/watch?v=dGVqrGmwOAw
+
+   Tool
+
+      ToDoMVC | Github
+      https://github.com/tastejs/todomvc
+
+      Fif: Stack-based Programming in Clojurescript | Github
+      https://github.com/benzap/fif
+
+   Tutorial
+
+      Install Clojure | Medium
+      https://medium.com/@sgnl/installing-clojure-on-osx-eb3bf77908c9
+
+      Clojurescript Tutorial
+      https://toptal.com/clojure/clojurescript-tutorial-react-front-end
+
+      Clojure Tutorial
+      https://tutorialspoint.com/clojure/index.htm
+
+      Reagent Meetup | Youtube
+      https://youtube.com/watch?v=DYzwfekWSzQ
+
+      ClojureScript With Figwheel | Youtube
+      https://youtube.com/watch?v=j-kj2qwJa_E
+
+      Reactive ClojureScript UI | Youtube
+      https://youtube.com/watch?v=ZGNccObFjZw
+
+      Setting up Proto REPL | Youtube
+      https://youtube.com/watch?v=0WMga5E7Vsk
+
+      ClojureScript and Reagent | Youtube
+      https://youtube.com/watch?v=wq6ctyZBb0A
+
+      Reactive Web Applications in Clojure | Youtube
+      https://youtube.com/watch?v=uuuTvfommgU
+
+      Tic Tac Toe in ClojureScript (Reagent/Figwheel) | Youtube
+      https://youtube.com/watch?v=pIiOgTwjbes
+
+      Clojure Tutorial: Control Flow | Youtube
+      https://youtube.com/watch?v=NrvQZ7r-pn8
+
+      Learning CIDER | Youtube
+      https://youtube.com/watch?v=mSRxiYNk3bY
+
+      Introduction to Clojure | Vimeo
+      https://vimeo.com/68375202
+
+      Clojure Made Simple | Youtube
+      https://youtube.com/watch?v=VSdnJDO-xdg
+
+      Starting Clojure | Youtube
+      https://youtube.com/watch?v=VVd4ow-ZcX0
+
+      Pattern Matching in Clojure | Youtube
+      https://youtube.com/watch?v=mi3OtBc73-k
+
+      Clojure Cortex Search | Youtube
+      https://youtube.com/results?search_query=clojure+cortex
+
+      Concurrency - Atoms | Youtube
+      https://youtube.com/watch?v=I72WLDu05Tw
+
+      Clojure in Emacs | Youtube
+      https://youtube.com/watch?v=efPPh2jUrkg
+
+      Clojure Development Workflow with Spacemacs and Cider | Youtube
+      https://youtube.com/watch?v=4ecC3jqHooc
+
+      Configure Spacemacs | Youtube
+      https://youtube.com/watch?v=N6xN8qLFFaQ
+
+      Emacs: Evil Mode | Youtube
+      https://youtube.com/watch?v=JWD1Fpdd4Pc
+
+      Emacs Tutorial | Youtube
+      https://youtube.com/watch?v=Iagbv974GlQ
+
+      Emacs Tutorial
+      https://newthinktank.com/2017/11/emacs-tutorial/
+
+Cryptocurrency
+
+   News
+
+      Blockchain for Business
+      https://ccn.com/ibm-presents-its-take-on-blockchain-for-business/
+
+      Indian Banks Suspending Bitcoin Exchange Accounts
+      https://cointelegraph.com/news/indian-banks-suspending-bitcoin-exchange-accounts
+
+      Ethereum Programming
+      https://techcrunch.com/2018/01/15/a-modest-proposal-for-ethereum-programming/amp/
+
+Data
+
+   Data Mining
+
+      Playlist: Data Mining Apps | Youtube
+      https://youtube.com/user/dataminingapps
+
+      Process Mining | Coursera
+      https://coursera.org/lecture/process-mining/3-1-four-quality-criteria-for-process-discovery-D384Y
+
+   Data Science
+
+      Learn Data Science | DataCamp
+      https://datacamp.com/
+
+      Swirl Course | Github
+      https://github.com/swirldev/swirl/wiki/Coursera-FAQ
+
+      Swirl Courses | Github
+      https://github.com/swirldev/swirl_courses
+
+      Swirl Issue | Github
+      https://github.com/swirldev/swirl/issues/555
+
+      Chord Diagrams in R
+      https://flowingdata.com/2018/04/06/how-to-make-chord-diagrams-in-r/
+
+      {swirl}
+      https://swirlstats.com/
+
+      R Programming | Coursera
+      https://coursera.org/learn/r-programming
+
+      R Programming Search | Youtube
+      https://youtube.com/results?search_query=r+programming
+
+      R Programming | Youtube
+      https://youtube.com/watch?v=s3FozVfd7q4
+
+      Data Science with R | Youtube
+      https://youtube.com/watch?v=32o0DnuRjfg
+
+      Swirl: Faq's
+      https://swirlstats.com/faq.html
+
+      R Programming Courses | Coursera
+      https://coursera.org/courses?query=r%20programming&skipBrowseRedirect=true&skipRecommendationsRedirect=true&tab=current&page=1&configure%5BclickAnalytics%5D=true&indices%5Btest_all_products%5D%5Bconfigure%5D%5BclickAnalytics%5D=true&indices%5Btest_all_products%5D%5Bpage%5D=1&indices%5Btest_courses_and_specializations%5D%5Bconfigure%5D%5BclickAnalytics%5D=true&indices%5Btest_courses_and_specializations%5D%5Bpage%5D=1&indices%5Btest_degrees_keyword_only%5D%5Bconfigure%5D%5BclickAnalytics%5D=true&indices%5Btest_degrees_keyword_only%5D%5Bpage%5D=1
+
+      R and Python
+      https://qz.com/1270139/r-and-python-are-joining-forces-in-the-most-ambitious-crossover-event-of-the-year-for-programmers/amp/
+
+   Data-Driven Model
+
+      Data Driven Model v. Model Driven AI | Hackernoon
+      https://hackernoon.com/building-ai-software-data-driven-vs-model-driven-ai-and-why-we-need-an-ai-specific-software-640f74aaf78f
+
+      Data Driven v. Model Driven Imitative Learning
+      https://ieeexplore.ieee.org/document/8067719?reload=true
+
+   Data Serialization
+
+      Data Serialization
+      https://www.youtube.com/watch?v=uS37TujnLRw
+
+      JSON v. Protobufs
+      https://www.youtube.com/watch?v=uGYZn6xk-hA
+
+      JSON Crash Course | Youtube
+      https://youtube.com/watch?v=wI1CWzNtE-M
+
+   Database Systems
+
+      Schema
+      https://schema.org/
+
+      Database Types | Google Search
+      https://google.com/search?ei=HEqOWpqKA8iWtQXl_4moCg&q=types+of+databases&oq=types+of+databases&gs_l=psy-ab.3..0i131k1j0l9.595500.598208.0.598430.18.15.0.3.3.0.124.1510.5j9.14.0....0...1c.1.64.psy-ab..1.17.1519...35i39k1j0i20i264k1j0i67k1j0i131i20i264k1j0i131i20i263i264k1j0i131i20i263k1j0i20i263k1.0.6lj2n9vBHgM
+
+      Database Relationships
+      https://support.airtable.com/hc/en-us/articles/218734758-A-beginner-s-guide-to-many-to-many-relationships#ex1
+
+      Principles of Database Management
+      https://ekowiki.ekonomika.be/wiki/index.php?title=Principles_of_Database_Management
+
+      FoundationDB: open source, distributed, transactional key-value store | Github
+      https://github.com/apple/foundationdb
+
+      Graph Database | Neo4j
+      https://neo4j.com/developer/graph-database/
+
+      Graph v. Relational Database | Neo4j
+      https://neo4j.com/developer/graph-db-vs-rdbms/
+
+      REST API Downfalls: Dawn of GraphQL | Medium
+      https://medium.com/@ottovw/rest-api-downfalls-and-dawn-of-graphql-dd00991a0eb8
+
+   Data Processing
+
+      Stream Processing | Medium
+      https://medium.com/stream-processing/what-is-stream-processing-1eadfca11b97
+
+      Streaming Data | AWS
+      https://aws.amazon.com/streaming-data/
+
+   Data Visualization
+
+      Data Visualization using Seaborn
+      https://towardsdatascience.com/data-visualization-using-seaborn-fc24db95a850
+
+      Learning Materials for Data Visualization
+      https://kieranhealy.org/blog/archives/2018/12/12/teaching-and-learning-materials-for-data-visualization/
+
+      3rd Wave Data Visualization
+      https://towardsdatascience.com/3rd-wave-data-visualization-824c5dc84967
+
+      Animating Your Data Visualizations Like a Boss Using R
+      https://towardsdatascience.com/animating-your-data-visualizations-like-a-boss-using-r-f94ae20843e3
+
+      What Is Data Visualization? Definition, History, and Examples
+      https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a
+
+      Python Data Visualization 2018
+      https://anaconda.com/blog/developer-blog/python-data-visualization-2018-why-so-many-libraries/
+
+      Visualization Design
+      http://visualisingdata.com/2018/04/little-visualisation-design-part-50/
+
+      Minimo: Data Visualization Map
+      https://blog.mapbox.com/minimo-data-visualization-map-f4ef21687d29
+
+      Data Visualization Course
+      http://visualisingdata.com/2018/04/announcing-new-online-data-visualisation-course/
+
+      Machine Learning for Visualization
+      https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab
+
+      Could a Simple Design Tweak Fix one of Data Viz’s Big Problems?
+      https://amp.fastcompany.com/90245830/could-a-simple-design-tweak-fix-one-of-data-vizs-big-problems
+
+      Declarative D3 Transitions With React
+      https://dzone.com/articles/declarative-d3-transitions-with-react-163-video
+
+      SemSpect: A Different Approach to Graph Visualization
+      https://dzone.com/articles/meet-semspect-a-different-approach-to-graph-visual
+
+      Chart.js with Angular 5 with Data from an API | Youtube
+      https://youtube.com/watch?v=RTzi5DS7On4
+
+      Realtime Graphs and Charts with Plotly and Firebase | Youtube
+      https://youtube.com/watch?v=Ga0vrqed6Ho
+
+      Data Visualizations with D3 and Angular 2 | Youtube
+      https://youtube.com/watch?v=kR8l2fstPxw
+
+      D3.js Course | Medium
+      https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-course-2433b060f9dc
+
+      Plotly | Medium
+      https://medium.freecodecamp.org/how-and-why-i-used-plotly-instead-of-d3-to-visualize-my-lollapalooza-data-d48345e2ca68
+
+      Tiny React & D3 Flamegraph
+      https://swizec.com/blog/tiny-react-d3-flamegraph-tutorial/swizec/8440
+
+      Learn D3.js in 5 Minutes | Medium
+      https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725
+
+   Data Structures
+
+      Expression Tree | GeeksforGeeks
+      https://geeksforgeeks.org/expression-tree/
+
+      JSON | Stackoverflow
+      https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it
+
+      QuickSort | GeeksforGeeks
+      https://geeksforgeeks.org/quick-sort/
+
+      Infix, Postfix and Prefix
+      https://cs.man.ac.uk/~pjj/cs212/fix.html
+
+      B Trees
+      https://btechsmartclass.com/DS/U5_T3.html
+
+Deep Web
+
+   Deep Web
+
+      Deep Web | Whitepapers
+      https://whitepapers.virtualprivatelibrary.net/DeepWeb.pdf
+
+      Gateway Sites | Deep Web
+      https://people.hws.edu/hunter/deepwebgate03.htm
+
+      Onion Browser | Tor for iOS
+      https://mike.tig.as/onionbrowser/
+
+Git
+
+   Git
+
+      Clone an existing Git Repo | Microsoft
+      https://visualstudio.com/en-us/docs/git/tutorial/clone
+
+      Setting up GitHub in Visual Studio | Microsoft
+      https://blogs.msdn.microsoft.com/benjaminperkins/2016/04/01/setting-up-and-using-github-in-visual-studio-2015/
+
+      Hello World | GitHub Guide
+      https://guides.github.com/activities/hello-world/
+
+      Git Commit Message | Audacity
+      https://udacity.github.io/git-styleguide/
+
+Graphic Design
+
+   Resource
+
+      Graphic Design Resources | Reddit
+      https://reddit.com/r/design_critiques/comments/9gedi2/a_list_of_resources_that_made_me_a_better/
+
+   Bubble UI
+
+      Apple Music Style Bubble UI | Stack Exchange
+      https://ux.stackexchange.com/questions/113987/creating-a-bubble-ui-layout-like-used-in-the-apple-music-app
+
+      Apple Music Style Bubble UI | Codepen
+      https://codepen.io/controversial/pen/wWVGOv
+
+   Prototyping
+
+      Wireframe v. Prototype v. Mockup
+      https://mockplus.com/blog/post/basic-uiux-design-concept-difference-between-wireframe-prototype
+
+      Wireframing Tools | Zapier
+      https://zapier.com/blog/best-wireframe-tools/
+
+      Wireframing | Invision
+      https://invisionapp.com/inside-design/how-to-wireframe/
+
+HTML / CSS
+
+   HTML
+
+      HTML Tables | W3 Schools
+      https://w3schools.com/html/html_tables.asp
+
+      HTML Tutorial Search | Youtube
+      https://youtube.com/results?search_query=html+tutorial
+
+      Building a Website with HTML | Youtube
+      https://youtube.com/watch?v=pQN-pnXPaVg
+
+      HTML for Beginners | Youtube
+      https://youtube.com/watch?v=UB1O30fR-EE
+
+      Build an HTML5 Website | Youtube
+      https://youtube.com/watch?v=Wm6CUkswsNw
+
+      HTML and CSS for Beginners | Youtube
+      https://youtube.com/watch?v=kMT54MPz9oE
+
+      HTML and CSS for Beginners | Youtube
+      https://youtube.com/watch?v=a2UnYs9AA_M
+
+   CSS
+
+      W3 Schools
+      https://w3schools.com/css/default.asp
+
+      CSS3 Animations | W3 Schools
+      https://w3schools.com/css/css3_animations.asp
+
+      CSS Grids | Youtube
+      https://youtube.com/watch?v=7kVeCqQCxlk
+
+   Font
+
+      Google Font
+      https://fonts.google.com/
+
+      Adobe Source Code Pro | Github
+      https://github.com/adobe-fonts/source-code-pro/releases
+
+Java
+
+   Documentation
+
+      Data Structures and Algorithms in Java
+      https://javaworld.com/article/3266674/learn-java/java-101-datastructures-and-algorithms-in-java-part-4.amp.html
+
+      What Can Java Do?
+      https://docs.oracle.com/javase/tutorial/getStarted/intro/cando.html
+
+      Java Language Environment
+      https://oracle.com/technetwork/java/intro-142807.html
+
+      Java Programming Language
+      https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html
+
+      JAR Basics
+      https://docs.oracle.com/javase/tutorial/deployment/jar/basicsindex.html
+
+      Mastering Javascript | Dev
+      https://dev.to/siwalik/mastering-full-stack-with-javascripts-superpowers-oin
+
+      Cracking the Javascript Interview | Medium
+      https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d
+
+      Java v. Javascript
+      https://htmlgoodies.com/beyond/javascript/article.php/3470971/Java-vs-JavaScript.htm
+
+   Playground
+
+      Introduction to Javascript | Codecademy
+      https://codecademy.com/learn/introduction-to-javascript
+
+   Tutorial
+
+      Tricky Javascript Interview Questions | Youtube
+      https://youtube.com/watch?v=MY0UBGX2FtA
+
+      Javascript Interview Questions | Youtube
+      https://youtube.com/watch?v=oxoFVqetl1E
+
+      Javascript Closures | Youtube
+      https://youtube.com/watch?v=71AtaJpJHw0
+
+      Javascript Fundamentals Youtube
+      https://youtube.com/watch?v=b1ieJtIx1NY
+
+      Learn Javascript | Youtube
+      https://youtube.com/watch?v=Ukg_U3CnJWI
+
+      Learn Javascript | Youtube
+      https://youtube.com/watch?v=zPHerhks2Vg
+
+      Javascript Interview Questions | Youtube
+      https://youtube.com/watch?v=nX0ajFKB2E0
+
+Language Processing
+
+   Language Processing
+
+      Hierarchical Morphological Structure and Ambiguity
+      http://www.hum.au.dk/engelsk/engsv/papers/vikn08b.pdf
+
+      Word Association Graph | Google Image Search
+      https://google.com/search?biw=1440&bih=789&tbm=isch&sa=1&ei=t53SW4DEOePMjwSB96XoAw&q=word+association+graph&oq=word+association+graph&gs_l=img.3..0l2j0i24l3.29858.37149..37401...7.0..0.106.1862.22j1......1....1..gws-wiz-img.......35i39j0i67.MA8igMHxDB8#imgrc=Pp4sUluNqXjhOM:
+
+      Word Graph Search Query | SE Daily
+      https://softwareengineeringdaily.com/?s=words+graph
+
+Node
+
+   Tutorial
+
+      Getting Started | Nodejs
+      https://nodejs.org/en/docs/guides/getting-started-guide/
+
+      Introduction to Node.js
+      https://contextneutral.com/story/getting-started-with-nodejs-what-and-how
+
+      Node.js Beginner's Guide | Youtube
+      https://youtube.com/watch?v=pU9Q6oiQNd0
+
+      Setting up Node.js with a database | Hackernoon
+      https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
+
+      Node on Elastic Beanstalk | AWS
+      https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/nodejs-getstarted.html
+
+      REST API with Node.js | Hackernoon
+      https://hackernoon.com/how-to-build-powerful-rest-apis-blazingly-fast-with-node-js-86d6e55a5b34
+
+      Creating Node Modules | NPM
+      https://docs.npmjs.com/creating-node-js-modules
+
+      REST-Backend for Angular with Node.js & Express
+      https://malcoded.com/posts/angular-backend-express
+
+   Documentation
+
+      Node js
+      https://nodejs.org/
+
+      Node | W3 Schools
+      https://www.w3schools.com/nodejs/default.asp
+
+      SOLID and the onion architecture in Node.js with TypeScript and InversifyJS
+      https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad
+
+      NodeJS to run an SQL file in MySQL | Stackoverflow
+      https://stackoverflow.com/questions/22276763/use-nodejs-to-run-an-sql-file-in-mysql
+
+      NodeJs require('./file.js') issues | Stackoverflow
+      https://stackoverflow.com/questions/11726525/nodejs-require-file-js-issues
+
+      Blocking v. Non Blocking | Nodejs
+      https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/
+
+      Node CLI | NPM
+      https://npmjs.com/package/node-command-line
+
+      Node NPM | W3schools
+      https://w3schools.com/nodejs/nodejs_npm.asp
+
+      Node js: Security | Codeburst
+      https://codeburst.io/node-js-10-0-0-what-to-expect-as-a-backend-developer-security-enthusiast-f8680f132320
+
+      CRUD using MySQL and Node Js
+      https://codementor.io/joanvasquez/a-simple-crud-using-mysql-and-node-js-p2xvvt6q8
+
+      Why use Node Js? | Medium
+      https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc
+
+OAuth
+
+   Tutorial
+      
+      API Authentication with Node | Youtube
+      https://youtube.com/watch?v=JgSLf-HS5gg
+
+      OAuth: A Tale of Two Servers | Youtube
+      https://youtube.com/watch?v=tFYrq3d54Dc
+
+   Playground
+
+      Web API Credentials | Google Console
+      https://console.developers.google.com/apis/credentials?project=oauth-201722&showFTMessage=false&pli=1
+
+      OAuth 2.0 Playground | Google Developers
+      https://developers.google.com/oauthplayground/?code=4/AAB4vbIbwnO-qJonHHYooHWmXrDQJ7Snj5UQeefvw-5riN6HJ6p7pJ1lcaBf3-tdMn2fbJb2JMLsrKwM5FmD_ko#
+
+   Documentation
+      
+      OAuth 2 server with Node.js
+      https://blog.cloudboost.io/how-to-make-an-oauth-2-server-with-node-js-a6db02dc2ce7?gi=cc064547163e
+
+      Authorization Code Grant
+      https://tools.ietf.org/html/draft-ietf-oauth-v2-31#section-4.1
+
+      OAuth 2.0 for Web Server Applications | Google Developers
+      https://developers.google.com/youtube/reporting/guides/authorization/server-side-web-apps
+
+      Node.js OAuth Client API | Github
+      https://github.com/google/google-api-nodejs-client#oauth2-client
+
+      OAuth2 API Example | Github
+      https://github.com/google/google-api-nodejs-client/blob/master/samples/oauth2.js
+
+      Call External .js File in HTML | Stackoverflow
+      https://stackoverflow.com/questions/11840148/call-external-js-file-in-html
+
+      JS OAuth2 Client | Github
+      https://github.com/mulesoft/js-client-oauth2
+
+Open Source
+
+   Open Source
+
+      The importance of Wikipedia | Open Source
+      https://opensource.com/business/11/11/importance-wikipedia
+
+      Open Source or SaaS your Solution? | Open Source
+      https://opensource.com/article/18/5/open-source-saas-y-world
+
+      High Impact Teams | Open Source
+      https://opensource.com/article/18/7/high-impact-teams?utm_campaign=intrel
+
+Operating Systems
+
+   OS
+
+      Linux is Weird | Youtube
+      https://youtube.com/watch?v=xPbAXKMCDkY
+
+      Linux Course | Youtube
+      https://youtube.com/watch?v=wBp0Rb-ZJak
+
+      Linux Interview Questions | Youtube
+      https://youtube.com/watch?v=l0QGLMwR-lY
+
+      Linux Mint Timeshift | Youtube
+      https://youtube.com/watch?v=qh08GvrUivc
+
+      Arch Linx Installation | Youtube
+      https://youtube.com/watch?v=DuX4ERxnrsY
+
+      Arch Linux Installation | Youtube
+      https://youtube.com/watch?v=4PBqpX0_UOc
+
+      Hard Disk Space in Linux | Youtube
+      https://youtube.com/watch?v=EYSLriS8Dy0
+
+      Mount an exFAT Drive on Linux
+      https://howtogeek.com/235655/how-to-mount-and-use-an-exfat-drive-on-linux/
+
+      Setup a Free NAS
+      https://lifehacker.com/5967007/turn-your-freenas-box-into-the-ultimate-anonymous-downloading-machine?post=55063960
+
+      Launch Boot Camp partition | vmware
+      https://kb.vmware.com/s/article/1014618
+
+   Theory
+
+      IdealOS: Rebooting the Operating System | YCombinator
+      https://news.ycombinator.com/item?id=15058351
+
+      Operating Systems and Systems Programming Lecture 1 | Youtube
+      https://youtube.com/watch?v=qcyXohw1H00&list=PL--jIyXjDXf6Q4XA6q8RYnyChYzJ0K0F2
+
+      Writing an Operating System | Youtube
+      https://youtube.com/watch?v=1rnA6wpF0o4
+
+      Operating Systems | Youtube Search
+      https://youtube.com/results?search_query=operating+systems
+
+      What is POSIX? | Stackoverflow
+      https://stackoverflow.com/questions/1780599/what-is-the-meaning-of-posix
+
+Penetration Testing
+
+   Kali Linux
+
+      Tools for Ethical Hackers and Penetration Tester | Kali Linux
+      https://technotification.com/2018/03/top-10-kali-linux-tools.html/amp
+
+      Tool List | Kali Linux
+      https://tools.kali.org/tools-listing
+
+      USB Boot | Kali Linux
+      https://kali.org/news/vmware-fusion-kali-usb-boot/
+
+      Persistence Warning | Tails
+      https://tails.boum.org/doc/first_steps/persistence/warnings/index.en.html
+
+      Kali Linux Kit on the Raspberry Pi 3 | Youtube
+      https://youtube.com/watch?v=5ExWmpFnAnE
+
+Privacy
+
+   Tails
+
+      Web Browsing with TAILS + Tor | Youtube
+      https://youtube.com/watch?v=04mzYuhl8f4
+
+      Tails Guide | Youtube
+      https://youtube.com/watch?v=zXUcYMscIbE
+
+PHP
+
+   PHP
+
+      PHP MySQL | Youtube
+      https://youtube.com/watch?v=mpQts3ezPVg
+
+Python
+
+   Documentation
+
+      Convert UTC to EST in Python | Stackoverflow
+      https://stackoverflow.com/questions/48416511/how-to-convert-utc-to-est-with-python-and-take-care-of-daylight-saving-automatic
+
+      Extract JSON in Python | Stackoverflow
+      https://stackoverflow.com/questions/27907633/multiple-json-objects-in-one-file-extract-by-python
+
+      Python json.load | Stackoverflow
+      https://stackoverflow.com/questions/34590412/pythons-json-loadsys-stdin-gets-me-u-instead-of-double-quotes-around-str
+
+      Parse JSON in Python | Unix
+      https://unix.stackexchange.com/questions/116228/parse-json-using-python
+
+      Java v. Python
+      https://pythonconquerstheuniverse.wordpress.com/2009/10/03/python-java-a-side-by-side-comparison/
+
+      What is Python used for?
+      https://blog.teamtreehouse.com/what-is-python
+
+      What is Python?
+      https://makeuseof.com/tag/python-programming-faq/
+
+      Python Functions | Python Docs
+      https://docs.python.org/3/library/functions.html#func-set
+
+      Pep 8| Python Docs
+      https://python.org/dev/peps/pep-0008/
+
+      Math Function | Python Docs
+      https://docs.python.org/3/library/math.html
+
+      Python | Homebrew
+      https://docs.brew.sh/Homebrew-and-Python
+
+      CLI with Python | Codeburst
+      https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+
+      Chartify: Python Chart Creation for Data Scientists
+      https://labs.spotify.com/2018/11/15/introducing-chartify-easier-chart-creation-in-python-for-data-scientists/
+
+   Playground
+
+      53 Questions for Python Beginners | Programming with Mosh
+      https://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/
+
+   Tutorial
+
+      Learning Python | Medium
+      https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567
+     
+      Python Programming for Developers | Programming with Mosh
+      https://codewithmosh.com/p/python-programming-course-developers/?product_id=866082&coupon_code=PYDPRE&preview=logged_in
+
+      Becoming a Developer in Python | Youtube
+      https://youtube.com/watch?v=c3FXQU3TyCU
+
+      Python Tutorials: Programming with Mosh | Youtube
+      https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f
+
+Quantum Computing
+
+   News
+
+      Quantum Computing | Google Search Query
+      https://google.com/search?q=quantum+computers&tbm=nws&source=univ&tbo=u&sa=X&ved=0ahUKEwiUkq6rmrXXAhXsy4MKHdjLB2gQt8YBCG8oAQ&biw=1680&bih=1050
+
+      'Frogs' and 'Mushrooms' Bubble up in Quantum Fluids
+      https://phys.org/news/2018-04-frogs-mushrooms-quantum-fluids.amp
+
+      Quantum Computers Could Break Encryption, So It’s Going Quantum Too
+      https://digitaltrends.com/computing/quantum-xchanges-john-prisco/amp/
+
+      Inside the Chip Industry's Meltdown
+      https://bloomberg.com/amp/news/articles/2018-01-08/-it-can-t-be-true-inside-the-semiconductor-industry-s-meltdown
+
+      A Data Bus for Quantum Computers
+      https://spectrum.ieee.org/tech-talk/computing/hardware/a-quantum-bus-for-quantum-computers
+
+      A Student Took Down One of Quantum Computing’s Top Applications
+      https://singularityhub.com/2018/08/12/a-student-took-down-one-of-quantum-computings-top-applications-now-what/amp/
+
+      Arrays of Atoms Emerge as Dark Horse Candidate to Power Quantum Computers
+      https://sciencemag.org/news/2018/09/arrays-atoms-emerge-dark-horse-candidate-power-quantum-computers
+
+      Artist Explains Quantum Physics Through Poetry
+      https://thenextweb.com/distract/2018/10/12/artist-explains-quantum-physics-through-poetry/amp/
+
+      Braiding May Be Key to Using Time Crystals in Quantum Computing
+      https://phys.org/news/2018-06-braiding-key-crystals-quantum.amp
+
+      Cloud-Based Quantum Computer Takes on Deuteron and Wins
+      https://arstechnica.com/science/2018/05/cloud-based-quantum-computer-takes-on-deuteron-and-wins/?amp=1
+
+      D-Wave Takes Quantum Computers Mainstream with ‘Leap’
+      https://engadget.com/amp/2018/10/04/d-wave-takes-quantum-computers-mainstream-with-leap/
+
+      Finally, a Problem That Only Quantum Computers Will Ever Be Able to Solve
+      https://quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/
+
+      Fundamental Equation of Quantum Physics Also Describes Rings and Disks in Space
+      https://gizmodo.com/fundamental-equation-of-quantum-physics-also-describes-1823514535/amp
+
+      The Argument Against Quantum Computers
+      https://quantamagazine.org/gil-kalais-argument-against-quantum-computers-20180207/
+
+      Google's Lab Announces Bristlecone: Quantum Processor
+      https://9to5google.com/2018/03/05/google-quantum-ai-lab-bristlecone-processor/amp/
+
+      Graphene Infographic
+      https://futurism.com/images/graphene-the-wonder-material-of-the-future-infographic/
+
+      Harnessing the Power of 'Spin Orbit' Coupling in Silicon: Scaling up Quantum Computation
+      https://phys.org/news/2018-12-harnessing-power-orbit-coupling-silicon.amp
+
+      Here’s Why 100 Qubit Quantum Computers Could Change Everything
+      https://thenextweb.com/artificial-intelligence/2018/02/06/heres-why-100-qubit-quantum-computers-could-change-everything/amp/
+
+      Here’s Why Quantum Supremacy is Inevitable
+      https://thenextweb.com/artificial-intelligence/2018/06/06/heres-why-quantum-supremacy-is-inevitable/amp/
+
+      How Einstein's equivalence principle extends to the quantum world
+      https://phys.org/news/2018-08-einstein-equivalence-principle-quantum-world.amp
+
+      How Quantum Computers Will Change Everything Without You Noticing
+      https://thenextweb.com/science/2018/07/02/how-quantum-computers-will-change-everything-without-you-noticing/amp/
+
+      IBM Is Teaming Up With a Bunch of Quantum Computing Startups
+      https://gizmodo.com/ibm-is-teaming-up-with-a-bunch-of-quantum-computing-sta-1825026964/amp
+
+      IBM Just Announced a 50-Qubit Quantum Computer
+      https://futurism.com/ibm-announced-50-qubit-quantum-computer/
+
+      Understanding Quantum Computing
+      https://wired.com/story/time-you-learned-about-quantum-computing/amp
+
+      Microsoft Quantum Computing Scientists Have Captured a Majorana Quasiparticle
+      https://neowin.net/news/microsoft-quantum-computing-scientists-have-captured-a-majorana-quasiparticle
+
+      New Quantum Probability Rule Offers Novel Perspective of Wave Function Collapse
+      https://phys.org/news/2018-05-quantum-probability-perspective-function-collapse.amp
+
+      Physicists Just Broke a Quantum Record, Taking Entanglement to a Spooky New Level
+      https://sciencealert.com/quantum-computing-broken-20-qubit-quantum-register
+
+      Quantum Computers are Weirder and More Powerful Than We Thought
+      https://newscientist.com/article/2170746-quantum-computers-are-weirder-and-more-powerful-than-we-thought/
+
+      Quantum Computers Will Break The Encryption That Protects The Internet
+      https://amp.economist.com/science-and-technology/2018/10/20/quantum-computers-will-break-the-encryption-that-protects-the-internet
+
+      Quantum Computing Could Put a Stop to Traffic Jams
+      https://qz.com/1323987/quantum-computing-could-put-a-stop-to-traffic-jams/amp/
+
+      Quantum Computing Could Revolutionize Nuclear and Particle Physics
+      https://physicsworld.com/a/quantum-computing-could-revolutionize-nuclear-and-particle-physics/
+
+      Quantum Computing Is On The Way
+      https://bigthink.com/technology-innovation/quantum-computing-teleportation-logic-gate
+
+      Quantum Computing’s Future Is Almost Semi-Here—Are We Ready For It?
+      https://arstechnica.com/science/2018/03/ars-visits-ibms-quantum-computing-lab-but-finds-no-cats-trapped-in-boxes/?amp=1
+
+      Quantum Gas Reveals First Signs of Path-Bending Monopole
+      https://phys.org/news/2018-06-quantum-gas-reveals-path-bending-monopole.amp
+
+      Quantum Leaps: Read the Winning Entry in a Physics-Inspired Fiction Contest
+      https://scientificamerican.com/article/quantum-leaps-read-the-winning-entry-in-a-physics-inspired-fiction-contest/
+
+      Quantum Physics Can Help Explain Much of the World’s Suffering
+      https://qz.com/1291485/quantum-physics-can-help-explain-much-of-the-worlds-suffering/amp/
+
+      Researchers Created ‘Quantum Artificial Life’ For The First Time
+      https://motherboard.vice.com/amp/en_us/article/mbdxav/researchers-created-quantum-artificial-life-for-the-first-time
+
+      Researchers Implement 3-qubit Grover Search on a Quantum Computer
+      https://phys.org/news/2018-01-qubit-grover-quantum.amp
+
+      Scientists Find a Way to Enhance The Performance of Quantum Computers
+      https://phys.org/news/2018-11-scientists-quantum.amp
+
+      Serious Quantum Computers Are Finally Here. What Are We Going To Do With Them?
+      https://www.technologyreview.com/s/610250/serious-quantum-computers-are-finally-here-what-are-we-going-to-do-with-them/
+
+      Superconducting metamaterial traps quantum light
+      https://phys.org/news/2018-09-superconducting-metamaterial-quantum.amp
+
+      The Biggest Myth In Quantum Physics
+      https://forbes.com/sites/startswithabang/2018/02/07/the-biggest-myth-in-quantum-physics/amp/
+
+      The Era of Quantum Computing
+      https://wired.com/story/the-era-of-quantum-computing-is-here-outlook-cloudy/amp
+
+      The Next Tech Talent Shortage: Quantum Computing Researchers
+      https://nytimes.com/2018/10/21/technology/quantum-computing-jobs-immigration-visas.html
+
+      US Takes First Step Toward a Quantum Computing Workforce
+      https://techcrunch.com/2018/09/07/the-reality-of-quantum-computing-could-be-just-three-years-away/amp/
+
+      US takes first step toward a quantum computing workforce
+      https://engadget.com/amp/2018/01/09/this-is-what-a-50-qubit-quantum-computer-looks-like/
+
+      US takes first step toward a quantum computing workforce
+      https://www.technologyreview.com/s/612071/us-takes-first-step-towards-creating-a-quantum-computing-workforce/amp/
+
+      Want More Efficient Simulators? Store Time in a Quantum Superposition
+      https://phys.org/news/2018-03-efficient-simulators-quantum-superposition.amp
+
+      What is a Quantum Computer? | Gizmodo
+      https://gizmodo.com/what-the-hell-is-a-quantum-computer-and-how-excited-sho-1819296509
+
+      Consciousness Originating at The Quantum Level
+      https://bigthink.com/why-a-genius-scientist-thinks-our-consciousness-originates-at-the-quantum-level-2604511422.amp.html
+
+      ‘Quantum Atmospheres’ May Reveal Secrets of Matter
+      https://quantamagazine.org/quantum-atmospheres-may-reveal-secrets-of-matter-20180925/
+
+      IBM Raises the Bar with a 50-Qubit Quantum Computer
+      https://www.technologyreview.com/s/609451/ibm-raises-the-bar-with-a-50-qubit-quantum-computer/
+
+      IBM Has Used Its Quantum Computer to Simulate a Molecule
+      https://www.technologyreview.com/the-download/608866/ibm-has-used-its-quantum-computer-to-simulate-a-molecule-heres-why-thats-big/
+
+      Google Reveals Blueprint for Quantum Supremacy
+      https://www.technologyreview.com/s/609035/google-reveals-blueprint-for-quantum-supremacy/
+
+      IBM makes 20 qubit quantum computing machine available as a cloud service | IBM
+      https://techcrunch.com/2017/11/10/ibm-passes-major-milestone-with-20-and-50-qubit-quantum-computers-as-a-service/
+
+   Playground
+
+      IBM Q Experience
+      https://quantumexperience.ng.bluemix.net/qx/editor
+
+      Quantum Development Kit: Getting Started | Microsoft
+      https://microsoft.com/en-us/quantum/development-kit
+
+   Research
+
+      IBM Research: Playlist | Youtube
+      https://youtube.com/user/IBMLabs/videos
+
+      IBM Q
+      https://research.ibm.com/ibm-q/
+
+      Probing Many-Body Dynamics on a 51-atom Quantum Simulator
+      https://arxiv.org/pdf/1707.04344.pdf
+
+      Quantum Key Distribution
+      https://nature.com/articles/npjqi201625
+
+      Extended Quantum Maxwell Demon Acting over Macroscopic Distances
+      https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.214502
+
+   Tutorial
+
+      Writing a Quantum Program | Microsoft
+      https://docs.microsoft.com/en-us/quantum/quickstart?view=qsharp-preview&tabs=tabid-vscode
+
+      Running an experiment in the IBM Quantum Experience | Youtube
+      https://youtube.com/watch?v=pYD6bvKLI_c
+
+      Guide to Quantum Computing | Youtube
+      https://youtube.com/watch?v=JRIPV0dPAd4
+
+Ruby
+
+   Ruby
+
+      Ruby on Rails — Advanced Tools | Medium
+      https://medium.com/deemaze-software/ruby-on-rails-advanced-tools-part-3-797a62288dbe
+
+Shell
+
+   Arduino
+
+      Arduino: CLI | Hackaday
+      https://hackaday.com/2018/11/10/arduino-gets-a-command-line-interface/
+
+   Bash
+
+      Bash Commands
+      https://courses.cs.washington.edu/courses/cse390a/14au/bash.html
+
+      Customize the Bash Environment | Youtube
+      https://youtube.com/watch?v=y_vAFd7Uk5U
+
+      Bash for Beginners
+      https://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html
+
+      Command Line Shortcuts
+      https://henrikwarne.com/2018/08/11/my-favorite-command-line-shortcuts/amp/
+
+      Normalizing Filenames and Data with Bash
+      https://linuxjournal.com/content/normalizing-filenames-and-data-using-bash-string-variable-manipulations
+
+      Bash Cheatsheet
+      https://devhints.io/bash
+
+      Bash: Directory Navigation
+      https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html
+
+      Bash Tips | Hackernoon
+      https://hackernoon.com/10-basic-tips-on-working-fast-in-unix-or-linux-terminal-5746ae42d277
+
+      Understanding Bash
+      https://linuxjournal.com/content/understanding-bash-elements-programming
+
+   Dotfiles
+
+      Dotfiles | Github
+      https://dotfiles.github.io/
+
+      mathias Dotfiles | Github
+      https://github.com/mathiasbynens/dotfiles/blob/master/.macos
+
+      Web Pro | Github
+      https://github.com/webpro/awesome-dotfiles
+
+      Dotfiles: Getting Started | Medium
+      https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
+
+      Bashrc | Stack Exchange
+      https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
+
+      Shell Startup Scripts
+      https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html
+
+      zshrc bashrc Dotfiles
+      https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/
+
+      Dotfiles | Youtube
+      https://youtube.com/watch?v=c5RZWDLqifA
+
+   Editor
+
+      MacOS Hex Editor | Stackoverflow
+      https://stackoverflow.com/questions/827326/whats-a-good-hex-editor-viewer-for-the-mac
+
+   Encoding
+
+      Fix Incorrect mp3 Duration
+      https://askubuntu.com/questions/248811/how-can-i-fix-incorrect-mp3-duration
+
+      Concatenate | FFmpeg
+      https://trac.ffmpeg.org/wiki/Concatenate
+
+   Linux
+
+      Linux CLI: Cheatsheet
+      https://tecmint.com/cheat-command-line-cheat-sheet-for-linux-users/
+
+      Linux: SED Command
+      https://linuxtechlab.com/lets-discuss-some-examples-of-sed-command/
+
+   Powershell
+
+      Powershell Tips
+      https://simpleprogrammer.com/powershell-tutorial/
+
+   Raspberry Pi
+
+      Raspberry Pi Tips
+      https://raspberrytips.com/raspberry-pi-commands/
+
+   Regex
+
+      REPL | Regexr
+      https://regexr.com/
+
+      REPL | Regex101
+      https://regex101.com/
+
+      FZF and ripgrep | Medium
+      https://medium.com/@sidneyliebrand/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861
+
+      Wildcards to Match Filenames in Linux
+      https://tecmint.com/use-wildcards-to-match-filenames-in-linux/
+
+   SSH
+
+      PuTTY
+      https://chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+   Zsh
+
+      Zsh v. Bash
+      https://stackabuse.com/zsh-vs-bash/
+
+      Zsh v. Bash
+      https://howtogeek.com/68563/htg-explains-what-are-the-differences-between-linux-shells/
+
+Software Architecture
+
+   Course
+
+      Software Architecture | Coursera
+      https://www.coursera.org/learn/software-architecture
+
+   Documetation
+
+      Clean Architecture: Bob Martin | Reddit
+      https://reddit.com/r/programming/comments/42x41v/robert_c_martin_clean_architecture/
+
+      Hexagonal Architecture
+      http://dossier-andreas.net/software_architecture/ports_and_adapters.html
+
+      Web Architecture 101
+      https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+
+      Quality Attributes in Software Architecture | Hackernoon
+      https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732
+
+      Certificates in Software Architecture | Medium
+      https://medium.com/@nvashanin/certificates-in-software-architecture-6b18e0102fe7
+
+      Stakeholders in Software Architecture | Medium
+      https://medium.com/@nvashanin/stakeholders-in-software-architecture-6d18f36250f9
+
+      Software Architecture Patterns
+      https://towardsdatascience.com/software-architecture-patterns-98043af8028
+
+      Software Architecture Search Query | Medium
+      https://medium.com/search?q=software%20architecture
+
+      Software Architecture Search Query | Hackernoon
+      https://hackernoon.com/search?q=software%20architecture
+
+      Software Architecture v. Code: Simon Brown | Slide Deck
+      https://gotocon.com/dl/goto-amsterdam-2014/slides/SimonBrown_SoftwareArchitectureVsCode.pdf
+
+      Building Theories is Building Value | Slide Deck
+      https://docs.google.com/presentation/d/1wste6Yp_uqeZ47CE1wcw1yuQFyXwAzCYnNo0A3Fy_Lk/pub?start=false&loop=false&delayms=5000&slide=id.p
+
+      Fitnesse: Clean Architecture | Uncle Bob
+      https://github.com/unclebob/fitnesse/tree/master/src/fitnesse
+
+      What Makes a Good Software Architect | SEI 2019
+      https://resources.sei.cmu.edu/asset_files/Presentation/2019_017_101_543598.pdf
+
+      Architectural Technical Debt | SEI Library
+      https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=509492
+
+   Tool
+
+      C4model
+      https://c4model.com/
+
+      Structurizr
+      https://structurizr.com/
+
+   Talk
+
+      Clean Architecture: Bob Martin | Vimeo
+      https://vimeo.com/43612849
+
+      IEEE 1471 Software Architecture | Youtube
+      https://youtube.com/watch?v=Y8-GOJKuEvM
+
+      Modern Application Architecture: Sam Ramji | Youtube
+      https://youtube.com/watch?v=fiENlfVU7Ys
+
+      Visualizing Software Architecture with C4 Model | Youtube
+      https://youtube.com/watch?v=1zYK615kepE
+
+      Software Architecture for Developers: Simon Brown | Youtube
+      https://youtube.com/watch?v=z1xLDzx7hgw
+
+      Agile Architecture: Martin Fowler | Youtube
+      https://youtube.com/watch?v=VjKYO6DP3fo
+
+      Software Architecture: George Fairbanks Videoes | Youtube
+      https://youtube.com/user/georgehfairbanks/videos
+
+      Architecture Hoisting: George Fairbanks | Youtube
+      https://youtube.com/watch?v=qQXDVZcScq4
+
+      Building Theories is Building Value: George Fairbanks | Youtube
+      https://youtube.com/watch?v=KCrmquf9nPw
+
+      What is Software Architecture: George Fairbanks | Youtube
+      https://youtube.com/watch?v=Rn1g6V-vlHw
+
+      Introduction to Software Architecture: George Fairbanks | Youtube
+      https://youtube.com/watch?v=x30DcBfCJRI
+      
+      Software Architecture: Architecture Patterns | Youtube
+      https://youtube.com/watch?v=lTkL1oIMiaU
+
+      Test Cases for all Testing Types | Youtube
+      https://youtube.com/watch?v=NZuzWKEnjQY
+
+      Sofware Architecture as Systems Dissolve | Youtube
+      https://youtube.com/watch?v=a5PU9tFuAtQ
+
+      Quality Attributes for Software Architecture | Youtube
+      https://youtube.com/watch?v=p-hMQ-g7Lzs
+
+      Exploring Software Architecture: Simon Brown | Youtube
+      https://youtube.com/watch?v=Ym9nhVZs89o
+
+      Making Architecture Matter: Martin Fowler | Youtube
+      https://youtube.com/watch?v=DngAZyWMGR0
+
+      Flaws in Software Design: Part 1 | Youtube
+      https://youtube.com/watch?v=JOAq3YN45YE
+
+      Flaws in Software Design: Part 2 | Youtube
+      https://youtube.com/watch?v=eCg_VoFW46s
+
+      Domain Driven Design Architecture | Youtube
+      https://youtube.com/watch?v=pL9XeNjy_z4
+
+      Software Architecture v. Software Design | Youtube
+      https://youtube.com/watch?v=i7aKW7YNOxY
+
+      Software Architecture: N-Tier | Youtube
+      https://youtube.com/watch?v=ccOzcjHQVos
+
+      What is MVC? | Youtube
+      https://youtube.com/watch?v=1IsL6g2ixak
+
+      Layered / n-Tier Architectural Pattern | YouTube
+      https://www.youtube.com/watch?v=BCXcIllT7Lc
+
+      Software Architecture | Architectural patterns | YouTube
+      https://www.youtube.com/watch?v=lTkL1oIMiaU
+
+      Software Architect | SEI 2019
+      https://youtu.be/UFqysOeU2Mw
+
+      Software Architect | SEI 2016
+      https://www.youtube.com/watch?v=CbLJCkL5mMU
+
+      Managing Technical Debt | SEI 2019
+      https://www.youtube.com/watch?time_continue=154&v=QzEs4rivVdQ
+
+   Tutorial
+
+      Software Architecture Search Query | Youtube
+      https://www.youtube.com/results?search_query=software+architecture&sp=CAISBAgFEAE%253D
+
+      Software Architecture in Python | Youtube
+      https://youtube.com/watch?v=fZf9tFtetpE
+
+      EVA: Visualizing Software Architecture | Youtube
+      https://youtube.com/watch?v=Q3bnIQz13Eo
+
+SQL
+
+   SQL
+
+      SQL V. NoSQL v. MySQL v. MongoDB | Youtube
+      https://youtube.com/watch?v=ZS_kXvOeQ5Y
+
+   MongoDB
+
+      MongoDB
+      https://mongodb.com/
+
+      MongoDB Course
+      https://university.mongodb.com/courses/M101J/about
+
+      Online Course Catalog | MongoDB
+      https://university.mongodb.com/activate?key=d9e692bdcc114bd2b5545156c28200b9&utm_campaign=verification&utm_medium=email&utm_source=university
+
+   MySQL
+
+      MySQL Character Set | Medium
+      https://medium.com/@manish_demblani/breaking-out-from-the-mysql-character-set-hell-24c6a306e1e5
+
+      MySQL Connector
+      https://dev.mysql.com/doc/connector-cpp/en/connector-cpp-apps-windows-visual-studio.html
+
+      MySQL | Homebrew
+      https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e
+
+Theory
+
+   Business
+
+      Model of Co-Creation
+      http://www.ep.liu.se/ecp/125/022/ecp16125022.pdf
+
+   Computer Science
+
+      Philosophy of Computer Science | Reddit
+      https://reddit.com/r/compsci/comments/avqstp/the_philosophy_of_computer_science/
+
+      Why Philosophers Should Care About Computational Complexity
+      https://scottaaronson.com/papers/philos.pdf
+
+   Cybernetics
+
+      Cybernetic Serendipity
+      https://monoskop.org/images/2/25/Reichardt_Jasia_ed_Cybernetic_Serendipidity_The_Computer_and_the_Arts.pdf
+
+      God and Golem
+      https://pdfs.semanticscholar.org/a2d7/062dbfb462b9a6adc823480710bbb6cef7b0.pdf
+
+   Socioeconomics
+
+      Economic Rationality | Britannica
+      https://britannica.com/topic/economic-rationality
+
+      Economic Rationality | Google Search
+      https://google.com/search?q=economic+rationality&oq=economic+rationality&aqs=chrome.0.69i59j69i60.3489j0j1&sourceid=chrome&ie=UTF-8
+
+      Rationality in Economics | Stanford
+      https://web.stanford.edu/~hammond/ratEcon.pdf
+
+   Ethics
+
+      Concepts in Ethics | Wikipedia
+      https://en.wikipedia.org/wiki/Category:Concepts_in_ethics
+
+   Logic
+
+      Concepts of Logic | Wikipedia
+      https://en.wikipedia.org/wiki/Category:Concepts_in_logic
+
+      Wisdom of Insecurity | Anti-Logicalism
+      https://antilogicalism.files.wordpress.com/2017/07/wisdom-of-insecurity.pdf
+
+      Department of Philosophy: Logic and Computation | Carnegie Mellon University
+      http://coursecatalog.web.cmu.edu/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/#majorinlogicandcomputationtext
+
+   Philosophy
+
+      Towards a Theory of Ignorance
+      https://philosophicalfallibilism.blogspot.com/2009_03_20_archive.html?m=1
+
+      Library of Babel
+      https://libraryofbabel.info/
+
+      Libary of Babel | Youtube
+      https://youtube.com/watch?v=GDrBIKOR01c&feature=youtu.be&t=17m
+
+      Library of Babel | Wiki
+      https://en.wikipedia.org/wiki/The_Library_of_Babel
+
+   Psychology
+
+      Theory of Personality Traits | Dark Factor
+      https://darkfactor.org/
+
+      The Mind's I
+      https://federaljack.com/ebooks/Consciousness%20Books%20Collection/Hofstadter,%20Dennett%20-%20The%20Mind%27s%20I.pdf
+
+   Science
+
+      Science: Conjectures and Refutations | Karl Popper
+      https://nemenmanlab.org/~ilya/images/0/07/Popper-1953.pdf

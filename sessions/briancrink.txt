@@ -1,0 +1,2247 @@
+Home
+
+   Portfolio
+
+      Brian Crink | Connect. Follow. Join.
+      https://briancrink.com/
+
+      Google Analytics
+      https://analytics.google.com/analytics/web/#/report-home/a133169541w192977788p188659608
+
+   Workspace
+
+      Pinterest
+      https://pinterest.com/
+
+      Trello
+      https://trello.com/neonspacecandy/home
+
+   Reference
+      
+      Wikipedia
+      https://wikipedia.org/
+      
+      W3 Schools
+      https://w3schools.com
+
+   News
+
+      9 to 5 Mac
+      https://9to5mac.com/
+
+      Medium
+      https://medium.com/
+
+      Bookmarks | Medium
+      https://medium.com/me/list/bookmarks
+
+      Flipboard
+      https://flipboard.com/
+
+      Saved Stories | Google News
+      https://news.google.com/my/bookmarks?hl=en-US&gl=US&ceid=US%3Aen
+
+      Google News
+      https://news.google.com/
+
+      Twitter
+      https://twitter.com/
+
+      Y Combinator
+      https://news.ycombinator.com/
+
+   Forum
+
+      Reddit
+      https://reddit.com/
+
+      Imgur
+      https://imgur.com/
+
+      Manjoro Deepin
+      https://forum.manjaro.org/tags/deepin
+
+      Bike Forums
+      https://bikeforums.net/
+
+      Head-Fi
+      https://head-fi.org/
+
+   Video
+
+      YouTube
+      https://youtube.com/feed/subscriptions
+
+      TVTime
+      https://tvtime.com/
+
+      Netflix
+      https://netflix.com/
+
+   Marketplace
+
+      Lists | Amazon
+      https://amazon.com/gp/registry/wishlist/ref=gno_listpop_wi
+
+      Letgo
+      https://us.letgo.com/en
+
+      Offerup
+      https://offerup.com/
+
+      Kickstarter
+      https://kickstarter.com/discover/categories/technology?ref=discovery_overlay
+
+      Indiegogo
+      https://indiegogo.com/explore/tech-innovation?project_type=all&project_timing=all&sort=trending
+
+      Massdrop
+      https://massdrop.com/?origin=%2Fmy-communities%2Fdrops
+
+      Tempest | Craigslist Search
+      https://searchtempest.com/
+
+      Craigslist
+      https://craigslist.org/
+
+      Saved Search | Ebay
+      https://ebay.com/myb/SavedSearches
+
+   Navigation
+
+      Google Maps
+      https://google.com/maps/
+
+   Activity
+
+      All trails
+      https://alltrails.com/
+
+   Event
+
+      Meetup
+      https://meetup.com/
+
+      Songkick
+      https://songkick.com/tracker/metro_areas
+
+      Upcoming Events | Sched
+      https://sched.com/directory
+
+   Career
+
+      Glassdoor
+      https://glassdoor.com/
+
+      Linkedin
+      https://linkedin.com/
+
+      Builtin Chicago
+      https://builtinchicago.org/
+
+      Builtin NYC
+      https://builtinnyc.com/
+
+      Indeed
+      https://indeed.com/
+
+      Indeed Prime
+      https://indeed.com/prime
+
+      Zip Recruiter
+      https://ziprecruiter.com/candidate/suggested-jobs
+
+      Hired
+      https://hired.com/
+
+      Merit Pages
+      https://meritpages.com/briancrink
+
+      Wayup
+      https://wayup.com/member/jobs-listing
+
+   Backlog
+
+      Lean Automation enabled by Industry 4.0 Technologies
+      https://sciencedirect.com/science/article/pii/S2405896315005984
+
+      How Decision Trees Work | YouTube
+      https://youtube.com/watch?v=9TiezQ7Gb3M
+
+      Lightboard Demonstration | YouTube
+      https://youtube.com/watch?v=hZlPWVfoYFo&app=desktop
+
+      B-Tree Indexes | YouTube
+      https://youtube.com/watch?v=NI9wYuVIYcA
+
+      gRPC: Microservice Communication Twilio Talk | YouTube
+      https://www.youtube.com/watch?v=RoXT_Rkg8LA
+
+      RPC v. Simple Procedure Call | YouTube
+      https://www.youtube.com/watch?v=gr7oaiUsxSU
+
+      Serialization formats: JSON and Protobuf | YouTube
+      https://youtube.com/watch?v=uGYZn6xk-hA
+
+      Create A Hash Table Project in C++ | YouTube
+      https://youtube.com/watch?v=m6n_rozU8dA
+
+      Data Structures: Heaps | YouTube
+      https://youtube.com/watch?v=t0Cq6tVNRBA
+
+      C#: Abstract Class Polymorphism | YouTube
+      https://youtube.com/watch?v=RaHm_pSxqLY
+
+      Microservices Overview | YouTube
+      https://youtube.com/watch?v=WK3tbQCzVxg
+
+      Protocol Buffers with Kenton Varda | SE Daily
+      https://softwareengineeringdaily.com/2017/12/18/protocol-buffers-with-kenton-varda/
+
+      Apache Arrow with Uwe Korn | SE Daily
+      https://softwareengineeringdaily.com/2016/07/17/apache-arrow-with-uwe-korn/
+
+      Decentralized Objects with Martin Kleppman | SE Daily
+      https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman/
+
+      ER Diagram v. Class Diagram | Stackoverflow
+      https://stackoverflow.com/questions/17050422/difference-between-er-diagram-and-class-diagram
+
+      Input/Output with Files | Cplusplus
+      http://cplusplus.com/doc/tutorial/files/
+
+      Managing Hard-Coded filepaths in Code | Stackoverflow
+      https://stackoverflow.com/questions/29926997/managing-hard-coded-file-paths-names-in-code
+
+      Binary Search Trees | Stack Exchange
+      https://tex.stackexchange.com/questions/422128/how-to-make-binary-search-trees-in-an-easy-and-straight-forward-way
+
+      Clojure Protobuf | Github
+      https://github.com/ninjudd/clojure-protobuf
+
+      Using a Map instead of a Class to Represent Data | Stack Exchange
+      https://softwareengineering.stackexchange.com/questions/272302/use-map-instead-of-class-to-represent-data-rich-hickey
+
+      Serializing String Arrays in Solidity | Hackernoon
+      https://hackernoon.com/serializing-string-arrays-in-solidity-db4b6037e520
+
+      Uses of Org Mode
+      https://robots.thoughtbot.com/the-many-uses-of-org-mode
+
+      What is Olap?
+      http://olap.com/olap-definition/
+
+      Vizceral Open Source: Netflix | Medium
+      https://medium.com/netflix-techblog/vizceral-open-source-acc0c32113fe
+
+      What is Unified Modeling Language | Lucidchart
+      https://lucidchart.com/pages/what-is-UML-unified-modeling-language
+
+      Binary Trees: B
+      https://towardsdatascience.com/b-tree-balanced-and-multi-branched-52ef308d67a
+
+      10 Algorithms Every Programmer Should Know
+      https://technotification.com/2018/03/top-10-algorithms-for-programmer.html/amp
+
+      MapReduce Tutorial | Hadoop
+      https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html#Purpose
+
+      Simple Hash Map (Hash Table) Implementation in C++
+      https://medium.com/@aozturk/simple-hash-map-hash-table-implementation-in-c-931965904250
+
+      Implementing own Hash Table with Open Addressing Linear Probing in C++
+      https://geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/
+
+      Learning the Granular Details of a Programming Language?
+      https://dev.to/robertcoopercode/learning-the-granular-details-of-a-programming-language-pln
+
+      Getting to Know Some Pragmatic Programming Language Features | Hackernoon
+      https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118
+
+      Floating Point Rounding Errors
+      https://floating-point-gui.de/errors/rounding/
+
+      OOP Java Programmers Should Learn
+      https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html
+
+      Arrays | Brilliant
+      https://brilliant.org/practice/arrays/?p=9
+
+      Launching your Boot Camp partition in VMware Fusion
+      https://kb.vmware.com/s/article/1014618
+
+      Even The Most Advanced Computer Programmers Have Probably Never Heard Of This Concept
+      https://forbes.com/sites/quora/2018/05/18/even-the-most-advanced-computer-programmers-have-probably-never-heard-of-this-concept/amp/
+
+      What is MapReduce?
+      https://dev.to/kjir/what-is-mapreduce-25i6
+
+      Git Tips and Commands
+      https://thecuriousdev.org/useful-git-tips-commands/amp/
+
+      Introduction to Git: Core Concepts | YouTube
+      https://youtube.com/watch?v=uR6G2v_WsRA
+
+      Github Tutorial YouTube
+      https://youtube.com/watch?v=0fKg7e37bQE
+
+      Introduction to Git - Branching and Merging | YouTube
+      https://youtube.com/watch?v=FyAAIHHClqI
+
+Account
+
+   Portfolio
+
+      Brian Crink | Connect. Follow. Join.
+      https://briancrink.com/
+
+   Profile
+
+      Brian Crink | Linkedin
+      https://linkedin.com/in/briancrink/
+
+      Brian Crink | WayUp
+      https://wayup.com/profile/Brian-Crink-754b5bd347/
+
+      Brian Crink | Merit Pages
+      https://meritpages.com/briancrink
+
+      Brian Crink | Kaggle
+      https://kaggle.com/briancrink
+
+      Brian Crink | Elite Prospects
+      https://eliteprospects.com/player/319693/brian-crink
+
+   Social Media
+
+      @beardlybrian | Twitter
+      https://twitter.com/beardlybrian
+
+      @briancrink | Twitter
+      https://twitter.com/briancrink
+
+      @briancrink | Instagram
+      https://instagram.com/briancrink/
+
+      @briancrink | Medium
+      https://medium.com/@briancrink
+
+      @briancrink | Soundcloud
+      https://soundcloud.com/briancrink
+
+      @briancrink | Pinterest
+      https://pinterest.com/briancrink/
+
+      @briancrink | Untappd
+      https://untappd.com/user/briancrink
+
+      @briancrink | TVTime
+      https://tvtime.com/en/user/19702695/profile
+
+      Brian Crink | Meetup
+      https://meetup.com/members/222435284/
+
+      Brian Crink | YouTube
+      https://youtube.com/c/BrianCrink
+
+      Brian Crink | Yummly
+      https://yummly.com/profile/BrianCrink
+
+      Briancrink | All Trails
+      https://alltrails.com/members/brian-crink
+
+   Software
+
+      Briancrink | Gist Github
+      https://gist.github.com/briancrink
+
+      Briancrink | Gitlab
+      https://gitlab.com/briancrink
+
+      Briancrink | Github
+      https://github.com/briancrink
+
+      Briancrink | Leetcode
+      https://leetcode.com/briancrink/
+
+      Briancrink | Coderbyte
+      https://coderbyte.com/profile/briancrink
+
+      Briancrink | Hackerrank
+      https://hackerrank.com/briancrink?hr_r=1
+
+      Briancrink | Stackshare
+      https://stackshare.io/briancrink
+
+      Briancrink | Stackoverflow
+      https://stackoverflow.com/story/briancrink
+
+      Briancrink | Udemy
+      https://udemy.com/user/brian-crink/
+
+      Briancrink | Codecademy
+      https://codecademy.com/briancrink
+
+      Briancrink | Behance
+      https://behance.net/briancrinkf24d
+
+      Briancrink | Dribbble
+      https://dribbble.com/briancrink
+
+      Briancrink | Codepen.io
+      https://codepen.io/briancrink/
+
+      Briancrink | Deviantart
+      https://deviantart.com/briancrink
+
+      Briancrink | Producthunt
+      https://producthunt.com/@briancrink
+
+      Briancrink | Sketchup
+      https://3dwarehouse.sketchup.com/by/briancrink?nav=models
+
+   codeX
+
+      @mistercodex | Soundcloud
+      https://soundcloud.com/mistercodex/
+
+   neonspacecandy
+
+      Subreddits | Reddit
+      https://reddit.com/subreddits/mine
+
+      @neonspacecandy | Reddit
+      https://reddit.com/user/NeonSpaceCandy
+
+      @neonspacecandy | imgur
+      https://imgur.com/user/neonspacecandy
+
+   Settings
+
+      Account | Google
+      https://myaccount.google.com/
+
+      Dashboard | Google
+      https://myaccount.google.com/dashboard?pli=1
+
+      News Help | Google
+      https://support.google.com/googlenews/?hl=en&co=GENIE.Platform=iOS&oco=1&visit_id=636899387518793107-3402699318#topic=7688381
+
+      My Activity | Google
+      https://myactivity.google.com/more-activity?hl=en&utm_source=google-account&utm_medium=web
+
+      Download My Data | Google
+      https://takeout.google.com/settings/takeout?pli=1
+
+      Passwords | Chrome
+      chrome://settings/passwords
+
+      Notifications | Chrome
+      chrome://settings/content/notifications
+
+      Flags | Chrome
+      chrome://flags/
+
+      Search Engines | Chrome
+      chrome://settings/searchEngines
+
+      Shortcuts | Chrome
+      https://support.google.com/chrome/answer/157179?hl=en
+
+      Subscription Manager | YouTube
+      https://youtube.com/subscription_manager
+
+      Comment History | YouTube
+      https://youtube.com/feed/history/comment_history
+
+      Filters | Gmail
+      https://mail.google.com/mail/u/0/?zx=k64lb8w08ti#settings/filters
+
+   App
+
+      Apps
+      chrome://apps/
+
+      Google Drive
+      https://drive.google.com/drive/my-drive
+
+   Apple
+
+      iCloud
+      https://icloud.com/
+
+      Manage your AppleID
+      https://appleid.apple.com/#!&page=signin
+
+      Apple Developer
+      https://developer.apple.com/
+
+   Session Buddy
+
+      Sessionbuddy
+      https://sessionbuddy.com/
+
+      Settings | Session Buddy
+      chrome-extension://edacconmaakjimmfgnblocblbcdcpbko/options.html
+
+      Chrome Extension | Session Buddy
+      chrome://extensions/?id=edacconmaakjimmfgnblocblbcdcpbko
+
+      Backup \ Restore | Sessionbuddy
+      https://sessionbuddy.com/backup-restore/
+
+Career
+
+   Career
+      Glassdoor
+      https://glassdoor.com/job-listing/full-stack-engineer-humu-JV_IC1147431_KO0,19_KE20,24.htm?jl=2686609903
+
+      Boards
+      https://boards.greenhouse.io/humu?t=j5q83upa1
+
+      Boards
+      https://boards.greenhouse.io/humu/jobs/1529477?t=j5q83upa1
+
+      Humu
+      https://humu.com/product/
+
+      Humu
+      https://humu.com/blog/
+
+      Humu
+      https://humu.com/2018/10/08/humu-nudge-engine-make-work-better/
+
+      Boards
+      https://boards.greenhouse.io/humu/jobs/1073724?gh_src=j5q83upa1
+
+      YouTube
+      https://youtube.com/watch?v=GBuHSRDGZBY
+
+      Reddit
+      https://reddit.com/r/webdev/comments/agjgu3/how_do_i_create_interactive_documentation_like/
+
+      Reddit
+      https://reddit.com/r/SoftwareEngineering/comments/afxj0k/i_put_together_a_list_of_software_engineering/
+
+      Reddit
+      https://reddit.com/r/SoftwareEngineering/comments/ag3tpk/tips_for_landing_a_software_engineering_internship/
+
+      Reddit
+      https://reddit.com/r/SoftwareEngineering/comments/aft2c2/ownership_explained_for_software_engineers_and/
+
+      Algoexpert
+      https://algoexpert.io/product
+
+      Leetcode
+      https://leetcode.com/problems/first-bad-version/
+
+      YouTube
+      https://youtube.com/watch?v=NWWPbKC4qV4
+
+      Leetcode
+      https://leetcode.com/problems/first-bad-version/submissions/
+
+      Leetcode
+      https://leetcode.com/submissions/detail/217533892/
+
+      Docs
+      https://docs.google.com/document/d/1YueOn2-jN9S36wzGqueNGzu3C6ec26O_RBFw3FRcPXo/edit
+
+      Docs
+      https://docs.google.com/document/d/1EqtSJgv0boCW_KqZej6k_iI9vxIGUXFsOMn4R9f07DA/edit
+
+      Drive
+      https://drive.google.com/drive/folders/1NsoctcgeyG498gq_snrcI5aC9ezVHZCi
+
+      Docs
+      https://docs.google.com/document/d/1XpizEh0umirkEYpehYCUkpbpZfxv_XmgMrHN5LHk2vA/edit
+
+      Drive
+      https://drive.google.com/drive/folders/1sdr4GNpvyI-j-YZIiKt9X0ecHIBepryy
+
+      Glassdoor
+      https://glassdoor.com/index.htm
+
+      Linkedin
+      https://linkedin.com/feed/
+
+      Builtinchicago
+      https://builtinchicago.org/
+
+      Builtinnyc
+      https://builtinnyc.com/
+
+      Indeed
+      https://indeed.com/
+
+      Indeed
+      https://indeed.com/prime
+
+      Ziprecruiter
+      https://ziprecruiter.com/candidate/suggested-jobs
+
+      Hired
+      https://hired.com/onboarding/job-info
+
+      Meritpages
+      https://meritpages.com/briancrink
+
+      Wayup
+      https://wayup.com/member/jobs-listing
+
+      Bos
+      https://bos.newco.co/schedule/host-companies/
+
+      Newcoboston2018
+      https://newcoboston2018.sched.com/
+
+      Sched
+      https://sched.com/directory
+
+      YouTube
+      https://youtube.com/results?search_query=curriculum+associates
+
+      Jobs
+      https://jobs.jobvite.com/careers/curriculumassociates/jobs?error=404
+
+      Jobs
+      https://jobs.jobvite.com/curriculumassociates#perks
+
+      Glassdoor
+      https://glassdoor.com/Photos/Curriculum-Associates-Office-Photos-E334270.htm
+
+      Glassdoor
+      https://glassdoor.com/job-listing/software-engineering-co-op-learning-games-curriculum-associates-JV_IC1147401_KO0,41_KE42,63.htm?jl=2956631913&ctt=1544332687357&srs=EI_JOBS
+
+      Curriculumassociates
+      https://curriculumassociates.com/Products/i-Ready/How-It-Works
+
+      Glassdoor
+      https://glassdoor.com/Job/boston-software-engineering-intern-jobs-SRCH_IL.0,6_IC1154532_KO7,34.htm
+
+      Cia
+      https://cia.gov/library/readingroom/docs/DOC_0000015464.pdf
+
+      Nsf
+      https://nsf.gov/funding/pgm_summ.jsp?pims_id=503299
+
+      Intelligencecareers
+      https://intelligencecareers.gov/icjobsearchapply.html
+
+      Washingtonpost
+      https://washingtonpost.com/world/national-security/nsa-seeks-to-build-quantum-computer-that-could-crack-most-types-of-encryption/2014/01/02/8fff297e-7195-11e3-8def-a33011492df2_story.html?noredirect=on&utm_term=.3f9488da4446
+
+      Dhs
+      https://dhs.gov/science-and-technology
+
+      Nsf
+      https://nsf.gov/cise/ccf/af_pgm15.jsp
+
+      Nsf
+      https://nsf.gov/funding/pgm_summ.jsp?pims_id=505283&org=CISE&from=home
+
+      Nsf
+      https://nsf.gov/funding/pgm_summ.jsp?pims_id=505229&org=CISE&from=home
+
+      Nsf
+      https://nsf.gov/
+
+      Nsf
+      https://nsf.gov/funding/pgm_summ.jsp?pims_id=505535&org=CISE&from=home
+
+      Nsf
+      https://nsf.gov/funding/programs.jsp?org=CISE
+
+   Internship
+
+      Soft Skills to Look For
+      https://www.righthesoftwareengineer.com/
+
+   Staff Agency
+
+      Robert Half | Staffing Agency
+      https://roberthalf.com/
+
+   Company
+
+      Midwest Tower Company
+      https://midwesttower.com/index.htm
+
+      SpaceX
+      https://spacex.com/
+
+      LifeLine Data Center | Rich Banta
+      https://lifelinedatacenters.com/
+
+      Viasat | Clojure Group
+      https://glassdoor.com/Salary/Viasat-Salaries-E5500.htm
+
+      Apple | Jobs
+      https://jobs.apple.com/us/profile
+
+      Sponsor | Software Engineering Daily
+      https://softwareengineeringdaily.com/sponsor/
+
+      Google Careers | Students
+      https://careers.google.com/students/
+
+Content
+
+   Art of Manliness
+
+      Tie-a-tie
+      https://tie-a-tie.net/fourinhand/
+
+      Ties
+      https://ties.com/blog/ways-to-tie-scarf-men
+
+      Artofmanliness
+      https://artofmanliness.com/articles/sweater-mans-guide/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/build-interchangeable-wardrobe/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/guide-boots-shoes/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/how-and-why-to-become-a-lifelong-learner/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/tools-for-a-better-life/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/the-uncle-buzz-workout-how-to-get-in-shape-without-the-gym/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/how-to-make-a-decision-like-ben-franklin/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/practical-wisdom/
+
+      Dontbreakthechain
+      https://dontbreakthechain.com/
+
+      Weekplan
+      https://weekplan.net/
+
+      Msb
+      https://msb.franklincovey.com/
+
+      YouTube
+      https://youtube.com/watch?v=SQvV4SNeH-U
+
+      YouTube
+      https://youtube.com/watch?v=isZz4hHk3eg
+
+      YouTube
+      https://youtube.com/watch?v=07PPVqERp1s
+
+      YouTube
+      https://youtube.com/watch?v=PII030hyTck
+
+      YouTube
+      https://youtube.com/watch?v=_ztgZ2kV0RI
+
+      YouTube
+      https://youtube.com/watch?v=oTbB23WPkNA
+
+      Artofmanliness
+      https://artofmanliness.com/articles/ooda-loop/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/podcast-168-the-value-of-deep-work-in-the-age-of-distraction/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/is-college-for-everyone-part-ii-the-pros-and-cons-of-attending-a-4-year-college/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/is-college-for-everyone-10-alternatives-to-the-traditional-4-year-college/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/dont-waste-your-twenties-part-1-taking-advantage-of-the-unique-powers-of-the-twentysomething-brain/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/dont-waste-your-20s-train-your-brain-for-lasting-success/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/the-3-characteristics-of-an-educated-man/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/style-tips-for-college-men/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/manliness-in-higher-education/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/manvotional-your-education-doesnt-end-on-graduation-day/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/the-3-biggest-financial-regrets-of-college-graduates-and-how-to-avoid-them/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/the-benefits-of-hammock-camping/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/why-every-man-should-study-the-ancient-classics/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/how-to-travel-like-a-gentleman-advice-from-1875/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/suit-sport-jacket-blazer-difference/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/how-to-increase-testosterone-naturally/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/the-best-way-to-find-your-vocation/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/does-your-passion-show-through/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/modern-maturity-create-more-consume-less/
+
+   Artwork
+
+      Justinmaller
+      https://justinmaller.com/wallpapers/
+
+      Artstation
+      https://artstation.com/mikaelgustafsson
+
+      Artstation
+      https://artstation.com/monsta
+
+      Dribbble
+      https://dribbble.com/louiscoyle
+
+      Artstation
+      https://artstation.com/artwork/1gX22
+
+      Flickr
+      https://flickr.com/photos/megane_wakui/
+
+   D.O.N.G
+
+      Brilliant
+      https://brilliant.org/
+
+      Coolmathgames
+      https://coolmathgames.com/
+
+      Kiwico
+      https://kiwico.com/
+
+      Minutelabs
+      https://minutelabs.io/
+
+      Rawkins
+      https://rawkins.com/games/dolphin-olympics-2/
+
+      Redcarpetrampage
+      https://redcarpetrampage.com/
+
+   Literature
+      
+      P2P: The Commons Manifesto
+      https://www.uwestminsterpress.co.uk/site/books/10.16997/book33/
+   
+   Manifesto
+
+      Agile Software Development
+      https://agilemanifesto.org/
+
+      AI | Google Practices
+      https://ai.google/education/responsible-ai-practices
+
+      AI | Google Principles
+      https://blog.google/technology/ai/ai-principles/
+
+      Data Centric Manifesto
+      http://datacentricmanifesto.org/
+
+      Brian Crink | Data Centric Manifesto
+      http://datacentricmanifesto.org/sign/3419/
+
+      GNU
+      https://gnu.org/gnu/manifesto.html
+
+      Guerilla Open Access
+      https://openaccessmanifesto.wordpress.com/
+
+      Programming Motherfucker
+      http://programming-motherfucker.com/
+
+      Privacy Manifesto
+      https://cyber.harvard.edu/projectvrm/Privacy_Manifesto
+
+      Architecture
+      https://youtube.com/watch?v=2P_-hz6ExJE
+
+      Twelve-Factor Methodology
+      https://12factor.net/
+
+   P2P
+
+      Thepiratebay
+      https://thepiratebay.org/
+
+      Audiobookbay
+      https://audiobookbay.nl/
+
+      Foxebook
+      https://foxebook.net/
+
+      Sci-hub
+      https://sci-hub.tw
+
+   Politics
+
+      Yang 2020: Policies
+      https://yang2020.com/policies/
+
+      Theodore Roosevelt: Key Events
+      https://millercenter.org/president/theodore-roosevelt/key-events
+
+      Woodrow Wilson: Key Events
+      https://millercenter.org/president/woodrow-wilson/key-events
+
+   Portfolio
+
+      Tim Ferriss
+      https://tim.blog/
+
+      Caseyneistat
+      https://caseyneistat.com/
+
+      CrapHound | Cory Doctorow
+      https://craphound.com/
+
+      Garyvaynerchuk
+      https://garyvaynerchuk.com/
+
+      MKBHD
+      https://mkbhd.com/
+
+      Simonbrown
+      https://simonbrown.je/
+
+      Noam Chomsky
+      https://chomsky.info/
+
+      Emergency Awesome
+      https://emergencyawesome.com/
+
+      Angela Foss
+      https://codefoss.com/
+
+      Kalyn Nakano
+      https://kalynnakano.com/#work
+
+      Iambrian
+      https://iambrian.com/
+
+      Saurik
+      https://saurik.com/
+
+      Richard Stallman
+      https://stallman.org/
+
+      John C. Lilly
+      https://johnclilly.com/hub.html
+
+      Aaron Swartz
+      https://aaronsw.com/
+
+      30X40 Design Workshop
+      https://thirtybyforty.com/
+
+      Wix | Web Design
+      https://wix.com/explore/websites
+
+      Mike Bostock
+      https://bost.ocks.org/mike/
+
+      Simon Brown
+      https://simonbrown.je/
+
+      Gene Kim
+      https://realgenekim.me/
+
+      Marco Santa
+      https://marcosantadev.com/
+
+      Geohot
+      https://geohot.com/
+
+      Peter Joseph
+      https://peterjoseph.info/
+
+      Vincent Callebaut
+      https://vincent.callebaut.org/
+
+      Rufus Pollock
+      https://rufuspollock.com/
+
+      Cal Newport
+      https://calnewport.com/
+
+   Reference
+
+      Trello | Inspiration
+      https://trello.com/inspiration
+
+      Project Feature Status
+      https://sessionbuddy.com/dev-status/
+
+      Project Landing Page
+      https://yuhua-chen.github.io/LayerX/
+
+      W3 Schools
+      https://w3schools.com/
+
+      Wikipedia
+      https://wikipedia.org/
+
+      Basenotes
+      https://basenotes.net/
+
+   Saved
+
+      Cicada3301
+      https://cicada3301.org/
+
+      The First Website
+      https://info.cern.ch/
+
+      Doomsday Clock
+      https://thebulletin.org/overview
+
+      SCP Foundation
+      https://scp-wiki.net/
+
+      Because the internet : script
+      https://web.archive.org/web/20140703181944/https://becausetheinter.net/#
+
+   Specs
+
+      Identify MacBook Pro model
+      https://support.apple.com/en-us/HT201300
+
+      Apple Devices
+      https://gsmarena.com/apple-phones-48.php
+
+      IMac (Mid 2007)
+      https://everymac.com/systems/apple/imac/specs/imac-core-2-duo-2.0-20-inch-aluminum-specs.html#macspecs1
+
+      Intel Core i7-5557U
+      https://ark.intel.com/products/84993/Intel-Core-i7-5557U-Processor-4M-Cache-up-to-3_40-GHz
+
+Education
+
+   Training
+
+      NRA Instructors
+      https://nrainstructors.org/
+
+   University
+
+      Bb
+      https://bb.uis.edu/webapps/bb-social-learning-BBLEARN/execute/mybb?cmd=display&toolId=AlertsOnMyBb_____AlertsTool
+
+      Bb
+      https://bb.uis.edu/webapps/assignment/uploadAssignment?content_id=_1360689_1&course_id=_29784_1&group_id=&mode=view
+
+      Bb
+      https://bb.uis.edu/webapps/assessment/take/launch.jsp?course_assessment_id=_81735_1&course_id=_29409_1&content_id=_1327742_1&step=null
+
+      Bb
+      https://bb.uis.edu/webapps/assignment/uploadAssignment?content_id=_1327736_1&course_id=_29409_1&group_id=&mode=view
+
+      Uofi
+      https://uofi.app.box.com/s/kcqflorovx87ujjmmc7qjvusz7sa3cvi
+
+      W3schools
+      https://w3schools.com/sql/sql_union.asp
+
+      Bb
+      https://bb.uis.edu/webapps/blackboard/content/listContent.jsp?course_id=_29740_1&content_id=_1345904_1&mode=reset
+
+      Bb
+      https://bb.uis.edu/webapps/assessment/take/launch.jsp?course_assessment_id=_84108_1&course_id=_29740_1&content_id=_1363095_1&step=null
+
+      Google
+      https://google.com/search?q=pthread_join&oq=pthread_join+&aqs=chrome..69i57.1118j0j1&sourceid=chrome&ie=UTF-8
+
+      Man7
+      https://man7.org/linux/man-pages/man3/pthread_join.3.html
+
+      Uofi
+      https://uofi.app.box.com/s/zw28ew8hjrw5vg8qu1vkeebobg08r985
+
+      Uofi
+      https://uofi.app.box.com/s/rwqk5j5tnm0ib9dcdfochlwcawr81bxq
+
+      Uofi
+      https://uofi.app.box.com/s/5gp1rgguxr1y5b7oxlad7xv99eqzkli6
+
+      Bb
+      https://bb.uis.edu/webapps/blackboard/content/listContent.jsp?course_id=_29784_1&content_id=_1341580_1&mode=reset
+
+      W3schools
+      https://w3schools.com/sql/sql_join_left.asp
+
+      Trello
+      https://trello.com/c/a9Z3wrqq/185-university-of-illinois-springfield
+
+      My
+      https://my.uis.edu/uPortal/f/welcome/normal/render.uP
+
+      Catalog
+      https://catalog.uis.edu/undergraduate-students/clas/csc/#courseinventory
+
+      Connect
+      https://connect.depaul.edu/account/login?r=https%3a%2f%2fconnect.depaul.edu%2fapply%2fstatus
+
+      Cdm
+      https://cdm.depaul.edu/academics/Pages/Current/Requirements-BS-In-Computer-Science-Software-Development.aspx
+
+      Uml
+      https://uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Degree-pathways/DP-CS-General-2015.aspx
+
+      Uml
+      https://uml.edu/admissions/transfers/transfer-application-package.aspx
+
+   Mathematics
+
+      Wolframalpha
+      https://wolframalpha.com/
+
+      Sigfigscalculator
+      https://sigfigscalculator.com/
+
+      Slader
+      https://slader.com/
+
+      Integral Calculator
+      https://integral-calculator.com/
+
+      Derivative Calculator
+      https://derivative-calculator.net/
+
+      Inverse of Matrix Calculator
+      https://emathhelp.net/calculators/linear-algebra/inverse-of-matrix-calculator/
+
+   Window 1
+
+      Cs
+      https://cs.columbia.edu/
+
+      Seas
+      https://seas.harvard.edu/programs/computer-science
+
+      Web
+      https://web.cs.dartmouth.edu/undergraduate
+
+   Window 2
+
+      Undergrad
+      https://undergrad.admissions.columbia.edu/apply/transfer
+
+      College
+      https://college.harvard.edu/admissions/application-process/transferring-harvard-college
+
+      Admissions
+      https://admissions.dartmouth.edu/apply/apply-dartmouth#filter-2136
+
+   Window 3
+
+      Nmu
+      https://nmu.edu/bulletin/programs?processtype=self&action=ProgsByType&phase=phase5&elementid=7&subaction=1254168731
+
+      Nmu
+      https://nmu.edu/bulletin/courses?processtype=parent&action=coursesearch&phase=phase2&elementid=&subaction=coursesearch
+
+      Admissions
+      https://admissions.msu.edu/academics/majors-degrees-programs/Computer-Science.aspx
+
+   Window 4
+
+      Admissions
+      https://admissions.msu.edu/apply/transfer/default.aspx
+
+      Nmu
+      https://nmu.edu/admissions/transfer-students
+
+      Connect
+      https://connect.depaul.edu/account/login?r=https%3a%2f%2fconnect.depaul.edu%2fapply%2f
+
+      Apply
+      https://apply.uis.edu/account/login?r=https%3a%2f%2fapply.uis.edu%2fapply%2fstatus
+
+      Catalog
+      https://catalog.uis.edu/undergraduate-students/clas/csc/#courseinventory
+
+      Catalog
+      https://catalog.uis.edu/undergraduate-students/clas/csc/#bachelorstext
+
+   Window 5
+
+      Adfsproxy1
+      https://adfsproxy1.snhu.edu/my.policy
+
+      Adfsproxy1
+      https://adfsproxy1.snhu.edu/my.policy
+
+      Snhu
+      https://snhu.thepermitstore.com/
+
+   Window 6
+
+      Aumail
+      https://aumail.aurora.edu/?loginOp=logout
+
+   Window 7
+
+      Ocw
+      https://ocw.mit.edu/index.htm
+
+      Lagunita
+      https://lagunita.stanford.edu/
+
+      Cdm
+      https://cdm.depaul.edu/academics/Pages/Current/Requirements-BS-In-Computer-Science-Software-Development.aspx
+
+      Catalog
+      https://catalog.uis.edu/undergraduate-students/clas/csc/#text
+
+      Worldcampus
+      https://worldcampus.psu.edu/degrees-and-certificates/penn-state-online-software-engineering-bachelors-degree/courses
+
+      Snhu
+      https://snhu.edu/online-degrees/bachelors/bs-in-computer-science/software-engineering
+
+   Window 8
+
+      Offices
+      https://offices.depaul.edu/information-services/services/identity/Pages/upass.aspx
+
+      Uml
+      https://uml.edu/ucaps/
+
+      Uisshibb1
+      https://uisshibb1.uis.edu/idp/profile/SAML2/Redirect/SSO;jsessionid=9mazux6z1i71hlujfo065vuz?execution=e1s1
+
+      Secureconnect
+      https://secureconnect.uis.edu/+CSCOE+/logon.html#form_title_text
+
+   Window 9
+
+      Scholar
+      https://scholar.google.com/
+
+      Wikipedia
+      https://wikipedia.org/
+
+      Sci-hub
+      https://sci-hub.tw/
+
+      Archive
+      https://archive.org/
+
+      Turnitin
+      https://turnitin.com/
+
+      Citationmachine
+      https://citationmachine.net/apa/cite-a-website
+
+      Wordcounter
+      https://wordcounter.net/
+
+      Owl
+      https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html
+
+      Msu
+      https://msu.edu/~jdowell/135/transw.html
+
+      Writingcenter
+      https://writingcenter.unc.edu/tips-and-tools/fallacies/
+
+      Owl
+      https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_author_authors.html
+
+   Window 10
+
+      Best Selling Author, Historian, & Publisher
+      https://susanwisebauer.com/
+
+      Welltrainedmind
+      https://welltrainedmind.com/
+
+   Window 11
+
+      Chegg
+      https://chegg.com/
+
+      Apexcalculus
+      https://apexcalculus.com/downloads/
+
+   Window 12
+
+      E5
+      https://e5.onthehub.com/WebStore/Security/Signin.aspx?ws=889a3e64-959b-e011-969d-0030487d8897&vsro=8&action=signout
+
+      Aws
+      https://aws.amazon.com/education/awseducate/
+
+   Window 13
+
+      My
+      https://my.cappex.com/page/account/login.jsp
+
+      Studentaid
+      https://studentaid.ed.gov/sa/fafsa
+
+      Act
+      https://act.org/content/act/en/products-and-services/the-act.html
+
+      Account
+      https://account.collegeboard.org/login/login?idp=ECL&appId=0
+
+      Studentsreview
+      https://studentsreview.com/
+
+      Transferology
+      https://transferology.com/login.htm
+
+   Window 14
+
+      Parchment
+      https://parchment.com/u/auth/login
+
+      Adfsproxy1
+      https://adfsproxy1.snhu.edu/my.policy
+
+      Exchange
+      https://exchange.parchment.com/send/adds/index.php?main_page=time_out&s_id=k2tbDsqUtBQpSnx7
+
+      Sisjee
+      https://sisjee.iu.edu/sis-prd/p/SISTranscriptInactiveAuth.do?methodToCall=start
+
+      Tsorder
+      https://tsorder.studentclearinghouse.org/school/select?_afrRedirect=920576342728388#firstload
+
+      Tsorder
+      https://tsorder.studentclearinghouse.org/school/select?_afrRedirect=920637184869896#firstload
+
+   Window 15
+
+      Businessinsider
+      https://businessinsider.com/best-computer-science-schools-in-the-world-2018-3
+
+      Eecs
+      https://eecs.mit.edu/
+
+      Cs
+      https://cs.nyu.edu/home/index.html
+
+      Wpi
+      https://wpi.edu/academics/departments/computer-science
+
+      Bu
+      https://bu.edu/academics/cas/programs/computer-science/ba/
+
+      Bc
+      https://bc.edu/bc-web/schools/mcas/departments/computer-science/academics/programs.html
+
+      Uml
+      https://uml.edu/Sciences/computer-science/Programs/Ugrad/default.aspx
+
+      Catalog
+      https://catalog.purdue.edu/preview_program.php?catoid=7&poid=6557&hl=%22computer+science%22&returnto=search
+
+      Mtu
+      https://mtu.edu/cs/undergraduate/computer-science/index.html
+
+      Cs
+      https://cs.stanford.edu/
+
+   Window 16
+
+      Mitadmissions
+      https://mitadmissions.org/apply/transfer/transfer-eligibility/
+
+      Nyu
+      https://nyu.edu/admissions/undergraduate-admissions/how-to-apply/transfer-applicants.html
+
+      Wpi
+      https://wpi.edu/admissions/undergraduate/apply/how-to/application-deadlines/transfer-students
+
+      Bu
+      https://bu.edu/admissions/apply/transfer/
+
+      Bc
+      https://bc.edu/bc-web/admission.html
+
+      Uml
+      https://uml.edu/admissions/transfers/transfer-application-package.aspx
+
+      U-Mass Application
+      https://sa-prd.erp.umasscs.net/psp/applicant/?cmd=login&errorCode=105&languageCd=ENG&gsmobile=1
+
+      Purdue Admissions
+      https://admissions.purdue.edu/apply/apply.php
+
+      Banweb
+      https://banweb.mtu.edu/pls/owa/bwskalog.P_DispLoginNon
+
+      Admissions
+      https://admissions.illinois.edu/Apply/transfer
+
+      Admissions
+      https://admissions.caltech.edu/apply/admissions-process-for-transfer-applicants/application-requirements
+
+      Admission
+      https://admission.stanford.edu/apply/transfer/index.html
+
+      Admission
+      https://admission.universityofcalifornia.edu/how-to-apply/application-fees/index.html
+
+Event
+
+   Concert
+
+      BadBadNotGood
+      https://badbadnotgood.com/tour.html
+
+      Chance the Rapper
+      https://chanceraps.com/tour/
+
+      Childish Gambino
+      https://childishgambino.com/
+
+      Wolfmother
+      https://wolfmother.com/#concerts
+
+      Pinback
+      https://pinback.com/#news
+
+      Kamasi Washington
+      https://kamasiwashington.com/
+
+      Flying Lotus
+      https://flying-lotus.com/
+
+   Convention
+
+      PAX East
+      https://east.paxsite.com/
+
+      Brian Cox Live
+      https://briancoxlive.co.uk/
+   Jazz
+
+      Chicago JazzFest
+      https://jazzinchicago.org/jazzfest/
+
+      Chicago Jazz
+      https://chicagojazz.com/jazz-calendar
+
+   Festival
+
+      Bonnaroo
+      https://bonnaroo.com/
+
+      Montreal en Lumiere
+      https://montrealenlumiere.com/
+
+      Lollapalooza
+      https://lollapalooza.com/
+
+      Electric Forest
+      https://electricforestfestival.com/
+
+      Governors Ball
+      https://governorsballmusicfestival.com/
+
+      Springawakening Festival
+      https://springawakeningfestival.com/buy-tickets
+
+      Pitchfork
+      https://pitchforkmusicfestival.com/
+
+      Movement
+      https://movement.us/
+
+      Do-Division
+      https://do-divisionstreetfest.com/
+
+      Chicago
+      https://choosechicago.com/events-and-shows/festivals-guide/
+
+   Theatre
+
+      Frauenthal
+      https://frauenthal.org/
+
+   Tickets
+
+      Fandango
+      https://fandango.com/
+
+      Songkick
+      https://songkick.com/
+
+      Stubhub
+      https://stubhub.com/
+
+Exercise
+
+   Activity
+
+      Floatboston
+      https://floatboston.com/
+
+      Floatboston
+      https://floatboston.floathelm.com/
+
+      Floatsixty
+      https://floatsixty.com/
+
+      Yoga
+      https://chicagoist.com/2016/06/22/take_your_yoga_practice_outdoors.php
+
+   Cycling
+
+      Strava
+      https://strava.com/
+
+      Mapmyride
+      https://mapmyride.com/
+
+      Bike Flights
+      https://bikeflights.com/
+
+      Bicycle Blue Book
+      https://bicyclebluebook.com/SearchListingDetail.aspx?id=84243&make=723&model=74485
+
+      Bianchi Forza
+      https://cocosvariety.com/products/bianchi-forza-steel-road-bike
+
+      Hillyhundred
+      https://hillyhundred.org/
+
+      League of Michigan Bicyclists
+      https://lmb.org/
+
+      Traversecitytocharlevoixtrail
+      https://traversecitytocharlevoixtrail.org/project/about.html
+
+      Traillink
+      https://traillink.com/trail/little-traverse-wheelway/
+
+      Bicycling
+      https://bicycling.com/skills-tips/g23405891/bike-hacks/
+
+      Bikeforums
+      https://bikeforums.net/subscription.php
+
+      Bikeforums
+      https://bikeforums.net/search.php?searchid=3269486&pp=25&page=4
+
+      Bikeforums
+      https://bikeforums.net/groups/indiana-cruisers-d166-alexandria-wabash-back-85-miles.html
+
+      Bikeforums
+      https://bikeforums.net/groups/chicago-cyclists.html
+
+      Bikeforums
+      https://bikeforums.net/groups/new-hampshire-fast-endurance-cycling.html
+
+      Bikeforums
+      https://bikeforums.net/groups/nomadic-biking-lifestyles.html
+
+      Bikeforums
+      https://bikeforums.net/groups/vermont-road-mountain-bike-club.html
+
+   Hiking
+
+      All Trails
+      https://alltrails.com/
+
+      Trail Link
+      https://www.traillink.com/
+
+      Summit Post
+      https://summitpost.org/
+
+      Highest Elevations
+      https://geology.com/state-high-points.shtml
+
+      Hiking Advice | Rei
+      https://rei.com/learn/expert-advice
+
+   Ice Hockey
+
+      Eliteprospects
+      https://eliteprospects.com/
+
+      Uscho
+      https://uscho.com/
+
+      Myhockeyrankings
+      https://myhockeyrankings.com/rankings.php
+
+      Sbncollegehockey
+      https://sbncollegehockey.com/
+
+      Uscho
+      https://uscho.com/d3men/
+
+      Hpasportsmanagement
+      https://hpasportsmanagement.com/
+
+      Nehockeyconference
+      https://nehockeyconference.com/men/index.php
+
+      D3hockey
+      https://d3hockey.com/seasons/men/2016-17/index
+
+      Ccmhockey
+      https://ccmhockey.com/en/warranty/return-request/sticks#sm.00016xm97imxefo2vkn2ecef6riak
+
+      Coast2coastpd
+      https://coast2coastpd.com/
+
+      Collegehockeyinc
+      https://collegehockeyinc.com/articles/2013/02/important-answers-family-advisors.php
+
+      Hockeyfamilyadvisor
+      https://hockeyfamilyadvisor.com/
+
+      Ushl
+      https://ushl.com/
+
+      Nahl
+      https://nahl.com/
+
+      Pointstreaksites
+      https://pointstreaksites.com/view/westernstateshockeyleague/the-wshl/about-the-wshl
+
+      Usphl
+      https://usphl.com/
+
+      Na3hl
+      https://na3hl.com/
+
+      Eliteprospects
+      https://eliteprospects.com/leagues
+
+Finance
+
+   Research
+      Panama Papers
+      https://occrp.org/en/panamapapers/
+
+Food & Drink
+
+   Food & Drink
+
+      Beerology
+      https://beerology.ca/how-to-taste-beer/
+
+      Beeradvocate
+      https://beeradvocate.com/
+
+      Tv
+      https://tv.winelibrary.com/
+
+      Winemag
+      https://winemag.com/2015/01/20/wine-for-beginners/
+
+      Skillshare
+      https://skillshare.com/site/join?teacherRef=2913194&utm_campaign=2015-11-09-GaryVee&utm_source=GaryVee&utm_medium=teacher-referral-partner&category=culinary&t=Buy-Smarter-Taste-More-Getting-Started-with-Wine&sku=855277635
+
+      Livingnongmo
+      https://livingnongmo.org/
+
+      Cocoametro
+      https://cocoametro.com/
+
+      Opentable
+      https://opentable.com/
+
+      Untappd
+      https://untappd.com/home
+
+      Winelibrary
+      https://winelibrary.com/
+
+      Vivino
+      https://vivino.com/
+
+      Bellsbeer
+      https://bellsbeer.com/beer-finder
+
+      Alchemistbeer
+      https://alchemistbeer.com/
+
+Health
+
+   Health
+
+      Kidney Donor Registry
+      https://kidneyregistry.org/?cookie=1
+
+      23 and Me
+      https://23andme.com/
+
+      DNA Testing Choice
+      https://dnatestingchoice.com/en-us/
+
+      Humanos
+      https://humanos.me/
+
+News
+
+   Blog
+
+      Art of Manliness
+      https://artofmanliness.com/
+
+      Cyber Wire
+      https://thecyberwire.com/
+
+      iDownloadBlog
+      https://www.idownloadblog.com/
+
+      SE Radio
+      https://se-radio.net/
+
+      P2P Foundation
+      https://blog.p2pfoundation.net/
+
+      Mr. Money Mustache
+      https://mrmoneymustache.com/
+
+      Software Engineering Daily
+      https://softwareengineeringdaily.com/
+
+      Survival Blog
+      https://survivalblog.com/
+
+      The Points Guy
+      https://thepointsguy.com/
+
+      Aaron Swartz
+      https://aaronsw.com/
+
+      Stumax
+      https://micro.blog/stumax
+
+      Hairstyle on Point
+      https://hairstyleonpoint.com/
+
+      Mens Hairstyle Trends
+      https://menshairstyletrends.com/
+
+      Real Men Real Style
+      https://realmenrealstyle.com/
+
+   Platform
+
+      Medium
+      https://medium.com/
+
+      Flipboard
+      https://flipboard.com/
+
+      Tweetdeck
+      https://tweetdeck.twitter.com/
+
+      Bookmarks | Medium
+      https://medium.com/me/list/bookmarks
+
+      Saved Stories | Google News
+      https://news.google.com/my/bookmarks?hl=en-US&gl=US&ceid=US%3Aen
+
+   Publication
+
+      9to5 Mac
+      https://9to5mac.com/
+
+      AnoNews
+      https://anonews.co/
+
+      Coderbyte | Medium
+      https://medium.com/coderbyte
+
+      Distro Watch
+      https://distrowatch.com/
+
+      Hbr
+      https://hbr.org/the-latest#
+
+      Linux Scoop
+      https://linuxscoop.com/
+
+      SEI
+      https://resources.sei.cmu.edu/library/
+
+      Technology Review
+      https://technologyreview.com/the-download/
+
+      The Hacker News
+      https://thehackernews.com/
+
+      Wiki Leaks
+      https://wikileaks.org/
+
+      Y Combinator
+      https://news.ycombinator.com/
+
+   Search
+
+      Quantum Computing | Google News
+      https://google.com/search?q=quantum+computers&tbm=nws&source=univ&tbo=u&sa=X&ved=0ahUKEwiUkq6rmrXXAhXsy4MKHdjLB2gQt8YBCG8oAQ&biw=1680&bih=1050
+
+      Software Architecture QA | Google Scholar
+      https://scholar.google.com/scholar?as_ylo=2015&q=software+architecture+quality+attributes&hl=en&as_sdt=0,23&as_vis=1
+
+      Software Architecture | Google Scholar
+      https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_ylo=2015&as_vis=1&q=software+architecture&btnG=
+
+Shop
+
+   Accessary
+
+      Force model 3329 | Invicta
+      https://invictawatch.com/watches/detail/3329-invicta-i-force-men-46mm-stainless-steel-gold-blue-dial-ym92a-quartz
+
+      Invicta
+      https://invictawatchbands.com/
+
+   Audio Gear
+
+      Sonic Electronix
+      https://sonicelectronix.com/
+
+      Parts Express
+      https://parts-express.com/
+
+      Crutchfield
+      https://crutchfield.com/
+
+      Cfoulke
+      https://cfoulke.com/f-a-q.html
+
+      Aoxoa
+      https://aoxoa.co/how-to-buy-a-handpan/
+
+      IEM List | Amazon
+      https://amazon.com/gp/registry/wishlist/3K55AX2GFPHJM/ref=nav_wishlist_lists_2
+
+      Headphones List | Amazon
+      https://amazon.com/gp/registry/wishlist/23M1PL2XCT01Y/ref=cm_wl_sortbar_o_page_1
+
+      Sweetwater
+      https://sweetwater.com/
+
+      Schiit
+      https://schiit.com/products
+
+      Mayflower Electronics
+      https://mayflowerelectronics.com/
+
+      Massdrop
+      https://massdrop.com/?origin=%2Faudiophile%2Fdrops
+
+      Hifi Headphones
+      https://hifiheadphones.co.uk/
+
+      Acoustune
+      https://acoustune.com/
+
+      Accessory Jack
+      https://accessoryjack.com/acoustune-hs1650cu-myrinx-driver-in-ear-monitor-headphones-black.html
+
+      Acoustune
+      https://acoustune.com/products/
+
+      Schiit Store | Amazon
+      https://amazon.com/stores/node/3445651011?_encoding=UTF8&field-lbr_brands_browse-bin=Schiit&ref_=bl_dp_s_web_3445651011
+
+   Beard
+
+      Northern Fir Beard
+      https://northernfirbeard.com/
+
+      Beardbrand
+      https://beardbrand.com/
+
+      Beardbundle
+      https://beardbundle.com/?reqp=1&reqr=
+
+      Bedfordshire Beard co
+      https://bedfordshirebeardco.com/
+
+      Harrys
+      https://harrys.com/en/us
+
+   Body
+
+      Candid
+      https://get.candidco.com/
+
+      Mister Pompadour
+      https://misterpompadour.com/
+
+      Kiehls
+      https://kiehls.com/
+
+      Shop
+      https://shop.drbronner.com/castile-bar-soap#scent=Peppermint&size=5%20oz
+
+      Thync
+      https://thync.com/
+
+      Floatease
+      https://floatease.ca/
+   
+   Community
+
+      Kickstarter
+      https://kickstarter.com/discover/categories/technology?ref=discovery_overlay
+
+      Indiegogo
+      https://indiegogo.com/explore/tech-innovation?project_type=campaign&project_timing=all&sort=trending
+
+      Massdrop
+      https://massdrop.com/?origin=%2Fmy-communities%2Fdrops
+
+      Head-fi
+      https://head-fi.org/showcase/
+
+   Cycling
+
+      Velocity Clip
+      https://velocityclip.com/collections/all/products/velocity-clip-bike-mount#.U-ueAqJX-uY
+
+      Ilockit
+      https://ilockit.bike/en/
+
+      Sherlock
+      https://sherlock.bike/en/
+
+      Smart Halo
+      https://smarthalo.bike/
+
+      Primal
+      https://primal.im/
+
+      Owayo
+      https://owayo.com/custom-cycling-apparel.htm
+
+      Voler
+      https://voler.com/custom/
+
+      Star Light Apparel
+      https://starlightapparel.com/
+
+      Jakroo
+      https://jakroo.com/us/
+
+      Canari
+      https://canari.com/pages/custom-cycling-apparel
+
+   Eye
+
+      1-800 contacts
+      https://1800contacts.com/
+
+   Fitness
+
+      A1 Supplements
+      https://a1supplements.com/?PID=2476885&ref=cj
+
+      Bodybuilding
+      https://bodybuilding.com/
+
+      Gaining Weight | Tim Ferriss
+      https://tim.blog/2007/04/29/from-geek-to-freak-how-i-gained-34-lbs-of-muscle-in-4-weeks/
+
+      Gracieuniversity
+      https://gracieuniversity.com/
+
+      NHS Wellness
+      https://nhswellness.org/
+
+   Footwear
+
+      Finish Line
+      https://finishline.com/
+
+   Furnishing
+
+      Home24
+      https://www.home24.com/
+
+      Wood Table
+      https://www.home24.be/nl/product/eettafel-andaman-massief-sheeshamhout-sheeshamhout-donker-honingkleurig-160x90cm-14d4-09af
+
+   Gift
+
+      Cool Material
+      https://shop.coolmaterial.com/
+
+      Gift Guide | 9to5mac
+      https://9to5mac.com/guides/gift-guide/
+
+      Displays2go
+      https://displays2go.com/P-22657/Black-Panoramic-Print-Frame-for-40-x-13-1-2-Pictures?utm_campaign=Shopping.Com&utm_medium=cpc&utm_source=shopping.com
+
+      Panoramas
+      https://panoramas.com/2014-winter-classic-panoramic-michigan-stadium-nhlwc14.html
+
+      Chanasya
+      https://chanasya.com/
+
+   Hats
+
+      Mens Hats | Etsy
+      https://etsy.com/search?q=mens+hats&page=9
+
+      Hats in the Belfry
+      https://hatsinthebelfry.com/
+
+   Ice Hockey
+
+      Hockey Monkey
+      https://discounthockey.com/
+
+      Pure Hockey
+      https://purehockey.com/
+
+      Ice Warehouse
+      https://icewarehouse.com/?gclid=CjwKEAiA8qG1BRDz0tmK0pufw3QSJACfn6ol5xHhaCBSRDfsIIPddIdiyYkTEabTo94t7EP_dYP5jRoCotjw_wcB
+
+   IoT
+
+      Hue
+      https://.meethue.com/en-us
+
+      Apple
+      https://apple.com/ios/home/accessories/
+
+   Marketplace
+      Amazon
+      https://amazon.com/
+
+      List | Amazon
+      https://amazon.com/gp/registry/wishlist/ref=gno_listpop_wi
+
+      Amazon UK
+      https://amazon.co.uk/
+
+      Ebay
+      https://ebay.com/
+
+      Letgo
+      https://us.letgo.com/
+
+      Offerup
+      https://offerup.com/
+
+      Craigslist
+      https://craigslist.org/
+
+      Searchtempest
+      https://searchtempest.com/
+
+      Etsy
+      https://etsy.com/
+
+      Ikea
+      https://ikea.com/
+
+      Alibaba
+      https://alibaba.com/
+
+      Southern Accents Architectural Antiques
+      http://sa1969.com/
+
+   Mattress
+
+      Eluxury
+      https://eluxury.com/
+
+      Tuft and Needle
+      https://tuftandneedle.com/
+
+      Hyphen Sleep
+      https://hyphensleep.com/
+
+      Brooklyn Bedding
+      https://brooklynbedding.com/
+
+      Marpac
+      https://marpac.com/products/yogabed-mattress-comfort
+
+      Ghostbed
+      https://ghostbed.com/
+
+      Leesa
+      https://leesa.com/
+
+      Casper
+      https://casper.com/
+
+      Helix Sleep
+      https://helixsleep.com/
+
+      Purple
+      https://purple.com/
+
+      Sleepopolis
+      https://sleepopolis.com/
+
+      How to Suck a Mattress Down to Size
+      https://niksargent.com/blog/2011/1/30/how-to-suck-a-mattress-down-to-size.html
+
+   Nutrition
+
+      Nutrition Facts
+      https://nutritionfacts.org/
+
+   Outdoor
+
+      Cabelas
+      https://cabelas.com/
+
+      REI
+      https://rei.com/
+
+      Renogy Solar Store | Amazon
+      https://amazon.com/stores/node/6815984011?_encoding=UTF8&field-lbr_brands_browse-bin=Renogy&ref_=bl_dp_s_web_6815984011
+
+      North Face Hydration Pack | REI
+      https://rei.com/product/880413/the-north-face-litus-22-pack-mens
+
+      Marmot Hydration Pack | REI
+      https://rei.com/product/880462/marmot-kompressor-18-pack
+
+      Osprey Rev 12 Hydration Pack | REI
+      https://rei.com/rei-garage/product/102106/osprey-rev-12-hydration-pack-25-liters
+
+      Levitator Pack | REI
+      https://rei.com/rei-garage/product/118626/outdoor-research-levitator-pack
+
+      Camelbak Hydration Pack | REI
+      https://rei.com/rei-garage/product/116691/camelbak-arete-22-hydration-pack-2-liters
+
+   Product
+
+      Chefsteps
+      https://chefsteps.com/joule
+
+      Deskop Neon Signs
+      https://neonmfg.com/collections/desktop-neon-signs
+
+      Altwork
+      https://altwork.com/
+   
+   Savings
+
+      Camel Camel Camel
+      https://camelcamelcamel.com/
+
+      Myunidays
+      https://myunidays.com/US/en-US
+
+   Sunglasses
+
+      Sunglass Hut
+      https://sunglasshut.com/
+
+      Peekaboo Sunglasses | Aliexpress
+      https://aliexpress.com/store/product/Peekaboo-one-piece-lens-sunglasses-women-transparent-men-style-sunglasses-clear-candy-color-brand-designer-2017/116732_32790820624.html
+
+   Trade
+
+      Beckett
+      https://beckett.com/
+
+      Psacard
+      https://psacard.com/
+
+      Ting
+      https://ting.com/
+
+      Gazelle
+      https://gazelle.com/
+
+   Tech Gear
+
+      Apple
+      https://apple.com/
+
+      9to5toys
+      https://9to5toys.com/
+
+      Specials
+      https://specials.9to5toys.com/
+
+      Luna Display
+      https://lunadisplay.com/products/luna-display
+
+      Olloclip
+      https://olloclip.com/blogs/landing/now-for-everyone-multi-device-clip
+
+      Fix Mac Screen
+      https://fixmacscreen.com/
+
+      Jetson AI Embedded System | Nvidia
+      https://nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/?nvid=nv-int-mn-78458&cjevent=3327727549fd11e9835d00950a240614
+
+   Wardrobe
+
+      JoS. A. Bank
+      https://josbank.com/
+
+      Men's Wearhouse
+      https://menswearhouse.com/
+
+      Beardbrand
+      https://beardbrand.com/
+
+      The Art of Shaving
+      https://theartofshaving.com/
+
+      Trunk Club
+      https://trunkclub.com/
+
+      JackThreads
+      https://jackthreads.com/
+
+      SAULT New England
+      https://saultne.com/
+
+      Express
+      https://express.com/
+
+      Everlane
+      https://everlane.com/
+
+      Menlo House
+      https://themenlohouse.com/
+
+      Gongshow Hockey
+      https://gongshowgear.com/
+
+      Under Armour
+      https://underarmour.com/
+
+      Bonobos
+      https://bonobos.com/

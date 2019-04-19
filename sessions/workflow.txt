@@ -1,0 +1,2292 @@
+Audio Production
+
+   Audio Production
+
+      Theneedledrop
+      https://theneedledrop.com/
+
+      Waves
+      https://waves.com/nx
+
+      Watch
+      https://watch.everythingisterrible.com/
+
+      Innerfidelity
+      https://innerfidelity.com/
+
+      Looperman
+      https://looperman.com/loops
+
+      Whosampled
+      https://whosampled.com/
+
+      Freesound
+      https://freesound.org/
+
+      Wavealchemy
+      https://wavealchemy.co.uk/
+
+      Soundbible
+      https://soundbible.com/
+
+      Audionetwork
+      https://audionetwork.com/
+
+      Soundiiz
+      https://soundiiz.com/login
+
+      Digizoid
+      https://digizoid.com/headphones-power.html
+
+      En
+      https://en.wikipedia.org/wiki/Category:Lists_of_music_genres
+
+      Electro-swing
+      https://electro-swing.com/#
+
+      Electro-swing
+      https://electro-swing.com/
+
+      Crutchfield
+      https://crutchfield.com/S-Mx8nuRhKf7U/learn/car/subwoofers/tuning.html?pg=2&c=3
+
+      Crutchfield
+      https://crutchfield.com/S-71ww9BWQ60K/learn/learningcenter/car/cable_gauge_chart.html
+
+      Lifehacker
+      https://lifehacker.com/five-best-digital-to-analog-converters-dacs-483393503
+
+      En-us
+      https://en-us.sennheiser.com/about-sennheiser-at-a-glance-counterfeit
+
+      Kenrockwell
+      https://kenrockwell.com/audio/sennheiser/hd-650.htm
+
+      Audiobot9000
+      https://audiobot9000.com/
+
+      Talkbass
+      https://talkbass.com/threads/in-ear-monitors-bass-sound-question.505432/
+
+      Head-Fi.org
+      https://head-fi.org/threads/review-logitech-ultimate-ears-ue900-it-does-the-triple-fi-10-proud.637814/page-2
+
+      Head-fi
+      https://head-fi.org/threads/best-amp-dac-for-hd650-500.763218/
+
+      Head-fi
+      https://head-fi.org/threads/portable-amp-dac-for-hd-650.792363/
+
+      Sweetwater
+      https://sweetwater.com/insync/damping-factor/
+
+      Whathifi
+      https://whathifi.com/forum/hi-fi/best-songs-to-test-speakers-0?page=3
+
+      Reddit
+      https://reddit.com/r/Music/comments/1poscz/what_are_some_good_electro_swing_artists_and_songs/
+
+      Youtube
+      https://youtube.com/watch?v=hU5XhG5Ywbk&list=PLXmi76euGSyzX8KMPAHJPyOSZy5w4CsV9
+
+      Google
+      https://google.com/search?q=levels+of+soundstage+iems&oq=levels+of+soundstage+iems&aqs=chrome..69i57.10067j0j7&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/search?q=x+y+z+soundstage&oq=x+y+z+soundstage&aqs=chrome.0.69i59.7098j0j7&sourceid=chrome&ie=UTF-8
+
+      Youtube
+      https://youtube.com/watch?v=f33QfzgRmOw
+
+      Freesound
+      https://freesound.org/people/inchadney/packs/20622/
+
+      Youtube
+      https://youtube.com/watch?v=gmvwZRwn-j0
+
+      Mac | Multi-Output Device
+      https://support.apple.com/en-us/HT202000
+
+      Logic Pro X
+      https://help.apple.com/logicpro/mac/10/#lgcpca46988d
+
+      Cryptex
+      https://cryptexofficial.com/
+
+      Music Career Incomes
+      https://musicians.about.com/od/otherindustrycareers/ht/makemoneymusic.htm
+
+      Music Career
+      https://musicians.about.com/od/otherindustrycareers/a/choosemusicjob.htm
+
+      Record Producer Career Profile
+      https://musicians.about.com/od/musiccareerprofiles/p/producercareer.htm
+
+      Bands/Musicians
+      https://musicians.about.com/od/beingamusician/u/BandsandMusicians.htm
+
+      Self Promote Your Music
+      https://musicians.about.com/od/beingamusician/ht/selfpromote.htm
+
+Documentation
+
+   Documentation
+
+      Trello
+      https://trello.com/b/4fK3hAV5/projects
+
+      Medium
+      https://medium.com/new-story
+
+      Trello
+      https://trello.com/c/ljvlUZ1p/42-amazon-lists
+
+      Medium
+      https://medium.com/p/109138a97f2e/edit
+
+      Medium
+      https://medium.com/p/1e7f819f00ba/edit
+
+      Medium
+      https://medium.com/p/1326ee778ff3/edit
+
+      Researchgate
+      https://researchgate.net/post/Pragmatism_Paradigm_has_anyone_adopted_it_in_his_her_thesis
+
+      Youtube
+      https://youtube.com/watch?v=pTCROLZLhDM
+
+      Help
+      https://help.github.com/articles/about-writing-and-formatting-on-github/
+
+iOS Development
+
+   Documentation
+
+      Swift
+      https://swift.org/
+
+      Swift Documentation
+      https://swift.org/documentation/
+
+      Swift Basics
+      https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+   
+   Reference
+   
+      Declaring a Block
+      http://goshdarnblocksyntax.com/
+   
+      Date Formatter
+      https://nsdateformatter.com/
+
+      NS Hipster
+      https://nshipster.com/
+
+      r/macprogramming
+      https://www.reddit.com/r/macprogramming
+
+      r/swift
+      https://www.reddit.com/r/swift/
+
+      r/xcode
+      https://www.reddit.com/r/Xcode/
+
+      r/apple
+      https://www.reddit.com/r/apple/
+
+      Videos | Apple Developer
+      https://developer.apple.com/videos/developer-tools/
+
+   iOS Development
+
+      Editing Property Lists | Xcode
+      https://help.apple.com/xcode/mac/8.0/#/dev3f399a2a6
+
+   Jailbreak Development
+
+      ReProvision Shortcut
+      https://www.icloud.com/shortcuts/bed5d2134c1d4c9f871cc88928476e72
+
+      Reddit
+      https://reddit.com/r/jailbreakdevelopers
+
+      Ios-repo-updates
+      https://ios-repo-updates.com/
+
+      Tweakupdates
+      https://tweakupdates.com/
+
+      Iphonedevwiki
+      https://iphonedevwiki.net/index.php/Main_Page
+
+      Iphonedevwiki
+      https://iphonedevwiki.net/index.php/Getting_Started
+
+      Twitter
+      https://twitter.com/GetSileo/status/1099838180516216838
+
+      Youtube
+      https://youtube.com/watch?v=71pyOB4TPRE
+
+      IOS Resolution
+      https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/image-size-and-resolution/
+
+      IPSW Downloads
+      https://ipsw.me/
+
+      Jailbreak Status
+      https://besttechinfo.com/jailbreak-ios-12-check/
+
+      IPSW Signing
+      https://ipsw.me/#version
+
+      Can I Jailbreak?
+      https://canijailbreak.com/
+
+      Beta Profiles
+      https://allthings.how/ios-12-beta-profile/
+
+      Beta Profiles
+      https://betaprofiles.com/
+
+      SHSH Blobs
+      https://tsssaver.1conan.com/
+
+      Cydia Impactor
+      https://cydiaimpactor.com/
+
+      Unc0ver
+      https://github.com/pwn20wndstuff/Undecimus/releases
+
+      IOS Repo Updates
+      https://ios-repo-updates.com/
+
+      Tweak Compatibility
+      https://jlippold.github.io/tweakCompatible/
+
+      Sileo
+      https://electrarepo64.coolstar.org/ipas/
+
+      IDownloadBlog
+      https://idownloadblog.com/
+
+      Electra
+      https://coolstar.org/electra/
+
+Portfolio
+
+   Portfolio
+
+      Analytics
+      https://analytics.google.com/analytics/web/#/report-home/a133169541w192977788p188659608
+
+      Wix
+      https://wix.com/dashboard/8bfa5bc6-b99f-483d-9b58-47e80f1de429/home
+
+      Briancrink
+      https://briancrink.com/
+
+      Drive
+      https://drive.google.com/drive/folders/13a06GS9t3pKH0JF-aCD4yGCoI0ZOZyiO
+
+      Drive
+      https://drive.google.com/drive/folders/1msCw5JBhKsMToNmdUYnk19U1nNXYP04F
+
+      Drive
+      https://drive.google.com/drive/folders/1s5K3sIADWrSAJnkbSer0rbe8gFPPvj_S
+
+      Stackedit
+      https://stackedit.io/app#
+
+      Trello
+      https://trello.com/c/wUNHZAzP/53-company-qualities
+
+      Login
+      https://login.ionos.com/?redirect_url=https%3A%2F%2Fmy.ionos.com%2Fdomains-dashboard
+
+      Namecheap
+      https://namecheap.com/myaccount/login.aspx?ReturnUrl=%2fDomains%2fDomainControlPanel%2ftinyspace.me%2fdomain%2f
+
+      99designs
+      https://99designs.com/login?target=https%3A//99designs.com/launch/logo-design/2ab5a008a912645b/brief
+
+      Mkbhd
+      https://mkbhd.com/
+      
+      kalynnakano
+      https://kalynnakano.com/#work
+
+      Kgranieri
+      https://kgranieri.com/#about
+
+      Shop
+      https://shop.kt8merch.com/collections/zomboy
+
+      Zomboyofficial
+      https://zomboyofficial.com/video
+
+      Toptal
+      https://toptal.com/designers/sketch/zeplin-sketch-workflow
+
+      Wix
+      https://wix.com/website/templates/html/all/16
+
+      Wix
+      https://wix.com/website-template/view/html/2180?siteId=b7d73208-d8ee-4340-bf37-b47688493e45&metaSiteId=b4078cf5-3191-4555-99b8-4afb3f61a921&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv
+
+      Wix
+      https://wix.com/website-template/view/html/1887?siteId=5d2a8f2b-b726-45f6-9db1-92596eccc9d2&metaSiteId=28a077e8-599e-452b-959b-5946202e015b&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv
+
+      Wix
+      https://wix.com/website-template/view/html/1885?siteId=dc2a3605-d782-456d-b46a-9c1f726975bd&metaSiteId=65c9126c-4af6-4899-b621-554d1fad7a0c&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv
+
+      Wix
+      https://wix.com/website-template/view/html/1893?siteId=31c9cc64-4739-437a-bf99-8a87fae88840&metaSiteId=7df46866-884d-4ed2-a9ea-b6f80df2ebaf&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv
+
+      Wix
+      https://wix.com/website-template/view/html/1892?siteId=cd7cf75a-1837-4c9d-bdf3-19d9204309e9&metaSiteId=3d1060d5-8d62-4059-9829-d6c7a768ad26&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv
+
+      Wix
+      https://wix.com/website-template/view/html/1041?siteId=00eeeb90-82b6-4980-b7ca-a5c2450a85a2&metaSiteId=13041fb1-27ed-b364-10da-311af295c72a&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2Fpersonal
+
+      Wix
+      https://wix.com/website-template/view/html/2094?siteId=735be717-ae07-4157-8399-36d1e102c0b2&metaSiteId=71ddcdbb-818c-4c6f-ad65-40769a65983b&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fnew
+
+      Wix
+      https://wix.com/website-template/view/html/1903?siteId=d7b2ff03-410b-4223-8b4b-5d2ae33245a7&metaSiteId=e539b37a-e7ab-4c31-9dda-64c0809eb930&originUrl=https%3A%2F%2Fwix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fmost-popular
+
+      Devonstank
+      https://devonstank.com/squarespace-code-shop/
+
+Software Development
+
+   Documentation
+
+      SEI | Carnegie Mellon
+      https://www.sei.cmu.edu/
+
+   Software Development
+
+      Youtube
+      https://youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw/videos
+
+      Codewithmosh
+      https://codewithmosh.com/p/all-access
+
+      Youtube
+      https://youtube.com/user/programmingwithmosh/playlists
+
+      Youtube
+      https://youtube.com/user/thenewboston/playlists
+
+      Full-Stack Developer
+      https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
+
+      localhost:3000
+      https://localhost:3000/
+
+      localhost:4200
+      https://localhost:4200/
+
+      localhost:8080
+      https://localhost:8080/
+
+      localhost:127.0.0.1
+      https://127.0.0.1:1337/
+
+      Codepen
+      https://codepen.io/
+
+      Github
+      https://github.com/briancrink
+
+      Github
+      https://github.com/SoftwareEngineeringDaily
+
+      Medium
+      https://medium.com/@briancrink
+
+      Udemy
+      https://udemy.com/
+
+      Skillshare
+      https://skillshare.com/login
+
+      Codecademy
+      https://codecademy.com/catalog/subject/all
+
+      Khanacademy
+      https://khanacademy.org/
+
+      Coursera
+      https://coursera.org/
+
+      Lynda
+      https://lynda.com/?utm_medium=direct&utm_source=linda.com&utm_campaign=url-redirect
+
+      Brilliant
+      https://brilliant.org/
+
+      Onlinecourses
+      https://onlinecourses.com/
+
+      Futurelearn
+      https://futurelearn.com/
+
+      Edx
+      https://edx.org/
+
+      Iversity
+      https://iversity.org/
+
+      Udacity
+      https://udacity.com/
+
+      Openculture
+      https://openculture.com/freeonlinecourses
+
+      Youtube
+      https://youtube.com/watch?annotation_id=annotation_3531370573&feature=iv&src_vid=PDTcZfkiuY8&v=zIS31BAL-_g
+
+      Youtube
+      https://youtube.com/watch?v=zGv3hOORxh0
+
+      Youtube
+      https://youtube.com/watch?v=dIrS31CCITM
+
+      Youtube
+      https://youtube.com/watch?v=w3JkpQAbTA4
+
+      YouTube
+      https://youtube.com/watch?v=nrVIlhtoE3Y
+
+      Youtube
+      https://youtube.com/watch?v=yl25p91flLY
+
+      Youtube
+      https://youtube.com/watch?v=cgVVZMfLjEI
+
+      Youtube
+      https://youtube.com/watch?v=5koPpYVa020
+
+      Youtube
+      https://youtube.com/watch?v=D4auWwMsEnY
+
+      Leetcode
+      https://leetcode.com/
+
+      Coderbyte
+      https://coderbyte.com/sl/
+
+      Simpleprogrammer
+      https://simpleprogrammer.com/5-tips-code-quality/
+
+      Simpleprogrammer
+      https://simpleprogrammer.com/dumb-components-smart-refactoring/
+
+      Dev
+      https://dev.to/trekhleb/top-33-javascript-projects-on-github-august-2018-cp
+
+      Stackoverflow
+      https://stackoverflow.com/jobs/200139/software-engineer-remote-ascend-hit
+
+      Hackernoon
+      https://hackernoon.com/finding-creativity-in-software-engineering-5f20193ae54c
+
+      Interestingengineering
+      https://interestingengineering.com/how-to-be-a-good-software-engineer-6-tips-they-dont-teach-you-at-university
+
+      Medium
+      https://medium.freecodecamp.org/how-to-get-a-software-engineer-job-at-google-and-other-top-tech-companies-efa235a33a6d
+
+      Rubygarage
+      https://rubygarage.org/blog/technology-stack-for-web-development
+
+      Medium
+      https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654
+
+      Medium
+      https://medium.com/coderbyte/learn-by-doing-the-8-best-interactive-coding-websites-4c902915287c
+
+      Medium
+      https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
+
+      Upwork
+      https://upwork.com/hiring/development/back-end-web-developer/
+
+      Hackernoon
+      https://hackernoon.com/learning-stack-for-the-modern-developer-3bbc2f59cdd8
+
+      Hackernoon
+      https://hackernoon.com/hard-work-how-i-become-a-software-engineer-4bd6da9028fa
+
+      Upwork
+      https://upwork.com/hiring/development/front-end-developer/
+
+      Svsg
+      https://svsg.co/how-to-choose-your-tech-stack/
+
+      Hackernoon
+      https://hackernoon.com/how-to-pick-the-right-web-technology-stack-for-your-product-f6d94440af2f
+
+      Interestingengineering
+      https://interestingengineering.com/the-ultimate-guide-to-software-engineering-software-development-computer-engineering-and-becoming-a-software-developer
+
+      Amp
+      https://amp.businessinsider.com/stack-overflow-developer-study-2018-results-2018-3
+
+      Udemy
+      https://udemy.com/full-stack-web-development-2018/
+
+      Medium
+      https://medium.freecodecamp.org/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286
+
+      Neowin
+      https://neowin.net/news/pay-what-you-want-for-the-full-stack-web-development-bundle
+
+      Careercup
+      https://careercup.com/
+
+      Louisrli
+      https://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/
+
+      Simpleprogrammer
+      https://simpleprogrammer.com/programming-interview-questions/
+
+      Computing Systems Concepts
+      https://nand2tetris.org/
+
+      Test-Driven Development
+      https://leanpub.com/tdd-ebook/read
+
+      Google Edu
+      https://edu.google.com/?modal_active=none
+
+      Google Developers
+      https://developers.google.com/
+
+      Google Resource Library
+      https://techdevguide.withgoogle.com/resources/?no-filter=true#!
+
+      Google Developers Training
+      https://developers.google.com/training/
+
+      Google Project Graph
+      https://opensource.google.com/projects/explore/featured
+
+      Google Open Source
+      https://opensource.google.com/
+
+      Software Ethics Code
+      https://etsu.edu/cbat/computing/seeri/ethics-code.php
+
+      Binary Search Bug
+      https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
+
+      The Floating Point Guide
+      https://floating-point-gui.de/
+
+Web Development
+
+   Web Development
+
+      Medium
+      https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41
+
+      Itnext
+      https://itnext.io/keep-code-consistent-across-developers-the-easy-way-with-prettier-eslint-60bb7e91b76c
+
+      Cortes
+      https://cortes.design/post/saas-website-conversion-split-test
+
+      Dev
+      https://dev.to/donaldkellett/less-than-12-days-of-prolog---a-guide--brief-review-of-the-prolog-programming-language-1dgl
+
+      Elastic
+      https://elastic.co/
+
+      Medium
+      https://medium.freecodecamp.org/deploy-a-nuxt-app-to-s3-in-5-minutes-515a161eb74f
+
+      Docs
+      https://docs.microsoft.com/en-us/dotnet/framework/get-started/overview
+
+      Medium
+      https://medium.com/@vcarl/a-brief-history-of-web-app-loading-ab8409e48812
+
+      Arstechnica
+      https://arstechnica.com/gadgets/2018/06/googles-cross-platform-flutter-sdk-hits-release-preview-1/?amp=1
+
+      Thenextweb
+      https://thenextweb.com/offers/2018/04/07/amazon-web-services-rules-the-cloud-and-heres-how-to-use-all-their-coolest-tools-for-less-than-9-per-course/amp/
+
+      Medium
+      https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb
+
+      Hackernoon
+      https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42
+
+      Vuejsdevelopers
+      https://vuejsdevelopers.com/2018/03/26/vue-cli-3/
+
+      Github
+      https://github.com/ankane/hypershield
+
+      Towardsdatascience
+      https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713
+
+      Producthunt
+      https://producthunt.com/posts/api-video
+
+      Zdnet
+      https://zdnet.com/google-amp/article/linux-now-dominates-azure/
+
+      Dev
+      https://dev.to/ben/visual-studio-code-can-now-convert-your-long-chains-of-promisethens-into-asyncawait-automagically-1b1b
+
+      Mishadoff
+      https://mishadoff.com/blog/idea-for-clojure/
+
+      Youtube
+      https://youtube.com/playlist?list=PLp_hNN86YIqqGVNMY3IjgBjMVduimx7s_
+
+      Youtube
+      https://youtube.com/watch?v=e4S8zfLdLgQ
+
+AccessEdu
+
+   AccessEdu
+
+      Hackernoon
+      https://hackernoon.com/college-is-dying-design-your-own-education-830dd607dad7
+
+      Reddit
+      https://reddit.com/r/technology/comments/9fgun1/scientific_publishing_is_a_ripoff_we_fund_the/
+
+      Scopestories
+      https://scopestories.wordpress.com/2017/12/06/flame-qualitative-data-collection/
+
+      Nature
+      https://nature.com/articles/bdj.2008.192
+
+      Ncbi
+      https://ncbi.nlm.nih.gov/pmc/articles/PMC4485510/
+
+      Psycnet
+      https://psycnet.apa.org/record/1989-97006-000
+
+      Youtube
+      https://youtube.com/results?search_query=qualitative+data+collection+techniques+
+
+      Rand
+      https://rand.org/content/dam/rand/pubs/technical_reports/2009/RAND_TR718.pdf
+
+      Emgo
+      https://emgo.nl/kc/qual-data-collection/
+
+      Forbes
+      https://forbes.com/sites/forbestechcouncil/2018/08/10/the-future-of-work-is-human-why-the-future-is-about-people-not-tech/#345557a6224c
+
+      Nsf
+      https://nsf.gov/funding/pgm_summ.jsp?pims_id=505620
+
+      Nsf
+      https://nsf.gov/pubs/2018/nsf18548/nsf18548.htm
+
+      Rolandberger
+      https://rolandberger.com/en/Point-of-View/The-future-of-work-is-a-matter-of-being-human.html
+
+      Vox
+      https://vox.com/a/new-economy-future/manual-labor-luxury-good
+
+      Hbr
+      https://hbr.org/2018/01/the-future-of-human-work-is-imagination-creativity-and-strategy
+
+      Humanfutureofwork
+      https://humanfutureofwork.ca/
+
+      Humanfutureofwork
+      https://humanfutureofwork.ca/services
+
+      Weforum
+      https://weforum.org/agenda/2019/01/why-humans-will-remain-central-to-the-future-of-work/
+
+      Google
+      https://google.com/search?q=non+invasive+data+collection+qualititive&oq=non+invasive+data+collection+qualititive&aqs=chrome..69i57.10871j0j1&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/search?q=future+human+work&oq=future+human+work&aqs=chrome..69i57.3888j0j1&sourceid=chrome&ie=UTF-8
+
+      Qz
+      https://qz.com/work/1098756/the-next-harvey-weinstein-could-be-stopped-by-the-theories-of-nobel-prize-winning-economist-richard-thaler/
+
+      Leetcode
+      https://leetcode.com/problems/first-bad-version/discuss/71378/SImple-binary-search-solution-o(log-n)
+
+      Hackerrank
+      https://hackerrank.com/challenges/task-scheduling/topics
+
+      Google
+      https://google.com/search?q=pass+by+reference&newwindow=1&tbm=isch&source=iu&ictx=1&fir=XX8MdA87Ic5-_M%253A%252CqzW65a2sJjSbSM%252C_&vet=1&usg=AI4_-kQdahHyBwWHwl7mf9YeLWalkiIhHw&sa=X&ved=2ahUKEwiv-O7Fnp7hAhWB8YMKHQxrC-EQ9QEwAHoECAwQCA#imgdii=2z2Md3b9WIB4NM:&imgrc=Ib6q6d-6-FKtvM:&vet=1
+
+      Reddit
+      https://reddit.com/r/learnprogramming/comments/7rdlzf/how_is_online_game_matchmaking_done_from_a/
+
+      Reddit
+      https://reddit.com/r/compsci/comments/b0vxe9/matchmaking_algorithm_resources/
+
+      Dash
+      https://dash.harvard.edu/bitstream/handle/1/2562765/Roth_NYC.pdf?sequence=2
+
+      Youtube
+      https://youtube.com/watch?v=RE5PmdGNgj0
+
+      Youtube
+      https://youtube.com/watch?v=GazC3A4OQTE
+
+      Youtube
+      https://youtube.com/watch?v=0m_YW1zVs-Q
+
+      Google
+      https://google.com/search?q=n%3Dn%2B1+while+n%3Ct&oq=n%3Dn%2B1+while+n%3Ct&aqs=chrome..69i57.17987j0j1&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/search?q=n%3Dn%2B1+math+expression&oq=n%3Dn%2B1+math+expression&aqs=chrome..69i57.11897j0j1&sourceid=chrome&ie=UTF-8
+
+      Columbia
+      https://columbia.edu/itc/sipa/math/summation.html
+
+      Google
+      https://google.com/search?newwindow=1&ei=8_GKXIuzBMu4sgWSxYzAAQ&q=stable+marriage+best+case&oq=stable+marriage+best+case&gs_l=psy-ab.3..33i160.893893.895198..895553...0.0..0.112.862.6j3......0....1..gws-wiz.......0i71j0i22i30j33i299j33i22i29i30.cVuE4HTGi60
+
+      Cs
+      https://cs.cmu.edu/afs/cs.cmu.edu/academic/class/15251-f10/Site/Materials/Lectures/Lecture21/lecture21.pdf
+
+      Jstor
+      https://jstor.org/stable/3009273?seq=1#page_scan_tab_contents
+
+      Cs
+      https://cs.princeton.edu/~wayne/cs423/lectures/intro-marriage-4up.pdf
+
+      Google
+      https://google.com/search?q=quantifying+data+example&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMjfrs_YLhAhUN2qwKHbbjCi8Q_AUIDigB&biw=1440&bih=820#imgrc=r7btEjhFB6J8QM:
+
+      Questionpro
+      https://questionpro.com/blog/quantitative-data/
+
+      Google
+      https://google.com/search?q=data+collection+methods&oq=data+collection+methods&aqs=chrome..69i57.3585j0j1&sourceid=chrome&ie=UTF-8
+
+      Research-methodology
+      https://research-methodology.net/research-methods/data-collection/
+
+      Google
+      https://google.com/search?newwindow=1&ei=oSyLXOSYHMfMjgT3uqnYBQ&q=do+hash+values+maintain+weight&oq=do+hash+values+maintain+&gs_l=psy-ab.1.0.33i299l2.36739.46025..48118...4.0..0.118.2566.21j7......0....1..gws-wiz.......0i71j35i39j0i131j0i67j0j0i10j0i20i263j0i22i30j0i22i10i30j0i13i5i30j0i8i13i30j0i8i13i10i30j33i22i29i30.RCxJDnJVolw
+
+      Launchschool
+      https://launchschool.com/books/ruby/read/hashes#iteratingoverhashes
+
+      Examples
+      https://examples.yourdictionary.com/examples-of-quantitative.html
+
+      Loc
+      https://loc.gov/pictures/collection/hh/
+
+      Kstarr
+      https://kstarr.com/references/
+
+      Artofmanliness
+      https://artofmanliness.com/articles/podcast-490-can-you-learn-to-be-lucky/
+
+      Google
+      https://google.com/search?q=37%25+rule&oq=37%25+rule&aqs=chrome..69i57.4710j0j1&sourceid=chrome&ie=UTF-8
+
+      Medium
+      https://medium.com/moments-of-passion/gush-the-comprehensive-guide-to-female-squirting-f295e4594d51
+
+      Plus
+      https://plus.maths.org/content/mathematical-dating
+
+      Fs
+      https://fs.blog/2017/10/veil-ignorance/
+
+      Youtube
+      https://youtube.com/watch?v=lddOBxOOv_8
+
+      Youtube
+      https://youtube.com/results?search_query=dating+algorithm
+
+      Youtube
+      https://youtube.com/watch?v=VQYBEWqQYNA
+
+      Bernsteinbear
+      https://bernsteinbear.com/blog/understanding-the-100-prisoners-problem/
+
+      Google
+      https://google.com/search?newwindow=1&biw=1440&bih=820&ei=0d-JXJjCHZLljwTGv6aoBg&q=software+matchmaking+algorithm&oq=software+matchmaking+algorithm&gs_l=psy-ab.3...28923.28923..29488...0.0..0.161.161.0j1......0....1..gws-wiz.......0i71.ST92aMhdftQ
+
+      Basicthinking
+      https://basicthinking.com/tinder-algorithm/
+
+      Motherboard
+      https://motherboard.vice.com/en_us/article/8x5vqx/how-a-matchmaking-ai-conquered-and-was-exiled-from-tinder
+
+      Analyticsindiamag
+      https://analyticsindiamag.com/ai-dating-apps-machine-learning-comes-rescue-dating-apps/
+
+      Sajari
+      https://sajari.com/match
+
+      Nrmp
+      https://nrmp.org/matching-algorithm/
+
+      Pubnub
+      https://pubnub.com/blog/2014-07-31-skill-based-matchmaking-multiplayer-games-tutorial/
+
+      Neoteric
+      https://neoteric.eu/blog/tinder-algorithms-how-the-matchmaking-happens/
+
+      Github
+      https://github.com/topics/matchmaking
+
+      Hackernoon
+      https://hackernoon.com/how-to-build-a-dating-application-55d5ca0c8f5c
+
+      Applikeysolutions
+      https://applikeysolutions.com/blog/6-guidelines-for-successful-dating-app-development
+
+      Onlinelibrary
+      https://onlinelibrary.wiley.com/doi/epdf/10.1002/dir.20106?referrer_access_token=sMJEk4geqlclhk-1PmQPj04keas67K9QMdWULTWMo8PCEYKfuiM6ibbs0wRE5ERIg5OF9FulGTmPig-H4wmlU_sXRuvMICeI1m7p2xVxBx_e3UPpzeQ636V5pguYUlFO6vRaLXSzQdbY-FWqSqiUyw%3D%3D
+
+      Theverge
+      https://theverge.com/2018/7/11/17560352/hinge-most-compatible-dating-machine-learning-match-recommendation
+
+      Youtube
+      https://youtube.com/watch?v=FhRf0j068ZA
+
+      Ncbi
+      https://ncbi.nlm.nih.gov/pubmed/24142842
+
+      Linkedin
+      https://linkedin.com/company/humuhq/
+
+      Humu
+      https://humu.com/
+
+      Boards
+      https://boards.greenhouse.io/humu/jobs/1073724#.WqHBwJPwbOQ
+
+      Qz
+      https://qz.com/work/1232692/the-resume-of-the-future/
+
+      Amp
+      https://amp.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web
+
+      Imec
+      https://imec.org/
+
+      Youtube
+      https://youtube.com/watch?time_continue=120&v=f5tSWJKMg9k
+
+      Workday
+      https://workday.com/en-us/forms/demos/product-preview-student.dl.html?wdid=enus_ws_acfoufeat_wdhero_st_wd_pp_17.0455&seg=step1_default
+
+      Workday
+      https://workday.com/content/dam/web/en-us/documents/datasheets/datasheet-workday-prism-analytics.pdf
+
+      Thebalancecareers
+      https://thebalancecareers.com/list-of-soft-skills-2063770
+
+      Experisjobs
+      https://experisjobs.us/exp_us/en/career-advice/blog/job-requirement-list.htm
+
+      Google
+      https://google.com/search?q=match+making+services&oq=match+making+services&aqs=chrome..69i57.10036j0j1&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/search?q=matchmaking+vs+marketplace&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQsc3U0uHeAhWl7YMKHaSDDvYQ_AUIDygC&biw=1440&bih=789#imgrc=hZeKPCTc0tr4rM:
+
+      Researchgate
+      https://researchgate.net/publication/228604840_Pragmatic_Approach_as_a_Problem_Solving_Framework
+
+      Solid
+      https://solid.inrupt.com/how-it-works
+
+      Inrupt
+      https://inrupt.com/
+
+      Stallman
+      https://stallman.org/
+
+      Lessig
+      https://lessig.org/about/#tab5
+
+      Snhu
+      https://snhu.edu/about-us/newsroom/2018/04/snhu-receives-1-million-google-grant-to-design-a-soft-skills-assessment-for-opportunity-youth
+
+      Sandboxcollaborative
+      https://sandboxcollaborative.org/space/
+
+      Google
+      https://google.org/our-work/economic-opportunity/snhu/
+
+      Theta360
+      https://theta360.com/s/eDyz3TIsedRwiOyWrJvy49M2q
+
+      Npr
+      https://npr.org/sections/ed/2017/10/14/545631502/when-the-focus-is-on-the-student-not-the-class
+
+      Theconversation
+      https://theconversation.com/should-all-university-lectures-be-automatically-recorded-39158
+
+      Theconversation
+      https://theconversation.com/ranking-universities-on-excellent-teaching-will-be-better-for-everyone-44256
+
+      Theconversation
+      https://theconversation.com/data-collected-about-student-behaviour-doesnt-help-improve-teaching-or-learning-57793
+
+      Theconversation
+      https://theconversation.com/what-metrics-dont-tell-us-about-the-way-students-learn-59271
+
+      Edutopia
+      https://edutopia.org/blog/why-curiosity-enhances-learning-marianne-stenger
+
+      Mckinsey
+      https://mckinsey.com/featured-insights/future-of-work/the-digital-future-of-work-what-skills-will-be-needed
+
+      Mischooldata
+      https://mischooldata.org/DistrictSchoolProfiles2/reportcard/data_documentation_final_v1.pdf
+
+      Theconversation
+      https://theconversation.com/students-dont-know-whats-best-for-their-own-learning-33835
+
+      Github
+      https://github.com/briancrink/accessedu
+
+      Gist
+      https://gist.github.com/jgravois/5e73b56fa7756fd00b89
+
+      Beta
+      https://beta.observablehq.com/@mbostock/d3-pie-chart
+
+      Projects
+      https://projects.invisionapp.com/d/login?redir=%2Fd%2Fmain#/projects/boards/6054912
+
+      Parchment
+      https://parchment.com/
+
+      Ted
+      https://ted.com/talks/takaharu_tezuka_the_best_kindergarten_you_ve_ever_seen/discussion
+
+      Arch
+      https://arch.iit.edu/life/tezuka-
+
+      Eric
+      https://eric.ed.gov/?id=EJ884596
+
+      Techstars
+      https://techstars.com/
+
+      Techstars
+      https://techstars.com/startup-weekend/
+
+      Startupweekend
+      https://startupweekend.org/events?utf8=%E2%9C%93&q=Muskegon&button=
+
+      Communities
+      https://communities.techstars.com/usa/grand-rapids/startup-weekend/13760
+
+      Uopeople
+      https://uopeople.edu/
+
+      Rufuspollock
+      https://rufuspollock.com/
+
+      Openrevolution
+      https://openrevolution.net/
+
+      Judith Heerwagen | Google Search
+      https://google.com/search?q=Judith+Heerwagen&newwindow=1&ei=3_aXXLLcEeufjwS2_Lgo&start=10&sa=N&ved=0ahUKEwjyx-LV3JvhAhXrz4MKHTY-DgUQ8tMDCF8&biw=1440&bih=820
+
+      Judith Heerwagen Research | Semantic Scholar
+      https://semanticscholar.org/author/Judith-Heerwagen/3371027
+
+Bootsrap'd
+
+   Bootstrap'd
+
+      Startups
+      https://startups.com/
+
+      Irs
+      https://irs.gov/businesses/small-businesses-self-employed/business-structures
+
+      Startuprocket
+      https://startuprocket.com/resources
+
+      Startuprocket
+      https://startuprocket.com/articles
+
+      Thepathforward
+      https://thepathforward.io/explore/
+
+      Reddit
+      https://reddit.com/r/startups/
+
+      Thebalancesmb
+      https://thebalancesmb.com/
+
+      Trello
+      https://trello.com/b/IzEZSDJ6/hiring
+
+      Register Your Business Name
+      https://nolo.com/legal-encyclopedia/registering-business-name-30262.html
+
+      7 Tips for Starting Your Own Small Business - ABC News
+      https://abcnews.go.com/Business/tips-starting-small-business/story?id=14447409
+
+      Starting a Small Business
+      https://sba.gov/thinking-about-starting
+
+      Startup Without An Office
+      https://forbes.com/sites/quora/2012/10/30/to-what-extent-can-a-startup-work-without-an-office/
+
+      Run business without an office
+      https://elance.com/q/blog/2011/11/how-to-run-your-business-without-an-office.html
+
+      On Startups
+      https://onstartups.com/
+
+      Venture Hacks | Start-up Advice
+      https://venturehacks.com/
+
+      BizFilings | Start-up Toolkit
+      https://bizfilings.com/toolkit/index.aspx
+
+      US Patent & Trademark Office
+      https://uspto.gov/
+
+DIY
+
+   Repair
+
+      iFixit
+      https://ifixit.com/
+
+      iMac Intel 20" EMC 2133 and 2210 | iFixit
+      https://ifixit.com/Device/iMac_Intel_20%22_EMC_2133_and_2210
+
+      OWC Envoy Pro
+      https://eshop.macsales.com/item/OWC/MAU3ENPRPCIU/
+
+      Audio Cable Connector
+      https://howtogeek.com/62999/how-to-replace-a-stereo-connector-and-salvage-audio-cables-and-headphones/
+
+      MacBook Pro 13" Retina Display Early 2015
+      https://ifixit.com/Device/MacBook_Pro_13%22_Retina_Display_Early_2015
+
+   Workbench
+
+      Fixthisbuildthat
+      https://fixthisbuildthat.com/mobile-miter-saw-station/
+
+      Fixthisbuildthat
+      https://fixthisbuildthat.com/diy-flip-top-tool-stand-plans/
+
+      Ikea
+      https://ikea.com/us/en/catalog/products/70335212/#
+
+   Portable Bluetooth Speaker
+
+      Instructables
+      https://instructables.com/id/Build-a-Bluetooth-Boombox-Speaker-from-Scratch/
+
+      Instructables
+      https://instructables.com/id/40W-Bluetooth-Portable-Speaker-Improved-Version/
+
+      Instructables
+      https://instructables.com/id/Elder-Bluetooth-Speaker/
+
+      Creatjpg
+      https://creatjpg.pw/DIY-Bluetooth-Speaker-t-Speakers-Diy-bluetooth-speaker.html
+
+      Lumulustyle
+      https://lumulustyle.com/diy-bluetooth-speaker-kit/
+
+      Medium
+      https://medium.com/@kthornbloom/how-to-build-a-bluetooth-speaker-b145dd7475af
+
+      Parts-express
+      https://parts-express.com/portable-60-watt-battery-powered-bluetooth-speaker-package-with-3-full-range-drivers--300-7302
+
+      Diyaudio
+      https://diyaudio.com/forums/search.php?searchid=20052852&pp=25&page=2
+
+      Head-fi
+      https://head-fi.org/search/21402237/?q=build+portable+speaker&o=relevance&c[][][]=0&c[][][]=0&c[][][]=0
+
+Elevation
+
+   Elevation
+
+      Hgtv
+      https://hgtv.com/shows/tiny-house-hunters
+
+      Hgtv
+      https://hgtv.com/shows/tiny-house-big-living
+
+      Hgtv
+      https://hgtv.com/shows/tiny-house-builders
+
+      Hgtv
+      https://hgtv.com/shows/tiny-luxury
+
+      Tinyhomebuilders
+      https://tinyhomebuilders.com/tiny-house-trailers
+
+      Tinyhousebasics
+      https://tinyhousebasics.com/tinyhousetrailers/
+
+      Trailermadetrailers
+      https://trailermadetrailers.com/
+
+      Tinyhousefoundations
+      https://tinyhousefoundations.com/tiny-house-trailers/
+
+      Tumbleweedhouses
+      https://tumbleweedhouses.com/design-your-tumbleweed/
+
+      Microshowcase
+      https://microshowcase.com/
+
+      Jamaicacottageshop
+      https://jamaicacottageshop.com/employment-opportunities/
+
+      Imgur
+      https://imgur.com/a/7AtpyDR
+
+      Imgur
+      https://imgur.com/a/1jcfFGi
+
+      Vxb
+      https://vxb.com/12-inch-Mirror-Finished-Stainless-Steel-Shiny-Ball-p/LOOSE-HOLLOW-SS304-12-inch.htm?gclid=CjwKCAjw-8nbBRBnEiwAqWt1ze0J5d9_k1vtT8MEd_X5FICFEG32_9cf1x9SI0TB_DSlz0uTHW7aOBoCeaoQAvD_BwE
+
+      Hunterdouglas
+      https://hunterdouglas.com/stories/window-treatments-patio-sliding-glass-doors
+
+      Natureshead
+      https://natureshead.net/tiny_homes/
+
+      Summitappliance
+      https://summitappliance.com/search?c=56
+
+      LG
+      https://lg.com/us/washer-dryer-combos
+
+      Alpinehomeair
+      https://alpinehomeair.com/viewcategory.cfm?categoryID=319
+
+      Hue
+      https://.meethue.com/en-us
+
+      Cubicminiwoodstoves
+      https://cubicminiwoodstoves.com/collections/all?page=1
+
+      Stoveandflagworks
+      https://stoveandflagworks.com/wittus/
+
+      En
+      https://en.wikipedia.org/wiki/List_of_sensors
+
+      Elprocus
+      https://elprocus.com/types-of-sensors-with-circuits/
+
+      Apple
+      https://apple.com/ios/home/accessories/
+
+      Etrailer
+      https://etrailer.com/p-CAB-C5G.html
+
+      Houseneeds
+      https://houseneeds.com/heating/radiant-heat-pex-tubing
+
+      Sheltersofnewengland
+      https://sheltersofnewengland.com/15-wide-x-16-high-peak/
+
+      Shoptinyhouses
+      https://shoptinyhouses.com/pages/how-does-a-composting-toilet-work
+
+      Youtube
+      https://youtube.com/watch?v=mVkXF0yDPhk
+
+      Youtube
+      https://youtube.com/watch?v=5KE4i7xEEL8
+
+      Shedsistence
+      https://shedsistence.com/2015/06/13/window-installation-photovideo/
+
+      Youtube
+      https://youtube.com/watch?v=NoqZr7kqgiQ
+
+      Youtube
+      https://youtube.com/channel/UCpjFKUGcPKj0OsekkqrS5PA/videos
+
+      Youtube
+      https://youtube.com/watch?v=s8Tbbf7qWhg
+
+      Greenbuildingadvisor
+      https://greenbuildingadvisor.com/article/wood-stoves-safety-first
+
+      Aisc
+      https://aisc.org/globalassets/aisc/publications/facts-for-steel-buildings-3-earthquakes-and-seismic-design.pdf
+
+      Study of Declaration Behavior of Different Vehicle Types
+      https://ijtte.com/uploads/2012-10-01/5ebd8343-9b9c-b1d4IJTTE%20vol2%20no3%20(7).pdf
+
+      Aquatherm
+      https://aquatherm.com/tech-bulletins/sand-as-insulation
+
+      Google
+      https://google.com/search?q=sliding+door+in+wall&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjivL_d9s_dAhVo2IMKHa6nA-8Q_AUIDigB&biw=1440&bih=789#imgrc=_
+
+      Google
+      https://google.com/search?q=subtropical+green+plant+large+leaves&tbm=isch&source=lnt&tbs=isz:l&sa=X&ved=0ahUKEwiKov3qk4LeAhWRtlkKHR-oDBkQpwUIIA&biw=1440&bih=740&dpr=2#imgrc=W3YGQLCtRLCoKM:
+
+      Google
+      https://google.com/search?q=architectural+scale+model&tbm=isch&source=lnt&tbs=isz:l&sa=X&ved=0ahUKEwjXosXzs4feAhVHmeAKHf8KCGUQpwUIIA&biw=1440&bih=789&dpr=2#imgrc=tlYHXx-EFTy6sM:
+
+      Houseplanshelper
+      https://houseplanshelper.com/kitchen-cabinet-dimensions.html
+
+      Blog
+      https://blog.fenceauthority.com/how-to-grow-fence-friendly-vines/
+
+      Etrailer
+      https://etrailer.com/question-109859.html
+
+      Tinyhousebuild
+      https://tinyhousebuild.com/code/
+
+      Tinyhousetalk
+      https://tinyhousetalk.com/how-to-draw-a-tiny-house-floor-plan/
+
+      Tinyhousetalk
+      https://tinyhousetalk.com/design/
+
+      Tinyhomebuilders
+      https://tinyhomebuilders.com/tools
+
+      3dwarehouse
+      https://3dwarehouse.sketchup.com/search/?q=tiny%20house%20trailer&backendClass=entity
+
+      Tinyhousedesign
+      https://tinyhousedesign.com/plans/
+
+      Homedesignersoftware
+      https://homedesignersoftware.com/support/article/KB-00116/printing-a-plan-at-a-specific-scale.html
+
+      Onemainfinancial
+      https://onemainfinancial.com/
+
+      Lightstream
+      https://lightstream.com/tiny-houses
+
+      Lendingclub
+      https://lendingclub.com/
+
+      Relaxshacks
+      https://relaxshacks.blogspot.com/
+
+      Smallhousebliss
+      https://smallhousebliss.com/
+
+      Youtube
+      https://youtube.com/watch?v=ZfLAKgJGc2g
+
+      Youtube
+      https://youtube.com/watch?v=3qDG8X83auU
+
+      Fyi
+      https://fyi.tv/shows/tiny-house-nation
+
+Float
+
+   Float
+
+      Reddit
+      https://reddit.com/r/FloatTank/new/
+
+      Pinterest
+      https://pinterest.com/briancrink/diy/float-tank/
+
+      Amazon
+      https://amazon.com/hz/wishlist/ls/24IH7A5VWGOHC
+
+      Iwakiamerica
+      https://iwakiamerica.com/products/Magdrive.htm
+
+      Tecspecialty
+      https://tecspecialty.com/blog/Four-Tips-for-Successful-Saltwater-Swimming-Pool-Tile-Installations.html?lang=English
+
+      Wefloat
+      https://wefloat.net/index.php/floatation-therapy-forum
+
+      Artofthefloat
+      https://artofthefloat.com/blog/
+
+      Youtube
+      https://youtube.com/watch?v=PMjk5s0-I3U&index=77&list=PLJG1voqWAsD9ptd7mUIxgz0hy2BrJd6y3
+
+      Youtube
+      https://youtube.com/channel/UCGj4gNh8iIMb2YiChwxiTng/videos
+
+      Youtube
+      https://youtube.com/user/FloatHQ/videos
+
+      Youtube
+      https://youtube.com/results?sp=EgIQAg%253D%253D&search_query=float+tank
+
+      Pinterest
+      https://pinterest.com/briancrink/elevation/
+
+      Amazon
+      https://amazon.com/hz/wishlist/ls/3KL9BB1750MDU?&sort=default
+
+      Amazon
+      https://amazon.com/hz/wishlist/ls/1TE0CCX3XH5FO
+
+      Developers
+      https://developers.google.com/maps/documentation/elevation/intro
+
+      Google
+      https://google.com/search?q=zillow+api&oq=zillow+api+&aqs=chrome..69i57j35i39j0l4.3675j0j1&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/maps/@42.9846266,-71.4714928,15z
+
+      Zillow
+      https://zillow.com/homes/for_sale/NH/land_type/39_rid/0-40000_price/0-160_mp/globalrelevanceex_sort/44.809122,-69.359436,42.004407,-73.314514_rect/7_zm/
+
+      Milgard
+      https://milgard.com/doors/moving-glass-wall-systems
+
+      Nanawall
+      https://nanawall.com/products/climaclear
+
+      Theglassguru
+      https://theglassguru.com/custom-glass.php
+
+      Lowes
+      https://lowes.com/windowsdoors/windows/safety.html
+
+      Temp-mail
+      https://temp-mail.org/en/
+
+      Blog
+      https://blog.buildllc.com/2015/07/operable-glass-walls/
+
+      Google
+      https://google.com/search?q=build+glass+wall&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiSlr376__cAhUSSK0KHW99Ck8Q_AUICigB&biw=1440&bih=803#imgrc=LCRVKIPB0q0pYM:
+
+      Google
+      https://google.com/search?q=tiny+house+rooftop&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjhkcX-lv_ZAhWr7YMKHfoiAGwQ_AUICigB&biw=1527&bih=955#imgrc=l17EpHebPcMYoM:
+
+      Google
+      https://google.com/search?biw=1527&bih=955&tbm=isch&sa=1&ei=ID-zWuPeOunJjwTIl5qYBw&q=hydraulic+railing&oq=hydraulic+railing&gs_l=psy-ab.3...9033.9176.0.9749.2.2.0.0.0.0.91.167.2.2.0....0...1c.1.64.psy-ab..0.0.0....0.J2gomODM0Uw#imgrc=_
+
+      Amazon
+      https://amazon.com/s/ref=nb_sb_noss_2/135-6873568-8029666?url=search-alias%3Daps&field-keywords=hyrdaulic+pump
+
+      Google
+      https://google.com/search?q=how+hydraulic+pumps+work&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiNyZfImv_ZAhUERKwKHaCMDbMQsAQIpAE&biw=1527&bih=955#imgrc=3S5DWsg5navK5M:
+
+      Machinedesign
+      https://machinedesign.com/linear-motion/what-s-difference-between-pneumatic-hydraulic-and-electrical-actuators
+
+      Youtube
+      https://youtube.com/watch?v=534CzKUF7oM
+
+      Amazon
+      https://amazon.com/Homegear-110-HD-Motorized-Projector/dp/B00J22TM7Y/ref=pd_sbs_229_5?_encoding=UTF8&pd_rd_i=B00J22TM7Y&pd_rd_r=1GYKREWT8GC4ZHSH3NVD&pd_rd_w=ZxBn3&pd_rd_wg=Sn4JR&psc=1&refRID=1GYKREWT8GC4ZHSH3NVD
+
+      Projectorscreen
+      https://projectorscreen.com/projector-screen-calculators
+
+      Epson
+      https://epson.com/projector-guide-how-to-buy-a-projector-throw-distance-and-positioning
+
+      Epson
+      https://epson.com/Support/wa00814
+
+      Files
+      https://files.support.epson.com/pdc/eai/html5/index.html
+
+      Amazon
+      https://amazon.com/hz/wishlist/ls/2RLMSJTQKXOUT
+
+      Pinterest
+      https://pinterest.com/briancrink/elevation/rendering/
+
+      Livehome3d
+      https://livehome3d.com/ios/live-home-3d-pro
+
+      Youtube
+      https://youtube.com/watch?v=X8u3zhDUDzE
+
+      Sfsalt
+      https://sfsalt.com/epsom-salt-for-floatation-tanks
+
+      Taylortechnologies
+      https://taylortechnologies.com/en/product/test-kits/drop-test-hydrogen-peroxide-iodometric-1-drop-5-ppm-75-oz--K-1826?pageid=19
+
+      Profloatinc
+      https://profloatinc.com/product/flowvis-flow-meter-fv-c-saline/?ref=aof
+
+      Profloatinc
+      https://profloatinc.com/product/pqn-spa-tfx-audio-tactile-premium-transducer-kit/
+
+      Artofthefloat
+      https://artofthefloat.com/float-tank-recommended-products/
+
+      Superiorfloattanks
+      https://superiorfloattanks.com/product/anti-vibration-pads-for-deluxe/
+
+      Superiorfloattanks
+      https://superiorfloattanks.com/product/floatease-halo/
+
+      Superiorfloattanks
+      https://superiorfloattanks.com/product/the-micron-filtration-system/
+
+      Floattankshop
+      https://floattankshop.com/peace-and-quiet
+
+      Daytonaudio
+      https://daytonaudio.com/index.php/loudspeaker-components/loudspeaker-drivers-by-series/exciters.html?p=1
+
+      Altrofloors
+      https://altrofloors.com/Home
+
+      Watlow
+      https://watlow.com/Home
+
+      Soundproofcow
+      https://soundproofcow.com/product/quiet-wrap-pipe-soundproofing-wrap/
+
+      Lamotte
+      https://lamotte.com/en/browse/7138-db-01.html
+
+      Spadepot
+      https://spadepot.com/Ozone-Wall-Fitting-Jet-34-Barb-P10153C221.aspx
+
+      Floattankshop
+      https://floattankshop.com/peace-and-quiet-supplies
+
+      Solaxx
+      https://solaxx.com/products/nuvo.html
+
+      Evoqua
+      https://evoqua.com/en/brands/delta-uv/Pages/d-and-ds-series.aspx
+
+      Rakuten
+      https://rakuten.com/shop/unbeatablesale/product/HFWC1012/?scid=pla_google_unbeatablesale&rmatt=tsid:1012713|cid:1486699815|agid:55936136805|tid:pla-457831296850|crid:284290141118|nw:g|rnd:7111353365215271338|dvc:c|adp:1o1|mt:|loc:9052498&gclid=Cj0KCQjwuafdBRDmARIsAPpBmVWTltCX2HBb7nRsN_9ljvNSH2OVbj-aj1z0fxOZ1UaoBDzR6i5RpioaAuS6EALw_wcB
+
+      H2flow
+      https://h2flow.net/flowvis-flow-meter
+
+      Floattanksolutions
+      https://floattanksolutions.com/daily-solutions-podcast/
+
+      Laureateinstitute
+      https://laureateinstitute.org/justin-feinstein.html
+
+      Journals
+      https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190292
+
+      Ncbi
+      https://ncbi.nlm.nih.gov/pmc/articles/PMC4106612/#!po=33.7838
+
+      Google
+      https://google.com/search?biw=1440&bih=759&tbm=isch&sa=1&ei=3-KjW9CUBI_vjwTiz7WwAw&q=float+tank+chamber&oq=float+tank+chamber&gs_l=img.3..35i39j0i24.18825.21583..21726...1.0..0.93.926.12......1....1..gws-wiz-img.......0j0i5i30j0i8i30j0i67.nnNMX2MylFQ
+
+      Google
+      https://google.com/search?biw=1440&bih=759&tbm=isch&sa=1&ei=R-KjW-LnH4PVjwSjtqKwCw&q=float+tank+room&oq=float+tank+room&gs_l=img.3..0j0i5i30j0i24.149508.149939..150193...0.0..0.78.298.4......1....1..gws-wiz-img.......0i8i30._ibDipXhpNc
+
+      Google
+      https://google.com/search?biw=1440&bih=759&tbm=isch&sa=1&ei=HOKjW_WLL4ypjwSAqYSwBg&q=ceramic+tile+float+tank&oq=ceramic+tile+float+tank&gs_l=img.3..35i39.8812.12712..13164...1.0..0.104.967.12j1......1....1..gws-wiz-img.......0i7i30j0i8i7i30.ZFDUBzkssPU
+
+      Google
+      https://google.com/search?biw=1440&bih=759&tbm=isch&sa=1&ei=GeGjW6_MI4vNjwSptZj4Ag&q=homemade+float+tank&oq=homemade+float+tank&gs_l=img.3..35i39j0i8i30.253347.256769..257013...2.0..0.81.803.11......1....1..gws-wiz-img.......0i7i30j0i8i7i30.ihrywUptmFE
+
+      Google
+      https://google.com/search?biw=1440&bih=803&tbm=isch&sa=1&ei=VN6jW7utL4mmjwT-9q_gCw&q=build+float+tank&oq=build+float+tank&gs_l=img.3..0i30j0i24.704789.706325..706615...0.0..0.77.364.5......1....1..gws-wiz-img.......0i7i30j0i8i7i30.elA_VEwqxT8#imgdii=McgBzqBI9wRmSM:&imgrc=_
+
+      Floattanksolutions
+      https://floattanksolutions.com/free-resources/
+
+      Artofthefloat
+      https://artofthefloat.com/
+
+      Floatlab
+      https://floatlab.com/
+
+      floathelm
+      https://floathelm.com/
+
+      Diyfloat
+      https://diyfloat.com/uncategorized/diy-float-tank/
+
+      Wefloat
+      https://wefloat.net/
+
+      Wefloat
+      https://wefloat.net/index.php/floatation-therapy-forum/1868-float-tank-heater-idea
+
+      Wefloat
+      https://wefloat.net/index.php/centers/60-water-hardness-in-a-float-tank
+
+      Artofthefloat
+      https://artofthefloat.com/2014/03/primer-soundproofing-float-tanks/
+
+      Floattanksolutions
+      https://floattanksolutions.com/heat-float-tanks/
+
+      Waterproofingsealers
+      https://waterproofingsealers.com/waterproof-tile-sealer.html
+
+      Isolationtankplans
+      https://isolationtankplans.com/plumbing/
+
+      Youtube
+      https://youtube.com/watch?v=I00mb91xt-A
+
+      Youtube
+      https://youtube.com/watch?v=3W3gNyT1hU8
+
+      Youtube
+      https://youtube.com/watch?v=LhWud4a5Aj8&feature=youtu.be&list=PLWXTlcFNNLvjCcU1oXRtMDZ73vn9TfUXC
+
+      Floattankshop
+      https://floattankshop.com/videos/
+
+macSpace
+
+   macSpace
+
+      Apple
+      https://apple.stackexchange.com/questions/273701/run-a-script-based-on-sunset-and-sunrise-info/273702
+
+      Bbs
+      https://bbs.deepin.org/forum.php?mod=forumdisplay&fid=70
+
+      Account
+      https://account.deepin.org/account
+
+      Deepin
+      https://deepin.org/en/2018/06/15/deepin-15-6-great-improvements-in-the-details/
+
+      Forum
+      https://forum.manjaro.org/t/deepin-pin-window-on-workspace/49910
+
+      Archlinux
+      https://archlinux.org/packages/?sort=&q=deepin
+
+      Unsplash
+      https://unsplash.com/
+
+      Unsplash
+      https://unsplash.com/wallpaper/1339090/4k-wallpapers
+
+      Pexels
+      https://pexels.com/
+
+      Flickr
+      https://flickr.com/search/?media=photos&height=1024&width=1024&dimension_search_mode=min&orientation=landscape%2Cpanorama&view_all=1&text=christmas&sort=interestingness-desc
+
+      Flickr
+      https://flickr.com/search/?text=wallpaper&orientation=portrait
+
+      Deviantart
+      https://deviantart.com/customization/wallpaper/scenery/popular-all-time/?offset=0
+
+      Deviantart
+      https://deviantart.com/customization/wallpaper/minimalistic/newest/
+
+      Imgur
+      https://imgur.com/t/desktop_backgrounds
+
+      Imgur
+      https://imgur.com/t/desktop_wallpaper
+
+      Imgur
+      https://imgur.com/t/hd%20wallpapers
+
+      Wallpaper [2560x1440] | Reddit
+      https://reddit.com/search?q=wallpaper%20%5B2560x1440%5D
+
+      Pinterest
+      https://pinterest.com/briancrink/list/theme-it/
+
+      Imgur
+      https://imgur.com/t/rainmeter
+
+      Deviantart
+      https://deviantart.com/customization/skins/linuxutil/newest/?offset=0
+
+      Deviantart
+      https://deviantart.com/customization/screenshots/nix/whats-hot/?offset=0
+
+      Imgur
+      https://imgur.com/t/mobile_wallpapers
+
+      Reddit
+      https://reddit.com/r/MobileWallpaper/
+
+      Reddit
+      https://reddit.com/r/chrome_extensions/comments/6f1ohu/google_chrome_window_transparency/
+
+      Github
+      https://github.com/chjj/compton/blob/master/compton.sample.conf
+
+      Windows Clan
+      https://windowsclan.com/get-safari-like-transparency-chrome/
+
+      Dev
+      https://dev.to/lobo_tuerto/you-need-to-know-about-i3-363c?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=
+
+      Youtube
+      https://youtube.com/watch?v=ARKIwOlazKI
+
+      Reddit
+      https://reddit.com/r/Rainmeter/comments/a6rej9/a_spacey_work_in_progress/
+
+      Reddit
+      https://reddit.com/r/unixporn/comments/a1e4xj/gnome_a_nice_and_flat_dark_desktop_great_on_the/?st=JP2RPEOD&sh=6fa20c42
+
+      Google
+      https://google.com/search?q=geektool+scripts&newwindow=1&ei=sCVdXK-vNcnIsQW62rkw&start=10&sa=N&ved=0ahUKEwivx_iCxavgAhVJZKwKHTptDgYQ8tMDCIYB&biw=1440&bih=789
+
+      Applegazette
+      https://applegazette.com/mac/how-to-make-your-osx-desktop-awesome-with-geektool/
+
+      Reddit
+      https://reddit.com/r/GeekTool/
+
+      Reddit
+      https://reddit.com/r/Ubersicht/new/
+
+      Stackoverflow
+      https://stackoverflow.com/questions/431205/how-can-i-programmatically-change-the-background-in-mac-os-x
+
+      Google
+      https://google.com/search?newwindow=1&ei=281uXN2UKcSKtQXh8574CA&q=ubersicht&oq=ubers&gs_l=psy-ab.1.0.35i39j0i67j0j0i67l3j0j0i67l3.550665.551369..553716...0.0..0.133.630.0j5......0....1..gws-wiz.......0i71j0i131j0i131i67.FRUNYXQieTk
+
+      Maketecheasier
+      https://maketecheasier.com/customize-mac-desktop-ubersicht/
+
+      YouTube
+      https://youtube.com/watch?v=OhRhCQf9tac
+
+      Thatmacnerd
+      https://thatmacnerd.com/fun-with-ubersicht/
+
+      Sayzlim
+      https://sayzlim.net/change-ubersicht-widgets-position/
+
+      Github
+      https://github.com/felixhageloh/uebersicht-widgets
+
+      Tracesof
+      https://tracesof.net/uebersicht/
+
+      Tracesof
+      https://tracesof.net/uebersicht-widgets/
+
+      Github
+      https://github.com/NickBusey/Ubersicht-Trello-Widget
+
+      Github
+      https://github.com/Porco-Rosso/Ubersicht-Nightshades
+
+      Github
+      https://github.com/felixhageloh/uebersicht
+
+      Macscripter
+      https://macscripter.net/viewtopic.php?id=46603
+
+      Developer
+      https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/UseHandlersFunctions.html
+
+      Macosxautomation
+      https://macosxautomation.com/applescript/sbrt/index.html
+
+      Developer
+      https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/Concepts/work_with_as.html
+
+      Alvinalexander
+      https://alvinalexander.com/blog/post/mac-os-x/applescript-getting-current-time
+
+      Apple
+      https://apple.stackexchange.com/questions/231606/applescript-code-to-find-path-to-desktop-picture-in-desktop-2
+
+      Apple
+      https://apple.stackexchange.com/questions/141834/applescript-to-change-desktop-image-on-all-monitors
+
+      Computers
+      https://computers.tutsplus.com/tutorials/if-and-if-else-applescript-conditional-statements--mac-45590
+
+      Stackoverflow
+      https://stackoverflow.com/questions/7210188/concatenate-a-string-and-a-variable-into-a-string-in-applescript
+
+      Google
+      https://google.com/search?q=why+use+applescript+site:stackoverflow.com&num=20&sa=X&ved=0ahUKEwjp5tnkx_zbAhUqzIMKHWL8APsQrQIINSgEMAA&biw=1440&bih=803
+
+      Alvinalexander
+      https://alvinalexander.com/blog/post/mac-os-x/applescript-assign-text-variable
+
+      En
+      https://en.wikibooks.org/wiki/AppleScript_Programming/Lists_and_records
+
+      Alfredforum
+      https://alfredforum.com/topic/9012-toggle-notification-center-do-not-disturb-onoff-in-workflow/
+
+      Github
+      https://github.com/joeyhoer/starter/blob/master/system/mission-control.sh
+
+      Reddit
+      https://reddit.com/r/applescript/new/
+
+      Macscripter
+      https://macscripter.net/index.php
+
+      Developer
+      https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html
+
+      Macosxautomation
+      https://macosxautomation.com/applescript/resources.html
+
+      Macscripter
+      https://macscripter.net/viewtopic.php?id=44585
+
+      Apple
+      https://apple.stackexchange.com/questions/200691/set-finder-arranging-order-by-kind-via-terminal
+
+      Discussions
+      https://discussions.apple.com/thread/3533331
+
+      Superuser
+      https://superuser.com/questions/691774/condition-in-applescript-if-directory-is-empty-do-this-else-do-that
+
+      Google
+      https://google.com/search?q=applescript+if+contents+of+folder+contains&oq=applescript+if+contents+of+folder+contains+&aqs=chrome..69i57.13581j0j1&sourceid=chrome&ie=UTF-8
+
+      Macscripter
+      https://macscripter.net/viewtopic.php?pid=194409#p194409
+
+      Reddit
+      https://reddit.com/r/applescript/comments/a1jkk8/check_if_folder_contains_subfolders/
+
+      Forum
+      https://forum.manjaro.org/t/deepin-wallpaper-chooser-bug/49904
+
+      Abstract Black
+      https://addons.mozilla.org/en-US/firefox/addon/abstract-black/
+
+      Dotfiles
+      https://dotfiles.github.io/
+
+      Mount GDrive
+      https://webupd8.org/2013/09/mount-google-drive-in-linux-with-google.html
+
+      Change Picture interval
+      https://apple.stackexchange.com/questions/103833/can-i-have-a-custom-desktop-wallpaper-change-picture-interval
+
+      Sunrise | Sunset Location
+      https://sunrise-sunset.org/
+
+OpenFuture
+
+   OpenFuture
+
+      Future Timeline
+      https://futuretimeline.net/
+
+      Transsolar Project
+      https://transsolar.com/
+
+      2050
+      https://2050.earth/
+
+      Wiki
+      https://wiki.p2pfoundation.net/Industrial_Government#The_Industrial_Network
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/f477k/the_original_resource_based_economy/
+
+      Youtube
+      https://youtube.com/watch?v=AFZjZa5ZAyY
+
+      Youtube
+      https://youtube.com/watch?v=7oEa9GN0T34
+
+      Thewire
+      https://thewire.in/economy/how-to-handle-a-plateauing-global-economy
+
+      Reddit
+      https://reddit.com/r/TZM/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/68pyjl/i_made_a_venus_project_discord_for_anyone_to_join/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/7eghec/resource_based_economyrbe_prototype/
+
+      Reddit
+      https://reddit.com/r/TZM/comments/2vvjti/is_anyone_starting_or_working_on_an_opensource/
+
+      Independent
+      https://independent.co.uk/news/health/norway-parliament-drugs-decriminalise-recreational-cocaine-heroin-marijuana-a8111761.html
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/4vyvcx/what_kind_of_software_could_benefit_the_movement/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/4ildw9/allocation_dilemma/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/52xatw/easy_ways_to_understand_game_theory/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/5x4yim/theseus_manifesto/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/6821ev/resource_economics_just_a_movement_or_an/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/99q1ej/anyone_got_good_reading_material_for_rbe/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/fblal/the_problems_with_resourcebased_economies_ideas/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/gebnf/any_ideas_any_graphic_designers_interested/
+
+      Reddit
+      https://reddit.com/r/resourcebasedeconomy/comments/h14a4/the_early_stages_of_the_transition_to_an_rbe/
+
+      Community
+      https://community.singularitynet.io/t/the-dreams-of-satoshi-episode-1/1417
+
+      Edition
+      https://edition.cnn.com/2011/OPINION/09/07/rushkoff.jobs.obsolete/
+
+      Nytimes
+      https://nytimes.com/2012/05/09/world/europe/amsterdam-tries-to-change-culture-with-repair-cafes.html
+
+      Smbc-comics
+      https://smbc-comics.com/
+
+      Onecommunityglobal
+      https://onecommunityglobal.org/internet/
+
+      Reddit
+      https://reddit.com/r/thevenusproject/
+
+      Cohort21
+      https://cohort21.com/vickyboomgaardt/2016/11/19/de-siloization/
+
+      Cohort21
+      https://cohort21.com/members/edaigle/
+
+      Youtube
+      https://youtube.com/results?search_query=open+future
+
+      Futureproofsa
+      https://futureproofsa.com/
+
+      Newstalk
+      https://newstalk.com/futureproof
+
+      Twitter
+      https://twitter.com/newstalkscience?lang=en
+
+      Futuretimeline
+      https://futuretimeline.net/21stcentury/2051.htm
+
+      Youtube
+      https://youtube.com/user/futuretimelinedotnet/videos
+
+      Medium
+      https://medium.com/@shashvatshukla/framework-vs-library-vs-platform-vs-api-vs-sdk-vs-toolkits-vs-ide-50a9473999db
+
+      Google
+      https://google.com/search?q=Open+Future&oq=Open+Future&aqs=chrome..69i57.1876j0j1&sourceid=chrome&ie=UTF-8
+
+      Youtube
+      https://youtube.com/account
+
+      Aboutme
+      https://aboutme.google.com/u/1/#name
+
+      Open-future
+      https://open-future.it/
+
+      Thevenusproject
+      https://thevenusproject.com/
+
+      Thezeitgeistmovement
+      https://thezeitgeistmovement.com/
+
+      Youtube
+      https://youtube.com/user/thevenusprojectmedia/videos
+
+      Youtube
+      https://youtube.com/user/TZMOfficialChannel/videos
+
+      Resourcebasedeconomy
+      https://resourcebasedeconomy.org/
+
+      Opensourceecology
+      https://opensourceecology.org/
+
+      Openfuture
+      https://openfuture.com/
+
+      Openrevolution
+      https://openrevolution.net/
+
+      Rufuspollock
+      https://rufuspollock.com/
+
+Rideway
+
+   Rideway
+
+      Michigantrafficcrashfacts
+      https://michigantrafficcrashfacts.org/
+
+      Muskegoncountyroads
+      https://muskegoncountyroads.org/149/Board-of-Commissioners
+
+      Issuu
+      https://issuu.com/streetplanscollaborative/docs/tu-guide_to_materials_and_design_v1/101
+
+      Bikelawmichigan
+      https://bikelawmichigan.com/michigan-rules-of-the-road/#bicycle-on-sidewalk
+
+      Bikeleague
+      https://bikeleague.org/bfa/search/map/Michigan?bfaq=Michigan
+
+      Cityoftulsa
+      https://cityoftulsa.org/walk-bike-tulsa/
+
+      Aviewfromthecyclepath
+      https://aviewfromthecyclepath.com/2014/05/the-best-roundabout-design-for-cyclists.html?m=1
+
+      Nacto
+      https://nacto.org/about/
+
+      Modacitylife
+      https://modacitylife.com/
+
+      Ggwash
+      https://ggwash.org/view/68991/protected-bike-lanes-not-only-makes-cities-safer-it-makes-them-thrive
+
+      Nacto
+      https://nacto.org/publication/urban-bikeway-design-guide/
+
+      Google
+      https://google.com/maps/@45.4738508,-122.7658787,3a,75y,223.07h,75.57t/data=!3m6!1e1!3m4!1sb0hbNHE855gcXA7UDxX_0Q!2e0!7i13312!8i6656
+
+      Gothamist
+      https://gothamist.com/2018/05/25/citi_bike_fury_flashback.php
+
+      Vox
+      https://vox.com/platform/amp/science-and-health/2018/8/28/17789510/bike-cycling-netherlands-dutch-infrastructure
+
+      Whitehouse
+      https://whitehouse.gov/sites/whitehouse.gov/files/images/Blog/PCAST%20Cities%20Report%20_%20FINAL.pdf
+
+      Youtube
+      https://youtube.com/watch?v=bzE-IMaegzQ&feature=youtu.be
+
+      Youtube
+      https://youtube.com/watch?v=JI6iczwm0Ys
+
+      Youtube
+      https://youtube.com/watch?time_continue=283&v=E85HMNJix_o
+
+      Youtube
+      https://youtube.com/watch?v=Rs7jHvh7v-4&list=PLJ8cMiYb3G5eYV70JW5qsI4t-qj1mw_vP
+
+      Youtube
+      https://youtube.com/watch?v=PgJo7GnGorg&index=20&list=PLJ8cMiYb3G5eYV70JW5qsI4t-qj1mw_vP
+
+Shifter Kart
+
+   Shifter Kart
+
+      Shift Kart List | Amazon
+      https://amazon.com/hz/wishlist/ls/VQN4YDWZ3AEM?filter=DEFAULT&lek=85a296ba-7ac4-4bca-a7de-dc546702ecfd&sort=default&type=wishlist
+
+      Shift Kart | Pinterest
+      https://pinterest.com/briancrink/diy/shifter-kart/
+
+      Acceleration Karting
+      https://accelerationkarting.com/
+
+      Kart Parts Depot
+      https://kartpartsdepot.com/Default.asp
+
+      BMI Karts
+      https://bmikarts.com/
+
+      Amazon
+      https://amazon.com/gp/registry/wishlist/VQN4YDWZ3AEM/ref=cm_wl_huc_title
+
+      Comet Kart Sales
+      https://cometkartsales.com/login.php
+
+      Eescc
+      https://eescc.org/publications/eesccshifterkartrules.pdf
+
+      Kart Building
+      https://kartbuilding.net/racingkart/Free_Racing_Kart_Plans_PDF/Main_Kart_Complete_02_Labelled_Overview.pdf
+
+      Acceleration Karting
+      https://accelerationkarting.com/assets/images/pdf/tillett_seat_dims_usa.pdf
+
+      Swede Tech Racing
+      https://swedetechracing.com/techinfo/
+
+      Swede Tech Racing
+      https://swedetechracing.com/video/
+
+      Out2win
+      https://out2win.com/catalog/index.html
+
+      Cometkartsales
+      https://cometkartsales.com/home.php
+
+      Shark Shifter
+      https://sharkshifter.com/zc/index.php
+
+      Swede Rech Racing
+      https://swedetechracing.com/
+
+      Nemenman lab
+      https://nemenmanlab.org/~ilya/images/0/07/Popper-1953.pdf
+
+      Accelerationkarting
+      https://accelerationkarting.com/safetygear.html
+
+      Rear Wheel Drive Assembly
+      https://buildyourowngokart.com/twoperson/RearWheelDriveAssembly.php
+
+      Front Wheel Steering Assembly
+      https://buildyourowngokart.com/twoperson/FrontWheelSteeringAssembly.php
+
+      Braking System
+      https://buildyourowngokart.com/twoperson/BrakingSystem.php
+
+      Throttle System
+      https://buildyourowngokart.com/twoperson/ThrottleSystem.php
+
+      Two Person Frame
+      https://buildyourowngokart.com/twoperson/TwoPersonFrame.php
+
+      Engine Mount
+      https://buildyourowngokart.com/twoperson/EngineMount.php
+
+      Double Seat
+      https://buildyourowngokart.com/twoperson/DoubleSeat.php
+
+      Material List
+      https://buildyourowngokart.com/twoperson/MaterialList.php
+
+      Assembly Instructions
+      https://buildyourowngokart.com/twoperson/AssemblyInstructions.php
+
+      Before Using
+      https://buildyourowngokart.com/twoperson/BeforeUsing.php
+
+      Speed Calculator
+      https://buildyourowngokart.com/twoperson/SpeedCalculator.php
+
+      Homemade Go Kart Project
+      https://youtube.com/playlist?list=PLNpnJpoBuI-pNrckCQH71RRQ7YIKsOq9d
+
+      Fabrication: Homemade Go Kart Project
+      https://youtube.com/watch?v=V7CNgVe_va8&list=PLNpnJpoBuI-pNrckCQH71RRQ7YIKsOq9d&index=8
+
+SmartMirror
+
+   SmartMirror
+
+      Raspberrypi
+      https://raspberrypi.org/
+
+      Magicmirror
+      https://magicmirror.builders/
+
+tinyspace
+
+   tinyspace
+
+      Tumbleweedhouses
+      https://tumbleweedhouses.com/tiny-house-hotels/
+
+      Tinyhomebuilders
+      https://tinyhomebuilders.com/tiny-house-marketplace/search
+
+      Gamping
+      https://gamping.com/
+
+      Tinyhouselistings
+      https://tinyhouselistings.com/
+
+      Mashvisor
+      https://mashvisor.com/
+
+      Tinyhousecommunity
+      https://tinyhousecommunity.com/start-a-community.htm
+
+      Tinyhousecommunity
+      https://tinyhousecommunity.com/communities/#3/39.77/-98.00
+
+      Youtube
+      https://youtube.com/watch?v=xCctdjyZ6Gs
+
+      Landwatch
+      https://landwatch.com/Land_For_Sale
+
+      Useful-community-development
+      https://useful-community-development.org/redevelopment.html
+
+      Tinyhousebuild
+      https://tinyhousebuild.com/how-to-go-to-zoningbuilding-departments-with-your-tiny-house-plans/
+
+      Netstate
+      https://netstate.com/states/geography/mapcom/vt_mapscom.htm
+
+      Topozone
+      https://topozone.com/vermont/
+
+      Landsofamerica
+      https://landsofamerica.com/Vermont/all-land/under-15000/
+
+      Google
+      https://google.com/search?q=buy+land&oq=buy+land&aqs=chrome..69i57j69i60l3.5157j0j1&sourceid=chrome&ie=UTF-8
+
+      Tinyhouseexpedition
+      https://tinyhouseexpedition.com/livingtinylegally
+
+      Outsideonline
+      https://outsideonline.com/2144261/tiny-house-revolution-goes-huge
+
+      Mashvisor
+      https://mashvisor.com/blog/out-state-real-estate-investing-good-and-bad/
+
+      Home
+      https://home.howstuffworks.com/real-estate/buying-home/10-tips-for-developing-raw-land.htm
+
+      Huffpost
+      https://huffpost.com/entry/10-loopholes-to-build-a-t_b_9942198
+
+      Smallbusiness
+      https://smallbusiness.chron.com/start-rental-property-business-407.html
+
+      Users
+      https://users.wix.com/signin?originUrl=https:%2F%2Fwix.com%2Fmy-account%2Fsites%2Fe6003889-27d1-4b1f-a36b-893525eb1098%3FreferralInfo%3Dheader&postLogin=https:%2F%2Fwix.com%2Fmy-account%2Fsites%2Fe6003889-27d1-4b1f-a36b-893525eb1098%3FreferralInfo%3Dheader&overrideLocale=en
+
+      Briancrink
+      https://briancrink.wixsite.com/tinyspace
+
+      Shedsistence
+      https://shedsistence.com/photo-gallery-2/
+
+      Youtube
+      https://youtube.com/results?search_query=living+tiny+house+legally
+
+      Youtube
+      https://youtube.com/watch?v=3qDG8X83auU
+
+      Youtube
+      https://youtube.com/watch?v=Nf5oDnjX5MY
+
+      Youtube
+      https://youtube.com/watch?v=B2eeKtkqXLg
+
+      Youtube
+      https://youtube.com/watch?v=uqoHpsz1Yss
+
+      Youtube
+      https://youtube.com/watch?v=7dHpDHYXKCU
+
+      Youtube
+      https://youtube.com/watch?v=HU5rhXQbJ3s
+
+      Facebook
+      https://facebook.com/groups/730185407004126/?sorting_setting=CHRONOLOGICAL
+
+      Google
+      https://google.com/search?source=hp&ei=hUqbWq3bEaS0ggfIop3IAQ&q=tinyspace&oq=tinyspace&gs_l=psy-ab.3...2737.3739.0.3848.10.6.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..10.0.0.0...0.zh8ffkoYNSs
+
+      Google
+      https://google.com/search?q=tiny+house&oq=tiny+house&aqs=chrome.0.69i59j69i60l2j69i59j69i57j69i61.2765j0j1&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/search?ei=l0qbWpiMCqPt_QbCrIXgBA&q=tinyspace+tiny+house&oq=tinyspace+tiny+house&gs_l=psy-ab.3..0i71k1l8.2305.2305.0.2434.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.vKpbFVZx4Cc
+
+      Google
+      https://google.com/search?q=tiny+house+rent+land&oq=tiny+house+rent+land&aqs=chrome..69i57j69i60l2j69i59j69i65j69i60.2779j0j1&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/search?q=tiny+house+property&oq=tiny+house+property&aqs=chrome..69i57j0l5.4317j0j1&sourceid=chrome&ie=UTF-8
+
+      Google
+      https://google.com/search?biw=1680&bih=1050&tbm=isch&sa=1&ei=A9NaWoKoDqzejwSnyLvAAg&q=city+dwelling+tiny+house&oq=city+dwelling+tiny+house&gs_l=psy-ab.3...793798.796716.0.797080.14.14.0.0.0.0.116.1221.10j4.14.0....0...1c.1.64.psy-ab..0.7.673...0i13k1j0i7i5i30k1j0i8i7i30k1j0i8i13i30k1j0i5i30k1j0i8i30k1j0i13i5i30k1.0.N033itzdZB0#imgrc=PH1YgkTBjN2t4M:
+
+      Youtube
+      https://youtube.com/playlist?list=PL-4AwcQXbB3wKbLOCCHyNbld8l9TIUxMN
+
+Tune.to
+
+   Tune.to
+
+      Trackseries
+      https://trackseries.tv/calendar/
+
+      Nhl
+      https://nhl.com/redwings/schedule/2018-03-01/ET
+
+      Thetvdb
+      https://thetvdb.com/
+
+      Creativecommons
+      https://creativecommons.org/licenses/by-nc/4.0/
+
+      Stanza
+      https://stanza.co/auth/signin#%2Fevents
+
+      Support
+      https://support.apple.com/en-us/HT202361
+
+      Icalendar
+      https://icalendar.org/
+
+      Icalshare
+      https://icalshare.com/
+
+      Calreply
+      https://calreply.com/sports/
+
+      Blog
+      https://blog.trakt.tv/calendars-23d2b4534066
+
+      Blog
+      https://blog.trakt.tv/ical-and-rss-feeds-f2028da560e3
+
+      Trakt
+      https://trakt.docs.apiary.io/#introduction/required-headers
+
