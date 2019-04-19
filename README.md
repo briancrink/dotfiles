@@ -2,6 +2,15 @@
 
 ![](/icns/banner.png)
 
+<p style='text-align: right;'>
+  <a href="https://briancrink.com"> <img src="/icns/favicon.png" width="45" height="45">
+  <a/>
+    <a href="https://twitter.com/briancrink"> <img src="/icns/twitter.png" width="55" height="55">
+  <a/>
+    <a href="https://reddit.com/user/NeonSpaceCandy"> <img src="/icns/reddit.png" width="45" height="45">
+  <a/>
+</p>
+
 ## Installation
 
 **Warning:** If you want to give these dotfiles a try, you should first fork
