@@ -5,11 +5,18 @@
 <p style='text-align: right;'>
   <a href="https://briancrink.com"> <img src="/icns/favicon.png" width="45" height="45">
   <a/>
+</p>
     <a href="https://twitter.com/briancrink"> <img src="/icns/twitter.png" width="55" height="55">
   <a/>
+</p>
     <a href="https://reddit.com/user/NeonSpaceCandy"> <img src="/icns/reddit.png" width="45" height="45">
   <a/>
 </p>
+
+## Attribution
+
+- [Mathias Bynens](https://mathiasbynens.be/) |
+  [@mathias](http://twitter.com/mathias)
 
 ## Installation
 
@@ -48,14 +55,3 @@ risk!
 - [Kevin Suttle's](http://kevinsuttle.com/)
   [dotfiles](https://github.com/kevinSuttle/dotfiles)
 - @ptb's [dotfiles](https://github.com/ptb/mac-setup)
-
-## Attribution
-
-- [Mathias Bynens](https://mathiasbynens.be/) |
-  [@mathias](http://twitter.com/mathias)
-
-## Brian Crink
-
-[<img src="/icns/favicon.png" width="45" height="45">](https://briancrink.com)
-[<img src="/icns/twitter.png" width="55" height="55">](https://twitter.com/briancrink)
-[<img src="/icns/reddit.png" width="45" height="45">](https://reddit.com/user/NeonSpaceCandy)
