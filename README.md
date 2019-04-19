@@ -4,11 +4,11 @@ Brian's dotfiles
 <img src="/icns/reddit.png" width="35" height="35" align="right"> <a/>
 <a href="https://twitter.com/briancrink">
 <img src="/icns/twitter.png" width="45" height="45" align="right"> <a/>
-<a href="https://briancrink.com">
+<a href="https://briancrink.com/">
 <img src="/icns/favicon.png" width="35" height="35" align="right"> <a/>
 </h1>
 
-[![](/icns/banner.png)](https://briancrink.com)
+[![](/icns/banner.png)](https://briancrink.com/software)
 
 ## Attribution
 
