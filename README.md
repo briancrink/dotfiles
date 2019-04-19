@@ -1,38 +1,61 @@
-# Custom Search Engines
+# Brian's dotfiles
 
-## Search Engines
+![](/icns/banner.png)
 
-| Title          | Keyword | URL                                                                                                                                                                                                                                                          |
-| :------------- | :------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Google         | g       | `{google:baseURL}search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}` |
-| Duck Duck Go   | dd      | https://duckduckgo.com/?q=%s                                                                                                                                                                                                                                 |
-| Amazon         | a       | https://www.amazon.com/s/ref=nb_sb_ss_i_1_13?url=search-alias%3Daps&field-keywords=%s&sprefix=benjamin+gins%2Caps%2C231&crid=3DSCJYPRWVA0M                                                                                                                   |
-| Audiobook Bay  | ab      | http://audiobookbay.nl/?s=%s                                                                                                                                                                                                                                 |
-| eBay           | e       | https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=%s&_sacat=0                                                                                                                                                                                |
-| GitHub         | gi      | https://github.com/search?q=%s&ref=opensearch                                                                                                                                                                                                                |
-| History        | h       | `chrome://history/?#q=%s`                                                                                                                                                                                                                                    |
-| Reddit         | r       | https://reddit.com/search?q=%s&ref=opensearch                                                                                                                                                                                                                |
-| Stack Overflow | so      | `{google:baseURL}search?q=site%3Astackoverflow.com+%s`                                                                                                                                                                                                       |
-| Wictionary     | wy      | http://en.wiktionary.org/wiki/Special:Search?search=%s&go=Go                                                                                                                                                                                                 |
-| Wikipedia      | w       | http://en.wikipedia.org/w/index.php?title=Special:Search&search=%s                                                                                                                                                                                           |
-| YouTube        | y       | http://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch                                                                                                                                                                       |
+## Installation
+
+**Warning:** If you want to give these dotfiles a try, you should first fork
+this repository, review the code, and remove things you don’t want or need.
+Don’t blindly use my settings unless you know what that entails. Use at your own
+risk!
 
 ## Setup
 
-1. Open Google Chrome
-2. Open a New Tab
-3. On Mac, Press CMD + 'L'
-4. Type 'chrome://settings/searchEngines' and press enter
-5. Press the 'Add' button
-6. Type the search engine name, a keyword (1-2 characters), and the URL search
-   query
+1. [Install Packages]()
 
-## Steps
+2. [macOS Defaults]()
 
-1. Open Google Chrome
-2. Open a New Tab
-3. On Mac, Press CMD + 'L'
-4. Type the keyword ('g' for Google)
-5. Press 'space'
-6. Type in a search query
-7. Press 'enter'
+3. [Web Search Engines](/search_engine/readme.md)
+
+## More dotfiles!
+
+- [Mathias dotfiles](https://github.com/mathiasbynens/dotfiles/)
+- @ptb and [his _macOS Setup_ repository](https://github.com/ptb/mac-setup)
+- [Ben Alman](http://benalman.com/) and his
+  [dotfiles repository](https://github.com/cowboy/dotfiles)
+- [Cătălin Mariș](https://github.com/alrra) and his
+  [dotfiles repository](https://github.com/alrra/dotfiles)
+- [Gianni Chiappetta](https://butt.zone/) for sharing his
+  [amazing collection of dotfiles](https://github.com/gf3/dotfiles)
+- [Jan Moesen](http://jan.moesen.nu/) and his
+  [ancient `.bash_profile`](https://gist.github.com/1156154) +
+  [shiny _tilde_ repository](https://github.com/janmoesen/tilde)
+- [Lauri ‘Lri’ Ranta](http://lri.me/) for sharing
+  [loads of hidden preferences](http://osxnotes.net/defaults.html)
+- [Matijs Brinkhuis](https://matijs.brinkhu.is/) and his
+  [dotfiles repository](https://github.com/matijs/dotfiles)
+- [Nicolas Gallagher](http://nicolasgallagher.com/) and his
+  [dotfiles repository](https://github.com/necolas/dotfiles)
+- [Sindre Sorhus](https://sindresorhus.com/)
+- [Tom Ryder](https://sanctum.geek.nz/) and his
+  [dotfiles repository](https://sanctum.geek.nz/cgit/dotfiles.git/about)
+- [Kevin Suttle](http://kevinsuttle.com/) and his
+  [dotfiles repository](https://github.com/kevinSuttle/dotfiles) and
+  [macOS-Defaults project](https://github.com/kevinSuttle/macOS-Defaults), which
+  aims to provide better documentation for [`~/.macos`](https://mths.be/macos)
+- [Haralan Dobrev](https://hkdobrev.com/)
+- Anyone who
+  [contributed a patch](https://github.com/mathiasbynens/dotfiles/contributors)
+  or
+  [made a helpful suggestion](https://github.com/mathiasbynens/dotfiles/issues)
+
+## Attribution
+
+- [Mathias Bynens](https://mathiasbynens.be/) |
+  [@mathias](http://twitter.com/mathias)
+
+## Brian Crink
+
+[![](/icns/favicon.png =45x)](https://briancrink.com)
+[![](/icns/twitter.png =55x)](https://twitter.com/briancrink)
+[![](/icns/reddit.png =45x)](https://reddit.com/user/NeonSpaceCandy)
