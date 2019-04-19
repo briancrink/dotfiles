@@ -20,24 +20,23 @@ risk!
 ## More dotfiles
 
 - [Mathias dotfiles](https://github.com/mathiasbynens/dotfiles/)
-- [Ben Alman](http://benalman.com/)'s
+- [Ben Alman's](http://benalman.com/)
   [dotfiles](https://github.com/cowboy/dotfiles)
-- [Cătălin Mariș](https://github.com/alrra)'s
+- [Cătălin Mariș](https://github.com/alrra)
   [dotfiles](https://github.com/alrra/dotfiles)
-- [Gianni Chiappetta](https://butt.zone/)'s
+- [Gianni Chiappetta's](https://butt.zone/)
   [dotfiles](https://github.com/gf3/dotfiles)
-- [Jan Moesen](http://jan.moesen.nu/)'s
+- [Jan Moesen's](http://jan.moesen.nu/)
   [dotfiles](https://gist.github.com/1156154)
-- [Lauri ‘Lri’ Ranta](http://lri.me/)'s
+- [Lauri ‘Lri’ Ranta's](http://lri.me/)
   [dotfiles](http://osxnotes.net/defaults.html)
-- [Matijs Brinkhuis](https://matijs.brinkhu.is/)'s
+- [Matijs Brinkhuis's](https://matijs.brinkhu.is/)
   [dotfiles](https://github.com/matijs/dotfiles)
-- [Nicolas Gallagher](http://nicolasgallagher.com/)'s
+- [Nicolas Gallagher's](http://nicolasgallagher.com/)
   [dotfiles](https://github.com/necolas/dotfiles)
-- [Sindre Sorhus](https://sindresorhus.com/)
-- [Tom Ryder](https://sanctum.geek.nz/)'s
+- [Tom Ryder's](https://sanctum.geek.nz/)
   [dotfiles](https://sanctum.geek.nz/cgit/dotfiles.git/about)
-- [Kevin Suttle](http://kevinsuttle.com/)'s
+- [Kevin Suttle's](http://kevinsuttle.com/)
   [dotfiles](https://github.com/kevinSuttle/dotfiles)
 - @ptb's [dotfiles](https://github.com/ptb/mac-setup)
 
@@ -51,3 +50,6 @@ risk!
 [![](/icns/favicon.png =45x45)](https://briancrink.com)
 [![](/icns/twitter.png =55x55)](https://twitter.com/briancrink)
 [![](/icns/reddit.png =45x45)](https://reddit.com/user/NeonSpaceCandy)
+[<img src="/icns/favicon.png" width="45" height="45">](https://briancrink.com)
+[<img src="/icns/twitter.png" width="55" height="55">](https://twitter.com/briancrink)
+[<img src="/icns/reddit.png" width="45" height="45">](https://reddit.com/user/NeonSpaceCandy)
