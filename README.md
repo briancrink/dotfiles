@@ -8,16 +8,7 @@ Brian's dotfiles
 <img src="/icns/favicon.png" width="30" height="30" align="right"> <a/>
 </h1>
 
-![](/icns/banner.png)
-
-<p>
-  <a href="https://reddit.com/user/NeonSpaceCandy"> <img src="/icns/reddit.png" width="30" height="30" align="right">
-  <a/>
-  <a href="https://twitter.com/briancrink"> <img src="/icns/twitter.png" width="35" height="35" align="right">
-  <a/>
-  <a href="https://briancrink.com"> <img src="/icns/favicon.png" width="30" height="30" align="right">
-  <a/>
-</p>
+[![](/icns/banner.png)](https://briancrink.com)
 
 ## Attribution
 
