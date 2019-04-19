@@ -47,9 +47,6 @@ risk!
 
 ## Brian Crink
 
-[![](/icns/favicon.png =45x45)](https://briancrink.com)
-[![](/icns/twitter.png =55x55)](https://twitter.com/briancrink)
-[![](/icns/reddit.png =45x45)](https://reddit.com/user/NeonSpaceCandy)
 [<img src="/icns/favicon.png" width="45" height="45">](https://briancrink.com)
 [<img src="/icns/twitter.png" width="55" height="55">](https://twitter.com/briancrink)
 [<img src="/icns/reddit.png" width="45" height="45">](https://reddit.com/user/NeonSpaceCandy)
