@@ -22,7 +22,7 @@
 
 1. Open Google Chrome
 2. Open a New Tab
-3. On Mac, Press CMD + <kbd>L</kbd>
+3. On Mac, Press <kbd>⌘ Command</kbd>+<kbd>L</kbd>
 4. Goto `chrome://settings/searchEngines`
 5. Press the <kbd>Add</kbd> button
 6. Type the search engine name, a keyword (1-2 characters), and the URL search
@@ -32,8 +32,8 @@
 
 1. Open Google Chrome
 2. Open a New Tab
-3. On Mac, Press <kbd>CMD</kbd>+<kbd>L</kbd>
+3. On Mac, Press <kbd>⌘ Command</kbd>+<kbd>L</kbd>
 4. Type the keyword (<kbd>g</kbd> for Google)
-5. Press <kbd>space</kbd>
+5. Press <kbd>Space</kbd>
 6. Type in a search query
-7. Press <kbd>enter</kbd>
+7. Press <kbd>Enter</kbd>
