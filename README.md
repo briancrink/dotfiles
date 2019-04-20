@@ -36,6 +36,11 @@ risk!
 
 6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/.jailbreak)
 
+## Tools
+
+- [Autodot](https://github.com/ajmalsiddiqui/autodot)
+- [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
+
 ## Guides
 
 - [archlinux wiki: dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
@@ -54,11 +59,6 @@ risk!
 - [Shell Startup Scripts](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
 - [The Purpose of Bashrc](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
 - [Bashrc Loading Order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
-
-## Tools
-
-- [Autodot](https://github.com/ajmalsiddiqui/autodot)
-- [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
 
 ## Community
 
