@@ -1,0 +1,28 @@
+#!/bin/bash
+alias l="ls -la"       # List in long format, include dotfiles
+alias ld="ls -ld */"    # List in long format, only directories
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
+# Python:
+alias python=python3
+
+# PlistBuddy:
+alias plistbuddy='rlwrap /usr/libexec/PlistBuddy'
+
+# Shortcuts:
+
+# System Events:
+alias setup='source ~/.macos'
+alias theme='source ~/.theme'
+alias clean='source ~/.clean'
+alias update='source ~/.update'
+# alias backup='source ~/.backup' // execute backup workflow -> Drive/Workspace
+
+# Wallpaper:
+alias light=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Light/
+alias dark=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dark/
+alias dusk=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dusk/
+alias neon=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/neonspacecandy/
+alias winter=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/winter/

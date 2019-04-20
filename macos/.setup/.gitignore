@@ -1,0 +1,70 @@
+# Compiled Python files
+*.pyc
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Folders
+Adobe
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+go
+Library
+Movies
+Music
+node_modules
+Pictures
+Public
+
+# Others
+.android
+.cache
+.canopy
+.cisco
+.config
+.cups
+.dotnet
+.enthought
+.freac
+.IdentityService
+.ipython
+.jupyter
+.lein
+.local
+.matplotlib
+.mono
+.npm
+.nuget
+.oh-my-zsh
+.omnisharp
+.oracle_jre_usage
+.pylint.d
+.quicktype-vscode
+.ServiceHub
+.ssh
+.swt
+.templateengine
+.vscode
+.anyconnect
+.bashrc.swo
+.canopy_runtimes
+.CFUserTextEncoding
+.hushlogin
+.lesshst
+.sqltools-setup
+.viminfo
+.wget-hsts
+.zcomp*
+.zsh-update

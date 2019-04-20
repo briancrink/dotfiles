@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+
+# Shell prompt:
+# Screenshot: http://i.imgur.com/EkEtphC.png
+# iTerm2 → Profiles → Text → use *pt Monaco with 1.1 vertical spacing
+
+# fixes the readlink -f error usage on Mac, dependency -> `brew install coreutils`
+export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+
+# Prompt function:
+    # 0. show where you are in the directory tree
+    # 1. show which git branch you’re currently working with
+    # 2. 
+# 256 color variables
+blue=$(tput setaf 39);
+white=$(tput setaf 255);
+purple=$(tput setaf 56);
+pink=$(tput setaf 89);
+green=$(tput setaf 118);
+bold=$(tput bold);
+reset=$(tput sgr0);
+
+# `\[\]` fixes the incorrect cursor placement
+PS1="\[${blue}\]\u";
+PS1+="\[${white}\]@";
+PS1+="\[${pink}\]\h";
+PS1+="\[${purple}\] \W";
+PS1+="\[${pink}\] ";
+PS1+="\[${white}\]-> ";
+PS1+="\[${green}\]";
+export PS1;
+
+# displays system information
+screenfetch

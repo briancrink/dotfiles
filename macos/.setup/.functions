@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# running list of useful functions:
+
+# Open man page as PDF
+function manpdf() {
+ man -t "${1}" | open -f -a /Applications/Preview.app/
+}
+
+# Create a new directory and enter it
+function mk() {
+  mkdir -p "$@" && cd "$@"
+}
+
+function battery {
+    pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
+    }
+alias %='battery'

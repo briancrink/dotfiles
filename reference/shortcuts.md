@@ -42,3 +42,7 @@
 2. type `source ~/.bash_profile`
 3. type `source ~/.zshrc`
 4. test with `echo $SHELL` or `$SHELL --version`
+
+## Photoshop:
+
+1. type `Shift + CMD + OPT + E` to merge all layers

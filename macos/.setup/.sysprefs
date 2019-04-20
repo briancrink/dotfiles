@@ -1,0 +1,424 @@
+#!/usr/bin/env bash
+
+## To Do:
+    # 0. keyboard shortcuts
+    # 1. menubar items ?
+    # 2. trackpad gestures ?
+    # 3. mission control ?
+    # 4. open at login items ?
+    # 5. set accent color
+    # 6. set finder views
+    # 7. open apps to full size {{0, 0}, {1440, 900}} appropriate plist key? -> NSNavPanelExpandedSizeForOpenMode {712, 448}
+    # 8. assign to desktop ? (applescript?)
+
+###############################################################################
+# Trackpad, mouse, hot corners, keyboard, Bluetooth accessories, and input    #
+###############################################################################
+
+
+# 0. Set keyboard shortcuts
+
+# Set Google Chrome keyboard shortcuts
+plistbuddy -c "Set :NSUserKeyEquivalents:Find... @s" ~/Library/Preferences/com.google.Chrome.plist
+plistbuddy -c "Set :NSUserKeyEquivalents:New Tab @n" ~/Library/Preferences/com.google.Chrome.plist
+plistbuddy -c "Set :NSUserKeyEquivalents:Print @''" ~/Library/Preferences/com.google.Chrome.plist
+plistbuddy -c "Set :NSUserKeyEquivalents:Save Page As... @d" ~/Library/Preferences/com.google.Chrome.plist
+plistbuddy -c "Set :NSUserKeyEquivalents:Select Next Tab @~→" ~/Library/Preferences/com.google.Chrome.plist
+plistbuddy -c "Set :NSUserKeyEquivalents:Select Previous Tab @~←" ~/Library/Preferences/com.google.Chrome.plist
+plistbuddy -c "Set :NSUserKeyEquivalents:Show Full History @h" ~/Library/Preferences/com.google.Chrome.plist
+
+# Hot corners
+# Possible values:
+#  0: no-op
+#  2: Mission Control
+#  3: Show application windows
+#  4: Desktop
+#  5: Start screen saver
+#  6: Disable screen saver
+#  7: Dashboard
+# 10: Put display to sleep
+# 11: Launchpad
+# 12: Notification Center
+# Top left screen corner → Mission Control
+defaults write com.apple.dock wvous-bl-corner 11
+defaults write com.apple.dock wvous-bl-modifier 0
+defaults write com.apple.dock wvous-tr-corner 12
+defaults write com.apple.dock wvous-tr-modifier 0
+
+# Increase sound quality for Bluetooth headphones/headsets
+defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 40
+
+# Stop iTunes from responding to the keyboard media keys
+launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist 2> /dev/null
+
+# Set airplay to auto-show in menubar if present
+plistbuddy -c "Set :showInMenuBarIfPresent true" ~/Library/Preferences/com.apple.airplay.plist
+
+# Set sound preferences
+plistbuddy -c "Set :com.apple.sound.beep.flash 0" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :com.apple.mouse.scaling 2" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :com.apple.sound.beep.sound /System/Library/Sounds/Pop.aiff" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :com.apple.sound.beep.volume 0.6" ~/Library/Preferences/.GlobalPreferences.plist
+
+# Set trackpad gestures
+plistbuddy -c "Set :com.apple.trackpad.scaling 3" ~/Library/Preferences/.GlobalPreferences.plist
+    # 1. force click with one finger; false
+    plistbuddy -c "Set :com.apple.trackpad.forceClick false" ~/Library/Preferences/.GlobalPreferences.plist
+    # 2. click with two fingers; true
+    # 3. tap with one finger; false
+    # 4. click; medium
+    # 5. trackpad speed; fast
+    # 6. silent clicking; true
+    # 7. force click with haptic feedback; true
+    # 8. scroll direction, natural; false
+    plistbuddy -c "Set :com.apple.swipescrolldirection false" ~/Library/Preferences/.GlobalPreferences.plist
+    # 9. pinch with two fingers; true
+    # 10. double tap with two fingers; true
+    # 11. rotate with two fingers; true
+    # 12. scroll left or right with two fingers; true
+    # 13. swipe left or right with three fingers; true
+    # 14. swipe left from the right edge with two fingers; true
+    # 15. swipe up with three fingers; true
+    # 16. swipe down with three fingers; true
+    # 17. pinch with thumb and three fingers; true
+    # 18. spread with thumb and three fingers; true
+
+# Set auto-substitution on typing
+plistbuddy -c "Set :NSAutomaticCapitalizationEnabled true" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :NSAutomaticDashSubstitutionEnabled true" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :NSAutomaticPeriodSubstitutionEnabled true" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :NSAutomaticQuoteSubstitutionEnabled true" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :NSAutomaticSpellingCorrectionEnabled true" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :NSAutomaticTextCompletionEnabled true" ~/Library/Preferences/.GlobalPreferences.plist
+
+
+###############################################################################
+# General UX                                                                  #
+###############################################################################
+
+
+# 0. applications open at login
+
+# 1. Set menubar items
+plistbuddy -c "Set :" ~/Library/Preferences/com.apple.systemuiserver.plist
+plistbuddy -c "Delete :'NSStatusItem Preferred Position Item-0'" ~/Library/Preferences/com.apple.spotlight.plist
+# Backup -> plistbuddy -c "Set :NSStatusItem Preferred Position Item-0 617" ~/Library/Preferences/com.apple.spotlight.plist
+
+
+# Set computer name
+scutil --set ComputerName "MacBook Pro"
+scutil --set HostName "MacBook-Pro"
+scutil --set LocalHostName "MacBook-Pro"
+sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string "MacBook-Pro"
+
+# Always show scrollbars (`WhenScrolling`, `Automatic` and `Always`)
+defaults write NSGlobalDomain AppleShowScrollBars -string "Automatic"
+
+# Increase window resize speed for Cocoa applications
+defaults write NSGlobalDomain NSWindowResizeTime -float 0.001
+
+# Disable the “Are you sure you want to open this application?” dialog
+defaults write com.apple.LaunchServices LSQuarantine -bool false
+
+# Set auto hide / show menu to bool true
+plistbuddy -c "Set :_HIHideMenuBar true" ~/Library/Preferences/.GlobalPreferences.plist
+
+
+###############################################################################
+# UI / Wallpaper                                                              #
+###############################################################################
+
+
+# Set highlight color ("0.764700 0.976500 0.568600" -> green, )
+defaults write NSGlobalDomain AppleHighlightColor -string "0.764700 0.976500 0.568600"
+
+# Set accent color
+# Appearance: Graphite
+defaults write -g AppleAquaColorVariant -int 6
+
+# Set desktop folder locations (System Preferences -> Desktop / Screensaver)
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:0 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:0 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dusk'" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:1 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:1 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Light'" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:2 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:2 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dark'" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:3 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:3 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/neonspacecandy'" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:4 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:4 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Forest'" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:5 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:5 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Winter'" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:6 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:6 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/iPad/Landscape'" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:7 String" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:7 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Women'" ~/Library/Preferences/com.apple.systempreferences.plist
+
+# Set UI appearance (Light | Dark)
+plistbuddy -c "Add :AppleInterfaceStyle String" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Set :AppleInterfaceStyle Dark" ~/Library/Preferences/.GlobalPreferences.plist
+
+
+###############################################################################
+# Finder                                                                      #
+###############################################################################
+
+
+# 0. Set toolbar icons
+# 1. Set tags
+# 2. Set favorite tags
+# 3. Set sidebar items bool
+# 4. Set Finder views (defaults, computer, desktop, iCloud Drive, New Window, etc)
+# 5. Set Finder preferences (show items on desktop, New Finder window, open folders in tabs instead of windows)
+
+# When performing a search, search the current folder by default ("SCev" -> Search this Mac, "SCcf" -> Search current folder)
+defaults write com.apple.finder FXDefaultSearchScope -string "SCev"
+
+# Show item info near icons on the desktop and in other icon views
+plistbuddy -c "Set :DesktopViewSettings:IconViewSettings:showItemInfo false" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :FK_StandardViewSettings:IconViewSettings:showItemInfo false" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :StandardViewSettings:IconViewSettings:showItemInfo false" ~/Library/Preferences/com.apple.finder.plist
+
+# Enable snap-to-grid for icons on the desktop and in other icon views
+plistbuddy -c "Set :DesktopViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :FK_StandardViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :StandardViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
+
+# Increase grid spacing for icons on the desktop and in other icon views
+plistbuddy -c "Set :DesktopViewSettings:IconViewSettings:gridSpacing 100" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :FK_StandardViewSettings:IconViewSettings:gridSpacing 100" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :StandardViewSettings:IconViewSettings:gridSpacing 100" ~/Library/Preferences/com.apple.finder.plist
+
+# Increase the size of icons on the desktop and in other icon views
+plistbuddy -c "Set :DesktopViewSettings:IconViewSettings:iconSize 64" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :FK_StandardViewSettings:IconViewSettings:iconSize 64" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Set :StandardViewSettings:IconViewSettings:iconSize 64" ~/Library/Preferences/com.apple.finder.plist
+
+# Set Finder View
+defaults write com.apple.finder GroupBy -string "Kind"
+defaults write com.apple.finder arrangeby -string ""
+defaults write com.apple.finder showItemInfo -bool true
+defaults write com.apple.finder showIconPreview -bool true
+defaults write com.apple.finder labelOnBottom -bool true
+defaults write com.apple.finder ContainerShowSidebar -bool true
+defaults write com.apple.finder ShowSidebar -bool true
+defaults write com.apple.finder ShowStatusBar -bool true
+defaults write com.apple.finder ShowTabView -bool true
+defaults write com.apple.finder ShowToolbar -bool true
+defaults write com.apple.finder WindowBounds -string "{{0, 0}, {1440, 900}}"
+defaults write com.apple.finder 
+
+# Set Desktop as the default location for new Finder windows
+# For other paths, use `PfLo` and `file:///full/path/here/`
+# defaults write com.apple.finder NewWindowTarget -string "PfLo"
+# defaults write com.apple.finder NewWindowTargetPath -string "file://${COMPUTER}/"
+
+# Use list view in all Finder windows by default
+# Four-letter codes for the other view modes: `icnv`, `clmv`, `Flwv`
+defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
+
+# Set sidebar icon size to (1 -> small, 2 -> medium, 3 -> large)
+defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 2
+
+# Save scanned items to scanner
+    # add scanner folder to toolbar -> iCloud Drive -> scanner folder
+    # add .icn to folder
+
+# Save downloaded items (Google Chrome) to downloads
+    # add downloadeds folder to toolbar
+    # add .icn to folder
+
+# Save screenshots to the screenshot
+defaults write com.apple.screencapture location -string "/Volumes/Drive/Workspace/Document/Screenshot"
+# add .icn to folder
+
+# Save screenshots in PNG format (other options: BMP, GIF, JPG, PDF, TIFF)
+defaults write com.apple.screencapture type -string "png"
+
+# Finder: show status bar
+defaults write com.apple.finder ShowStatusBar -bool true
+
+# Finder: show path bar
+defaults write com.apple.finder ShowPathbar -bool true
+
+# Display full POSIX path as Finder window title
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+
+# Finder: show hidden files by default
+defaults write com.apple.finder AppleShowAllFiles -bool true
+
+# Avoid creating .DS_Store files on network or USB volumes
+defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
+defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
+
+# Enable spring loading for directories
+defaults write NSGlobalDomain com.apple.springing.enabled -bool true
+
+# Remove the spring loading delay for directories
+defaults write NSGlobalDomain com.apple.springing.delay -float 0
+
+# Disable the warning when changing a file extension
+defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
+
+# Disable the warning before emptying the Trash
+defaults write com.apple.finder WarnOnEmptyTrash -bool false
+
+# Empty Trash securely by default
+defaults write com.apple.finder EmptyTrashSecurely -bool true
+
+# Show icons for hard drives, servers, and removable media on the desktop
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
+defaults write com.apple.finder ShowHardDrivesOnDesktop -bool false
+defaults write com.apple.finder ShowMountedServersOnDesktop -bool true
+defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
+
+
+###############################################################################
+# Dock                                                                        #
+###############################################################################
+
+
+# Set Dock application placement (dependency -> brew install dockutil)
+dockutil --remove all --no-restart
+dockutil --add '/Applications/iTerm.app' --no-restart
+dockutil --add '/Applications/Visual Studio Code.app' --no-restart
+dockutil --add '/Applications/System Preferences.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Logic Pro X.app' --no-restart
+dockutil --add '/Applications/Live Home 3D Pro.app' --no-restart
+dockutil --add '/Applications/PhotoScapeX.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/TIDAL.app' --no-restart
+dockutil --add '/Applications/Spotify.app' --no-restart
+dockutil --add '/Applications/VOX.app' --no-restart
+dockutil --add '/Applications/Google Play Music Desktop Player.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Google Chrome.app' --no-restart
+dockutil --add '/Applications/Trello.app' --no-restart
+dockutil --add '/Applications/News.app' --no-restart
+dockutil --add '/Applications/Twitterrific.app' --no-restart
+dockutil --add '/Applications/Slack.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Messages.app' --no-restart
+dockutil --add '/Applications/Signal.app' --no-restart
+dockutil --add '/Applications/Spark.app' --no-restart
+dockutil --add '/Applications/FaceTime.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Contacts.app' --no-restart
+dockutil --add '/Applications/Calendar.app' --no-restart
+dockutil --add '/Applications/Photos.app' --no-restart
+dockutil --add '/Applications/Books.app' --no-restart
+dockutil --add '/Applications/App Store.app' --no-restart
+dockutil --add '/Applications/Epic Games Launcher.app'
+
+# Set the icon size of Dock items to 36 pixels
+defaults write com.apple.dock tilesize -int 50
+
+# Speed up Mission Control animations
+defaults write com.apple.dock expose-animation-duration -float 0.1
+
+# Don’t show recent applications in Dock
+defaults write com.apple.dock show-recents -bool false
+
+# Automatically hide and show the Dock
+defaults write com.apple.dock autohide -bool true
+
+# Set Dock auto-hide animation delay to 0
+defaults write com.apple.dock autohide-delay -int 0
+
+
+###############################################################################
+# Desktop Space                                                               #
+###############################################################################
+
+
+# Disable Dashboard
+defaults write com.apple.dashboard mcx-disabled -bool true
+
+# Don’t show Dashboard as a Space
+defaults write com.apple.dock dashboard-in-overlay -bool false
+
+# Don’t automatically rearrange Spaces based on most recent use
+defaults write com.apple.dock mru-spaces -bool false
+
+# Group windows by application in Mission Control
+# (i.e. use the old Exposé behavior instead)
+defaults write com.apple.dock expose-group-by-app -bool true
+
+# Mission Control
+    # 2. Set "when switching to an application, switch to a space with open windows for the application" to bool true
+    # 4. Set "Displays have separate spaces" to bool true
+
+
+###############################################################################
+# Power                                                                       #
+###############################################################################
+
+
+# Battery
+
+# # Computer sleep: 10 min
+# sudo pmset -b sleep 10
+
+# # Display sleep: 5 min
+# sudo pmset -b displaysleep 5
+
+# # Put the hard disk(s) to sleep when possible: 10 min
+# sudo pmset -b disksleep 10
+
+# # Slightly dim the display when using this power source
+# sudo pmset -b lessbright 1
+
+# # Automatically reduce brightness before display goes to sleep
+# sudo pmset -b halfdim 1
+
+# # Restart automatically if the computer freezes
+# sudo pmset -b panicrestart 15
+
+# # Power Adapter
+
+# # Computer sleep: 30 min
+# sudo pmset -c sleep 30
+
+# # Display sleep: 10 min
+# sudo mset -c displaysleep 10
+
+# # Put the hard disk(s) to sleep when possible: 10 min
+# sudo pmset -c disksleep 10
+
+# # Wake for network access
+# sudo pmset -c womp 0
+
+# # Automatically reduce brightness before display goes to sleep
+# sudo pmset -c halfdim 1
+
+# # Start up automatically after a power failure
+# sudo pmset -c autorestart 1
+
+# # Restart automatically if the computer freezes
+# sudo pmset -c panicrestart 15
+
+
+###############################################################################
+# Defaults                                                                    #
+###############################################################################
+
+
+# Set default web browser to Google Chrome (dependency -> brew install defaultbrowser)
+defaultbrowser chrome
+
+# remove default apps
+# rm -r PhotoBooth.app && Mail.app && `Image Capture`.app && Notes.app && Chess.app && Reminders.app && Dashboard.app && `Quick Time Player`.app && `Voice Memos`.app
+
+
+###############################################################################
+# Save                                                                        #
+###############################################################################
+
+# ~required for persistence~
+plistbuddy -c "Save" ~/Library/Preferences/.GlobalPreferences.plist
+plistbuddy -c "Save" ~/Library/Preferences/com.apple.systempreferences.plist
+plistbuddy -c "Save" ~/Library/Preferences/com.apple.dock.plist
+plistbuddy -c "Save" ~/Library/Preferences/com.apple.finder.plist
+plistbuddy -c "Save" ~/Library/Preferences/com.apple.airplay.plist
+plistbuddy -c "Save" ~/Library/Preferences/com.apple.spotlight.plist

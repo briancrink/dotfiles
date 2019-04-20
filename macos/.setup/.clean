@@ -1,0 +1,7 @@
+# clean up brew
+brew cleanup
+
+# dot_clean
+dot_clean -n /Volumes/Drive/
+
+# reset the folder .icns

@@ -1,0 +1,62 @@
+#!/usr/bin/env bash
+
+# Setup processes:
+    # 0. ~require admin password~
+    # 1. SysPrefs
+    # 2. Finder
+    # 3. install (dependencies -> packages -> applications)
+    # 4. vs code (restore -> preferences -> keyboard shortcuts -> install extensions)
+    # 5. macSpace (setup desktop spaces -> assign apps to desktops -> theme)
+    # 6. ~prompt for a restart~ (necessary for PlistBuddy modifications)
+
+## Setup Dependencies:
+    # 0. Partitioned GUID Table (macOS, Drive, Manjaro, Linux)
+    # 1. rEfind (boot manager)
+    # 2. Google Drive -> Drive -> Workspace
+    # 3. bash (updated to v3.7)
+    # 4. iTerm2 (terminal emulator)
+    # 5. dotfiles (pulled from git)
+    # 6. Package Dependencies (in order of requirement)
+
+################################ Step 0 ################################
+
+# Close any open System Preferences panes, to prevent them from overriding
+# settings we’re about to change
+osascript -e 'tell application "System Preferences" to quit'
+
+# Ask for the administrator password upfront
+sudo -v
+
+# Keep-alive: update existing `sudo` time stamp until `.macos` has finished
+while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
+
+################################ Step 1 ################################
+
+# runs .sysprefs script
+if [ -f ~/.sysprefs ]; then
+    source ~/.sysprefs
+fi
+
+################################ Step 2 ################################
+
+
+
+################################ Step 3 ################################
+
+
+
+################################ Step 4 ################################
+
+
+
+################################ Step 5 ################################
+
+# runs .theme script
+if [ -f ~/.theme ]; then
+    source ~/.theme
+fi
+
+################################ Step 6 ################################
+
+# System requires reboot for changes to take effect
+osascript -e 'tell application "System Events" to restart'

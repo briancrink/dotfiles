@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+
+# Setup processes:
+    # 0. Finder View (com.apple.finder.plist -> convert to .. -> export to > ..)
+    # 1. System Preferences (com.apple.***.plist -> ~convert to PlistBuddy bash commands~ -> ~export to~ -> ~/.SysPrefs)
+    # 2. Packages (brew list installed -> export to -> ~/.install)
+    # 3. VS Code (backup sync-settings -> git gists)
+    # 4. dotfiles (upload to git)
+    # 5. Drive (workspace -> iCloud Drive -> Documents -> zipFile)
+    # 6. ~prompt notification~ (notication center -> backup has completed)
+
+## Setup Dependencies:
+    # 0. figure out what type finder is being exported to (dotfile | applescript)
+    # 1. figure out how to conver plist settings into plistbuddy bash commands and export to dotfile
+    # 2. figure out which command lists all installed packages (brew and non-brew) and export to dotfile
+    # 3. confirm vs code settings are being auto-uploaded to gist
+    # 4. figure out the best method to upload all dotfiles to git
+    # 5. clean up the process of backing up workspace folder
+    # 6. clean up the process of notifying the backup process has completed *successfully*
+
+################################ Step 0 ################################
+
+
+################################ Step 1 ################################
+
+
+
+################################ Step 2 ################################
+
+
+
+################################ Step 3 ################################
+
+
+
+################################ Step 4 ################################
+
+
+
+################################ Step 5 ################################
+
+
+
+################################ Step 6 ################################

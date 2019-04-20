@@ -1,0 +1,6 @@
+sudo mkdir /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+sh /Volumes/Drive/Workspace/Workflow/Setup/Mac/Boot\ Manager/rEFInd/rEFInd\ 0.11.2/refind-install
+rm -rf /Volumes/EFI/EFI/refind/icons-backup
+rm -rf /Volumes/EFI/EFI/refind/refind.conf-sample
+diskutil unmount /Volumes/EFI
