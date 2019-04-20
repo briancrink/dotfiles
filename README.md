@@ -1,14 +1,14 @@
 <h1>
 Brian's dotfiles
 <a href="https://reddit.com/user/NeonSpaceCandy">
-<img src="/.icns/reddit.png" width="20" height="20" align="right"> <a/>
+<img src=".asset/reddit.png" width="20" height="20" align="right"> <a/>
 <a href="https://twitter.com/briancrink">
-<img src="/.icns/twitter.png" width="25" height="25" align="right"> <a/>
+<img src=".asset/twitter.png" width="25" height="25" align="right"> <a/>
 <a href="https://briancrink.com/">
-<img src="/.icns/favicon.png" width="20" height="20" align="right"> <a/>
+<img src=".asset/favicon.png" width="20" height="20" align="right"> <a/>
 </h1>
 
-[![](/.icns/banner.png)](https://briancrink.com/software)
+[![](.asset/banner.png)](https://briancrink.com/software)
 
 ## Attribution
 
@@ -24,17 +24,17 @@ risk!
 
 ## Setup
 
-1. [Install](https://github.com/briancrink/dotfiles/tree/master/install)
+1. [MacOS](https://github.com/briancrink/dotfiles/tree/master/.macos)
 
-2. [MacOS](https://github.com/briancrink/dotfiles/tree/master/macos)
+2. [Install](https://github.com/briancrink/dotfiles/tree/master/.setup)
 
-3. [Session Buddy](https://github.com/briancrink/dotfiles/tree/master/session_buddy)
+3. [Session Buddy](https://github.com/briancrink/dotfiles/tree/master/.sessionbuddy)
 
-4. [Search Engines](https://github.com/briancrink/dotfiles/tree/master/search_engine)
+4. [Search Engines](https://github.com/briancrink/dotfiles/tree/master/.searchengine)
 
-5. [Music](https://github.com/briancrink/dotfiles/tree/master/music)
+5. [Music](https://github.com/briancrink/dotfiles/tree/master/.music)
 
-6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/jailbreak)
+6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/.jailbreak)
 
 ## Guides
 

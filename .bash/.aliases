@@ -11,8 +11,6 @@ alias python=python3
 # PlistBuddy:
 alias plistbuddy='rlwrap /usr/libexec/PlistBuddy'
 
-alias %='battery'
-
 # Shortcuts:
 
 # System Events:
