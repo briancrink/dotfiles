@@ -43,16 +43,16 @@ risk!
 
 ## Guides
 
-- [archlinux wiki: dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
-- [GitHub's Unofficial Guide to dotfiles](https://dotfiles.github.io/)
+- [Archlinux Wiki: Dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
+- [GitHub's Unofficial Guide to Dotfiles](https://dotfiles.github.io/)
 - [How To Use and Modify Dotfiles: Corey Schafer](https://youtube.com/watch?v=c5RZWDLqifA)
-- [Getting started with Dries Vints dotfiles](https://medium.com/@driesvints/getting-started-with-dotfiles-76bf046d035c)
-- [Getting started with Holman's dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
-- [Getting started with Lars Kappert's dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
-- [Getting started with Mohammed Ajmal Siddiqui's dotfiles: Pt. 1](https://medium.freecodecamp.org/dive-into-dotfiles-part-1-e4eb1003cff6)
+- [Getting Started with Dries Vints Dotfiles](https://medium.com/@driesvints/getting-started-with-dotfiles-76bf046d035c)
+- [Dotfiles are Meant to be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+- [Getting Started with Lars Kappert's Dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+- [Getting Started with Mohammed Ajmal Siddiqui's Dotfiles: Pt. 1](https://medium.freecodecamp.org/dive-into-dotfiles-part-1-e4eb1003cff6)
   [Pt. 2](https://medium.freecodecamp.org/dive-into-dotfiles-part-2-6321b4a73608)
-- [Hassan Ali's Guide to Managing dotfiles](https://hackernoon.com/learn-how-to-manage-dotfiles-b8b62c6c5491)
-- [Victor Augusteo's Method to Syncing dotfiles](https://medium.com/@augusteo/simplest-way-to-sync-dotfiles-and-config-using-git-14051af8703a)
+- [Hassan Ali's Guide to Managing Dotfiles](https://hackernoon.com/learn-how-to-manage-dotfiles-b8b62c6c5491)
+- [Victor Augusteo's Method to Syncing Dotfiles](https://medium.com/@augusteo/simplest-way-to-sync-dotfiles-and-config-using-git-14051af8703a)
 
 ## Reference
 
