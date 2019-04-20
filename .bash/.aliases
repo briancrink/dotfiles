@@ -12,6 +12,7 @@ alias python=python3
 alias plistbuddy='rlwrap /usr/libexec/PlistBuddy'
 
 # Shortcuts:
+alias %='battery'
 
 # System Events:
 alias setup='source ~/.macos'

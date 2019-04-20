@@ -25,6 +25,11 @@ if [ -f ~/.aliases ]; then
     source ~/.aliases
 fi
 
+# runs .functions script
+if [ -f ~/.functions ]; then
+    source ~/.functions
+fi
+
 # if [ -f ~/.update ]; then
 #     source ~/.update
 # fi
