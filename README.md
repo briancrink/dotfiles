@@ -26,9 +26,18 @@ risk!
 
 - [archlinux wiki: dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
 - [GitHub's Unofficial Guide to dotfiles](https://dotfiles.github.io/)
-- [Getting Started with dotfiles: Lars Kappert](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
-- [An introduction to Dotfiles: Mohammed Ajmal Siddiqui](https://medium.freecodecamp.org/dive-into-dotfiles-part-1-e4eb1003cff6)
-- [How to make your dotfile management a painless affair: Mohammed Ajmal Siddiqui](https://medium.freecodecamp.org/dive-into-dotfiles-part-2-6321b4a73608)
+- [Getting started with Dries Vints dotfiles](https://medium.com/@driesvints/getting-started-with-dotfiles-76bf046d035c)
+- [Getting started with Holman's dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+- [Getting started with Lars Kappert's dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+- [Getting started with Mohammed Ajmal Siddiqui's dotfiles: Pt. 1](https://medium.freecodecamp.org/dive-into-dotfiles-part-1-e4eb1003cff6)
+  [Pt. 2](https://medium.freecodecamp.org/dive-into-dotfiles-part-2-6321b4a73608)
+- [Hassan Ali's Guide to Managing dotfiles](https://hackernoon.com/learn-how-to-manage-dotfiles-b8b62c6c5491)
+- [Victor Augusteo's Method to Syncing dotfiles](https://medium.com/@augusteo/simplest-way-to-sync-dotfiles-and-config-using-git-14051af8703a)
+
+## Tools
+
+- [Autodot](https://github.com/ajmalsiddiqui/autodot)
+- [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
 
 ## Setup
 
@@ -44,25 +53,20 @@ risk!
 
 6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/jailbreak)
 
-## More dotfiles
+## Dotfile Community
 
-- [Mathias dotfiles](https://github.com/mathiasbynens/dotfiles/)
-- [Ben Alman's](http://benalman.com/)
-  [dotfiles](https://github.com/cowboy/dotfiles)
-- [Cătălin Mariș](https://github.com/alrra)
-  [dotfiles](https://github.com/alrra/dotfiles)
-- [Gianni Chiappetta's](https://butt.zone/)
-  [dotfiles](https://github.com/gf3/dotfiles)
-- [Jan Moesen's](http://jan.moesen.nu/)
-  [dotfiles](https://gist.github.com/1156154)
-- [Lauri ‘Lri’ Ranta's](http://lri.me/)
-  [dotfiles](http://osxnotes.net/defaults.html)
-- [Matijs Brinkhuis's](https://matijs.brinkhu.is/)
-  [dotfiles](https://github.com/matijs/dotfiles)
-- [Nicolas Gallagher's](http://nicolasgallagher.com/)
-  [dotfiles](https://github.com/necolas/dotfiles)
-- [Tom Ryder's](https://sanctum.geek.nz/)
-  [dotfiles](https://sanctum.geek.nz/cgit/dotfiles.git/about)
-- [Kevin Suttle's](http://kevinsuttle.com/)
-  [dotfiles](https://github.com/kevinSuttle/dotfiles)
-- @ptb's [dotfiles](https://github.com/ptb/mac-setup)
+- [@ptb's dotfiles](https://github.com/ptb/mac-setup)
+- [Ben Alman's dotfiles](https://github.com/cowboy/dotfiles)
+- [Cătălin Mariș dotfiles](https://github.com/alrra/dotfiles)
+- [Dries Vints dotfiles](https://github.com/driesvints/dotfiles):
+  [Brewfile](https://github.com/driesvints/dotfiles/blob/master/Brewfile)
+- [Gianni Chiappetta's dotfiles](https://github.com/gf3/dotfiles)
+- [Jan Moesen's dotfiles](https://gist.github.com/1156154)
+- [Kevin Suttle's dotfiles](https://github.com/kevinSuttle/dotfiles)
+- [Lars Kappert's dotfiles](https://github.com/webpro/dotfiles)
+- [Lauri ‘Lri’ Ranta's dotfiles](http://osxnotes.net/defaults.html)
+- [Mathias Bynens dotfiles](https://github.com/mathiasbynens/dotfiles/)
+- [Matijs Brinkhuis's dotfiles](https://github.com/matijs/dotfiles)
+- [Mohammed Ajmal Siddiqui's dotfiles](https://github.com/ajmalsiddiqui/dotfiles)
+- [Nicolas Gallagher's dotfiles](https://github.com/necolas/dotfiles)
+- [Tom Ryder's dotfiles](https://sanctum.geek.nz/cgit/dotfiles.git/about)
