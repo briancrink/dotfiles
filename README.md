@@ -22,23 +22,6 @@ this repository, review the code, and remove things you don’t want or need.
 Don’t blindly use my settings unless you know what that entails. Use at your own
 risk!
 
-## Guides
-
-- [archlinux wiki: dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
-- [GitHub's Unofficial Guide to dotfiles](https://dotfiles.github.io/)
-- [Getting started with Dries Vints dotfiles](https://medium.com/@driesvints/getting-started-with-dotfiles-76bf046d035c)
-- [Getting started with Holman's dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
-- [Getting started with Lars Kappert's dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
-- [Getting started with Mohammed Ajmal Siddiqui's dotfiles: Pt. 1](https://medium.freecodecamp.org/dive-into-dotfiles-part-1-e4eb1003cff6)
-  [Pt. 2](https://medium.freecodecamp.org/dive-into-dotfiles-part-2-6321b4a73608)
-- [Hassan Ali's Guide to Managing dotfiles](https://hackernoon.com/learn-how-to-manage-dotfiles-b8b62c6c5491)
-- [Victor Augusteo's Method to Syncing dotfiles](https://medium.com/@augusteo/simplest-way-to-sync-dotfiles-and-config-using-git-14051af8703a)
-
-## Tools
-
-- [Autodot](https://github.com/ajmalsiddiqui/autodot)
-- [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
-
 ## Setup
 
 1. [Install](https://github.com/briancrink/dotfiles/tree/master/install)
@@ -53,6 +36,30 @@ risk!
 
 6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/jailbreak)
 
+## Guides
+
+- [archlinux wiki: dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
+- [GitHub's Unofficial Guide to dotfiles](https://dotfiles.github.io/)
+- [How To Use and Modify Dotfiles: Corey Schafer](https://youtube.com/watch?v=c5RZWDLqifA)
+- [Getting started with Dries Vints dotfiles](https://medium.com/@driesvints/getting-started-with-dotfiles-76bf046d035c)
+- [Getting started with Holman's dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+- [Getting started with Lars Kappert's dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+- [Getting started with Mohammed Ajmal Siddiqui's dotfiles: Pt. 1](https://medium.freecodecamp.org/dive-into-dotfiles-part-1-e4eb1003cff6)
+  [Pt. 2](https://medium.freecodecamp.org/dive-into-dotfiles-part-2-6321b4a73608)
+- [Hassan Ali's Guide to Managing dotfiles](https://hackernoon.com/learn-how-to-manage-dotfiles-b8b62c6c5491)
+- [Victor Augusteo's Method to Syncing dotfiles](https://medium.com/@augusteo/simplest-way-to-sync-dotfiles-and-config-using-git-14051af8703a)
+
+## Reference
+
+- [Shell Startup Scripts](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
+- [The Purpose of Bashrc](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
+- [Bashrc Loading Order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
+
+## Tools
+
+- [Autodot](https://github.com/ajmalsiddiqui/autodot)
+- [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
+
 ## Community
 
 - [@ptb's dotfiles](https://github.com/ptb/mac-setup)
@@ -64,6 +71,7 @@ risk!
 - [Jan Moesen's dotfiles](https://gist.github.com/1156154)
 - [Kevin Suttle's dotfiles](https://github.com/kevinSuttle/dotfiles)
 - [Lars Kappert's dotfiles](https://github.com/webpro/dotfiles)
+- [Lars Kapperts's awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Lauri ‘Lri’ Ranta's dotfiles](http://osxnotes.net/defaults.html)
 - [Mathias Bynens dotfiles](https://github.com/mathiasbynens/dotfiles/)
 - [Matijs Brinkhuis's dotfiles](https://github.com/matijs/dotfiles)

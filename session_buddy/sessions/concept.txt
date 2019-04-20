@@ -1222,32 +1222,6 @@ Shell
       Understanding Bash
       https://linuxjournal.com/content/understanding-bash-elements-programming
 
-   Dotfiles
-
-      Dotfiles | Github
-      https://dotfiles.github.io/
-
-      mathias Dotfiles | Github
-      https://github.com/mathiasbynens/dotfiles/blob/master/.macos
-
-      Web Pro | Github
-      https://github.com/webpro/awesome-dotfiles
-
-      Dotfiles: Getting Started | Medium
-      https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
-
-      Bashrc | Stack Exchange
-      https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
-
-      Shell Startup Scripts
-      https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html
-
-      zshrc bashrc Dotfiles
-      https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/
-
-      Dotfiles | Youtube
-      https://youtube.com/watch?v=c5RZWDLqifA
-
    Editor
 
       MacOS Hex Editor | Stackoverflow
