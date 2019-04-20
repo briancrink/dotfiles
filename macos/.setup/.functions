@@ -15,4 +15,3 @@ function mk() {
 function battery {
     pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
     }
-alias %='battery'
