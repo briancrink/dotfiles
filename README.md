@@ -53,7 +53,7 @@ risk!
 
 6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/jailbreak)
 
-## Dotfile Community
+## Community
 
 - [@ptb's dotfiles](https://github.com/ptb/mac-setup)
 - [Ben Alman's dotfiles](https://github.com/cowboy/dotfiles)
