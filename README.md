@@ -39,6 +39,7 @@ risk!
 ## Tools
 
 - [Autodot](https://github.com/ajmalsiddiqui/autodot)
+- [Fileicon](https://github.com/mklement0/fileicon#manual-installation)
 - [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
 
 ## Guides
