@@ -4,4 +4,7 @@ brew cleanup
 # dot_clean
 dot_clean -n /Volumes/Drive/
 
-# reset the folder .icns
+# reset the folder .icns (sudo npm install fileicon -g)
+fileicon set ~/Downloads ~/.dotfiles/.icns/downloads.icns
+fileicon set /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner.icns
+fileicon set /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot.icns

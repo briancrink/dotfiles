@@ -1,41 +1,11 @@
+# Update App Store apps
+sudo softwareupdate -i -a
 
-# Clone repo on new system:
-git clone https://github.com/webpro/dotfiles.git
-cd dotfiles
-
-# Packgages storing settings in dotfiles:
-.gitconfig for Git
-.vimrc for Vim
-
-
-# Dotfiles tree structure
-.
-├── git
-│ ├── .gitconfig
-│ └── .gitignore_global
-├── install.sh
-├── osxdefaults.sh
-├── runcom
-│ ├── .bash_profile
-│ └── .inputrc
-└── system
- ├── .alias
- ├── .env
- ├── .function
- ├── .path
- └── .prompt
-
- # .bash_profile:
-    # small file that links to other dotfiles that fulfill a dedicated purpose
+# Appends Homebrew <desired_shell> filepath to etc/shells to set as default
+echo /usr/local/bin/bash | sudo tee -a /etc/shells
 
 # Sourcing all files in a folder
-for DOTFILE in `find /Users/<user_name>/.dotfiles`
+for DOTFILE in `~/.dotfiles`
 do
   [ -f “$DOTFILE” ] && source “$DOTFILE”
 done
-
-# .inputrc:
-    # 
-
-# .alias:
-    # shorter syntax for long-form commands

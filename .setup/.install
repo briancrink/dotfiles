@@ -27,7 +27,6 @@ npm install -g typescript
 npm install -g eslint
 npm install -g npmlist
 
-
 # install terminal environment
 brew install -g tree
 brew install screenfetch
