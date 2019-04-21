@@ -4,4 +4,8 @@
 
 # Steps
 
-1. `git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles`
+1. type `git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles`to
+   clone the folder to the local home directory.
+2. type `source ~/.dotfiles/.setup/.setup` to begin the setup process.
+3. Once finished, type `reboot` to restart the machine.
+4. Done.
