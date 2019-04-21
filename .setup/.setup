@@ -4,8 +4,20 @@ sudo softwareupdate -i -a
 # Appends Homebrew <desired_shell> filepath to etc/shells to set as default
 echo /usr/local/bin/bash | sudo tee -a /etc/shells
 
+if [ -f ~/.dotfiles/.setup/.install ]; then
+    source ~/.dotfiles/.setup/.install
+fi
+
+if [ -f ~/.dotfiles/.setup/.update ]; then
+    source ~/.dotfiles/.setup/.update
+fi
+
+if [ -f ~/.dotfiles/.setup/.clean ]; then
+    source~/.dotfiles/.setup/.clean
+fi
+
 # Sourcing all files in a folder
-for DOTFILE in `~/.dotfiles`
-do
-  [ -f “$DOTFILE” ] && source “$DOTFILE”
-done
+# for DOTFILE in `~/.dotfiles`
+# do
+#   [ -f “$DOTFILE” ] && source “$DOTFILE”
+# done
