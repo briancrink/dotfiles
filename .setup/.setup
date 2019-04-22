@@ -1,36 +1,40 @@
-# Ask for the administrator password upfront
+# # * Ask for the administrator password upfront
 sudo -v
 
-# Update App Store apps
+# # * Update App Store apps
 sudo softwareupdate -i -a
 
-# Symlink dotfiles -> ~/
+# # * Symlink dotfiles -> ~/
 if [ -f ~/.dotfiles/.setup/.symlink ]; then
     source ~/.dotfiles/.setup/.symlink;
 fi
 
-# Source bash_profile to set aliases
+# # * Source bash_profile to set aliases
 if [ -f ~/.bash_profile ]; then
     source ~/.bash_profile;
 fi
 
+# # * Installs Homebrew, dependencies, mac apps, vs code extensions, font
 if [ -f ~/.install ]; then
     install;
 fi
 
+# # * Sets default shell to Homebrew's shell
 if [ -f ~/.brewshell ]; then
     brewshell;
 fi
 
+# # * Update dependencies, installed packages, filetype associations, boot manager
 if [ -f ~/.update ]; then
     update;
 fi
 
+# # * Cleans brew packages, removes ._files, resets folder .icns
 if [ -f ~/.clean ]; then
     clean;
 fi
 
-# # * will reboot once completed
+# # * Sets system preferences, theme -- will reboot once completed!
 if [ -f ~/.macos ]; then
     macos;
 fi
