@@ -36,3 +36,6 @@ update
 
 # (source ~/.clean)
 clean
+
+# (source ~/.macos)
+macos
