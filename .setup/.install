@@ -16,7 +16,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 # # * brew cask info java
 
 pip install tensorflow
-
+npm install -g fileicon
 npm install -g node-gyp
 npm install -g bootstrap
 npm install -g @angular/cli@latest

@@ -21,7 +21,7 @@
 
 ################################ Step 1 ################################
 
-# Backup icons (make sure fileicon is intalled -> sudo npm install fileicon -g)
+# Backup icons
 fileicon get -f ~/Downloads ~/.dotfiles/.icns/downloads
 fileicon get -f /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner
 fileicon get -f /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot
