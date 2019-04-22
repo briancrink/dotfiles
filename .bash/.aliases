@@ -23,6 +23,7 @@ alias clean='source ~/.clean'
 alias update='source ~/.update'
 alias backup='source ~/.backup'
 alias rEfind='source ~/.rEFInd'
+alias brewshell='source ~/.brewshell'
 alias reload='source ~/.bash_profile'
 
 # Wallpaper:
