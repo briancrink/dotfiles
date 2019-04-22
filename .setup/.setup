@@ -38,4 +38,5 @@ update
 clean
 
 # (source ~/.macos)
+# # * will reboot once completed
 macos
