@@ -5,8 +5,8 @@ sudo -v
 sudo softwareupdate -i -a
 
 # Symlink dotfiles -> ~/
-if [ -f ~/.dotfiles/setup/.symlink ]; then
-    source ~/.dotfiles/setup/.symlink;
+if [ -f ~/.dotfiles/.setup/.symlink ]; then
+    source ~/.dotfiles/.setup/.symlink;
 fi
 
 # Source bash_profile to set aliases
