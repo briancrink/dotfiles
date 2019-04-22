@@ -9,7 +9,7 @@
 
 ## Setup Dependencies:
     # 0. figure out what type finder is being exported to (dotfile | applescript)
-    # 1. figure out how to conver plist settings into plistbuddy bash commands and export to dotfile
+    # 1. figure out how to convert plist settings into plistbuddy bash commands and export to dotfile
     # 2. figure out which command lists all installed packages (brew and non-brew) and export to dotfile
     # 3. confirm vs code settings are being auto-uploaded to gist
     # 4. figure out the best method to upload all dotfiles to git
