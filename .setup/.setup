@@ -1,3 +1,6 @@
+# Ask for the administrator password upfront
+sudo -v
+
 # Update App Store apps
 sudo softwareupdate -i -a
 

@@ -9,6 +9,8 @@ fi
 # Install Oh-My-Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
+# Copy ssh keys -> ~/.ssh
+
 # When Installing MySQL
 # # * mysqladmin -u root password <yourpassword>
 
@@ -16,6 +18,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 # # * brew cask info java
 
 pip install tensorflow
+
 npm install -g fileicon
 npm install -g node-gyp
 npm install -g bootstrap
