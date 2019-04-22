@@ -13,5 +13,8 @@ npm update -g
 # sudo gem update —system
 # sudo gem update
 
-# Update boot manager
-source ~/.rEFInd
+# Update filetypes
+duti ~/.duti
+
+# Update boot manager (source ~/.rEFInd)
+rEFInd

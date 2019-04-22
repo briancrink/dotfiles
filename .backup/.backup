@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 # Setup processes:
     # 0. Finder View (com.apple.finder.plist -> convert to .. -> export to > ..)
     # 1. System Preferences (com.apple.***.plist -> ~convert to PlistBuddy bash commands~ -> ~export to~ -> ~/.SysPrefs)
@@ -28,6 +26,8 @@ fileicon get -f ~/Downloads ~/.dotfiles/.icns/downloads
 fileicon get -f /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner
 fileicon get -f /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot
 
+# Backup Brewfile (force overwrite)
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
 
 ################################ Step 2 ################################
 

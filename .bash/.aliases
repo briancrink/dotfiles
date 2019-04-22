@@ -15,11 +15,14 @@ alias plistbuddy='rlwrap /usr/libexec/PlistBuddy'
 alias %='battery'
 
 # System Events:
-alias setup='source ~/.macos'
+alias setup='source ~/.setup'
+alias macos='source ~/.macos'
 alias theme='source ~/.theme'
 alias clean='source ~/.clean'
 alias update='source ~/.update'
-# alias backup='source ~/.backup' // execute backup workflow -> Drive/Workspace
+alias backup='source ~/.backup'
+alias rEfind='source ~/.rEFInd'
+alias reload='source ~/.bash_profile'
 
 # Wallpaper:
 alias light=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Light/

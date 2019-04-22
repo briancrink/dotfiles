@@ -1,22 +1,22 @@
-# install package managers
+# Install Homebrew
 usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew tap caskroom/cask
-brew tap caskroom/versions
 
-# install shells
+# Install brew dependencies (use --file to specify a path different from cd)
+if [ -f ~/Brewfile ]; then
+brew bundle --global;
+fi
+
+# Install Oh-My-Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
-brew install fish
 
-# install dev tools
-brew install mysql
-brew cask install hex-fiend
-brew install -g node
-brew install leiningen
-brew install clojure
-brew install sbdchd/macchanger/macchanger
-brew install eye-d3
-brew install mp3val
+# When Installing MySQL
+# # * mysqladmin -u root password <yourpassword>
+
+# Java (identify version)
+# # * brew cask info java
+
 pip install tensorflow
+
 npm install -g node-gyp
 npm install -g bootstrap
 npm install -g @angular/cli@latest
@@ -27,16 +27,11 @@ npm install -g eslint
 npm install -g npmlist
 
 # install terminal environment
-brew install -g tree
-brew install screenfetch
-brew install cmatrix
 brew install emacs-plus
 brew tap d12frosted/emacs-plus
 brew linkapps emacs-plus
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 brew tap caskroom/fonts && brew cask install font-source-code-pro
-brew install defaultbrowser
-brew install dockutil
 
 # install apps
 brew cask install google-chrome appzapper google-backup-and-sync boom boom-3d etcher firefox geektool github marshallofsound-google-play-music-player gpgsuite gptfdisk iterm2 java keka mysqlworkbench netbeans origami-studio postman ssh-tunnel-manager signal calibre spotify tidal vox steam transmission drawio visual-studio-code unlox vlc
@@ -50,16 +45,19 @@ cp -r ~/Library/Mobile\ Documents/iCloud~com~belightsoft~LiveHome3D/Documents/Li
 cp -r ~/Library/Mobile\ Documents/com~apple~CloudDocs/Logic\ Pro\ X/Logic\ Pro\ X.app /Applications/
  cp -r ~/Library/Mobile\ Documents/com~apple~CloudDocs/Open\ Audible/OpenAudible.app /Applications/
 
-# install fonts (system = /Library/Fonts) (user = ~/Library/Fonts)
+# install fonts (system = /Library/Fonts | user = ~/Library/Fonts)
 for font in ~/.dotfiles/.font/{avantgardepro,gotham,hack,operator-mono,sourcecodepro}/*.{otf,ttf}; do
   [ -f $font ] && cp $font ~/Library/Fonts;
 done;
 unset font;
 
+# install font collections (Bug - does not copy collection with a space in the name)
+for fontCollection in ~/.dotfiles/.font/FontCollections/*; do
+  [ -f $fontCollection ] && cp $fontCollection ~/Library/FontCollections;
+done;
+unset fontCollection;
+
 # install vs code extensions
 code --install-extension 1tontech.angular-material 2gua.rainbow-brackets GregorBiswanger.json2ts MarinhoBrandao.Angular2Tests NG-42.ng-fortytwo-vscode-extension P-de-Jong.vscode-html-scss SolarLiner.linux-themes UVBrain.Angular2 aaron-bond.better-comments abusaidm.html-snippets af4jm.vscode-icalendar Angular.ng-template AngularDoc.angulardoc-vscode asilverio.blackai-visual-studio-code austin.code-gnu-global benjaminBlonde.monokai-alt christian-kohler.npm-intellisense christian-kohler.path-intellisense CoenraadS.bracket-pair-colorizer cometeer.spacemacs cyrilletuzi.angular-schematics
 danwahlin.angular2-snippets dbaeumer.vscode-eslint devboosts.angular-productivity-pack
 dunstontc.dark-plus-syntax eamodio.gitlens EditorConfig.EditorConfig eg2.tslint eg2.vscode-npm-script esbenp.prettier-vscode formulahendry.auto-close-tag formulahendry.auto-rename-tag formulahendry.code-runner formulahendry.vscode-mysql IBM.output-colorizer idleberg.applescript idleberg.hopscotch infinity1207.angular2-switcher jakethashi.vscode-angular2-emmet jamesnorton.continuum jasonnutter.search-node-modules johnpapa.angular-essentials johnpapa.Angular2 johnpapa.winteriscoming KnisterPeter.vscode-commitizen leizongmin.node-module-intellisense liqube.theme-liqube-dark loiane.angular-extension-pack mads-hartmann.bash-ide-vscode mechatroner.rainbow-csv Mikael.Angular-BeastCode mimarec.swagger-doc-viewer mitaki28.vscode-clang moppitz.vscode-extension-auto-import mrmlnc.vscode-scss ms-python.python ms-vscode.cpptools ms-vscode.csharp ms-vsliveshare.vsliveshare msjsdiag.debugger-for-chrome natewallace.angular2-inline octref.vetur PKief.material-icon-theme pranaygp.vscode-css-peek quantum.quantum-devkit-vscode quicktype.quicktype rbbit.typescript-hero rebornix.project-snippets ritwickdey.LiveServer robertohuertasm.vscode-icons rogalmic.bash-debug shinnn.stylelint SimonTest.simontest skacekachna.win-opacity spikespaz.vscode-smoothtype steoates.autoimport stringham.move-ts tomoki1207.pdf waderyan.nodejs-extension-pack xabikos.JavaScriptSnippets zhouronghui.propertylist
-
-# clean brew
-brew clean

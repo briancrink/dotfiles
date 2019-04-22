@@ -1,0 +1,1 @@
+cp -v -r --remove-destination -s ~/.dotfiles/.{backup,bash,brew,duti,gitconfig,macos,mysql,plistbuddy,python,rEFInd,setup,zsh}/. ~/

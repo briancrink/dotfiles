@@ -1,148 +1,3 @@
-ls
-./transmission.sh | prettier
-transmission.sh | prettier
-package-lock.json | prettier
-echo package-lock.json | prettier
-prettier -h
-ls
-cd /Volumes/Drive/
-ls
-cd /Workspace/Workflow/Setup/
-cd /Workspace/Workflow/Setup
-cd Workspace/Workflow/Setup
-ls
-cd Feed
-ls
-printf tv.md | prettier -markdwon
-printf tv.md | prettier -markdown
-printf tv.md
-cat tv.md
-cat tv.md | prettier
-prettier -h
-cat tv.md | prettier --parser markdown
-tv.md | prettier --parser markdown
-tv.md | prettier --parser html
-cat tv.md | prettier --parser html
-ls
-cd ~
-ls
-cat package-lock.json | prettier -parser json
-cat package-lock.json | prettier --parser json
-cat package-lock.json
-cat package-lock.json | prettier --parser json
-clear
-killall SystemUIServer
-brew install go
-go
-go get github.com/Rican7/define
-define steezy
-define --help
-go env
-go
-go list
-go install deine
-go install define
-go build
-Go development
-go get golang.org/x/tools/cmd/godoc
-go get github.com/golang/lint/golint
-go build
-go define
-go env
-<script src="https://gist.github.com/MatteoRagni/04491e868f300164904e.js"></script>
-define
-go get github.com/Rican7/define
-define
-sudo ls /var/root/Library/Preferences/com.apple.CoreBrightness.plist
-ls /var/root/Library/Preferences/com.apple.CoreBrightness.plist
-sudo defaults read /var/root/Library/Preferences/com.apple.CoreBrightness.plist
-sudo defaults read /var/root/Library/Preferences/com.apple.CoreBrightness.plist
-sudo defaults read /var/root/Library/Preferences/com.apple.CoreBrightness.plist
-sudo defaults read /var/root/Library/Preferences/com.apple.CoreBrightness.plist
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Quotient-Remainder.c -o Quotient-Remainder && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Quotient-Remainder
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Test-Even.c -o Test-Even && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Test-Even
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Test-Even.c -o Test-Even && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Test-Even
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Quotient-Remainder.c -o Quotient-Remainder && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Quotient-Remainder
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Quotient-Remainder.c -o Quotient-Remainder && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Quotient-Remainder
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Test-Even.c -o Test-Even && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Test-Even
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Test-Even.c -o Test-Even && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Test-Even
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/" && gcc Test-Even.c -o Test-Even && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Exercise/Assignment1/"Test-Even
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-cat test.sh
-ls
-cd Playground
-ls
-cat ./test.sh
-./test.sh
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/bin/sh "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/tempCodeRunnerFile.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-clear
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-clear
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py"
-cleawr
-clear
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Exercise/assignment3/t.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Exercise/assignment3/t.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Exercise/assignment3/t.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
 /usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
 /usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
 /usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
@@ -499,3 +354,148 @@ sudo rm -r /Applications/Xcode.app
 sudo /Developer/Library/uninstall-devtools --mode=all
 clean
 update
+/Users/briancrink/.dotfiles/.duti/.duti; exit
+/usr/local/Cellar/bash/5.0.3/bin/bash; exit
+brew
+reload
+source ~/.bash_profile
+reload
+clear
+update
+clean
+clear
+reload
+if [ -f ~/.dotfiles/.test/.test ]; then   cp ~/.dotfiles/.test/.test ~/.test; fi
+if [ -f "$foo" ]; then   cp ~/.dotfiles/.test/.test ~/.test; fi
+cp "$foo" ~/.test
+foo="~/.dotfiles/.test/.test"
+cp "$foo" ~/.test
+foo="~/.dotfiles/.test/.test"; cp "$foo" ~/.test
+foo="~/.dotfiles/.test/.test"; cp $foo ~/.test
+foo=~/.dotfiles/.test/.test; cp $foo ~/.test
+foo=~/.dotfiles/.test/.test; bar=~/.test; cp $foo $bar
+foo=~/.dotfiles/.test/.test;
+bar=~/.test;
+if [ -f $foo ]; then   cp $foo $bar; fi
+foo=~/.dotfiles/.test/.test
+bar=~/.test
+if [ -f $foo ]; then   cp $foo $bar; fi
+{foo=~/.dotfiles/.test/.test
+bar=~/.test
+if [ -f $foo ]; then   cp $foo $bar; fi}
+dir=.dotfiles/.test
+for file in ~/$dir; do   [ -r "$file" ] && [ -f "$file" ] && cp ~/$dir/"$file" ~/"$file"; done;
+clear
+dir=.dotfiles/.test;
+for file in ~/$dir; do   [ -r $file ] && [ -f $file ] && cp ~/$dir/$file ~/$file; done;
+dir=.dotfiles/.test;
+for file in ~/$dir; do   cp ~/$dir/$file ~/$file; done;
+dir=.dotfiles/.test;
+for file in ~/$dir; do   cp `~/$dir/$file` ~/$file; done;
+dir=.dotfiles/.test;
+for file in ~/$dir; do   cp ~/$dir/"$file" ~/"$file"; done;
+dir=.dotfiles/.test;
+for file in ~/"$dir"; do   cp ~/"$dir"/"$file" ~/"$file"; done;
+dir=.dotfiles/.test;
+for file in ~/.dotfiles/.test; do   cp ~/"$dir"/"$file" ~/"$file"; done;
+dir=.dotfiles/.test;
+for file in ~/.dotfiles/.test; do   cp ~/$dir/$file ~/$file; done;
+dir=~/.dotfiles/.test;
+for file in ~/.dotfiles/.test; do   cp $dir/$file ~/$file; done;
+dir=~/.dotfiles/.test;
+for file in ~/.dotfiles/.test/*; do   cp $dir/$file ~/$file; done;
+dir=~/.dotfiles/.test;
+for file in ~/.dotfiles/.test/$file; do   cp $dir/$file ~/$file; done;
+for file in ~/.dotfiles/.{test}; do   echo $file; done;
+foo=~/.dotfiles/.{test,asset}
+bar=~/$file
+for file in $foo; do   cp $foo $bar; done;
+%
+for file in ~/.dotfiles/.{test}; do   [ -r "$file" ] && [ -f "$file" ] && echo $file; done;
+%
+for file in ~/.dotfiles/.test; do   [ -r "$file" ] && [ -f "$file" ] && echo "$file"; done;
+for file in ~/.dotfiles/.test; do   [ -r "$file" ] && [ -f "$file" ] && [ echo "$file" ]; done;
+for file in ~/.dotfiles/.test; do   [ -r "$file" ] && [ -f "$file" ] && cp "$file" ~/; done;
+foo=~/.dotfiles/.test/.test
+bar=~/.test
+if [ -f $foo ]; then   cp $foo $bar; fi
+for file in ~/.dotfiles/.test; do   [ -r "$file" ] && [ -f "$file" ] && cp -v "$file" ~/; done;
+for file in ~/.dotfiles/.test/; do   [ -r "$file" ] && [ -f "$file" ] && cp -v "$file" ~/; done;
+for file in ~/.dotfiles/.test/; do   [ -r "$file" ] && [ -f "$file" ] && cp -v $file ~/.test; done;
+for file in ~/.dotfiles/.test/; do   [ -r "$file" ] && [ -f "$file" ] && cp $file ~/.test; done;
+for file in ~/.dotfiles/.test/; do   [ -r "$file" ] && [ -f "$file" ] && cp "$file" ~/Desktop/test; done;
+for file in ~/.dotfiles/.test/; do   [ -r $file ] && [ -f $file ] && cp $file ~/Desktop/test; done;
+for i in ~/.dotfiles/.{test}; do    echo $if; done
+for i in ~/.dotfiles/.{test}; do    echo $i; done
+for i in ~/.dotfiles/{.test}; do    echo $i; done
+for i in ~/.dotfiles/{.test,.brew,.asset}; do    echo $i; done
+for i in ~/.dotfiles/.{test,brew,asset}; do    echo $i; done
+for i in ~/.dotfiles/.{test,brew,asset}; do    [ -r "$file" ] && [ -f "$file" ] && cp $i ; done
+for i in ~/.dotfiles/.{test,brew,asset}; do    [ -r "$i" ] && [ -f "$i" ] && cp $i ; done
+for i in ~/.dotfiles/.{test,brew,asset}; do    [ -r $i ] && [ -f $i ] && cp $i ; done
+for i in ~/.dotfiles/.{test,brew,asset}; do    cp $i ; done
+for i in ~/.dotfiles/.{test,brew,asset}; do    cp $i ~/Desktop/; done
+for i in ~/.dotfiles/.{test,brew,asset}; do    cp -r $i ~/Desktop/; done
+for i in ~/.dotfiles/.{test,brew,asset}/; do    cp -r -f $i ~/Desktop/; done
+for i in ~/.dotfiles/.{test,brew,asset}/*; do    cp -r -f $i ~/Desktop/; done
+for i in ~/.dotfiles/.{test,brew,asset}/*; do    cp -r $i ~/Desktop/; done
+for i in ~/.dotfiles/.{test,brew,asset}/*; do    cp -r $i ~/Desktop; done
+for i in ~/.dotfiles/.{test,brew,asset}/*; do    cp -x -r $i ~/Desktop; done
+for i in ~/.dotfiles/.{test,brew,asset}/*; do    cp -v -r $i ~/Desktop; done
+for i in ~/.dotfiles/.{test,mysql,asset}/*; do    cp -v -r $i ~/Desktop; done
+for i in ~/.dotfiles/.{test,mysql,asset}/*; do    cp -v -r -a $i ~/Desktop; done
+man cp
+/Users/briancrink/.dotfiles/.macos/.sysprefs; exit
+/Users/briancrink/.dotfiles/.bash/.prompt; exit
+cp -r ~/.dotfiles/.test/ ~/
+cp -r ~/.dotfiles/.test/.test ~/
+cp -r ~/.dotfiles/.test/* ~/
+cp -r ~/.dotfiles/.test/.* ~/
+cp -r ~/.dotfiles/.test/* ~/testing
+cp -v -r ~/.dotfiles/.test/* ~/testing
+cp -v -rT ~/.dotfiles/.test/* ~/$1
+cp -v -rT ~/.dotfiles/.test/* ~/$
+cp -v -rT ~/.dotfiles/.test/* ~/
+cp -rT ~/.dotfiles/.test/* ~/
+cp -v -rT ~/.dotfiles/.test/* ~/Desktop
+cp -v -r ~/.dotfiles/.test/. ~/Desktop
+cp -v -r ~/.dotfiles/.{test,mysql,brew,asset}/. ~/Desktop
+cp -v -r ~/.dotfiles/.{backup,bash,brew,macos,mysql,plistbuddy,python,setup,zsh}/. ~/Desktop
+source="~/.dotfiles/.{backup,bash,brew,macos,mysql,plistbuddy,python,setup,zsh}/."
+dest="~/"
+cp -v -r $source $dest
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+reload
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+d="~"; ls $d
+d="$HOME"; ls $d
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+source ~/.dotfiles/testing.sh
+brew install duti
+man duti

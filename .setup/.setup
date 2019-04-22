@@ -1,23 +1,35 @@
 # Update App Store apps
 sudo softwareupdate -i -a
 
-# Appends Homebrew <desired_shell> filepath to etc/shells to set as default
-echo /usr/local/bin/bash | sudo tee -a /etc/shells
-
-if [ -f ~/.dotfiles/.setup/.install ]; then
-    source ~/.dotfiles/.setup/.install
+# Symlink dotfiles -> ~/
+if [ -f ~/.dotfiles/setup/.symlink ]; then
+    source ~/.dotfiles/setup/.symlink;
 fi
 
-if [ -f ~/.dotfiles/.setup/.update ]; then
-    source ~/.dotfiles/.setup/.update
+# Source bash_profile to set aliases
+if [ -f ~/.bash_profile ]; then
+    source ~/.bash_profile;
 fi
 
-if [ -f ~/.dotfiles/.setup/.clean ]; then
-    source~/.dotfiles/.setup/.clean
-fi
+# (source ~/.install)
+install
 
-# Sourcing all files in a folder
-# for DOTFILE in `~/.dotfiles`
-# do
-#   [ -f “$DOTFILE” ] && source “$DOTFILE”
-# done
+# Save Homebrew’s installed location.
+BREW_PREFIX=$(brew --prefix)
+
+# Switch to using brew-installed shell as default shell
+# # * echo /usr/local/bin/bash | sudo tee -a /etc/shells
+if ! fgrep -q "${BREW_PREFIX}/bin/bash" /etc/shells; then
+  echo "${BREW_PREFIX}/bin/bash" | sudo tee -a /etc/shells;
+  chsh -s "${BREW_PREFIX}/bin/bash";
+fi;
+
+# Install GNU core utilities (those that come with macOS are outdated)
+# # * Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
+ln -s "${BREW_PREFIX}/bin/gsha256sum" "${BREW_PREFIX}/bin/sha256sum"
+
+# (source ~/.update)
+update
+
+# (source ~/.clean)
+clean

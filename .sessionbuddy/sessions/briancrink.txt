@@ -1008,6 +1008,9 @@ Content
       Basenotes
       https://basenotes.net/
 
+      Filetypes
+      https://fileinfo.com/filetypes/common
+
    Saved
 
       Cicada3301
