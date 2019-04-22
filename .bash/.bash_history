@@ -1,61 +1,3 @@
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/tempCodeRunnerFile.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-/usr/bin/env bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.sh"
-man grep
-cd /Volumes/Drive/Workspace/Profession/Software/Tool/Shell ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.1.0/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50249 /Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py 
-cd /Volumes/Drive/Workspace/Profession/Software/Tool/Shell ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.1.0/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50258 /Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py 
-cd /Volumes/Drive/Workspace/Profession/Software/Tool/Shell ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.1.0/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50283 /Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Playground/test.py 
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/linear sort.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/factorial recursion.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/factorial recursion.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/factorial recursion.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/factorial recursion.py"
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.1.0/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 62814 /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/.vscode/launch.json 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.1.0/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 62823 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/selection sort.py" 
-clear
-clear
-update
-clean
-clear
-clear
-cd "/Volumes/Drive/Workspace/Profession/Software/Concept/Operating Systems/Playground/" && gcc h4.c -o h4 && "/Volumes/Drive/Workspace/Profession/Software/Concept/Operating Systems/Playground/"h4
-cd "/Volumes/Drive/Workspace/Profession/Software/Concept/Operating Systems/Playground/" && gcc h4.c -o h4 && "/Volumes/Drive/Workspace/Profession/Software/Concept/Operating Systems/Playground/"h4
-brew list installed
-brew search list
-brew list
-mysql
-root mysql
-man mysql
-mysql --user=root password=yD72AMn3BAF34rmqfNgU
-mysql --user=root yD72AMn3BAF34rmqfNgU
-man mysql
-mysql --user=root --password
 mysql --user=root --password
 clear
 mysql -uroot -pyour_password -Ddatabase <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
@@ -499,3 +441,61 @@ source ~/.dotfiles/testing.sh
 source ~/.dotfiles/testing.sh
 brew install duti
 man duti
+/usr/local/Cellar/bash/5.0.7/bin/bash; exit
+reload
+duti -x html
+duti -x .
+duti -x code
+duti -x /Applications/Visual\ Studio\ Code.app
+duti -x .c
+duti -s .c com.microsoft.VSCode
+duti -x .c
+duti -s com.microsoft.VSCode .c all
+duti -x .c
+duti -s com.microsoft.VSCode . all
+duti -s .html com.google.Chrome all
+duti -s com.google.Chrome .html all
+duti -x .r
+source ~/.dotfiles/testing.sh
+source ~/.duti
+source ~/.dotfiles/testing.sh
+source ~/.duti
+duti -x html
+source ~/.dotfiles/testing.sh
+duti -x avi
+duti -x .avi
+duti -x txt
+duti -x css 
+duti -x md
+duti -x mkv
+duti -x mp4
+duti -x avi
+`locate lsregister` -dump | grep '[[:space:]]uti:'                  | awk '{ print $2 }' | sort | uniq
+reload
+source ~/.dotfiles/testing.sh
+source ~/.duti
+source ~/.dotfiles/testing.sh
+source ~/.duti
+source ~/.dotfiles/testing.sh
+source ~/.duti
+duti -x source-code
+duti -x public.source-code
+duti -x public.unix-executable
+source ~/.dotfiles/testing.sh
+source ~/.duti
+duti ~/.duti
+duti ~/.duti
+duti -s ~/.duti
+duti -x csv
+duti -x log
+duti -x cs
+duti -x pl
+source ~/.dotfiles/.setup/.symlink
+duti ~/.duti
+duti -x pl
+duti -x m
+source ~/.dotfiles/.setup/.symlink
+duti ~/.duti
+duti -x m
+brew bundle dump --force --file=~/.dotfiles/.brew/Brewfile
+brew bundle Brewfile

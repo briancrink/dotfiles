@@ -14,18 +14,23 @@ if [ -f ~/.bash_profile ]; then
     source ~/.bash_profile;
 fi
 
-# (source ~/.install)
-install
+if [ -f ~/.install ]; then
+    install;
+fi
 
-# (source ~/.brewshell)
-brewshell
+if [ -f ~/.brewshell ]; then
+    brewshell;
+fi
 
-# (source ~/.update)
-update
+if [ -f ~/.update ]; then
+    update;
+fi
 
-# (source ~/.clean)
-clean
+if [ -f ~/.clean ]; then
+    clean;
+fi
 
-# (source ~/.macos)
 # # * will reboot once completed
-macos
+if [ -f ~/.macos ]; then
+    macos;
+fi
