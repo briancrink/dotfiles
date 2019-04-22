@@ -30,10 +30,8 @@ while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
 ################################ Step 1 ################################
 
-# runs .sysprefs script
-if [ -f ~/.sysprefs ]; then
-    source ~/.sysprefs
-fi
+# (source ~/.sysprefs)
+sysprefs
 
 ################################ Step 2 ################################
 
@@ -49,10 +47,8 @@ fi
 
 ################################ Step 5 ################################
 
-# runs .theme script
-if [ -f ~/.theme ]; then
-    source ~/.theme
-fi
+# (source ~/.theme)
+theme
 
 ################################ Step 6 ################################
 
