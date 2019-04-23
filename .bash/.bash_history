@@ -1,96 +1,3 @@
-clear
-mysql -uroot -pyour_password -Ddatabase <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
-mysql --root --password <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
-mysql --user=root --password <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
-mysql --user=root --password <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
-mysql --user=root --password <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
-clear
-/bin/bash "/Volumes/Drive/Workspace/Profession/Software/Tool/Shell/Exercise/assignment2/twice.sh"
-who > users
-grep '[A-Z]'
-grep 'UNIX' *
-grep 'UNIX' * | print
-echo (grep 'UNIX' *)
-grep 'UNIX' * | echo
-clear
-brew list
-code test.txt
-ssh bcrin2@uiscad5.uis.edu
-ssh bcrin2@uisacad5.uis.edu
-ssh bcrin2@uisacad5.uis.edu
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:projects/airline/airlined.sql
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:airlined.sql
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:/projects/airline/airlined.sql
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:~/projects/airline/airlined.sql
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:~/projects/airline airlined.sql
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:~/projects/airline/ airlined.sql
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database\ Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:~/projects/airline/airlined.sql
-scp /Volumes/Drive/Workspace/Profession/Software/Concept/Database\ Systems/Exercise/AirlineDB/airlined.sql bcrin2@uisacad5.uis.edu:~/projects/airline/airlined.sql
-mysql
-man mysql
-man mysql
-clear
-ls
-cd Exercise/AirlineDB
-ls
-clear
-source .mysql
-clear
-mysql --user=root --password
-mysql --user=root --password
-mysql -u root -p
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-level=`pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-2)}'`
-python -u "/Volumes/Drive/Workspace/Profession/Business/Startup/AccessEdu/content/software/algorithm/stable-marriage/stable_matching.py"
-ssh bcrin2@uisacad5.uis.edu
-level=`pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-2)}'`
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-ls
-cd Exercise/AirlineDB/questions
-ls
-clear
-ls
-mysql -u bcrin2 -D bcrin2 -p
-mysql --user=root --password
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc char.c -o char && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"char
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc char.c -o char && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"char
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63832 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63880 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63900 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 65438 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py"
-python -u "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py"
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63432 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63658 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63677 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63686 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63714 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-cd /Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/briancrink/.vscode/extensions/ms-python.python-2019.2.5558/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63795 "/Volumes/Drive/Workspace/Profession/Software/Concept/Algorithms/Playground/binary search.py" 
-python
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc factorial.c -o factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"factorial
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc factorial.c -o factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"factorial
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass by.c -o pass by && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass by
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass by.c -o pass by && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass by
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass_by.c -o pass_by && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass_by
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc factorial.c -o factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"factorial
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc tempCodeRunnerFile.c -o tempCodeRunnerFile && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"tempCodeRunnerFile
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass_by.c -o pass_by && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass_by
-dotnet restore && dotnet build
-dotnet --version
-brew install openssl
-brew upgrade openssl
-dotnet
-dotnet --version
-dotnet pass_by.c
-dotnet run pass_by.c
-ls
-cd Playground
-ls
-dotnet run pass_by.c
-dotnet run pass_by
-dotnet new console -o pass_by
-dotnet new console -o pass_by
 cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass.c -o pass && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass
 cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass.c -o pass && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass
 cd
@@ -580,3 +487,15 @@ brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
 brew search xcode
 python --version
 brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+trash -esy
+reload
+clear
+brew search etcher
+brew cask reinstall --force balenaetcher
+brew bundle dump --force --file=~/.dotfiles/.brew/Brewfile
+rm -r /Applications/Etcher.app 
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+trash -esy
+xcode-select --install
+trash -esy
+reload
