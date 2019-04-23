@@ -1,4 +1,27 @@
-# Custom Search Engines
+# Setting up Google Chrome
+
+## Extensions
+
+| Extension               | Chrome Store                                                                                         |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1Password               | https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk |
+| AdBlocker Ultimate      | https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof        |
+| Award Wallet            | https://awardwallet.com/                                                                             |
+| Flipboard               | https://chrome.google.com/webstore/detail/%2B-flip-it/fbmppankahdodchhioklnbcmohehhjoa               |
+| Honey                   | https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj                     |
+| HTTPS Everywhere        | https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp          |
+| Infinity New Tab        | https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg |
+| IP Address Information  | https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa |
+| JSON View               | https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc                  |
+| Magic Enhancer          | https://chrome.google.com/webstore/detail/magic-enhancer-for-youtub/koiaokdomkpjdgniimnkhgbilbjgpeak |
+| Pigg                    | https://chrome.google.com/webstore/detail/piggy-automatic-coupons-c/hfapbcheiepjppjbnkphkmegjlipojba |
+| Pinterest               | https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic     |
+| Privacy Badger          | https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp            |
+| Scrum for Trello        | https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje          |
+| Session Buddy           | https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko             |
+| TamperMonkey            | https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo              |
+| Turn off the lights     | https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn       |
+| Wikipedia Reading Lists | https://chrome.google.com/webstore/detail/wikipedia-reading-lists/nngeaaogaldpfiedmmpicdnoddglbkmi   |
 
 ## Search Engines
 
@@ -18,7 +41,7 @@
 | Wikipedia      | w       | http://en.wikipedia.org/w/index.php?title=Special:Search&search=%s                                                                                                                                                                                           |
 | YouTube        | y       | http://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch                                                                                                                                                                       |
 
-## Setup
+## Setting up The Search Engine
 
 1. Open Google Chrome
 2. Open a New Tab
@@ -28,7 +51,7 @@
 6. Type the search engine name, a keyword (1-2 characters), and the URL search
    query
 
-## Steps
+## Using Search Engines
 
 1. Open Google Chrome
 2. Open a New Tab
