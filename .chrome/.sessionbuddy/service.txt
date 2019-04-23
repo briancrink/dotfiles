@@ -27,6 +27,9 @@ Content
       Google Drive
       https://google.com/drive/
 
+      Backup & Sync
+      https://www.google.com/drive/download/backup-and-sync/
+
       ICloud
       https://icloud.com/
 
@@ -109,6 +112,9 @@ Content
 
    Migration
 
+      OpenAudible
+      https://github.com/openaudible/openaudible
+
       Podsync
       https://podsync.net/
 
@@ -120,11 +126,17 @@ Content
 
    Music
 
+      Boom
+      https://www.globaldelight.com/boom/index.php
+
       Deezer
       https://deezer.com/us/
 
       Google Play Music
       https://play.google.com/music
+
+      Google Music Player
+      https://www.googleplaymusicdesktopplayer.com/
 
       Pandora
       https://pandora.com/
@@ -138,8 +150,14 @@ Content
       Tidal
       https://tidal.com
 
+      Tidal Desktop
+      https://tidal.com/us/download
+
       Vox
       https://vox.rocks/
+
+      WavesNx
+      https://www.waves.com/nx/mac-windows-app
 
    Podcast
 
@@ -271,9 +289,76 @@ Content
       Vimeo
       https://vimeo.com
 
+      VLC
+      https://www.videolan.org/vlc/download-macosx.html
+
       YouTube
       https://youtube.com
 
+   Web Browser
+
+      Firefox
+      https://www.mozilla.org/en-US/firefox/new/
+
+      Google Chrome
+      https://www.google.com/chrome/
+
+   Web Extension
+
+      1Password
+      https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk
+
+      Adblocker
+      https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof
+
+      AwardWallet
+      https://awardwallet.com/
+      
+      Flipboard
+      https://chrome.google.com/webstore/detail/%2B-flip-it/fbmppankahdodchhioklnbcmohehhjoa
+
+      Honey
+      https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj
+
+      HTTPS Everywhere
+      https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp
+
+      Infinity New Tab
+      https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg
+
+      IP Address Information
+      https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa
+
+      JSON View
+      https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
+
+      Magic Enhancer
+      https://chrome.google.com/webstore/detail/magic-enhancer-for-youtub/koiaokdomkpjdgniimnkhgbilbjgpeak
+
+      Pigg
+      https://chrome.google.com/webstore/detail/piggy-automatic-coupons-c/hfapbcheiepjppjbnkphkmegjlipojba
+
+      Pinterest
+      https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic
+
+      Privacy Badger
+      https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
+
+      Scrum for Trello
+      https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje
+
+      Session Buddy
+      https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko
+
+      TamperMonkey
+      https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+      Turn of the Lights
+      https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn
+
+      Wikipedia Reading Lists
+      https://chrome.google.com/webstore/detail/wikipedia-reading-lists/nngeaaogaldpfiedmmpicdnoddglbkmi
+   
 Development
 
    Audio
@@ -294,29 +379,6 @@ Development
 
       SolidWorks
       https://solidworks.com/
-
-   Home Design
-
-      Homestyler
-      https://homestyler.com/floorplan/
-
-      Tiny House | Homestyler
-      https://homestyler.com/floorplan/?assetId=914ff688-7bae-4870-8f54-c75cbcce112c
-
-      Planner 5D
-      https://planner5d.com/
-
-      Floor Planner
-      https://floorplanner.com/
-
-      Live Home 3D
-      https://livehome3d.com/
-
-      Sweet Home 3D
-      https://sweethome3d.com/download.jsp
-
-      Live Interior 3D Pro
-      https://mac-torrent-download.net/application/graphics-design/live-interior-3d-pro-2-9-8/
 
    Continuous Delivery
 
@@ -356,6 +418,14 @@ Development
       Cloud Foundry
       https://cloudfoundry.org
 
+   Color Scheme
+
+      Coolors
+      https://coolors.co/
+
+      256 Color Chart
+      https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg
+
    Package Manager
 
       Homebrew | Mac OS
@@ -363,8 +433,14 @@ Development
 
    Database
 
+      MySQL Workbench
+      https://dev.mysql.com/downloads/workbench/?utm_source=tuicool
+
       Sequel Pro
       https://www.sequelpro.com/
+
+      SQL Workbench
+      https://www.sql-workbench.eu/downloads.html
 
       TablePlus
       https://tableplus.io/
@@ -397,6 +473,20 @@ Development
       TestDisk
       https://cgsecurity.org/wiki/TestDisk_Download
 
+   Data Visualization
+
+      D3.js library
+      https://d3js.org/
+
+      D3js
+      https://d3js.org/d3.v4.min.js
+
+      Data Viz Project
+      https://datavizproject.com/
+
+      KnightLab Projects
+      https://knightlab.northwestern.edu/projects/
+
    Debugging
 
       Debuggex
@@ -410,6 +500,35 @@ Development
       Fill Text
       https://filltext.com/
 
+   Domain
+
+      Edu Domain
+      https://net.educause.edu/search.htm
+
+      Domain
+      https://domain.com/
+
+      1&1
+      https://1and1.com/
+
+      NameCheap
+      https://namecheap.com/
+
+      Name
+      https://name.com/
+
+      GoDaddy
+      https://godaddy.com/
+
+      DreamHost
+      https://dreamhost.com/
+
+      Dyn
+      https://dyn.com/
+
+      NoIP
+      https://noip.com/
+
    Encryption
 
       GNU Privacy Guard
@@ -420,6 +539,46 @@ Development
 
       Gpg4win
       https://gpg4win.org/download.html
+
+   Font
+
+      Google Font
+      https://google.com/fonts
+
+      Font Awesome
+      https://fontawesome.com/
+
+      FontForge
+      https://fontforge.github.io/en-US/
+
+      Font conversion
+      https://transfonter.org/ttc-unpack
+
+   Home Design
+
+      Homestyler
+      https://homestyler.com/floorplan/
+
+      Tiny House | Homestyler
+      https://homestyler.com/floorplan/?assetId=914ff688-7bae-4870-8f54-c75cbcce112c
+
+      Planner 5D
+      https://planner5d.com/
+
+      Floor Planner
+      https://floorplanner.com/
+
+      Live Home 3D Pro
+      https://livehome3d.com/
+
+      Sketchup
+      https://www.sketchup.com/
+
+      Sweet Home 3D
+      https://sweethome3d.com/download.jsp
+
+      Live Interior 3D Pro
+      https://mac-torrent-download.net/application/graphics-design/live-interior-3d-pro-2-9-8/
 
    IDE
 
@@ -435,8 +594,14 @@ Development
       IntelliJ IDEA
       https://jetbrains.com/idea/download/#section=mac
 
+      Visual Studio
+      https://www.visualstudio.com/vs/mac/
+
       Visual Studio Code
       https://code.visualstudio.com/
+
+      Xamarin
+      https://www.visualstudio.com/xamarin/
 
       Xcode
       https://developer.apple.com/xcode/
@@ -463,10 +628,79 @@ Development
       SpaCy
       https://spacy.io/
 
+   Logo
+
+      99Designs
+      https://99designs.com/
+
+      CrowdSpring
+      https://crowdspring.com/
+
+      Icon Composer
+      https://github.com/lemonmojo/IconComposer2x
+
+      ShareIcon
+      https://shareicon.net/
+
    Monitoring
 
       Glances
       https://github.com/nicolargo/glances
+
+   Operating System
+
+      Ubuntu
+      https://ubuntu.com/
+
+      Debian
+      https://debian.org/
+
+      Linux Mint
+      https://linuxmint.com/
+
+      Kali
+      https://kali.org/
+
+      TrueOS
+      https://trueos.org/
+
+      MacOS Mojave Beta
+      https://zoneactu.fr/2018/06/04/telecharger-et-installer-macos-mojave-10-14-developer-beta-1-liens-dmg
+
+      MacOS Mojave
+      https://itunes.apple.com/us/app/macos-10-14-beta/id1354523149?ls=1&mt=12
+
+      Manjaro
+      https://manjaro.org/get-manjaro/
+
+      Deepin
+      https://deepin.org/en/download/
+
+      Deepin DL
+      https://sourceforge.net/projects/deepin/files/latest/download?source=files
+
+      Peppermint
+      https://peppermintos.com/
+
+      Raspbian
+      https://raspberrypi.org/downloads/
+
+      Rainmeter
+      https://rainmeter.net/
+
+      Red Hat
+      https://redhat.com/
+
+      Vmware
+      https://vmware.com/
+
+      Windows 10
+      https://microsoft.com/en-us/software-download/windows10ISO
+
+   Protocol
+
+      SSH Tunnel Manager
+      https://www.tynsoe.org/v2/stm/
 
    Regex
 
@@ -483,6 +717,30 @@ Development
 
       Fish
       https://fishshell.com/
+
+   System
+
+      Docker
+      https://docker.com/
+
+      Kubernetes
+      https://kubernetes.io/
+
+      Maestro-ng
+      https://github.com/signalfx/maestro-ng
+
+      Mesos
+      https://mesos.apache.org/
+
+   Testing
+
+      Postman
+      https://www.getpostman.com/apps
+
+   Terminal
+
+      iTerm2
+      https://www.iterm2.com/downloads.html
 
    Tool
 
@@ -621,70 +879,31 @@ Development
       Webpy
       https://webpy.org/docs/0.3/tutorial
 
-   Operating System
+   UI / UX
 
-      Vmware
-      https://vmware.com/
+      Adobe
+      https://adobe.com/
 
-      Ubuntu
-      https://ubuntu.com/
+      Adobe Creative Cloud
+      https://adobe.com/creativecloud/catalog/desktop.html?promoid=PTYTQ77P&mv=other
 
-      Debian
-      https://debian.org/
+      Craft
+      https://invisionapp.com/craft
 
-      Linux Mint
-      https://linuxmint.com/
+      Invision
+      https://invisionapp.com
 
-      Kali
-      https://kali.org/
+      MockPlus iDoc
+      https://idoc.mockplus.com/?hmsr=blog
 
-      TrueOS
-      https://trueos.org/
+      Origami Studio
+      https://origami.design/
 
-      MacOS Mojave Beta
-      https://zoneactu.fr/2018/06/04/telecharger-et-installer-macos-mojave-10-14-developer-beta-1-liens-dmg
+      Photoscape X
+      https://itunes.apple.com/us/app/photoscape-x-photo-editor/id929507092?mt=12
 
-      MacOS Mojave
-      https://itunes.apple.com/us/app/macos-10-14-beta/id1354523149?ls=1&mt=12
-
-      Manjaro
-      https://manjaro.org/get-manjaro/
-
-      Deepin
-      https://deepin.org/en/download/
-
-      Deepin DL
-      https://sourceforge.net/projects/deepin/files/latest/download?source=files
-
-      Peppermint
-      https://peppermintos.com/
-
-      Raspbian
-      https://raspberrypi.org/downloads/
-
-      Rainmeter
-      https://rainmeter.net/
-
-      Red Hat
-      https://redhat.com/
-
-      Windows 10
-      https://microsoft.com/en-us/software-download/windows10ISO
-
-   System
-
-      Docker
-      https://docker.com/
-
-      Kubernetes
-      https://kubernetes.io/
-
-      Maestro-ng
-      https://github.com/signalfx/maestro-ng
-
-      Mesos
-      https://mesos.apache.org/
-
+      Sketch
+      https://sketchapp.com/
 
    Version Control
 
@@ -697,6 +916,9 @@ Development
       Github
       https://github.com
 
+      Github Desktop
+      https://desktop.github.com/
+
       Gitlab
       https://gitlab.com/
 
@@ -705,49 +927,6 @@ Development
 
       Beanstalk
       https://beanstalkapp.com/
-
-   Data Visualization
-
-      D3.js library
-      https://d3js.org/
-
-      D3js
-      https://d3js.org/d3.v4.min.js
-
-      Data Viz Project
-      https://datavizproject.com/
-
-      KnightLab Projects
-      https://knightlab.northwestern.edu/projects/
-
-   Domain
-
-      Edu Domain
-      https://net.educause.edu/search.htm
-
-      Domain
-      https://domain.com/
-
-      1&1
-      https://1and1.com/
-
-      NameCheap
-      https://namecheap.com/
-
-      Name
-      https://name.com/
-
-      GoDaddy
-      https://godaddy.com/
-
-      DreamHost
-      https://dreamhost.com/
-
-      Dyn
-      https://dyn.com/
-
-      NoIP
-      https://noip.com/
 
    Web Hosting
 
@@ -774,62 +953,6 @@ Development
 
       Wordpress
       https://wordpress.org/
-
-   UI / UX
-
-      Adobe
-      https://adobe.com/
-
-      Adobe Creative Cloud
-      https://adobe.com/creativecloud/catalog/desktop.html?promoid=PTYTQ77P&mv=other
-
-      Craft
-      https://invisionapp.com/craft
-
-      Invision
-      https://invisionapp.com
-
-      MockPlus iDoc
-      https://idoc.mockplus.com/?hmsr=blog
-
-      Origami
-      https://origami.design/
-
-      Sketch
-      https://sketchapp.com/
-
-   Font
-
-      Google Font
-      https://google.com/fonts
-
-      Font Awesome
-      https://fontawesome.com/
-
-      FontForge
-      https://fontforge.github.io/en-US/
-
-      Font conversion
-      https://transfonter.org/ttc-unpack
-
-   Logo
-
-      99Designs
-      https://99designs.com/
-
-      CrowdSpring
-      https://crowdspring.com/
-
-      ShareIcon
-      https://shareicon.net/
-
-   Color Scheme
-
-      Coolors
-      https://coolors.co/
-
-      256 Color Chart
-      https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg
 
 Marketing
 
@@ -907,6 +1030,9 @@ Marketing
 
       Sendgird
       https://sendgrid.com/
+
+      Spark
+      https://sparkmailapp.com/
 
       Unroll.me
       https://unroll.me/
@@ -1137,8 +1263,29 @@ Productivity
 
    OS Tool
       
+      App Zapper
+      https://www.appzapper.com/
+
+      Geek Tool
+      https://wbrewww.tynsoe.org/v2/geektool/
+
+      GPT fDisk
+      https://sourceforge.net/projects/gptfdisk/files/latest/download?source=files
+
+      Keka
+      http://brewwww.kekaosx.com/en/
+
+      Memory Clean
+      https://itunes.apple.com/us/app/memory-clean-free-up-memory/id451444120?mt=12
+
       Pock
       https://pock.pigigaldi.com/
+
+      Unetbootin
+      https://unetbootin.github.io/
+
+      Unlox
+      https://unlox.it/
 
    Organization
 
@@ -1164,6 +1311,11 @@ Productivity
 
       TopCoder
       https://topcoder.com/
+
+   Password Management
+
+      1Password
+      https://1password.com/downloads/
 
    Project Management
 
