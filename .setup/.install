@@ -1,15 +1,15 @@
-# # * Install Xcode CLI tools
+# # * Xcode CLI tools
 xcode-select --install
 
-# # * Install Homebrew
+# # * Homebrew
 usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# # * Install brew dependencies (use --file to specify a path different from cd)
+# # * Brew dependencies (use --file to specify a path different from cd)
 if [ -f ~/.Brewfile ]; then
 brew bundle --global;
 fi
 
-# # * Install Oh-My-Zsh
+# # * Oh-My-Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 # # * Copy ssh keys -> ~/.ssh
@@ -34,7 +34,7 @@ npm install -g typescript
 npm install -g eslint
 npm install -g npmlist
 
-# # * install apps (open audible, live home 3d pro, logic pro x)
+# # * Apps (open audible, live home 3d pro, logic pro x)
 # `ls ~/Library/Mobile\ Documents/com~apple~CloudDocs/` is the location of iCloud Drive Document folders
 # `cp /Volumes/Drive/Workspace/Workflow/Setup/` is the location of Google Drive setup folders
 cp -r ~/Library/Mobile\ Documents/iCloud~com~belightsoft~LiveHome3D/Documents/Live\ Home\ 3D\ Pro/Live\ Home\ 3D\ Pro.app /Applications/
@@ -42,19 +42,19 @@ cp -r ~/Library/Mobile\ Documents/iCloud~com~belightsoft~LiveHome3D/Documents/Li
 cp -r ~/Library/Mobile\ Documents/com~apple~CloudDocs/Logic\ Pro\ X/Logic\ Pro\ X.app /Applications/
 cp -r ~/Library/Mobile\ Documents/com~apple~CloudDocs/Open\ Audible/OpenAudible.app /Applications/
 
-# # * install fonts (system = /Library/Fonts | user = ~/Library/Fonts)
+# # * fonts (system = /Library/Fonts | user = ~/Library/Fonts)
 for font in ~/.dotfiles/.font/{avantgardepro,gotham,hack,operator-mono}/*.{otf,ttf}; do
   [ -f $font ] && cp $font ~/Library/Fonts;
 done;
 unset font;
 
-# # * install font collections (Bug - does not copy collection with a space in the name)
+# # * Font collections (Bug - does not copy collection with a space in the name)
 for fontCollection in ~/.dotfiles/.font/FontCollections/*; do
   [ -f $fontCollection ] && cp $fontCollection ~/Library/FontCollections;
 done;
 unset fontCollection;
 
-# # * install vs code extensions
+# # * VS Code extensions
 # vs code (restore -> preferences -> keyboard shortcuts -> install extensions)
 # code --install-extension ~/.vscode (verify code can read extensions from a file)
 code --install-extension 1tontech.angular-material 2gua.rainbow-brackets GregorBiswanger.json2ts MarinhoBrandao.Angular2Tests NG-42.ng-fortytwo-vscode-extension P-de-Jong.vscode-html-scss SolarLiner.linux-themes UVBrain.Angular2 aaron-bond.better-comments abusaidm.html-snippets af4jm.vscode-icalendar Angular.ng-template AngularDoc.angulardoc-vscode asilverio.blackai-visual-studio-code austin.code-gnu-global benjaminBlonde.monokai-alt christian-kohler.npm-intellisense christian-kohler.path-intellisense CoenraadS.bracket-pair-colorizer cometeer.spacemacs cyrilletuzi.angular-schematics
