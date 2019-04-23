@@ -1,5 +1,13 @@
 # Setting up Google Chrome
 
+### Steps
+
+1. [Extensions](##Extensions)
+
+2. [Search Engines](##Search-Engines)
+
+3. [Session Buddy](##Session-Buddy)
+
 ## Extensions
 
 | Extension               | Chrome Store                                                                                         |
@@ -25,6 +33,26 @@
 
 ## Search Engines
 
+### Setting up Search Engines
+
+1. Open Google Chrome
+2. Open a New Tab
+3. On Mac, Press <kbd>⌘ Command</kbd>+<kbd>L</kbd>
+4. Goto `chrome://settings/searchEngines`
+5. Press the <kbd>Add</kbd> button
+6. Type the search engine name, a keyword (1-2 characters), and the URL search
+   query
+
+### Using Search Engines
+
+1. Open Google Chrome
+2. Open a New Tab
+3. On Mac, Press <kbd>⌘ Command</kbd>+<kbd>L</kbd>
+4. Type the keyword (<kbd>g</kbd> for Google)
+5. Press <kbd>Space</kbd>
+6. Type in a search query
+7. Press <kbd>Enter</kbd>
+
 | Title          | Keyword | URL                                                                                                                                                                                                                                                          |
 | -------------- | ------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Google         | g       | `{google:baseURL}search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}` |
@@ -41,22 +69,12 @@
 | Wikipedia      | w       | http://en.wikipedia.org/w/index.php?title=Special:Search&search=%s                                                                                                                                                                                           |
 | YouTube        | y       | http://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch                                                                                                                                                                       |
 
-## Setting up The Search Engine
+## Session Buddy
 
-1. Open Google Chrome
-2. Open a New Tab
-3. On Mac, Press <kbd>⌘ Command</kbd>+<kbd>L</kbd>
-4. Goto `chrome://settings/searchEngines`
-5. Press the <kbd>Add</kbd> button
-6. Type the search engine name, a keyword (1-2 characters), and the URL search
-   query
+### Setting up Sessions
 
-## Using Search Engines
+1.
 
-1. Open Google Chrome
-2. Open a New Tab
-3. On Mac, Press <kbd>⌘ Command</kbd>+<kbd>L</kbd>
-4. Type the keyword (<kbd>g</kbd> for Google)
-5. Press <kbd>Space</kbd>
-6. Type in a search query
-7. Press <kbd>Enter</kbd>
+### Using Sessions
+
+1.
