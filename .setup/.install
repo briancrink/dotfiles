@@ -52,6 +52,7 @@ done;
 unset fontCollection;
 
 # # * install vs code extensions
+# vs code (restore -> preferences -> keyboard shortcuts -> install extensions)
 # code --install-extension ~/.vscode (verify code can read extensions from a file)
 code --install-extension 1tontech.angular-material 2gua.rainbow-brackets GregorBiswanger.json2ts MarinhoBrandao.Angular2Tests NG-42.ng-fortytwo-vscode-extension P-de-Jong.vscode-html-scss SolarLiner.linux-themes UVBrain.Angular2 aaron-bond.better-comments abusaidm.html-snippets af4jm.vscode-icalendar Angular.ng-template AngularDoc.angulardoc-vscode asilverio.blackai-visual-studio-code austin.code-gnu-global benjaminBlonde.monokai-alt christian-kohler.npm-intellisense christian-kohler.path-intellisense CoenraadS.bracket-pair-colorizer cometeer.spacemacs cyrilletuzi.angular-schematics
 danwahlin.angular2-snippets dbaeumer.vscode-eslint devboosts.angular-productivity-pack
