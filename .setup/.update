@@ -1,20 +1,22 @@
-# Update App Store apps
+# # * Update App Store apps
 sudo softwareupdate -i -a
 
-# Update Homebrew (Cask) & packages
+# # * Update Homebrew (Cask) & packages
 brew update
 brew upgrade
 
-# Update npm & packages
+# # * Update npm & packages
 npm install npm -g
 npm update -g
 
-# Update Ruby & gems
+# # * Update Ruby & gems
 # sudo gem update —system
 # sudo gem update
 
-# Update filetypes
+# # * Update filetypes
 duti ~/.duti
 
-# Update boot manager (source ~/.rEFInd)
-rEFInd
+# # * Update boot manager
+if [ -f ~/.rEFInd ]; then
+  rEFInd;
+fi
