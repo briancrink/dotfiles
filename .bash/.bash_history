@@ -499,3 +499,84 @@ duti -x m
 brew bundle dump --force --file=~/.dotfiles/.brew/Brewfile
 brew bundle Brewfile
 man trash
+ln -s <git-command-line-tools dir path>/git-credential-osxkeychain <github for mac path>/git-credential-osxkeychain
+ln -s /usr/local/git/bin/git-credential-osxkeychain /Applications/GitHub.app/Contents/Resources/git/bin/git-credential-osxkeychain
+sudo ln -s /usr/local/git/bin/git-credential-osxkeychain  /usr/bin/git-credential-osxkeychain
+brew bundle install --file=~/.dotfiles/.brew/brewFile
+read ~/.dotfiles/.brew/brewFile
+read ~/.dotfiles/.brew/brewFile | echo
+cat ~/.dotfiles/.brew/brewFile
+code ~/.dotfiles/.brew/brewFile
+brew bundle install --file=~/.dotfiles/.brew/brewFile
+brew bundle dump ~/.Brewfile
+cat ~/.Brewfile
+cat ~/Brewfile
+brew bundle list
+brew bundle dump ~/.dotfiles/.brew/Brewfile
+brew bundle dump ~/.dotfiles/.brew/Brewfile
+brew bundle dump ~/.dotfiles/.brew/Brewfile
+brew bundle dump --file=~/.dotfiles/.brew/Brewfile
+brew bundle dump --force --file=~/.dotfiles/.brew/Brewfile
+brew bundle --file=~/.dotfiles/.brew/Brewfile
+brew search zsh
+brew bundle --global
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+source ~/.dotfiles/.setup/.symlink
+source ~/.dotfiles/.setup/.setup
+source ~/.dotfiles/setup/.symlink
+source ~/.dotfiles/.setup/.symlink;
+duti ~/.duti
+reload
+source ~/.brewshell
+source ~/.bash_profile
+clear
+brew install emacs-plus
+brew search emacs
+brew insall emacs
+brew install emacs
+brew install emacs-plus
+brew tap d12frosted/emacs-plus
+brew linkapps emacs-plus
+brew tap caskroom/fonts
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask install font-source-code-pro
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew install awscli
+brew install mackup && brew install mas
+brew install trash
+brew install php
+brew install pkg-config
+brew install redis
+brew install bat
+brew cask install qlmarkdown
+brew cask uninstall qlmarkdown
+brew cask install qlcolorcode
+brew cask uninstall qlcolorcode
+brew cask font-lato font-open-sans font-roboto ont-source-code-pro-for-powerline font-source-code-pro font-source-sans-pro font-source-serif-pro
+brew cask install font-lato && brew cask install font-open-sans && brew cask install font-roboto && brew cask install font-source-code-pro-for-powerline && brew cask install font-source-code-pro && brew cask install font-source-sans-pro && brew cask install font-source-serif-pro
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask install font-source-code-pro && brew cask install font-source-sans-pro && brew cask install font-source-serif-pro
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask install font-awesome-terminal-fonts
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask install font-operator-mono
+brew cask install font-operator
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask install tor-browser
+brew cask insall docker
+brew cask install docker
+brew cask install gpg-suite
+brew cask reinstall firefox
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask --force reinstall firefox
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask reinstall --force appzapper google-backup-and-sync boom boom-3d etcher geektool github marshallofsound-google-play-music-player gptfdisk iterm2 java keka mysqlworkbench netbeans origami-studio postman ssh-tunnel-manager signal calibre spotify vox steam transmission drawio unlox vlc
+brew cask reinstall --force appzapper google-backup-and-sync github marshallofsound-google-play-music-player gptfdisk iterm2 keka mysqlworkbench netbeans origami-studio postman ssh-tunnel-manager signal calibre spotify vox steam transmission drawio unlox vlc
+brew cask reinstall --force appzapper google-backup-and-sync github marshallofsound-google-play-music-player iterm2 keka mysqlworkbench netbeans origami-studio postman ssh-tunnel-manager signal calibre spotify vox steam transmission drawio unlox vlc
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew cask reinstall --force tidal geektool boom boom-3d
+brew cask reinstall --force google-chrome visual-studio-code
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+brew search xcode
+python --version
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile

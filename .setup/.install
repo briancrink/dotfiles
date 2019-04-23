@@ -1,21 +1,21 @@
-# Install Homebrew
+# # * Install Homebrew
 usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# Install brew dependencies (use --file to specify a path different from cd)
+# # * Install brew dependencies (use --file to specify a path different from cd)
 if [ -f ~/.Brewfile ]; then
 brew bundle --global;
 fi
 
-# Install Oh-My-Zsh
+# # * Install Oh-My-Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
-# Copy ssh keys -> ~/.ssh
+# # * Copy ssh keys -> ~/.ssh
 
-# When Installing MySQL
-# # * mysqladmin -u root password <yourpassword>
+# # * When Installing MySQL
+# mysqladmin -u root password <yourpassword>
 
-# Java (identify version)
-# # * brew cask info java
+# # * Java (identify version)
+# brew cask info java
 
 # # * `brew cask reinstall --force <cask>` to reinstall apps as casks
 
@@ -31,35 +31,27 @@ npm install -g typescript
 npm install -g eslint
 npm install -g npmlist
 
-google-chrome visual-studio-code
-
-gptfdisk
-etcher
-# install apps
-brew cask reinstall --force 
-
-# install imported apps (open audible, live home 3d pro, logic pro x)
-    # `ls ~/Library/Mobile\ Documents/com~apple~CloudDocs/` is the location of iCloud Drive Document folders
-    # `cp /Volumes/Drive/Workspace/Workflow/Setup/` is the location of Google Drive setup folders
-
+# # * install apps (open audible, live home 3d pro, logic pro x)
+# `ls ~/Library/Mobile\ Documents/com~apple~CloudDocs/` is the location of iCloud Drive Document folders
+# `cp /Volumes/Drive/Workspace/Workflow/Setup/` is the location of Google Drive setup folders
 cp -r ~/Library/Mobile\ Documents/iCloud~com~belightsoft~LiveHome3D/Documents/Live\ Home\ 3D\ Pro/Live\ Home\ 3D\ Pro.app /Applications/
 # cp -r /Volumes/Drive/Workspace/Workflow/Setup/Live\ Home\ 3D\ Pro/Live\ Home\ 3D\ Pro.app /Applications/
 cp -r ~/Library/Mobile\ Documents/com~apple~CloudDocs/Logic\ Pro\ X/Logic\ Pro\ X.app /Applications/
- cp -r ~/Library/Mobile\ Documents/com~apple~CloudDocs/Open\ Audible/OpenAudible.app /Applications/
+cp -r ~/Library/Mobile\ Documents/com~apple~CloudDocs/Open\ Audible/OpenAudible.app /Applications/
 
-# install fonts (system = /Library/Fonts | user = ~/Library/Fonts)
-for font in ~/.dotfiles/.font/{avantgardepro,gotham,hack,operator-mono,sourcecodepro}/*.{otf,ttf}; do
+# # * install fonts (system = /Library/Fonts | user = ~/Library/Fonts)
+for font in ~/.dotfiles/.font/{avantgardepro,gotham,hack,operator-mono}/*.{otf,ttf}; do
   [ -f $font ] && cp $font ~/Library/Fonts;
 done;
 unset font;
 
-# install font collections (Bug - does not copy collection with a space in the name)
+# # * install font collections (Bug - does not copy collection with a space in the name)
 for fontCollection in ~/.dotfiles/.font/FontCollections/*; do
   [ -f $fontCollection ] && cp $fontCollection ~/Library/FontCollections;
 done;
 unset fontCollection;
 
-# install vs code extensions
+# # * install vs code extensions
 code --install-extension 1tontech.angular-material 2gua.rainbow-brackets GregorBiswanger.json2ts MarinhoBrandao.Angular2Tests NG-42.ng-fortytwo-vscode-extension P-de-Jong.vscode-html-scss SolarLiner.linux-themes UVBrain.Angular2 aaron-bond.better-comments abusaidm.html-snippets af4jm.vscode-icalendar Angular.ng-template AngularDoc.angulardoc-vscode asilverio.blackai-visual-studio-code austin.code-gnu-global benjaminBlonde.monokai-alt christian-kohler.npm-intellisense christian-kohler.path-intellisense CoenraadS.bracket-pair-colorizer cometeer.spacemacs cyrilletuzi.angular-schematics
 danwahlin.angular2-snippets dbaeumer.vscode-eslint devboosts.angular-productivity-pack
 dunstontc.dark-plus-syntax eamodio.gitlens EditorConfig.EditorConfig eg2.tslint eg2.vscode-npm-script esbenp.prettier-vscode formulahendry.auto-close-tag formulahendry.auto-rename-tag formulahendry.code-runner formulahendry.vscode-mysql IBM.output-colorizer idleberg.applescript idleberg.hopscotch infinity1207.angular2-switcher jakethashi.vscode-angular2-emmet jamesnorton.continuum jasonnutter.search-node-modules johnpapa.angular-essentials johnpapa.Angular2 johnpapa.winteriscoming KnisterPeter.vscode-commitizen leizongmin.node-module-intellisense liqube.theme-liqube-dark loiane.angular-extension-pack mads-hartmann.bash-ide-vscode mechatroner.rainbow-csv Mikael.Angular-BeastCode mimarec.swagger-doc-viewer mitaki28.vscode-clang moppitz.vscode-extension-auto-import mrmlnc.vscode-scss ms-python.python ms-vscode.cpptools ms-vscode.csharp ms-vsliveshare.vsliveshare msjsdiag.debugger-for-chrome natewallace.angular2-inline octref.vetur PKief.material-icon-theme pranaygp.vscode-css-peek quantum.quantum-devkit-vscode quicktype.quicktype rbbit.typescript-hero rebornix.project-snippets ritwickdey.LiveServer robertohuertasm.vscode-icons rogalmic.bash-debug shinnn.stylelint SimonTest.simontest skacekachna.win-opacity spikespaz.vscode-smoothtype steoates.autoimport stringham.move-ts tomoki1207.pdf waderyan.nodejs-extension-pack xabikos.JavaScriptSnippets zhouronghui.propertylist

@@ -40,6 +40,7 @@ risk!
 
 - [Autodot](https://github.com/ajmalsiddiqui/autodot)
 - [Fileicon](https://github.com/mklement0/fileicon#manual-installation)
+- [Desktoppr](https://github.com/scriptingosx/desktoppr)
 - [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
 - [Homebrew Quicklook](https://github.com/sindresorhus/quick-look-plugins)
 - [Homebrew Casks](https://github.com/Homebrew/homebrew-cask/tree/master/Casks)
