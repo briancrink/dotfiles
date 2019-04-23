@@ -361,6 +361,14 @@ Development
       Homebrew | Mac OS
       https://brew.sh/
 
+   Database
+
+      Sequel Pro
+      https://www.sequelpro.com/
+
+      TablePlus
+      https://tableplus.io/
+
    Dataset
 
       Kaggle
@@ -1068,6 +1076,9 @@ Productivity
 
       Telegram
       https://telegram.org/
+
+      There
+      https://there.team/
 
       Whatsapp
       https://www.whatsapp.com/

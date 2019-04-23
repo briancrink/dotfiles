@@ -41,6 +41,9 @@ risk!
 - [Autodot](https://github.com/ajmalsiddiqui/autodot)
 - [Fileicon](https://github.com/mklement0/fileicon#manual-installation)
 - [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
+- [Homebrew Quicklook](https://github.com/sindresorhus/quick-look-plugins)
+- [Homebrew Casks](https://github.com/Homebrew/homebrew-cask/tree/master/Casks)
+- [Homebrew Fonts](https://github.com/Homebrew/homebrew-cask-fonts/tree/master/Casks)
 
 ## Guides
 

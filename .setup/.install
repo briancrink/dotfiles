@@ -17,6 +17,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 # Java (identify version)
 # # * brew cask info java
 
+# # * `brew cask reinstall --force <cask>` to reinstall apps as casks
+
 pip install tensorflow
 
 npm install -g fileicon
@@ -29,15 +31,16 @@ npm install -g typescript
 npm install -g eslint
 npm install -g npmlist
 
-# install terminal environment
-brew install emacs-plus
-brew tap d12frosted/emacs-plus
-brew linkapps emacs-plus
-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
-brew tap caskroom/fonts && brew cask install font-source-code-pro
+google-chrome
+tidal
+visual-studio-code
+geektool
+etcher
+boom boom-3d
+gptfdisk
 
 # install apps
-brew cask install google-chrome appzapper google-backup-and-sync boom boom-3d etcher firefox geektool github marshallofsound-google-play-music-player gpgsuite gptfdisk iterm2 java keka mysqlworkbench netbeans origami-studio postman ssh-tunnel-manager signal calibre spotify tidal vox steam transmission drawio visual-studio-code unlox vlc
+brew cask reinstall --force appzapper google-backup-and-sync github marshallofsound-google-play-music-player iterm2 keka mysqlworkbench netbeans origami-studio postman ssh-tunnel-manager signal calibre spotify vox steam transmission drawio unlox vlc
 
 # install imported apps (open audible, live home 3d pro, logic pro x)
     # `ls ~/Library/Mobile\ Documents/com~apple~CloudDocs/` is the location of iCloud Drive Document folders
