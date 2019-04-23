@@ -1,5 +1,6 @@
 # bundle id | UTI/ext/MIME type | role
 com.apple.dt.Xcode .swift all
+com.google.Chrome .gif all
 com.microsoft.VSCode .applescript all
 com.microsoft.VSCode .c all
 com.microsoft.VSCode .clj all

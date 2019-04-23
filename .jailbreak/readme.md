@@ -9,8 +9,8 @@ Last Updated April 19, 2019
 3. **[Save SHSH Blobs](https://www.youtube.com/watch?v=8BxxLrp6ID4)**:
    [A5-A11](https://tsssaver.1conan.com/)
 4. **Install unc0ver. -> Method 1:**
-   **[Siri Shortcut (open on device)](Jailbreak_me.shortcut) 2:**
-   **[Web app (currently revoked)](https://jailbreaks.fun/) 3:**
+   **[Siri Shortcut (open on device)](Jailbreak_me.shortcut)[Temp](https://www.icloud.com/shortcuts/9bcc885082a743bab6c4aa57a6224c39)
+   2:** **[Web app (currently revoked)](https://jailbreaks.fun/) 3:**
    **[Sideloading (on desktop)](https://github.com/pwn20wndstuff/Undecimus/releases)**
 5. On device, go to Settings -> General -> Device Management, **trust**
    **certificate**

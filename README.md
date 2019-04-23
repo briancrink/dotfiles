@@ -71,6 +71,7 @@ risk!
 - [Dries Vints dotfiles](https://github.com/driesvints/dotfiles):
   [Brewfile](https://github.com/driesvints/dotfiles/blob/master/Brewfile)
 - [Gianni Chiappetta's dotfiles](https://github.com/gf3/dotfiles)
+- [Guillermo Caracuel Ruiz](https://github.com/gcaracuel/dotfiles)
 - [Jan Moesen's dotfiles](https://gist.github.com/1156154)
 - [Kevin Suttle's dotfiles](https://github.com/kevinSuttle/dotfiles)
 - [Lars Kappert's dotfiles](https://github.com/webpro/dotfiles)

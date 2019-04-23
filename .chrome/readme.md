@@ -71,7 +71,7 @@
 
 ## Session Buddy
 
-![](https://i.imgur.com/FJ1tr8G.mp4)
+![](https://i.imgur.com/VEhL3fC.gif)
 
 ### Setting up Sessions
 
