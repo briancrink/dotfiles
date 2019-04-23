@@ -13,6 +13,7 @@ function battery {
     pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
     }
 
+# # * Convert screenshot .mov -> .gif
 function Mov2Gif {
   echo -n "Filename: " && read filename # helloworld
   echo -n "Framerate: " && read rate # ex 60
