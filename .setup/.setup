@@ -34,7 +34,7 @@ if [ -f ~/.clean ]; then
     clean;
 fi
 
-# # * Sets system preferences, theme -- will reboot once completed!
+# # * Sets system preferences & theme -- will reboot once completed!
 if [ -f ~/.macos ]; then
     macos;
 fi

@@ -29,6 +29,10 @@ fileicon get -f /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/s
 # Backup Brewfile (force overwrite)
 brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
 
+# Backup vs code extensions
+
+# Backup app data
+
 ################################ Step 2 ################################
 
 

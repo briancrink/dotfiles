@@ -1,11 +1,9 @@
 # Setup processes:
-    # 0. ~require admin password~
     # 1. SysPrefs
     # 2. Finder
-    # 3. install (dependencies -> packages -> applications)
     # 4. vs code (restore -> preferences -> keyboard shortcuts -> install extensions)
     # 5. macSpace (setup desktop spaces -> assign apps to desktops -> theme)
-    # 6. ~prompt for a restart~ (necessary for PlistBuddy modifications)
+    # 6. 
 
 ## Setup Dependencies:
     # 0. Partitioned GUID Table (macOS, Drive, Manjaro, Linux)
@@ -30,8 +28,10 @@ while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
 ################################ Step 1 ################################
 
-# (source ~/.sysprefs)
-sysprefs
+# # * Source to set system preferences
+if [ -f ~/.sysprefs ]; then
+    sysprefs;
+fi
 
 ################################ Step 2 ################################
 
@@ -47,10 +47,12 @@ sysprefs
 
 ################################ Step 5 ################################
 
-# (source ~/.theme)
-theme
+# # * Source to set desktop theme
+if [ -f ~/.theme ]; then
+    theme;
+fi
 
 ################################ Step 6 ################################
 
-# System requires reboot for changes to take effect
+# # * PlistBuddy modifications requires reboot for changes to take effect
 osascript -e 'tell application "System Events" to restart'
