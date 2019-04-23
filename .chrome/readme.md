@@ -2,11 +2,11 @@
 
 ## Steps
 
-1. [Installing Handy Extensions](#Extensions)
+1. [Install Handy Extensions](#Extensions)
 
-2. [Setting up Custom Search Engines](#Search-Engines)
+2. [Set up Custom Search Engines](#Search-Engines)
 
-3. [Saving Web Sessions in Session Buddy](#Session-Buddy)
+3. [Save Web Sessions in Session Buddy](#Session-Buddy)
 
 ## Extensions
 
