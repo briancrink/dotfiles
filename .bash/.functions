@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# running list of useful functions:
-
 # Open man page as PDF
 function manpdf() {
  man -t "${1}" | open -f -a /Applications/Preview.app/
@@ -15,3 +11,13 @@ function mk() {
 function battery {
     pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
     }
+
+function Mov2Gif {
+  echo -n "Filename: " && read filename
+  echo -n "Framerate: " && read rate
+  echo -n "Size: " && read size
+  ffmpeg -i $filename.mov -s $size -pix_fmt rgb8 -r $rate -f gif - | gifsicle --optimize=3 --delay=3 > $filename.gif
+  unset filename
+  unset rate
+  unset size
+}

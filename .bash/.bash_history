@@ -1,10 +1,3 @@
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass.c -o pass && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass
-cd
-ls
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass.c -o pass && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc order.c -o order && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"order
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc order.c -o order && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"order
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc order.c -o order && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"order
 cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc recursive_factorial.c -o recursive_factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"recursive_factorial
 cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc recursive_factorial.c -o recursive_factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"recursive_factorial
 cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc recursive_factorial.c -o recursive_factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"recursive_factorial
@@ -499,3 +492,10 @@ xcode-select --install
 trash -esy
 reload
 %
+man echo
+bash_profile
+reload
+cd Desktop
+MovtoGif testing
+MovtoGif
+man ffmpeg
