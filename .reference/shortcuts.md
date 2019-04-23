@@ -5,6 +5,14 @@
 1. iTerm2
 2. i3
 
+## Bash
+
+- type `/` + query to search man page
+- type `n` to go to the next result
+- type `echo -n` to stay on the same line
+- type `read variable` for shell to read input, `$variable` to use input as a
+  variable
+
 ## Terminal:
 
 - press `CMD + Shift + 1` to Select Menu Item.. Default
