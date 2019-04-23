@@ -13,9 +13,9 @@ function battery {
     }
 
 function Mov2Gif {
-  echo -n "Filename: " && read filename
-  echo -n "Framerate: " && read rate
-  echo -n "Size: " && read size
+  echo -n "Filename: " && read filename # helloworld
+  echo -n "Framerate: " && read rate # ex 60
+  echo -n "Size: " && read size # ex 2880x1900
   ffmpeg -i $filename.mov -s $size -pix_fmt rgb8 -r $rate -f gif - | gifsicle --optimize=3 --delay=3 > $filename.gif
   unset filename
   unset rate
