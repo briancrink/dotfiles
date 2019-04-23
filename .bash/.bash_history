@@ -1,5 +1,4 @@
 cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass.c -o pass && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass.c -o pass && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass
 cd
 ls
 cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc pass.c -o pass && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"pass
@@ -499,3 +498,4 @@ trash -esy
 xcode-select --install
 trash -esy
 reload
+%
