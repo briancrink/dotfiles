@@ -1,16 +1,16 @@
-# # * clean up brew
+# # * Clean up brew
 brew cleanup
 
-# # * clean brew
+# # * Clean brew
 brew clean
 
-# # * dot_clean
+# # * Dot_clean
 dot_clean -n /Volumes/Drive/
 
-# # * empty the trash (empty, secure, skip confirmation)
+# # * Empty the trash (empty, secure, skip confirmation)
 trash -esy
 
-# # * reset folder .icns (sudo npm install fileicon -g)
+# # * Reset folder .icns
 fileicon set ~/Downloads ~/.dotfiles/.icns/downloads.icns
 fileicon set /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner.icns
 fileicon set /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot.icns
