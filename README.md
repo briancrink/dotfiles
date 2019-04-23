@@ -24,17 +24,15 @@ risk!
 
 ## Setup
 
-1. [MacOS](https://github.com/briancrink/dotfiles/tree/master/.macos)
+1. [macOS](https://github.com/briancrink/dotfiles/tree/master/.macos)
 
-2. [Install](https://github.com/briancrink/dotfiles/tree/master/.setup)
+2. [Google Chrome](https://github.com/briancrink/dotfiles/tree/master/.chrome)
 
-3. [Session Buddy](https://github.com/briancrink/dotfiles/tree/master/.sessionbuddy)
+3. [Social Feed](https://github.com/briancrink/dotfiles/tree/master/.feed)
 
-4. [Search Engines](https://github.com/briancrink/dotfiles/tree/master/.searchengine)
+4. [Music](https://github.com/briancrink/dotfiles/tree/master/.music)
 
-5. [Music](https://github.com/briancrink/dotfiles/tree/master/.music)
-
-6. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/.jailbreak)
+5. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/.jailbreak)
 
 ## Tools
 
