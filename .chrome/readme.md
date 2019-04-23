@@ -6,7 +6,7 @@
 
 2. [Set up Custom Search Engines](#Search-Engines)
 
-3. [Save Web Sessions and in Session Buddy](#Session-Buddy)
+3. [Save Web Sessions in Session Buddy](#Session-Buddy)
 
 ## Extensions
 
