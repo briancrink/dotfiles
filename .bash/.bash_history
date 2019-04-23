@@ -1,30 +1,3 @@
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc recursive_factorial.c -o recursive_factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"recursive_factorial
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc recursive_factorial.c -o recursive_factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"recursive_factorial
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc recursive_factorial.c -o recursive_factorial && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"recursive_factorial
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc heap.c -o heap && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"heap
-das
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc heap.c -o heap && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"heap
-cd "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/" && gcc heap.c -o heap && "/Volumes/Drive/Workspace/Profession/Software/Language/C/Playground/"heap
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.bash_profile
-battery
-source ~/.aliases
-source ~/.bash_profile
-battery
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-source ~/.aliases
-source ~/.bash_profile
-battery
-source ~/.aliases
-source ~/.bash_profile
-battery
-source ~/.aliases
-source ~/.aliases
-source ~/.bash_profile
-battery
 battery
 battery
 source ~/.aliases
@@ -499,3 +472,30 @@ cd Desktop
 MovtoGif testing
 MovtoGif
 man ffmpeg
+brew install gifsicle
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+cd Desktop
+ffmpeg -i in.mov -s 600x400 -pix_fmt rgb24 -r 10 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i tabs.mov -s 1440x900 -pix_fmt rgb24 -r 10 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+duti ~/.duti
+duti -x html
+duti ~/.duti
+ffmpeg -i tabs.mov -s 1440x900 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i tabs.mov -s 2880x1800 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i rename.mov -s 2880x1800 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i open.mov -s 2880x1800 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i backup.mov -s 2880x1800 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i export.mov -s 2880x1800 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i rename.mov -s 2880x1800 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+ffmpeg -i open.mov -s 2880x1800 -pix_fmt rgb24 -r 30 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+reload
+MovtoGif
+reload
+MovtoGif
+reload
+MovtoGif
+MovtoGif
+MovtoGif
+MovtoGif
+reload
+Mov2Gif

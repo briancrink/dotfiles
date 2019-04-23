@@ -1,20 +1,23 @@
-#!/bin/bash
+# # * Directory
 alias l="ls -la"       # List in long format, include dotfiles
 alias ld="ls -ld */"    # List in long format, only directories
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 
-# Python:
+# # * Python
 alias python=python3
 
-# PlistBuddy:
+# # * PlistBuddy
 alias plistbuddy='rlwrap /usr/libexec/PlistBuddy'
 
-# Shortcuts:
+# # * Shortcuts
 alias %='battery'
 
-# System Events:
+# # * Backup Homebrew packages
+alias bundle='brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile'
+
+# # * System Events
 alias setup='source ~/.setup'
 alias macos='source ~/.macos'
 alias theme='source ~/.theme'
@@ -26,7 +29,7 @@ alias rEfind='source ~/.rEFInd'
 alias brewshell='source ~/.brewshell'
 alias reload='source ~/.bash_profile'
 
-# Wallpaper:
+# # * Wallpaper
 alias light=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Light/
 alias dark=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dark/
 alias dusk=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dusk/

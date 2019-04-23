@@ -3,8 +3,8 @@ fileicon get -f ~/Downloads ~/.dotfiles/.icns/downloads
 fileicon get -f /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner
 fileicon get -f /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot
 
-# # * Brewfile (force overwrite)
-brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+# # * Brewfile (bundle = alias)
+bundle
 
 # # * VS Code
 # (backup sync-settings -> git gists)
