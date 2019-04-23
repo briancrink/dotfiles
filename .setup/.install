@@ -31,16 +31,12 @@ npm install -g typescript
 npm install -g eslint
 npm install -g npmlist
 
-google-chrome
-tidal
-visual-studio-code
-geektool
-etcher
-boom boom-3d
-gptfdisk
+google-chrome visual-studio-code
 
+gptfdisk
+etcher
 # install apps
-brew cask reinstall --force appzapper google-backup-and-sync github marshallofsound-google-play-music-player iterm2 keka mysqlworkbench netbeans origami-studio postman ssh-tunnel-manager signal calibre spotify vox steam transmission drawio unlox vlc
+brew cask reinstall --force 
 
 # install imported apps (open audible, live home 3d pro, logic pro x)
     # `ls ~/Library/Mobile\ Documents/com~apple~CloudDocs/` is the location of iCloud Drive Document folders

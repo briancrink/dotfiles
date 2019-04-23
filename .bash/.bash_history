@@ -1,4 +1,3 @@
-mysql --user=root --password
 clear
 mysql -uroot -pyour_password -Ddatabase <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
 mysql --root --password <  "/Volumes/Drive/Workspace/Profession/Software/Concept/Computer Science/Exercise/Database/test.sql"
@@ -499,3 +498,4 @@ duti ~/.duti
 duti -x m
 brew bundle dump --force --file=~/.dotfiles/.brew/Brewfile
 brew bundle Brewfile
+man trash
