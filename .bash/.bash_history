@@ -1,39 +1,3 @@
-battery
-battery
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases\
-source ~/.aliases\
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-source ~/.aliases
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-pmset -g batt | xargs | awk '(print substr($8, 1, length($8)-1))'
-pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
-pmset -g batt | xargs | awk {print substr($8, 1, length($8)-1)}
-source ~/.aliases
-pmset -g batt | xargs | awk {print substr($8, 1, length(\$8)-1)}
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
-brew search spellcheck
-code ~/.aliases
 code ~/.aliases
 source ~/.aliases
 source ~/.aliases
@@ -499,3 +463,39 @@ MovtoGif
 MovtoGif
 reload
 Mov2Gif
+brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile
+reload
+bundle
+bundle -v
+brew install gifify
+brew install imagemagick
+bundle
+reload
+clear
+reload
+Vid2Gif
+bash "/Users/briancrink/.dotfiles/.duti/.duti"
+bash "/Users/briancrink/.dotfiles/.duti/.duti"
+Vid2Gif
+cd Desktop
+Vid2Gif
+cd Desktop
+Vid2Gif
+cd Desktop
+Vid2Gif
+VidtoGif
+Vid2Gif
+cd Desktop
+Vid2Gif
+clear
+Vid2Gif
+clean
+leaks
+leaks --list
+leaks 0
+leaks pid 0
+leaks leaks kernel_task
+sudo leaks kernel_task
+leaks installd
+sudo leaks installd
+sudo leaks launchd

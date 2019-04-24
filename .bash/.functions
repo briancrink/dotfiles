@@ -13,17 +13,6 @@ function battery {
     pmset -g batt | xargs | awk '{print substr($8, 1, length($8)-1)}'
     }
 
-# # * Convert screencast .mov -> .gif
-function Mov2Gif {
-  echo -n "Filename: " && read filename # helloworld
-  echo -n "Framerate: " && read rate # ex 60
-  echo -n "Size: " && read size # ex 2880x1900
-  ffmpeg -i $filename.mov -s $size -pix_fmt rgb8 -r $rate -f gif - | gifsicle --optimize=3 --delay=3 > $filename.gif
-  unset filename
-  unset rate
-  unset size
-}
-
 # # * Convert screencast .format -> .gif
 function Vid2Gif {
   echo -n "Filename: " && read filename # helloworld
@@ -35,4 +24,9 @@ function Vid2Gif {
   unset format
   unset rate
   unset size
+}
+
+function getWallPath {
+  sqlite3 -readonly ~/Library/Application\ Support/Dock/desktoppicture.db 'SELECT * FROM data;'
+  # osascript -e 'tell application "System Events" to tell first Desktop to display dialog its picture as text'
 }
