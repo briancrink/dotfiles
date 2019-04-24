@@ -1,7 +1,3 @@
-code ~/.aliases
-source ~/.aliases
-source ~/.aliases
-source ~/.aliases
 code ~/.bash_profile
 bash --version
 source ~/.aliases
@@ -499,3 +495,7 @@ sudo leaks kernel_task
 leaks installd
 sudo leaks installd
 sudo leaks launchd
+sqlite3 -readonly ~/Library/Application\ Support/Dock/desktoppicture.db 'SELECT * FROM data;'
+osascript -e 'tell application "System Events" to tell first Desktop to display dialog its picture as text'
+man rsyc
+man rsync

@@ -1,3 +1,5 @@
+#! /usr/local/bin/bash
+
 # # * Directory
 alias l="ls -la"       # List in long format, include dotfiles
 alias ld="ls -ld */"    # List in long format, only directories
@@ -16,6 +18,9 @@ alias %='battery'
 
 # # * Backup Homebrew packages
 alias bundle='brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile'
+
+# # * Chrome New Tab Background
+alias newtab='source ~/.dotfiles/.chrome/.default/.rsyncwallpaper.sh'
 
 # # * System Events
 alias setup='source ~/.setup'
