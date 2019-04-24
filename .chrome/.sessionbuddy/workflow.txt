@@ -366,6 +366,17 @@ Software Development
       SEI | Carnegie Mellon
       https://www.sei.cmu.edu/
 
+   Dotfiles
+
+      macOS Screencast to Gif
+      https://gist.github.com/dergachev/4627207
+
+      Upload Gif to imgur
+      https://neonspacecandy.imgur.com/all
+
+      Gifify
+      https://github.com/jclem/gifify
+
    Software Development
 
       Youtube
@@ -1791,9 +1802,6 @@ macSpace
 
       Abstract Black
       https://addons.mozilla.org/en-US/firefox/addon/abstract-black/
-
-      Dotfiles
-      https://dotfiles.github.io/
 
       Mount GDrive
       https://webupd8.org/2013/09/mount-google-drive-in-linux-with-google.html
