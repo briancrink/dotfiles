@@ -5,6 +5,12 @@
 1. iTerm2
 2. i3
 
+## Launchd
+
+- type `launchctl start path/to/file.plist` to force start plist
+- type `launchctl load path/to/file.plist` to load plist
+- type `launchctl unload path/to/file.plist` to unload plist
+
 ## Bash
 
 - type `set -x` on line 1 of function or before script on the CLI to enable

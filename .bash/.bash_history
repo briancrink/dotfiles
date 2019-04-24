@@ -306,3 +306,44 @@ reload
 NightWatch the flash
 reload
 NightWatch the flash
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+sh /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+/usr/local/bin/bash /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+/usr/local/bin/bash /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+sh /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+clear
+reload
+Vid2Gif
+cd Desktop
+Vid2Gif
+Vid2Gif
+Vid2Gif
+clear
+Vid2Gif
+clear
+Vid2Gif
