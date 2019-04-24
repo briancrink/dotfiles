@@ -32,3 +32,21 @@ function getWallPath {
   sqlite3 -readonly ~/Library/Application\ Support/Dock/desktoppicture.db 'SELECT * FROM data;'
   # osascript -e 'tell application "System Events" to tell first Desktop to display dialog its picture as text'
 }
+
+function urlencodepipe() {
+  local LANG=C; local c; while IFS= read -r c; do
+    case $c in [a-zA-Z0-9.~_-]) printf "$c"; continue ;; esac
+    printf "$c" | od -An -tx1 | tr ' ' % | tr -d '\n'
+  done <<EOF
+$(fold -w1)
+EOF
+  echo
+}
+
+function NightWatch() {
+  local a="Firefox"; local p="https"; local h="openpirate"; local d="org";
+  open -a "$a" "$p"://"$h"."$d"/search/"$*"/0/3/0 | urlencodepipe ;
+  # local a="Firefox"; local v="view-source"; local p="https"; local h="openpirate"; local d="org";
+  # printf "NightWatch: " && read q ; # (optional read line into a 'q' variable; replace "$*" with "$q")
+  # open -a "$a" "$v":"$p"://"$h"."$d"/search/"$(?=\s*\d+$)"/0/"$*[1-9]"/0 | urlencodepipe ;
+}
