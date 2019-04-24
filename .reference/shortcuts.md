@@ -7,6 +7,8 @@
 
 ## Bash
 
+- type `set -x` on line 1 of function or before script on the CLI to enable
+  debugging, `set +x` to disable
 - type `/` + query to search man page
 - type `n` to go to the next result
 - type `echo -n` to stay on the same line
