@@ -383,3 +383,6 @@ man ffmpeg
 man dot_clean
 brew search macchange
 brew search macchanger
+shell --version
+sh --version
+bash --version
