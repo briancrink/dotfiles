@@ -3,9 +3,9 @@
 ## Steps
 
 1. [Building the Partition Table](#Building-the-Partition-Table)
-1. [Choosing a Platform](#Choosing-a-Platform)
-1. [Forking the Dotfiles](#Forking-Brian's-dotfiles)
-1. [Setting up the Environment](#Custom-Keybindings)
+2. [Choosing a Platform](#Choosing-a-Platform)
+3. [Forking the Dotfiles](#Forking-Brians-Dotfiles)
+4. [Setting up the Environment](#Custom-Keybindings)
 
 ## Building the Partition Table
 
@@ -62,7 +62,7 @@ tool for cloud storage backup.
 
 ### Choosing a Window Manager
 
-**[wm](https://en.wikipedia.org/wiki/Window_manager)**
+**[WM](https://en.wikipedia.org/wiki/Window_manager)**
 
 1. [i3](https://i3wm.org/downloads/)
 2. [Deepin WM](https://github.com/linuxdeepin/deepin-wm)
@@ -72,7 +72,7 @@ tool for cloud storage backup.
 
 ### Choosing a Package Manager
 
-**[pm](https://en.wikipedia.org/wiki/Package_manager)**
+**[PM](https://en.wikipedia.org/wiki/Package_manager)**
 
 1. [brew](https://brew.sh/)
 2. [pip](https://pypi.org/project/pip/)
@@ -81,7 +81,7 @@ tool for cloud storage backup.
 
 ### Choosing a Shell
 
-**[shell](<https://en.wikipedia.org/wiki/Shell_(computing)>)**
+**[Shell](<https://en.wikipedia.org/wiki/Shell_(computing)>)**
 
 1. [bash (5.0.7.1)](https://www.gnu.org/software/bash/)
 2. [oh-my-zsh (5.7.1)](https://ohmyz.sh/)
@@ -97,7 +97,7 @@ tool for cloud storage backup.
 1. [GRUB](https://www.gnu.org/software/grub/)
 2. [rEFInd](https://www.rodsbooks.com/refind/)
 
-## Forking Brian's dotfiles
+## Forking Brians Dotfiles
 
 **Note:** the hidden dotfiles folder will be cloned to the home directory.
 
