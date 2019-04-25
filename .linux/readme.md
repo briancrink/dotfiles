@@ -81,49 +81,27 @@
 - only for linux operating systems
 - for mac, use `screenfetch`
 
-## [ps_mem](https://www.linuxlinks.com/essential-system-tools-ps-mem/):
+- [ps_mem](https://www.linuxlinks.com/essential-system-tools-ps-mem/):
 
--
+- [gtop](https://www.linuxlinks.com/essential-system-tools-gtop-system-monitoring-dashboard-terminal/):
 
-## [gtop](https://www.linuxlinks.com/essential-system-tools-gtop-system-monitoring-dashboard-terminal/):
+- [pet](https://www.linuxlinks.com/essential-system-tools-gtop-system-monitoring-dashboard-terminal/):
 
--
+- [Alacritty](https://www.linuxlinks.com/essential-system-tools-alacritty-hardware-accelerated-terminal-emulator/):
 
-## [pet](https://www.linuxlinks.com/essential-system-tools-gtop-system-monitoring-dashboard-terminal/):
+- [inxi](https://www.linuxlinks.com/essential-system-tools-inxi-cli-system-information-tool/):
 
--
+- [BleachBit](https://www.linuxlinks.com/essential-system-tools-bleachbit-open-source-system-cleaning-software/):
 
-## [Alacritty](https://www.linuxlinks.com/essential-system-tools-alacritty-hardware-accelerated-terminal-emulator/):
+- [catfish](https://www.linuxlinks.com/essential-system-tools-catfish-versatile-file-searching-software/):
 
--
+- [stacer](https://www.linuxlinks.com/stacer-system-optimizer-monitoring-software/):
 
-## [inxi](https://www.linuxlinks.com/essential-system-tools-inxi-cli-system-information-tool/):
+- [journalctl](https://www.linuxlinks.com/essential-system-tools-journalctl-query-and-display-messages-from-the-journal/):
 
--
+- [ddrescue](https://www.linuxlinks.com/essential-system-tools-ddrescue-data-recovery-software/):
 
-## [BleachBit](https://www.linuxlinks.com/essential-system-tools-bleachbit-open-source-system-cleaning-software/):
-
--
-
-## [catfish](https://www.linuxlinks.com/essential-system-tools-catfish-versatile-file-searching-software/):
-
--
-
-## [stacer](https://www.linuxlinks.com/stacer-system-optimizer-monitoring-software/):
-
--
-
-## [journalctl](https://www.linuxlinks.com/essential-system-tools-journalctl-query-and-display-messages-from-the-journal/):
-
--
-
-## [ddrescue](https://www.linuxlinks.com/essential-system-tools-ddrescue-data-recovery-software/):
-
--
-
-## [Nmap](https://www.linuxlinks.com/essential-system-tools-nmap-network-security-tool/):
-
--
+- [Nmap](https://www.linuxlinks.com/essential-system-tools-nmap-network-security-tool/):
 
 ## Source:
 

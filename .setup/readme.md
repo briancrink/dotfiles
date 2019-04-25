@@ -5,7 +5,8 @@
 1. [Building the Partition Table](#Building-the-Partition-Table)
 2. [Choosing a Platform](#Choosing-a-Platform)
 3. [Forking the Dotfiles](#Forking-Brians-Dotfiles)
-4. [Setting up the Environment](#Custom-Keybindings)
+4. [Setting up the Environment](#Setting-up-the-Environment)
+5. [Custom Keybindings](#Custom-Keybindings)
 
 ## Building the Partition Table
 
@@ -104,6 +105,14 @@ tool for cloud storage backup.
 2. type `source ~/.dotfiles/.setup/.setup` to begin the setup process.
 3. Once finished, type `reboot` to restart the machine.
 4. Done.
+
+## Setting up the Environment
+
+- [macOS](../.macos/readme.md)
+
+- [Linux](../.linux/readme.md)
+
+- [i3](../.i3/readme.md)
 
 ## Custom Keybindings
 
