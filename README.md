@@ -24,13 +24,13 @@ risk!
 
 ## Setup
 
-1. [Setting up a New Machine](.setup/readme.md)
+1. [Set up a New Machine](.setup/readme.md)
 
-2. [Setting up Google Chrome](.chrome/readme.md)
+2. [Set up Google Chrome](.chrome/readme.md)
 
-3. [Setting up Social Feeds](.feed/readme.md)
+3. [Set up Social Feeds](.feed/readme.md)
 
-4. [Migrating Music Collections](.music/readme.md)
+4. [Migrate Music Collections](.music/readme.md)
 
 5. [Jailbreak Apple Devices](.jailbreak/readme.md)
 
