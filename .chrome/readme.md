@@ -102,3 +102,7 @@
 ### Using Sessions
 
 1.
+
+### Syncing Desktop Background
+
+![]()

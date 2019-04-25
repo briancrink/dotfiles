@@ -69,12 +69,14 @@
 
 ## Keybindings:
 
-1. press `Tab` for if file exits, bash will autocomplete name
-2. press `Ctrl + c` to stop the execution of running program in bashss
-3. press `up or down arrow` to cycle through command history
-4. press `Ctrl + r` to reverse history search
-5. press `Ctrl + a` to go back to the beginning of the line
-6. press `Ctrl + l` to clear the screenls
+1. press <kbd>⇥ Tab</kbd> for if file exits, **bash will autocomplete name**
+2. press <kbd>⌃ Control</kbd>+<kbd>C</kbd> to **stop the execution of running**
+   **program in bash**
+3. press <kbd>↑ Arrow</kbd> or <kbd>↓ Arrow</kbd> to **cycle through command**
+   **history**
+4. press <kbd>⌃ Control</kbd>+<kbd>R</kbd> to **reverse history search**
+5. press <kbd>⌃ Control</kbd>+<kbd>A</kbd> to **go to beginning of the line**
+6. press <kbd>⌃ Control</kbd>+<kbd>L</kbd> to **clear the screen**
 
 ## .bashrc:
 
@@ -83,8 +85,8 @@
 - paste commands here to setup the shell for use in your environment
 - also to customize your preferences
 - place aliases in `.bashrc`
-- type `bash ; bash ; bash` then press `Ctrl + D` 3 times to run on _every_ bash
-  interactive shell launch
+- type `bash ; bash ; bash` then press <kbd>⌃ Control</kbd>+<kbd>D</kbd> 3 times
+  to run on _every_ bash interactive shell launch
 - source: Customizing your Terminal:
   [Part 1](https://www.youtube.com/watch?v=vDOVEDl2z84),
   [Part 2](https://www.youtube.com/watch?v=LXgXV7YmSiU),
