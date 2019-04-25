@@ -26,7 +26,7 @@ risk!
 
 1. [Set up a New Machine](.setup/readme.md)
 
-2. [Set up Google Chrome](.chrome/readme.md)
+2. [Set up Web Workflows](.chrome/readme.md)
 
 3. [Set up Social Feeds](.feed/readme.md)
 
