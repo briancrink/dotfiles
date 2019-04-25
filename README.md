@@ -24,15 +24,15 @@ risk!
 
 ## Setup
 
-1. [macOS](https://github.com/briancrink/dotfiles/tree/master/.macos)
+1. [Setting up a New Machine](.setup/readme.md)
 
-2. [Google Chrome](https://github.com/briancrink/dotfiles/tree/master/.chrome)
+2. [Google Chrome](.chrome/readme.md)
 
-3. [Social Feed](https://github.com/briancrink/dotfiles/tree/master/.feed)
+3. [Social Feed](.feed/readme.md)
 
-4. [Music](https://github.com/briancrink/dotfiles/tree/master/.music)
+4. [Music](.music/readme.md)
 
-5. [Jailbreak](https://github.com/briancrink/dotfiles/tree/master/.jailbreak)
+5. [Jailbreak](.jailbreak/readme.md)
 
 ## Tools
 
