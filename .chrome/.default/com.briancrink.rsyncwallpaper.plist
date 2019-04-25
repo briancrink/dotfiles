@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.briancrink.rsyncwallpaper</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh</string>
+  </array>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>WatchPaths</key>
+  <array>
+    <string>/Library/Caches/Desktop\ Pictures/D3ED9374-7127-4EA4-9D2A-BFDAC1D15A50/</string>
+  </array>
+  <key>KeepAlive</key>
+  <true/>
+</dict>
+</plist>

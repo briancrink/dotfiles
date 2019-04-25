@@ -1,4 +1,19 @@
+# Bash:
+
+## Definition:
+
+- (Bourne Again Shell)
+
+## Note:
+
+- use `curl` for single files, use `wget` for multiple files
+- never use `ls` in scripting, use `find`
+
 # Commands
+
+- for shell, include `#! /`
+- for PHP, include `#! /usr/bin/perl`
+- for bash, include `#! /bin/bash`
 
 ## Launchd
 
