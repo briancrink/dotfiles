@@ -11,7 +11,7 @@
 7. [Change Screenshot Location](#Change-Screenshot-Location)
 8. [Airplay -> Apple TV](#Airplay-->-Apple-TV)
 9. [MacChanger](#MacChanger)
-10. [Find a Solution 🤔](#Find-a-Solution-🤔)
+10. [Find a Solution 🤔](#Find-a-Solution)
 
 ### Custom Global Keybindings
 
@@ -132,7 +132,7 @@
 8. type `macchanger -s eth0` to display current mac address
 9. type `macchanger -m eht0` to change the mac address to a pre-defined address
 
-### Find a Solution 🤔
+### Find a Solution
 
 1. **[show hidden files only for specified directories](https://gotoes.org/sales/ShowHiddenFilesMacOSX/How_To_Show_Hidden_Files.php)**
    - similar to `defaults write com.apple.Finder AppleShowAllFiles YES`
