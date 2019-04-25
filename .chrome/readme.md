@@ -1,6 +1,10 @@
-# Setting up Google Chrome
+# Google Chrome
 
-## Steps
+**Filetypes:** `.gdoc`, `.gsheet`, `.gslides`
+
+**Looping YouTube Video:** `right-click` on video -> `loop`
+
+## Setting up Google Chrome
 
 1. [Install Handy Extensions](#Extensions)
 

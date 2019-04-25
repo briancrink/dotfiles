@@ -23,6 +23,13 @@
 - type `sudo apt-get install compton` to install opaque tool
 - type `sudo apt-get install <app>` to install workspace fade
 
+### Linux --No grub bootloader
+
+1. boot into live distro
+2. open Terminal
+3. type `ubiquity --no-bootloader`
+4. proceed installing from live distro
+
 ## Install Deb | Zip:
 
 1. type `cd Downloads` to navigate to file path

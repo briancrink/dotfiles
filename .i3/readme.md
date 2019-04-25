@@ -13,7 +13,7 @@
 8. type `man i3` to view manpage; type `/<query>` to query search
 9. type `MOD + Shift + e` to logout (execute changes)
 
-## Keybinding:
+## i3:
 
 1. type `ESC` to exit process mode
 2. type `i3lock` to lock device, proceed to blank screen, type password

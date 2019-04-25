@@ -19,9 +19,10 @@ function battery {
 function Vid2Gif {
   echo -n "Filename: " && read filename # helloworld
   echo -n "Format: " && read format # mov
-  echo -n "Framerate: " && read rate # ex 60
-  echo -n "Size: " && read size # ex 2880x1900
-  ffmpeg -i $filename.$format -vf scale=$size:-1 -r $rate -f image2pipe -vcodec ppm - | convert -delay 5 -layers Optimize -loop 0 - $filename.gif
+  echo -n "Framerate: " && read rate # ex 60 `-r $rate`
+  # echo -n "Size: " && read size # ex 2880x1900
+  ffmpeg -i $filename.$format -r $rate -f image2pipe -vcodec ppm - | convert -delay 5 -layers Optimize -loop 0 - $filename.gif
+  # ffmpeg -i $filename.$format -vf scale=$size:-1 -r $rate -f image2pipe -vcodec ppm - | convert -delay 5 -layers Optimize -loop 0 - $filename.gif
 }
 
 function getWallPath {

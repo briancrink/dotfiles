@@ -347,3 +347,39 @@ clear
 Vid2Gif
 clear
 Vid2Gif
+leaks magik
+sudo leaks magick
+sudo leaks magick
+leaks magick
+Vid2Gif
+cd Desktop
+Vid2Gif
+Vid2Gif
+Vid2Gif
+Vid2Gif
+clear
+man image2pipe
+reload
+Vid2Gif
+reload
+Vid2Gif
+reload
+Vid2Gif
+reload
+Vid2Gif
+reload
+Vid2Gif
+reload
+Vid2Gif
+reload
+Vid2Gif
+cd Desktop
+Vid2Gif
+clear
+ls -la
+ls
+convert -version
+man ffmpeg
+man dot_clean
+brew search macchange
+brew search macchanger

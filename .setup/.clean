@@ -1,3 +1,5 @@
+#! /usr/local/bin/bash
+
 # # * Clean up brew
 brew cleanup
 
