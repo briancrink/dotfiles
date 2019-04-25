@@ -32,7 +32,7 @@ risk!
 
 4. [Migrate Music Collections](.music/readme.md)
 
-5. [Jailbreak Apple Devices](.jailbreak/readme.md)
+5. [Jailbreak Apple Devices](https://github.com/briancrink/dotfiles/blob/master/.jailbreak)
 
 ## Tools
 
