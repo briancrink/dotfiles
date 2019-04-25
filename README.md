@@ -24,13 +24,13 @@ risk!
 
 ## Setup
 
-1. [Set up a New Machine](.setup/readme.md)
+1. [Set up a New Machine](https://github.com/briancrink/dotfiles/blob/master/.setup)
 
-2. [Set up Web Workflows](.chrome/readme.md)
+2. [Set up Web Workflows](https://github.com/briancrink/dotfiles/blob/master/.chrome)
 
-3. [Set up Social Feeds](.feed/readme.md)
+3. [Set up Social Feeds](https://github.com/briancrink/dotfiles/blob/master/.feed)
 
-4. [Migrate Music Collections](.music/readme.md)
+4. [Migrate Music Collections](https://github.com/briancrink/dotfiles/blob/master/.music)
 
 5. [Jailbreak Apple Devices](https://github.com/briancrink/dotfiles/blob/master/.jailbreak)
 
