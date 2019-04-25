@@ -1,4 +1,4 @@
-# Setting up a New Mac
+# Setting up a New Machine
 
 ## Steps
 
@@ -8,8 +8,6 @@
 4. [Setting up the Environment](#Custom-Keybindings)
 
 ## Building the Partition Table
-
-1.
 
 ![](guid.png)
 
