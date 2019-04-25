@@ -108,11 +108,11 @@ tool for cloud storage backup.
 
 ## Setting up the Environment
 
-- [macOS](../.macos/readme.md)
+- [macOS](https://github.com/briancrink/dotfiles/blob/master/.macos)
 
-- [Linux](../.linux/readme.md)
+- [Linux](https://github.com/briancrink/dotfiles/blob/master/.linux)
 
-- [i3](../.i3/readme.md)
+- [i3](https://github.com/briancrink/dotfiles/blob/master/.i3)
 
 ## Custom Keybindings
 
