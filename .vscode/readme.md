@@ -15,6 +15,11 @@
 3. **search** for the string `"terminal.integrated.shell.<operating_system>"`
 4. **change the shell filepath**
 
+## Keybindings
+
+1. [Defaults](default_shortcuts.pdf)
+2. [User](https://github.com/briancrink/dotfiles/tree/master/.setup#vs-code)
+
 ## [Type Check Javascript](https://youtu.be/FLxGNoSih-o)
 
 1. type `//@ts-check` at the top of any JS file
