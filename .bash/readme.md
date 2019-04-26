@@ -185,7 +185,7 @@
 
 - type `-v` flag for verbose mode
 - type `-xc` flag for starting shell in debug mode
-- type `echo -n` to stay on the same line
+- type `-n` to stay on the same line
 
 ### Debugging
 
