@@ -173,7 +173,7 @@ tool for cloud storage backup.
 - type <kbd>⌃ Control</kbd>+<kbd>B</kbd>+<kbd>← Arrow</kbd> or <kbd>→
   Arrow</kbd> to **switch window sessions**
 
-### VS Code
+### [VS Code](https://github.com/briancrink/dotfiles/tree/master/.vscode)
 
 - press <kbd>⌘ Command</kbd>+<kbd>,</kbd> to **open settings**
 - press <kbd>⌘ Command</kbd>+<kbd>R</kbd> to **open recent workspace**
