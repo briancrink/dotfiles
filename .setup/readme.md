@@ -114,6 +114,8 @@ tool for cloud storage backup.
 
 - [i3](https://github.com/briancrink/dotfiles/blob/master/.i3)
 
+- [VS Code](https://github.com/briancrink/dotfiles/tree/master/.vscode)
+
 ## Custom Keybindings
 
 ### Photoshop
