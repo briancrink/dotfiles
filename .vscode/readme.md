@@ -2,8 +2,11 @@
 
 ## Install `Code` Shell
 
-- Command Pallete -> type `Shell Command: Install Code` -> Enter
+- Command Pallete -> type `Shell Command: Install Code` to **install code**
+  **shell**
 - type `code <file>` from terminal to **open a file in VS code**
+- type `code --list-extensions > ~/.dotfiles/.vscode/.vscode` to **backup**
+  **extensions to a file**
 
 ## Change Default Integrated Shell
 
@@ -24,33 +27,31 @@
 1. go to Settings
 2. type `"editor.formatOnSave": true` to **auto-format upon save**
 
-## Backup Extensions
-
-- type `code --list-extensions > ~/.dotfiles/.vscode/.vscode` to **backup**
-  **extensions to a file**
-
 ## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
 **Note:** requires github, gitlab does not have secret gists -> returns error
+
+### Setup
 
 1. [Documentation](https://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
 2. install `Settings Sync` extension via GUI or CLI
    `ext install code-settings-sync`
 3. open vscode command palette
-4. type `sync`
-5. choose: `download` or `update` or `advanced options`
+4. type `Sync:`
+5. choose: `Download` or `Update` or `Advanced Options`
 6. type in the palette
    `Sync : Advance Options > Toggle Auto-Download On Startup` to **toggle**
-   **autodownload**
+   **auto-download**
 7. type in the palette
    `Sync : Advance Options > Toggle Auto-Upload on Setting Change` to **toggle**
-   **autoupload**
-8. create public GIST:
-   `Sync : Advance Options > Share Settings with Public GIST`
+   **auto-upload**
+8. type in the palette
+   `Sync : Advance Options > Share Settings with Public GIST` to **create**
+   **public GIST** (if haven't already)
 9. press <kbd>⇧ Shift</kbd>+<kbd>⌥ Option</kbd>+<kbd>U</kbd> to **upload**
 10. press <kbd>⇧ Shift</kbd>+<kbd>⌥ Option</kbd>+<kbd>D</kbd> to **download**
 
-## Sync
+### Sync From a New Machine
 
 **GIST ID:** `https://gist.github.com/{your_userName}/{gist_id}`
 
@@ -61,8 +62,8 @@
 2. Install `Settings Sync`
 3. Open the command palette
 4. type `sync: Download`
-5. Paste the **code-settings GIST personal access token** saved previously
-6. Now paste the **code-settings GIST ID** from the url
+5. Paste the **code-settings-sync GIST personal access token** saved previously
+6. Now paste the **code-settings-sync GIST ID** from the url
 7. All your files are downloaded and it will start downloading your extensions
    in the background
 8. VS Code will prompt a **restart**

@@ -409,3 +409,6 @@ whereis sh
 whereis bash
 whereis py
 whereis python
+reload
+bash --version
+reload
