@@ -210,7 +210,7 @@
 - type `sudo ifconfig en0 ether aa:bb:cc:dd:ee:ff` to set MAC address for en0 to
   a specific address
 - type `openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//' | xargs sudo` to set
-  MAC address to random \*generate script to run
+  MAC address to random generate script to run
 - type `ifconfig en0 | grep ether` to output the MAC address for en0 (wireless
   port)
 
