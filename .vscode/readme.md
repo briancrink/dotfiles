@@ -17,8 +17,8 @@
 
 ## Keybindings
 
-1. [Defaults](default_shortcuts.pdf)
-2. [User](https://github.com/briancrink/dotfiles/tree/master/.setup#vs-code)
+1. **[Defaults](default_shortcuts.pdf)**
+2. **[User](https://github.com/briancrink/dotfiles/tree/master/.setup#vs-code)**
 
 ## [Type Check Javascript](https://youtu.be/FLxGNoSih-o)
 
