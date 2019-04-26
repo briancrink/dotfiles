@@ -1,18 +1,13 @@
 # rEFInd Boot Manager
 
-### Mac rEFInd Boot Manager
+### Setting up rEFInd on the Mac
 
 1. open Terminal
-2. type `cd /` for root
-3. type `sudo mkdir /Volumes/efi` to make the efi directory
-4. enter password
-5. type `sudo mount -t msdos /dev/disk0s1 /Volumes/efi` to mount disk
-6. open EFI disk in Finder
-7. refind-install --ownhfs EFI
-
-## Update rEFInd:
-
-1. type `sudo mkdir /Volumes/EFI`
-2. type `sudo mount -t msdos /dev/disk0s1 /Volumes/EFI`
-3. type `sudo rm -rfv /Volumes/EFI/EFI/Boot /Volumes/EFI/EFI/Microsoft`
-4. type `sudo umount /Volumes/EFI`
+2. type `sudo mkdir /Volumes/EFI` to make the efi directory
+3. enter password
+4. type `sudo mount -t msdos /dev/disk0s1 /Volumes/EFI` to mount disk
+5. type `"$refind"/refind-install` to execute the install
+6. type `rm -rf /Volumes/EFI/EFI/refind/icons-backup` to remove backup icons
+7. type `rm -rf /Volumes/EFI/EFI/refind/refind.conf-sample` to remove sample
+   config
+8. type `diskutil unmount /Volumes/EFI` to unmount disk
