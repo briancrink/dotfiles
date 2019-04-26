@@ -17,16 +17,12 @@ with a local storage partition (Drive) visible in all. Drive is synced to
 [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/)
 tool for cloud storage backup.
 
-## Choosing a Platform
-
-**[OS](https://en.wikipedia.org/wiki/Operating_system)**
+## [Choosing a Platform](https://en.wikipedia.org/wiki/Operating_system)
 
 1. [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
 2. [Linux](https://www.linux.org/pages/download/)
 
-### Choosing a Distribution
-
-**[Distro](https://distrowatch.com/)**
+### [Choosing a Distribution](https://distrowatch.com/)
 
 1. [Ubuntu](https://www.ubuntu.com/#download)
 2. [Kali](https://www.kali.org/downloads/)
@@ -38,18 +34,14 @@ tool for cloud storage backup.
 8. [Solus](https://getsol.us/download/)
 9. [Elementary](https://elementary.io/nl/)
 
-### Choosing a Kernel
-
-**[Kernel](<https://en.wikipedia.org/wiki/Kernel_(operating_system)>)**
+### [Choosing a Kernel](<https://en.wikipedia.org/wiki/Kernel_(operating_system)>)
 
 1. [Arch](https://wiki.archlinux.org/index.php/kernel)
 2. [Manjaro](https://wiki.manjaro.org/index.php/Manjaro_Kernels)
 3. [Ubuntu (bionic)](https://packages.ubuntu.com/bionic-updates/linux-image-4.15.0-34-generic)
 4. [Darwin](<https://en.wikipedia.org/wiki/Darwin_(operating_system)>)
 
-### Choosing a Desktop Environment
-
-**[Flavor](https://en.wikipedia.org/wiki/Desktop_environment)**
+### [Choosing a Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment)
 
 1. [Deepin](https://www.deepin.org/en/download/)
 2. [XFCE](https://www.xfce.org/download)
@@ -59,9 +51,7 @@ tool for cloud storage backup.
 6. [KDE Neon](https://neon.kde.org/download)
 7. [Ubuntu Flavors](https://www.ubuntu.com/download/flavours)
 
-### Choosing a Window Manager
-
-**[WM](https://en.wikipedia.org/wiki/Window_manager)**
+### [Choosing a Window Manager](https://en.wikipedia.org/wiki/Window_manager)
 
 1. [i3](https://i3wm.org/downloads/)
 2. [Deepin WM](https://github.com/linuxdeepin/deepin-wm)
@@ -69,18 +59,14 @@ tool for cloud storage backup.
 4. [Muffin](https://github.com/linuxmint/muffin)
 5. [Metacity (Marco)](https://github.com/mate-desktop/marco)
 
-### Choosing a Package Manager
-
-**[PM](https://en.wikipedia.org/wiki/Package_manager)**
+### [Choosing a Package Manager](https://en.wikipedia.org/wiki/Package_manager)
 
 1. [brew](https://brew.sh/)
 2. [pip](https://pypi.org/project/pip/)
 3. [npm](https://www.npmjs.com/get-npm)
 4. [apt-get](https://itsfoss.com/apt-get-linux-guide/)
 
-### Choosing a Shell
-
-**[Shell](<https://en.wikipedia.org/wiki/Shell_(computing)>)**
+### [Choosing a Shell](<https://en.wikipedia.org/wiki/Shell_(computing)>)
 
 1. [bash (5.0.7.1)](https://www.gnu.org/software/bash/)
 2. [oh-my-zsh (5.7.1)](https://ohmyz.sh/)
@@ -89,9 +75,7 @@ tool for cloud storage backup.
 5. [gnome (2.0 | 3.30.2)](https://www.gnome.org/gnome-3/)
 6. [unity (7.5)](<https://en.wikipedia.org/wiki/Unity_(user_interface)>)
 
-### Choosing a Bootloader
-
-**[Bootloader](https://wiki.osdev.org/Bootloader)**
+### [Choosing a Bootloader](https://wiki.osdev.org/Bootloader)
 
 1. [GRUB](https://www.gnu.org/software/grub/)
 2. [rEFInd](https://www.rodsbooks.com/refind/)
