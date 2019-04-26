@@ -49,7 +49,7 @@
 
 ### System Events
 
-- type `reboot` to reboot system
+- type `sudo reboot` to reboot system
 - type `poweroff` to power off system
 - type `sudo shutdown -r now` to shutdown and restart right now
 - type `osascript -e 'tell application "System Events" to restart'` to invoke

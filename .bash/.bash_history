@@ -1,6 +1,3 @@
-urlencode the flash
-reload
-NightWatch
 clear
 reload
 NightWatch
@@ -498,3 +495,6 @@ reload
 reload
 rEFInd
 clear
+sudo restart
+restart
+reboot
