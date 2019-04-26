@@ -1,13 +1,17 @@
+#! /usr/local/bin/bash
+
 # # * Folder .icns
-fileicon get -f ~/Downloads ~/.dotfiles/.icns/downloads
-fileicon get -f /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner
-fileicon get -f /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot
+fileicon get -f $downloads $dotfiles/.icns/downloads
+fileicon get -f $scanner $dotfiles/.icns/scanner
+fileicon get -f $screenshot $dotfiles/.icns/screenshot
 
 # # * Brewfile (bundle = alias)
 bundle
 
 # # * VS Code
-# (backup sync-settings -> git gists)
+# install "Settings Sync" extension in vscode marketplace
+# type in vscode command palette `Sync : Advance Options > Toggle Auto-Upload on Setting Change` to auto-backup
+code --list-extensions > $dotfiles/.vscode/.vscode
 
 # # * App data
 

@@ -15,7 +15,7 @@ alias python=python3
 alias plistbuddy='rlwrap /usr/libexec/PlistBuddy'
 
 # # * Shortcuts
-alias %='battery'
+alias %=battery
 
 # # * Backup Homebrew packages
 alias bundle='brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile'
@@ -36,9 +36,14 @@ alias brewshell='source ~/.brewshell'
 alias reload='source ~/.bash_profile'
 
 # # * Folder Paths
-alias icloud='ls ~/Library/Mobile\ Documents/'
-alias light=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Light/
-alias dark=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dark/
-alias dusk=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dusk/
-alias neon=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/neonspacecandy/
-alias winter=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/winter/
+# [Bash Escape Sequences](https://unix.stackexchange.com/questions/108635/why-i-cant-escape-spaces-on-a-bash-script)
+dotfiles=~/.dotfiles # $dotfiles
+downloads=~/Downloads # $downloads
+scanner=/Volumes/Drive/Workspace/Document/Scanner # $scanner
+screenshot=/Volumes/Drive/Workspace/Document/Screenshot # $screenshot
+icloud=~/Library/Mobile\ Documents/ # "$icloud"
+light=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Light # $light
+dark=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Dark # $dark
+dusk=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Dusk # $dusk
+neon=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Theme/neonspacecandy # $neon
+winter=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Theme/winter # $winter

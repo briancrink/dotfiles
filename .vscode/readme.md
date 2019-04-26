@@ -1,108 +1,68 @@
-# VS Code:
+# VS Code
 
-## Tips:
+## Install `Code` Shell
 
-- [VS Code Tips](https://www.smashingmagazine.com/2018/01/visual-studio-code/)
-- [Emmet Tricks](https://css-tricks.com/can-vs-code-emmet/)
+- Command Pallete -> type `Shell Command: Install Code` -> Enter
+- type `code <file>` from terminal to **open a file in VS code**
 
-## [Settings Sync](https://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html):
-
-0. requires github, gitlab does not have secret gists -> returns error
-1. install `Settings Sync` extension via gui or cli
-   `ext install code-settings-sync`
-1. open command palette...
-1. type `sync`
-1. choose: `download` or `update` or `advanced options`
-
-## Backup vs code extensions
-
-- type `code --list-extensions`
-- save to `.install` and `install.md`
-
-## Commands:
-
-- `code < filename >.< filetype >` to open a new file in VS code
-
-## Choose Terminal Shell:
+## Change Default Integrated Shell
 
 1. go to Settings
 2. type `shell`
-3. the string `"terminal.integrated.shell.osx": "/usr/local/bin/zsh"` will be
-   displayed
-4. change the shell
+3. **search** for the string `"terminal.integrated.shell.<operating_system>"`
+4. **change the shell filepath**
 
-## Code Shell:
-
-- View -> Command Pallete -> type 'shell command' -> install
-
-## [Type Check Javascript](https://youtu.be/FLxGNoSih-o):
+## [Type Check Javascript](https://youtu.be/FLxGNoSih-o)
 
 1. type `//@ts-check` at the top of any JS file
 2. you will immediately get TypeScript error checking on file
 3. for projects, type `"javascript.implicitProjectConfig.checkJs": true` in user
    preferences
 
-## Prettier:
+## Prettier
 
-1. to auto-format upon save, go to user preferences
-2. type `"editor.formatOnSave": true`
+1. go to Settings
+2. type `"editor.formatOnSave": true` to **auto-format upon save**
 
-## Shortcuts:
+## Backup Extensions
 
-### Mac:
+- type `code --list-extensions > ~/.dotfiles/.vscode/.vscode` to **backup**
+  **extensions to a file**
 
-- press `CMD + ,` to open settings
-- press `CMD + R` to open recent workspace
-- press `CMD + S` to save
-- press `CMD + Shift + S` to save workspace
-- press `CMD + Shift + Alt + S` to save all
-- press `CMD + N` for new file
-- press `CMD + Shift + N` for new window
-- press `CMD+ O` to open
-- press `CMD + Shift + O` to open workspace
-- press `CMD + W` to close workspace
-- press `CMD + Q` to quit vs code
-- press `CMD + P` to open preview
-- press `CMD + K` to open keyboard shortcuts
-- press `CMD + ALT + Right` to move right in editors
-- press `CMD + ALT + Left` to move left in editors
-- press `CMD + T` to open terminal
-- press `CMD + F` to find < keyword >
-- press `CMD + Enter` to run code (requires code runner)
-- press `CMD + Shift + Spacebar` to show command palette
-- press `CMD + Shift + F` to format document (requires language formatter)
-- press `CMD + /` to view problems window pane
-- press `Fn + Right Arrow` to jump to the end of the line
-- press `Fn + Left Arrow` to jump to the beginning of line
-- press `Fn + Up Arrow` to jump to the top of the file
-- press `Fn + Down Arrow` to jump to the bottom of the file
-- press `Option + Up Arrow` to move a selected line(s) up
-- press `Option + Down Arrow` to move a selected line(s) down
-- press `CMD + .` to toggle comment block code
+## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-### Debugging:
+**Note:** requires github, gitlab does not have secret gists -> returns error
 
-- press `CMD + Shift + d` to open debugging window
-- press the button with the `red indicator` to create a `launch.json` config
-  file in your project folder
-- no modification of the `launch.json` required
-- press `start debugging` with current file (Inegrated Terminal)
-- press `F5` to debug application
-- press `fn + F5` to debug application
-- press `CTL + F5` to run application
-- press `CTL + fn + F5` to run application
-- press `Shift + fn + F5` to stop debugging
-- press `F9` to toggle breakpoint
-- press `F10` to step over
-- press `F11` to step into
-- press `Shift + F11` to step out
+1. [Documentation](https://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
+2. install `Settings Sync` extension via GUI or CLI
+   `ext install code-settings-sync`
+3. open vscode command palette
+4. type `sync`
+5. choose: `download` or `update` or `advanced options`
+6. type in the palette
+   `Sync : Advance Options > Toggle Auto-Download On Startup` to **toggle**
+   **autodownload**
+7. type in the palette
+   `Sync : Advance Options > Toggle Auto-Upload on Setting Change` to **toggle**
+   **autoupload**
+8. create public GIST:
+   `Sync : Advance Options > Share Settings with Public GIST`
+9. press <kbd>⇧ Shift</kbd>+<kbd>⌥ Option</kbd>+<kbd>U</kbd> to **upload**
+10. press <kbd>⇧ Shift</kbd>+<kbd>⌥ Option</kbd>+<kbd>D</kbd> to **download**
 
-### Windows:
+## Sync
 
-- press `Ctlr + F5` to run application
-- press `F5` to debug application
-- press `Shift + F5` to stop debugging
-- press `F9` to toggle breakpoint
-- press `F10` to step over
-- press `F11` to step into
-- press `Shift + F11` to step out
+**GIST ID:** `https://gist.github.com/{your_userName}/{gist_id}`
+
+**Brian's GIST ID:**
+[35c7cc9909993b8701dba28f47589ecb](https://gist.github.com/briancrink/35c7cc9909993b8701dba28f47589ecb)
+
+1. Install VS Code
+2. Install `Settings Sync`
+3. Open the command palette
+4. type `sync: Download`
+5. Paste the **code-settings GIST personal access token** saved previously
+6. Now paste the **code-settings GIST ID** from the url
+7. All your files are downloaded and it will start downloading your extensions
+   in the background
+8. VS Code will prompt a **restart**

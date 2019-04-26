@@ -17,9 +17,10 @@
 
 ### Best Practice
 
-- use `curl` for single files, use `wget` for multiple files
-- use `ls` for navigation, use `find` in scripting
-- use `cat` for text files, use `ffmpeg` for encoded media files
+- use `curl` for **single** files, use `wget` for **multiple** files
+- use `ls` for **navigation**, use `find` in **scripting**
+- use `cat` for **text** files, use `ffmpeg` for **encoded media** files
+- use `ls` not `cd` when **piping for a file in a directory**
 
 ### Navigation
 
@@ -92,13 +93,28 @@
 
 ### Regular Expression
 
-- type `grep` to search a file for a given string or expression
 - type `regex` regular expression
 - type `*` wildcard: use to find files with of matching specification
 - type `./` to run and evaluate file or script
 - type `sort` to sort alpha
 - type `sort -n` to sort numerically
 - type `diff` to output the difference of two files
+
+### Mastering Grep
+
+- `grep <Exception>`
+- type `grep` to search a file for a given string or expression
+- type `egrep` == `grep -e` to search for a pattern in each file, pattern
+  interpreted as an extended regular expression use the pattern as a pattern
+- type `fgrep` == `grep -f` to search for a pattern in each file, pattern
+  interpreted as a list of fixed strings obtains patterns from file (line by
+  line)
+- type `grep <pattern> <file>`
+- type `grep -c` to output the # of lines the pattern is matched
+- type `grep -v` to output the lines without the matching pattern
+- type `grep -n` to output the line #'s with the matching pattern
+- type `grep ^<pattern>` to output only the lines beginning with the pattern
+- type `grep <pattern>$` to output only the lines ending with the pattern
 
 ### Run Shell Interpreter
 
@@ -140,6 +156,16 @@
 - type `read <variable>` for shell to read input, `$<variable>` to use input as
   a variable
 
+### Permissions
+
+- type `chmod <value> <filename>` to change mode to set permissions (777 -
+  anyone, 755 - standard, - - user only)
+- type `sudo chown -R <user>:<group> /file_path/user` to change owner for files
+  with recursive flag
+- type `ls -la` to view permissions of all dot files
+- type `chown -R root:admin <filepath>` do shell script with administrator
+  privileges
+
 ### File Extraction
 
 - type `tar -zxvf <filename>.tar.gz` to extract file
@@ -165,19 +191,6 @@
 - type `source file executable` to rerun a file
 - type `fc` to fix the last command in editor
 - type `sudo !!` to repeat last command with sudo privileges, sudo BANG BANG!!
-
-### Permissions
-
-- type `chmod <value> <filename>` to change mode to set permissions (777 -
-  anyone, 755 - standard, - - user only)
-- type `sudo chown -R <user>:<group> /file_path/user` to change owner for files
-  with recursive flag
-- type `ls -la` to view permissions of all dot files
-- type `chown -R root:admin <filepath>` do shell script with administrator
-  privileges
-
-### Executable
-
 - type `test -x <file>` tests whether `<file>` has execute permissions for the
   current user
 
@@ -313,19 +326,17 @@
 
 ## Scripting
 
-### Script
+### Shell Script
 
 - for shell scripts, always include the header to the full path to the shell in
-  line 1 -> `#! /bin/bash`
+  line 1 -> `#! /bin/<shell>`
 - to convert a shell script into an executable with proper permissions, type ->
   `chmod u+x <path/to>/script.sh`
 - when using a custom bash command in a shell script, use the FULL PATH to the
   command in the script (ex. `usr/local/bin/LocateMe`)
 - type `echo "" > script.sh` to create a shell script
 - type `chmod +x script.sh` to change permissions to execute
-- type `./script.sh` to run script
-- in shell scripts, always include in line 1 -> `#! /bin/bash`
-- type `./<script>` to run script
+- type `sh ./script.sh` to run script (if there exists no header in script)
 
 ### Applescript
 
@@ -339,27 +350,11 @@
 
 ### Merge media tracks
 
-- cd into working directory
-- type `for f in ./*.mp3; do echo "file '$f'" >> tracklist.txt; done` **make
-  sure files are in correct order!!**
+- `cd` into working directory
+- type `for f in ./*.mp3; do echo "file '$f'" >> tracklist.txt; done` **make**
+  **sure files are in correct order!!**
 - type `ffmpeg -f concat -safe 0 -i tracklist.txt -c copy output.mp3` to concat
   from the list and save as <output.mp3>
-
-### Mastering Grep
-
-- `grep <Exception>`
-- type `egrep` == `grep -e` to search for a pattern in each file, pattern
-  interpreted as an extended regular expression use the pattern as a pattern
-- type `fgrep` == `grep -f` to search for a pattern in each file, pattern
-  interpreted as a list of fixed strings obtains patterns from file (line by
-  line)
-- type `grep <pattern> <file>`
-- type `grep -c` to output the # of lines the pattern is matched
-- type `grep -v` to output the lines without the matching pattern
-- type `grep -n` to output the line #'s with the matching pattern
-- type `grep ^<pattern>` to output only the lines beginning with the pattern
-- type `grep <pattern>$` to output only the lines ending with the pattern
-- use `ls` not `cd` when piping for a file in a directory
 
 ### Hex Binary Editing
 
@@ -393,7 +388,7 @@
 
 ### Edit media tags
 
-- `cd` into the relative directory file path
+- `cd` into working directory
 - type
   `eyeD3 -t "<title>" -a "<author>" --add-image="<cover.jpg>":FRONT_COVER <filepath.mp3>`
   to add title, author, and cover art to mp3 file

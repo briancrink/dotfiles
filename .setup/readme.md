@@ -116,6 +116,22 @@ tool for cloud storage backup.
 
 ## Custom Keybindings
 
+### Photoshop
+
+- type <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>
+  to **merge all layers**
+
+### Shell
+
+- press <kbd>⇥ Tab</kbd> for if file exits, **bash will autocomplete name**
+- press <kbd>⌃ Control</kbd>+<kbd>C</kbd> to **stop the execution of running**
+  **program in bash**
+- press <kbd>↑ Arrow</kbd> or <kbd>↓ Arrow</kbd> to **cycle through command**
+  **history**
+- press <kbd>⌃ Control</kbd>+<kbd>R</kbd> to **reverse history search**
+- press <kbd>⌃ Control</kbd>+<kbd>A</kbd> to **go to beginning of the line**
+- press <kbd>⌃ Control</kbd>+<kbd>L</kbd> to **clear the screen**
+
 ### Terminal
 
 - press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>1</kbd> to **Select Menu**
@@ -143,29 +159,69 @@ tool for cloud storage backup.
 
 ### TMUX (Terminal Multiplexing)
 
-- install tmux to separate cmd into < 4 windows
+- install tmux to **separate cmd into < 4 windows**
 - type `tmux`
-- type <kbd>⌃ Control</kbd>+<kbd>B</kbd> to let program know to listen
-- type <kbd>%</kbd> to open a new window
-- type <kbd>⌃ Control</kbd>+<kbd>B</kbd> to switch back to first window
-- type `man tmux` to find tmux manual
-- type <kbd>⌃ Control</kbd>+<kbd>B</kbd>+<kbd>\$</kbd> to rename session window
-- type <kbd>Q</kbd> to quit menu
+- type <kbd>⌃ Control</kbd>+<kbd>B</kbd> to **let program know to listen**
+- type <kbd>%</kbd> to **open a new window**
+- type <kbd>⌃ Control</kbd>+<kbd>B</kbd> to **switch back to first window**
+- type `man tmux` to **find tmux manual**
+- type <kbd>⌃ Control</kbd>+<kbd>B</kbd>+<kbd>\$</kbd> to **rename session**
+  **window**
+- type <kbd>Q</kbd> to **quit menu**
 - type <kbd>⌃ Control</kbd>+<kbd>B</kbd>+<kbd>← Arrow</kbd> or <kbd>→
-  Arrow</kbd> to switch window sessions
+  Arrow</kbd> to **switch window sessions**
 
-### Shell
+### VS Code:
 
-- press <kbd>⇥ Tab</kbd> for if file exits, **bash will autocomplete name**
-- press <kbd>⌃ Control</kbd>+<kbd>C</kbd> to **stop the execution of running**
-  **program in bash**
-- press <kbd>↑ Arrow</kbd> or <kbd>↓ Arrow</kbd> to **cycle through command**
-  **history**
-- press <kbd>⌃ Control</kbd>+<kbd>R</kbd> to **reverse history search**
-- press <kbd>⌃ Control</kbd>+<kbd>A</kbd> to **go to beginning of the line**
-- press <kbd>⌃ Control</kbd>+<kbd>L</kbd> to **clear the screen**
-
-### Photoshop
-
-- type <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>
-  to **merge all layers**
+- press <kbd>⌘ Command</kbd>+<kbd>,</kbd> to **open settings**
+- press <kbd>⌘ Command</kbd>+<kbd>R</kbd> to **open recent workspace**
+- press <kbd>⌘ Command</kbd>+<kbd>S</kbd> to **save**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>S</kbd> to **save**
+  **workspace**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>⌥ Option</kbd>+<kbd>S</kbd>
+  to **save all**
+- press <kbd>⌘ Command</kbd>+<kbd>N</kbd> for **new file**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>N</kbd> for **new window**
+- press <kbd>⌘ Command</kbd>+<kbd>O</kbd> to **open**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>O</kbd> to **open**
+  **workspace**
+- press <kbd>⌘ Command</kbd>+<kbd>W</kbd> to **close workspace**
+- press <kbd>⌘ Command</kbd>+<kbd>Q</kbd> to **quit vs code**
+- press <kbd>⌘ Command</kbd>+<kbd>P</kbd> to **open preview**
+- press <kbd>⌘ Command</kbd>+<kbd>K</kbd> to **open keyboard shortcuts**
+- press <kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>→ Arrow</kbd> to **move**
+  **right in editors**
+- press <kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>← Arrow</kbd> to **move**
+  **left in editors**
+- press <kbd>⌘ Command</kbd>+<kbd>T</kbd> to **open terminal**
+- press <kbd>⌘ Command</kbd>+<kbd>F</kbd> to **find < keyword >**
+- press <kbd>⌘ Command</kbd>+<kbd>Enter</kbd> to **run code** (requires code
+  runner)
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>Space</kbd> to **show**
+  **command palette**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>F</kbd> to **format**
+  **document** (requires language formatter)
+- press <kbd>⌘ Command</kbd>+<kbd>/</kbd> to **view problems window pane**
+- press <kbd>Fn</kbd>+<kbd>→ Arrow</kbd> to **jump to the end of the line**
+- press <kbd>Fn</kbd>+<kbd>← Arrow</kbd> to **jump to the beginning of line**
+- press <kbd>Fn</kbd>+<kbd>↑ Arrow</kbd> to **jump to the top of the file**
+- press <kbd>Fn</kbd>+<kbd>↓ Arrow</kbd> to **jump to the bottom of the file**
+- press <kbd>⌥ Option</kbd>+<kbd>↑ Arrow</kbd> to **move a selected line(s) up**
+- press <kbd>⌥ Option</kbd>+<kbd>↓ Arrow</kbd> to **move a selected line(s)**
+  **down**
+- press <kbd>⌘ Command</kbd>+<kbd>.</kbd> to **toggle comment block code**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>D</kbd> to **open**
+  **debugging window**
+- press the button with the `red indicator` to create a `launch.json` config
+  file in your project folder
+- no modification of the `launch.json` required
+- press `start debugging` with **current file** (Integrated Terminal)
+- press <kbd>F5</kbd> to **debug application**
+- press <kbd>Fn</kbd>+<kbd>F5</kbd> to **debug application**
+- press <kbd>⌃ Control</kbd>+<kbd>F5</kbd> to **run application**
+- press <kbd>⌃ Control</kbd>+<kbd>Fn</kbd>+<kbd>F5</kbd> to **run application**
+- press <kbd>⇧ Shift</kbd>+<kbd>Fn</kbd>+<kbd>F5</kbd> to **stop debugging**
+- press <kbd>F9</kbd> to **toggle breakpoint**
+- press <kbd>F10</kbd> to **step over**
+- press <kbd>F11</kbd> to **step into**
+- press <kbd>⇧ Shift</kbd>+ <kbd>F11</kbd> to **step out**
