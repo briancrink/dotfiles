@@ -14,6 +14,11 @@
 1. type `sync`
 1. choose: `download` or `update` or `advanced options`
 
+## Backup vs code extensions
+
+- type `code --list-extensions`
+- save to `.install` and `install.md`
+
 ## Commands:
 
 - `code < filename >.< filetype >` to open a new file in VS code

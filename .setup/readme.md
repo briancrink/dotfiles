@@ -116,7 +116,7 @@ tool for cloud storage backup.
 
 ## Custom Keybindings
 
-### Terminal:
+### Terminal
 
 - press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>1</kbd> to **Select Menu**
   **Item.. Default**
@@ -141,7 +141,31 @@ tool for cloud storage backup.
 - press <kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>→ Arrow</kbd> to
   **Select** **Split Pane Right**
 
-### Photoshop:
+### TMUX (Terminal Multiplexing)
+
+- install tmux to separate cmd into < 4 windows
+- type `tmux`
+- type <kbd>⌃ Control</kbd>+<kbd>B</kbd> to let program know to listen
+- type <kbd>%</kbd> to open a new window
+- type <kbd>⌃ Control</kbd>+<kbd>B</kbd> to switch back to first window
+- type `man tmux` to find tmux manual
+- type <kbd>⌃ Control</kbd>+<kbd>B</kbd>+<kbd>\$</kbd> to rename session window
+- type <kbd>Q</kbd> to quit menu
+- type <kbd>⌃ Control</kbd>+<kbd>B</kbd>+<kbd>← Arrow</kbd> or <kbd>→
+  Arrow</kbd> to switch window sessions
+
+### Shell
+
+- press <kbd>⇥ Tab</kbd> for if file exits, **bash will autocomplete name**
+- press <kbd>⌃ Control</kbd>+<kbd>C</kbd> to **stop the execution of running**
+  **program in bash**
+- press <kbd>↑ Arrow</kbd> or <kbd>↓ Arrow</kbd> to **cycle through command**
+  **history**
+- press <kbd>⌃ Control</kbd>+<kbd>R</kbd> to **reverse history search**
+- press <kbd>⌃ Control</kbd>+<kbd>A</kbd> to **go to beginning of the line**
+- press <kbd>⌃ Control</kbd>+<kbd>L</kbd> to **clear the screen**
+
+### Photoshop
 
 - type <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>
   to **merge all layers**

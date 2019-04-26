@@ -6,6 +6,7 @@ alias ld="ls -ld */"    # List in long format, only directories
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
+alias cd?='echo "Your current directory is $(pwd)"'
 
 # # * Python
 alias python=python3
@@ -34,7 +35,8 @@ alias rEfind='source ~/.rEFInd'
 alias brewshell='source ~/.brewshell'
 alias reload='source ~/.bash_profile'
 
-# # * Wallpaper
+# # * Folder Paths
+alias icloud='ls ~/Library/Mobile\ Documents/'
 alias light=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Light/
 alias dark=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dark/
 alias dusk=Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dusk/

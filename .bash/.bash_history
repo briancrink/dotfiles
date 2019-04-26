@@ -386,3 +386,26 @@ brew search macchanger
 shell --version
 sh --version
 bash --version
+ffmpeg -i rsyncwallpaper.mp4 rsyncwallpaper.gif
+cd Desktop
+ffmpeg -i rsyncwallpaper.mp4 rsyncwallpaper.gif
+ffmpeg -i rsyncwallpaper.mp4 rsyncwallpaper.gif
+man ffmppeg 
+man ffmpeg 
+ffmpeg --version
+ffmpeg -version
+clear
+cd Desktop
+clear
+ffmpeg -i /Users/briancrink/Desktop/rsyncwallpaper.mov -qscale 0 output.mp4
+NightWatch twilight zone
+echo $SHELL
+man safe-rm
+brew search safe-rm
+brew install safe-rm
+bundle
+whereis shell
+whereis sh
+whereis bash
+whereis py
+whereis python

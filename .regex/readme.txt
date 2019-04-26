@@ -5,7 +5,9 @@
 3. type 'sort lines ascending'
 4. in regex, type `^(.*)(\n\1)+$` and `$1`
 
-
+## Remove : in headers
+## (.*):
+## $1
 
 \[]\(https://(.*?)\.
 [$1](https://$1.
