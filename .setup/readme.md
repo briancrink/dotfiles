@@ -211,3 +211,5 @@ tool for cloud storage backup.
 - press <kbd>F10</kbd> to **step over**
 - press <kbd>F11</kbd> to **step into**
 - press <kbd>⇧ Shift</kbd>+ <kbd>F11</kbd> to **step out**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>F</kbd> to **fold all**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>U</kbd> to **unfold all**
