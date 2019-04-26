@@ -1,24 +1,3 @@
-sudo launchctl list | grep com.local.rsyncwallpaper
-launchctl load /System/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-man open
-curl -G "https://openpirate.org/search/" --data-urlencode "msg=$query"
-reload
-q1
-clear
-reload
-urlencode the flash
-reload
-urlencode the flash
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-NightWatch -x
-reload
 urlencode the flash
 reload
 NightWatch
@@ -412,3 +391,110 @@ whereis python
 reload
 bash --version
 reload
+whereis python
+whereis python
+man iftop
+man restart
+cd $HOME
+ls
+cd Desktop
+cd $HOME
+ls ~/Library/Mobile\ Documents/
+reload
+icloud
+ls
+clear
+echo "Your current directory is $(pwd)"
+reload
+cd?
+man bash
+vi /etc/shells
+code /etc/shells
+ls -l chsh
+ls -l csh
+ls -l /bin/csh
+man chsh
+man csh
+NightWatch Gotham
+%
+man pushd
+man builtin
+%
+code --list-extensions
+code --list-extensions > ~/.dotfiles/.vscode/.vscode
+reload
+reload
+reload
+backup
+reload
+backup
+reload
+cd screenshot
+cd dark
+cd icloud
+cd download
+cd downloads
+cd scanner
+reload
+cd $scanner
+reload
+cd $scanner
+cd $downloads
+cd $screenshot
+cd $winter
+reload
+cd $winter
+reload
+cd $winter
+cd $neonspacecandy
+cd $icloud
+reload
+cd $icloud
+reload
+cd $icloud
+reload
+cd icloud
+cd $icloud
+reload
+cd icloud
+cd $icloud
+reload
+cd "$icloud"
+cd downloads
+cd $downloads
+reload
+backup
+reload
+reload
+cd dotfiles
+reload
+cd dotfiles
+reload
+cd dotfiles
+reload
+cd dotfiles
+reload
+dotfiles
+reload
+cd dotfiles
+reload
+qw
+cd qw
+cd downloadss
+cd downloads
+cd $downloads
+cd qw
+cd $qw
+reload
+cd $qw
+cd qw
+cd qw
+qw
+cd qw
+reload
+%
+cd?
+reload
+reload
+rEFInd
+clear
