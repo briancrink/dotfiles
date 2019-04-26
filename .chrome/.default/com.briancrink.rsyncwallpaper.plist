@@ -12,7 +12,7 @@
   <true/>
   <key>WatchPaths</key>
   <array>
-    <string>/Library/Caches/Desktop\ Pictures/D3ED9374-7127-4EA4-9D2A-BFDAC1D15A50/</string>
+    <string>/Library/Caches/Desktop\ Pictures/*/</string>
   </array>
   <key>KeepAlive</key>
   <true/>
