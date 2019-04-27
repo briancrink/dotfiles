@@ -1,6 +1,6 @@
-# Git:
+# Git
 
-## workflow:
+## workflow
 
 - always start day with `git pull`
 - to see changes `git status`
@@ -8,15 +8,13 @@
 - to commit `git commit -m "message"`
 - to push `git push`
 
-## vs code:
-
-### Commit Changes:
+### Commit Changes
 
 1. when prompted, type username
 2. when prompted, type personal access token, not password. using a password
    will prompt a 'fatal error'
 
-## Commands:
+## Commands
 
 - `git clone <url>` to pull a copy of the project from Github to the current
   directory
@@ -43,7 +41,7 @@
 - `git blame` to see the commit(s) that pertain to the lines of code you're
   looking at
 
-### Message:
+### Message
 
 - good practice to ask what format your specified team currently utilizes
   - all lower case: neither capitalization or periods are necessary
@@ -57,18 +55,32 @@
   - if trying to reason what changes were made (what, when, by whom), check the
     git log
 
-### Initial Commit:
+### Initial Commit
 
-- for initalized projects, use "Initial commit" as the message when commiting
+- for initalized projects, use "initial commit" as the message when commiting
   initial project files
 
-### possible improvement:
+### Forking
+
+1. go to a project, click `fork`
+2. clone the project that you forked (should now be under your name)
+3. change into the repo's folder
+4. check out a new branch with a name reflecting the desired change
+5. make the change
+6. push the branch to github
+7. go to your github page, press `compare and pull request`
+8. review your changes
+9. make a pull request to the original branch (not yours that you forked, the
+   original creator's master branch)
+10. tweet at the creator to let them know of your pull request
+
+### possible improvement
 
 - use the ID of the requirement and task that was solved (as the commit message)
   - although, don't rely on this method (if your task management like Trello
     breaks / goes offline)
 
-### possible tried format:
+### possible tried format
 
 - < TICKET NUM> - <TICKET NAME OR TITLE, NAME THE TEAM USES >
 - < HYPERLINK TO TICKET IF YOU LACK INTEGRATION >

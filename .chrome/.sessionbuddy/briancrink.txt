@@ -163,6 +163,11 @@ Home
       Wayup
       https://wayup.com/member/jobs-listing
 
+   Open Source
+
+      CommunityBridge
+      https://people.communitybridge.org/#projects
+
    Backlog
 
       Lean Automation enabled by Industry 4.0 Technologies

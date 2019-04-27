@@ -1,8 +1,3 @@
-NightWatch the flash
-reload
-NightWatch
-reload
-NightWatch
 reload
 NightWatch
 reload
@@ -498,3 +493,8 @@ zip --version
 brew uninstall zip
 zip --version
 clear
+git push --set-upstream origin master
+echo "# readme-symlink" >> README.md
+git init
+git remote add origin https://github.com/briancrink/readme-symlink.git
+git push -u origin master
