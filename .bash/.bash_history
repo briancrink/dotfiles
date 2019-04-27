@@ -1,10 +1,3 @@
-clear
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
 NightWatch the flash
 reload
 NightWatch
@@ -498,3 +491,10 @@ clear
 sudo restart
 restart
 reboot
+zip --version
+brew search zip
+brew install zip
+zip --version
+brew uninstall zip
+zip --version
+clear

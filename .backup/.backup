@@ -4,6 +4,7 @@
 fileicon get -f $downloads $dotfiles/.icns/downloads
 fileicon get -f $scanner $dotfiles/.icns/scanner
 fileicon get -f $screenshot $dotfiles/.icns/screenshot
+fileicon get -f $workspace $dotfiles/.icns/workspace
 
 # # * Brewfile (bundle = alias)
 bundle
@@ -24,7 +25,8 @@ code --list-extensions > $dotfiles/.vscode/.vscode
 # # * Git commit / push
 
 # # * Drive
-# (workspace -> iCloud Drive -> Documents -> zipFile)
+# # * Send workspace to.. -> iCloud Drive -> Documents -> file.zip
+zipws
 
 # # * ~prompt notification~
 # (notication center -> backup has completed)

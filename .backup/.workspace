@@ -1,0 +1,3 @@
+#! /usr/local/bin/bash
+
+zip -v /Volumes/Drive/Workspace -o "$icloud"/workspace.zip

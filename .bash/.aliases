@@ -34,11 +34,13 @@ alias backup='source ~/.backup'
 alias rEFInd='source ~/.rEFInd'
 alias brewshell='source ~/.brewshell'
 alias reload='source ~/.bash_profile'
+alias zipws='source ~/.workspace'
 
 # # * Folder Paths
 # [Bash Escape Sequences](https://unix.stackexchange.com/questions/108635/why-i-cant-escape-spaces-on-a-bash-script)
 dotfiles=~/.dotfiles # $dotfiles
 downloads=~/Downloads # $downloads
+workspace=/Volumes/Drive/Workspace # $workspace
 scanner=/Volumes/Drive/Workspace/Document/Scanner # $scanner
 screenshot=/Volumes/Drive/Workspace/Document/Screenshot # $screenshot
 icloud=~/Library/Mobile\ Documents/ # "$icloud"

@@ -1,48 +1,48 @@
-# Dictionary:
+# Dictionary
 
-## [in lieu of]():
+## [in lieu of]()
 
 - replace it and substitute in for
 
-## [Trivial]():
+## [Trivial]()
 
 - of little value or importance
 
-## [Impart]():
+## [Impart]()
 
 - make known, communicate, relay, convey
 
-## [Approach]() v. [Standard]() v. [Method]() v. [Technique]():
+## [Approach]() v. [Standard]() v. [Method]() v. [Technique]()
 
 -
 
-## [Initiative]():
+## [Initiative]()
 
 - the power or opportunity to act or take charge before others do
 - ability to assess and initiate things independently
 
-## [Self-fulfilling Prophecy]():
+## [Self-fulfilling Prophecy]()
 
 - a side effect creates the nuisance
 - snake eating its own tail
 - a prediction that becomes true because a character acted upon it
 - an outcome manifested due to acting upon it
 
-## [Manifestation]():
+## [Manifestation]()
 
 - an event, action, or object that clearly shows or embodies something,
   especially a theory or an abstract idea
 
-## [Principled]() v. [Virtuous]() Person:
+## [Principled]() v. [Virtuous]() Person
 
 -
 
-## [Ethics]():
+## [Ethics]()
 
 - (ethos)
 - relating to a particular time and culture
 
-## [Virtue Ethics](https://en.wikipedia.org/wiki/Virtue_ethics):
+## [Virtue Ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
 
 -
 
@@ -50,11 +50,11 @@
 
 -
 
-## [Portfolio]() v. [Projects]() v. [Original Content](). v. [Work]():
+## [Portfolio]() v. [Projects]() v. [Original Content](). v. [Work]()
 
 -
 
-## [Power user](https://en.wikipedia.org/wiki/Power_user) v. [Power consumer]():
+## [Power user](https://en.wikipedia.org/wiki/Power_user) v. [Power consumer]()
 
 - Power Consumer -> new (a person who uses advanced tools and techniques to
   maximize the consumer value of the currency
@@ -62,38 +62,38 @@
   utilize their resource and knowledge base to effectively match products with a
   particular need (in both aesthetic and function))
 
-## [dictionary definition]() v. [discipline]() v. [standard]() v. [paradigm]():
+## [dictionary definition]() v. [discipline]() v. [standard]() v. [paradigm]()
 
 -
 
-## [Impetus](https://www.dictionary.com/browse/impetus):
+## [Impetus](https://www.dictionary.com/browse/impetus)
 
 - driving force, incentive, inspiration, drive
 
-## [pragmitism paradigm](https://www.researchgate.net/post/Pragmatism_Paradigm_has_anyone_adopted_it_in_his_her_thesis) v. [Interpretivism]():
+## [pragmitism paradigm](https://www.researchgate.net/post/Pragmatism_Paradigm_has_anyone_adopted_it_in_his_her_thesis) v. [Interpretivism]()
 
 -
 
-## [overarching](https://www.dictionary.com/browse/overarching) v. [all encompassing]():
+## [overarching](https://www.dictionary.com/browse/overarching) v. [all encompassing]()
 
 -
 
-## [Mental Model]() v. [(series of) Technique(s)]() v. [Method]():
+## [Mental Model]() v. [(series of) Technique(s)]() v. [Method]()
 
 -
 
-## [Model v. Formula]():
+## [Model v. Formula]()
 
 - A model introduces a principled-balance of dependencies necessary to achieve a
   specific relational state (state-desired)
 - A formula introduces a well-defined set of steps to be taken to attain a
   specific result (result-desired)
 
-## [Multidiscipine](https://en.oxforddictionaries.com/definition/multidiscipline):
+## [Multidiscipine](https://en.oxforddictionaries.com/definition/multidiscipline)
 
 - Involving or requiring expertise in a number of fields
 
-## [Tactic v. Principle v. Virtue Ethics v. Value]():
+## [Tactic v. Principle v. Virtue Ethics v. Value]()
 
 -
 
@@ -101,35 +101,35 @@
 
 -
 
-## [Reify]():
+## [Reify]()
 
 - to make real
 - to make of substance
 
-## [Bi-quinary Decimal System]():
+## [Bi-quinary Decimal System]()
 
 - a system of representing numbers based on counting in fives
 - with an additional indicator to show whether the count is in the first or
   second half of the decimal range
 - ex (Roman Numerals)
 
-## [Snowclone](https://youtu.be/eEBOvqMfPoI?t=1421):
+## [Snowclone](https://youtu.be/eEBOvqMfPoI?t=1421)
 
 - cliche wording used as a template
 - typically used in single quote form
 - ex ('X is considered harmful' or 'goto is bad')
 
-## [Amassed](https://www.dictionary.com/browse/amassed):
+## [Amassed](https://www.dictionary.com/browse/amassed)
 
 - accumulate over a period of time
 
-## [Contemplation](https://www.merriam-webster.com/dictionary/contemplation):
+## [Contemplation](https://www.merriam-webster.com/dictionary/contemplation)
 
 - the action of looking thoughtfully at something for a long time
 
-## [Goal v. Milestone](https://www.dictionary.com/browse/milestone):
+## [Goal v. Milestone](https://www.dictionary.com/browse/milestone)
 
-### [Milestone]():
+### [Milestone]()
 
 - an event (past or present tense)
 - a significant point or event in life or history
@@ -143,7 +143,7 @@
   external factors
 - non-essential to identity / ego
 
-### [Goal]():
+### [Goal]()
 
 - an event (future or present tense)
 - creates a negative connotation
@@ -155,7 +155,7 @@
   of goal
 - essential to identity / ego
 
-## [Life Blueprint]():
+## [Life Blueprint]()
 
 - purpose -> building a life framework for the non-conformist (uniquely personal
   and to be taken seriously)
@@ -169,7 +169,7 @@
 - self-reflection -> routinely enlisting a course of action relating to personal
   development
 
-## [Ignorance v. Wise](https://www.thesaurus.com/browse/ignorant):
+## [Ignorance v. Wise](https://www.thesaurus.com/browse/ignorant)
 
 - every child is born with igorance
 - ignorance is explicit -- taking life at face value / for a matter of fact
@@ -179,46 +179,46 @@
   - wise is implicit -- taking life as relational / causality (grey)
   - wise encourages seeing events from the bigger picture (world view lens)
 
-## [Discipline](https://www.dictionary.com/browse/discipline):
+## [Discipline](https://www.dictionary.com/browse/discipline)
 
 - the practice of training people to obey rules or a code of behavior
 - a branch of knowledge, typically one studied in higher education
 - to impose order upon
 
-## [Communication]():
+## [Communication]()
 
 - the transmission of knowledge
 
-## [Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp):
+## [Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 - the study of the meanings of words and phrases in a language
 - Semantic elements = elements with a meaning
 
-## [Ubiquity](https://www.thesaurus.com/browse/ubiquity?s=t):
+## [Ubiquity](https://www.thesaurus.com/browse/ubiquity?s=t)
 
 - commonplace of something
 
-## [Ambiguous](https://www.thesaurus.com/browse/ambiguous?s=t):
+## [Ambiguous](https://www.thesaurus.com/browse/ambiguous?s=t)
 
 - open to interpretation
 
-## [Obscure](https://www.thesaurus.com/browse/obscure?s=t):
+## [Obscure](https://www.thesaurus.com/browse/obscure?s=t)
 
 - uncertain
 
-## [Arbitrary](https://www.thesaurus.com/browse/arbitrary?s=t):
+## [Arbitrary](https://www.thesaurus.com/browse/arbitrary?s=t)
 
 - random or without reason
 
-## [Methodology]():
+## [Methodology]()
 
 -
 
-## [Imbue](https://www.dictionary.com/browse/imbuing):
+## [Imbue](https://www.dictionary.com/browse/imbuing)
 
 - inspire or permeate with a feeling or quality
 
-## [Ritual v. Routine](https://blog.rescuetime.com/workplace-routines-and-rituals/):
+## [Ritual v. Routine](https://blog.rescuetime.com/workplace-routines-and-rituals/)
 
 - routine is a series of regularly followed actions aiming to make the chaos of
   everyday life more containable and controllabe
@@ -232,7 +232,7 @@
 - rituals include (only doing a certain task at a specified environment, going
   for a walk between opposite tasks, growing a beard only in the playoffs)
 
-## [Virtue](Art of Manliness #445 10:00):
+## [Virtue](Art of Manliness #445 10:00)
 
 - having to main components: behavior and underlying psychology behind our
   behavior
@@ -242,55 +242,55 @@
 - cannot show moral behavior for immoral reasons ex (telling the truth so I am
   not punished (self-interests))
 
-## [Imagination]():
+## [Imagination]()
 
 - the human ability to create in our minds beyond the present reality
 
-## [Conscience]():
+## [Conscience]()
 
 - Deep inner awareness between right and wrong
 
-## [Independent Will]():
+## [Independent Will]()
 
 - the human ability to act based on our self-awareness, free from all other
   influences
 - between stimulus and response is our greatest power, the freedom to choose
 
-## [Semblance](https://www.thesaurus.com/browse/semblance?s=t):
+## [Semblance](https://www.thesaurus.com/browse/semblance?s=t)
 
 - the outward appearance or apparent form of something, especially when the
   reality is different
 
-## [Logistical](https://www.thesaurus.com/browse/logistical?s=t):
+## [Logistical](https://www.thesaurus.com/browse/logistical?s=t)
 
 - relating to the process of planning and organizing making sure the resources
   are in the correct places when needed so the process occurs effectively
 
-## [Pragmatic](https://www.merriam-webster.com/dictionary/pragmatic):
+## [Pragmatic](https://www.merriam-webster.com/dictionary/pragmatic)
 
 - practical as apposed to idealistic
 - dealing with things sensibly and realistically in a way that is based on
   practical
 
-## [Paradigm](Seven Highly Effective Ways):
+## [Paradigm](Seven Highly Effective Ways)
 
 - The way we see the world in terms of perceiving, understanding, and
   interpreting.
 
-## [Ace]():
+## [Ace]()
 
 - denotes one who excels at something
 - the title given to combat pilots who have at least five in-air victories
 
-## [Vocation]():
+## [Vocation]()
 
 - the special function of an individual or group
 
-## [Emersion]():
+## [Emersion]()
 
 - Being part of a movement of people executing
 
-## [Character]():
+## [Character]()
 
 - what you do when no one is watching
 
@@ -306,37 +306,37 @@
 - purpose-driven
 - deliberate
 
-## [Workflow]():
+## [Workflow]()
 
 - the productive process
 - requires an environment to be setup
 
-## [Workspace]():
+## [Workspace]()
 
 - the environment of a productive process
 
-## [Esoteric](https://www.merriam-webster.com/dictionary/esoteric):
+## [Esoteric](https://www.merriam-webster.com/dictionary/esoteric)
 
 - only to be understood by a small number of people
 - unusual interest
 
-## [Ephemeral]():
+## [Ephemeral]()
 
 - temporary, short lived
 - antonym of persistent
 
-## [Intrinsic v. Extrinsic Motivation]():
+## [Intrinsic v. Extrinsic Motivation]()
 
 - Extrinsic comes from outside the individual through things like wealth, image,
   and possessions
 - Intrinsic comes from within, curiosity, discovery, and desire to impact the
   world in a positive way
 
-## [Practioner v. Executioner]():
+## [Practioner v. Executioner]()
 
 -
 
-## [Principle v. Value](https://medium.com/the-mission/the-difference-between-principles-and-values-789b95452422):
+## [Principle v. Value](https://medium.com/the-mission/the-difference-between-principles-and-values-789b95452422)
 
 - principles are not values
 - values act as the foundation for principles
@@ -346,7 +346,7 @@
 - principles are the territory. Values are maps.
 - when we value correct principles, we have truth
 
-## [Principle v. Advice]():
+## [Principle v. Advice]()
 
 - both concepts are actionable
 - principle is an actionable declaritives to be followed being grounded from a
@@ -355,22 +355,22 @@
 - advice is merely a suggestion and is not directly grounded from a value ->
   truth
 
-## [Declarative v. Imperative](https://examples.yourdictionary.com/imperative-sentence-examples.html):
+## [Declarative v. Imperative](https://examples.yourdictionary.com/imperative-sentence-examples.html)
 
 - decarative is a sentence stating something and ending with a period
 - imperative is a sentence used to issue a command or instruction, make a
   request, or offer advice
 
-## [Truth]():
+## [Truth]()
 
 - an idea or theory discovered to be true or validified
 
-## [Concept]():
+## [Concept]()
 
 - a new paradigm that entails a definition, philosophy, a function, use-case,
   and features
 
-## [Inside-Out Approach]():
+## [Inside-Out Approach]()
 
 - a continuing process of renewal based on the natural laws that govern human
   growth and progress
@@ -379,25 +379,25 @@
 - traits of Outside-In people a. victomized b. immobolized c. focus on the
   weakness of others d. desire for others to change
 
-## [Dichotomy]():
+## [Dichotomy]()
 
 - A difference
 
-## [Attenuate](https://www.dictionary.com/browse/attenuate):
+## [Attenuate](https://www.dictionary.com/browse/attenuate)
 
 - reduced in force, effort, or thickness
 
-## [Bicameral](https://www.dictionary.com/browse/bicameral):
+## [Bicameral](https://www.dictionary.com/browse/bicameral)
 
 - having two branches
 
-## [Bicameralism](<https://en.wikipedia.org/wiki/Bicameralism_(psychology)>):
+## [Bicameralism](<https://en.wikipedia.org/wiki/Bicameralism_(psychology)>)
 
 - human mind once operated in a state in which cognitive functions were divided
   between one part of the brain which appears to be "speaking", and a second
   part which listens and obeys — a bicameral mind
 
-## [Habit]():
+## [Habit]()
 
 - the intersection of knowledge, skill, and desire.
 
@@ -405,55 +405,55 @@
 
 - a theoretical paradigm of the 'what to do' and the 'why'
 
-## [Skill]():
+## [Skill]()
 
 - the 'how to do'
 
-## [Desire]():
+## [Desire]()
 
 - the motivation and the 'want to do'
 
-## [Persistant]():
+## [Persistant]()
 
 - remains existant upon reboot / refresh / respring
 - antonym of ephemeral
 
-## [Light -- content consumption]():
+## [Light -- content consumption]()
 
 - refreshingly topical, enlightening
 - engaging + motivational + entertaining
 - topic to focus on while doing another activity
 - not requiring a workspace or any note taking
 
-## [Moderate -- content consumption]():
+## [Moderate -- content consumption]()
 
 - requiring a workspace
 - studious level note-taking
 - useful straightforward knowledge / concepts
 
-## [Dense -- content consumption]():
+## [Dense -- content consumption]()
 
 - requiring a workspace
 - conuming entirely new paradigms / concepts
 - utilize abstract level thinking
 - thought provoking
 
-## [Framework]():
+## [Framework]()
 
 - **Framework is immutable**
 - It is a readable and writable structure but not modifiable, like a database
 
-## [Financial Plan v. Financial Portfolio v. Financial Template v. Finance]():
+## [Financial Plan v. Financial Portfolio v. Financial Template v. Finance]()
 
 ## -
 
 ## -
 
-## [Qualitative v. Quantitative]():
+## [Qualitative v. Quantitative]()
 
 -
 
-## [Scaling up v. Scaling out]():
+## [Scaling up v. Scaling out]()
 
 -
 
@@ -461,7 +461,7 @@
 
 -
 
-## [Intensification v. Replication]():
+## [Intensification v. Replication]()
 
 -
 
@@ -469,12 +469,12 @@
 
 -
 
-## [Blueprint v. Framework]():
+## [Blueprint v. Framework]()
 
 - Blueprint is the abstract
 - Framework is the streamlined collection of tools used in an environment
 
-## Emotional Detachment](https://www.sciencedaily.com/terms/emotional_detachment.htm):
+## [Emotional Detachment](https://www.sciencedaily.com/terms/emotional_detachment.htm)
 
 - In the first meaning, it refers to an inability to connect with others on an
   emotional level, as well as a means of coping with anxiety by avoiding certain
@@ -484,7 +484,7 @@
   to maintain their boundaries and psychic integrity when faced with the
   emotional demands of another person or group of persons
 
-## No Existing Definition:
+## No Existing Definition
 
 - Palopicity
 - Palapicity

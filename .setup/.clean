@@ -14,5 +14,6 @@ trash -esy
 
 # # * Reset folder .icns
 fileicon set ~/Downloads ~/.dotfiles/.icns/downloads.icns
+fileicon set /Volumes/Drive/Workspace ~/.dotfiles/.icns/workspace.icns
 fileicon set /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner.icns
 fileicon set /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot.icns
