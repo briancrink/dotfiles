@@ -70,7 +70,9 @@
 
 - driving force, incentive, inspiration, drive
 
-## [pragmitism paradigm](https://www.researchgate.net/post/Pragmatism_Paradigm_has_anyone_adopted_it_in_his_her_thesis) v. [Interpretivism]()
+## [pragmitism paradigm](https://www.researchgate.net/post/Pragmatism_Paradigm_has_anyone_adopted_it_in_his_her_thesis) v.
+
+[Interpretivism]()
 
 -
 
