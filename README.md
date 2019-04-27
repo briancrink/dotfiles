@@ -15,7 +15,7 @@ Brian's dotfiles
 - [Mathias Bynens](https://mathiasbynens.be/) |
   [@mathias](http://twitter.com/mathias)
 
-## Installation
+## [Forking](https://github.com/briancrink/dotfiles/tree/master/.setup#forking-brians-dotfiles)
 
 **Warning:** If you want to give these dotfiles a try, you should first fork
 this repository, review the code, and remove things you don’t want or need.
