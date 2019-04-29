@@ -140,6 +140,11 @@ tool for cloud storage backup.
 
 - press <kbd>⌘ Command</kbd>+<kbd>S</kbd> to **save**
 
+- press <kbd>⌘ Command</kbd>+<kbd>delete</kbd> to **move file(s) to trash**
+
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>delete</kbd> to **clear**
+  **trash**
+
 - press <kbd>⌘ Command</kbd>+<kbd>F</kbd> to **find | regex search**
 
 - press <kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>→ Arrow</kbd> to **show**
