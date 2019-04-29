@@ -92,6 +92,15 @@
 - only for linux operating systems
 - for mac, use `screenfetch`
 
+## PyWal
+
+[PyWal](https://www.reddit.com/r/unixporn/comments/arlsw9/oc_blurwal_a_python_application_for_smoothly/):
+[gitlab](https://gitlab.com/BVollmerhaus/blurwal),
+[python](https://pypi.org/project/BlurWal/),
+[aur](https://aur.archlinux.org/packages/blurwal/)
+
+## Tools
+
 - [ps_mem](https://www.linuxlinks.com/essential-system-tools-ps-mem/):
 
 - [gtop](https://www.linuxlinks.com/essential-system-tools-gtop-system-monitoring-dashboard-terminal/):
