@@ -1,0 +1,18 @@
+#! /usr/local/bin/bash
+
+# # * Folder Paths
+# [Bash Escape Sequences](https://unix.stackexchange.com/questions/108635/why-i-cant-escape-spaces-on-a-bash-script)
+dotfiles=~/.dotfiles # $dotfiles
+downloads=~/Downloads # $downloads
+drive=/Volumes/Drive # $drive
+workspace=/Volumes/Drive/Workspace # $workspace
+mac=/Volumes/Drive/Workspace/Setup/Mac # $mac
+scanner=/Volumes/Drive/Workspace/Document/Scanner # $scanner
+screenshot=/Volumes/Drive/Workspace/Document/Screenshot # $screenshot
+icloud=~/Library/Mobile\ Documents/ # "$icloud"
+light=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Light # $light
+dark=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Dark # $dark
+dusk=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Dusk # $dusk
+neon=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Theme/neonspacecandy # $neon
+winter=/Volumes/Drive/Workspace/Setup/Wallpaper/Desktop/Theme/winter # $winter
+refind=/Volumes/Drive/Workspace/Setup/Mac/Boot\ Manager/rEFInd # "$refind"

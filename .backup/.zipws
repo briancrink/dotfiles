@@ -1,0 +1,5 @@
+#! /usr/local/bin/bash
+
+pushd $drive
+zip -rv $mac/workspace.zip workspace
+popd

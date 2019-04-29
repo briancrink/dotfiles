@@ -1,0 +1,5 @@
+#! /usr/local/bin/bash
+
+pushd ~
+zip -rv $mac/dotfiles.zip -o .dotfiles
+popd
