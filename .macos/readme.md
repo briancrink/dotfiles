@@ -93,6 +93,12 @@
 1. open **Terminal**
 2. type `sudo gdisk /dev/disk0` to **check state of MBR**
 
+### Show Hidden Files
+
+1. type `defaults write com.apple.finder AppleShowAllFiles YES`
+2. type `sudo killall Finder` or `Menubar ->  -> Force Quit.. -> Finder` to
+   **relaunch Finder**
+
 ### Remove `._files` on Shared Volumes
 
 1. open **Terminal**
