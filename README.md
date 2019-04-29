@@ -17,8 +17,8 @@ Brian's dotfiles
 
 ## [Forking](https://github.com/briancrink/dotfiles/tree/master/.setup#forking-brians-dotfiles)
 
-**Warning:** Modification required. Fork the repository, review the code, and
-remove things you don’t want or need.
+**Modification required:** Fork the repository, review the code, and remove
+things you don’t want or need.
 
 ## Setup
 
