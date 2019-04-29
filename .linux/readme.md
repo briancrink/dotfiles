@@ -74,6 +74,17 @@
 - type `set $variable "string"` to set a variable to a string
 - type `exec python ~/script.py` to execute script
 
+## Snap
+
+- package manager
+
+## Nmap
+
+- type `snap find nmap`
+- type `sudo snap install nmap`
+- type `nmap --help`
+- type `sudo pacman -S nmap`
+
 ## Neofetch:
 
 - display system information

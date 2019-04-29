@@ -25,6 +25,8 @@
 
 - press <kbd>⌘ Command</kbd>+<kbd>→ Arrow</kbd> to **move right a space**
 
+- press <kbd>⌘ Command</kbd>+<kbd>⇥ Tab</kbd> to **jump to a space**
+
 - press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>P</kbd> to **screenshot**
   **selected area**
 
@@ -35,7 +37,7 @@
 
 - press <kbd>⌘ Command</kbd>+<kbd>Space</kbd> to **spotlight search**
 
-- press <kbd>⌘ Command</kbd>+<kbd>B</kbd> to run backapp _workflow_
+- press <kbd>⌘ Command</kbd>+<kbd>B</kbd> to **run backapp workflow**
 
 - press <kbd>⌘ Command</kbd>+<kbd>N</kbd> for **new tab**
 
