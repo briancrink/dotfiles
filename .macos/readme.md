@@ -6,12 +6,13 @@
 2. [Boot Options](#Boot-Options)
 3. [Disable SIP](#Disable-SIP)
 4. [GPT fdisk](#GPT-fdisk)
-5. [Remove `._files`](#Remove-`._files`-on-Shared-Volumes)
-6. [Menubar Advanced Settings](#Menubar-Advanced-Settings)
-7. [Change Screenshot Location](#Change-Screenshot-Location)
-8. [Airplay -> Apple TV](#Airplay-->-Apple-TV)
-9. [MacChanger](#MacChanger)
-10. [Find a Solution 🤔](#Find-a-Solution)
+5. [Show Hidden Files](#Show-Hidden-Files)
+6. [Remove `._files`](#Remove-`._files`-on-Shared-Volumes)
+7. [Menubar Advanced Settings](#Menubar-Advanced-Settings)
+8. [Change Screenshot Location](#Change-Screenshot-Location)
+9. [Airplay -> Apple TV](#Airplay-->-Apple-TV)
+10. [MacChanger](#MacChanger)
+11. [Find a Solution 🤔](#Find-a-Solution)
 
 ### Custom Global Keybindings
 
