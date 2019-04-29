@@ -41,6 +41,7 @@ alias zipws='source ~/.workspace'
 dotfiles=~/.dotfiles # $dotfiles
 downloads=~/Downloads # $downloads
 workspace=/Volumes/Drive/Workspace # $workspace
+mac=/Volumes/Drive/Workspace/Setup/Mac # $mac
 scanner=/Volumes/Drive/Workspace/Document/Scanner # $scanner
 screenshot=/Volumes/Drive/Workspace/Document/Screenshot # $screenshot
 icloud=~/Library/Mobile\ Documents/ # "$icloud"

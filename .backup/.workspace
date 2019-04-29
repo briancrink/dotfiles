@@ -1,3 +1,5 @@
 #! /usr/local/bin/bash
 
+pushd ~
 zip -v /Volumes/Drive/Workspace -o "$icloud"/workspace.zip
+popd ~
