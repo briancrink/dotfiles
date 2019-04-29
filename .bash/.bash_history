@@ -1,17 +1,5 @@
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-/usr/local/bin/bash /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-/usr/local/bin/bash /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 sh /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
 launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
@@ -498,3 +486,15 @@ python -u "/Users/briancrink/Widgets/reddit/script.py"
 which $SHELL
 screenfetch --version
 brew doctor
+python --version
+bash --version
+screenfetch --version
+cd Downlaods
+cd Downloads
+ls
+zip 'Apple Colour II.terminal'
+zip Apple\ Colour\ II.terminal
+zip Apple\ Colour\ II.terminal Terminal\ Profile.zip
+man zip
+reboot
+sudo reboot
