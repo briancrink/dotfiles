@@ -2,7 +2,7 @@
 
 ## Reference
 
-1. [Custom Global Keybindings](#Custom-Global-Keybindings)
+1. [Global Keybindings](#Global-Keybindings)
 2. [Boot Options](#Boot-Options)
 3. [Disable SIP](#Disable-SIP)
 4. [GPT fdisk](#GPT-fdisk)
@@ -14,60 +14,9 @@
 10. [MacChanger](#MacChanger)
 11. [Find a Solution 🤔](#Find-a-Solution)
 
-### Custom Global Keybindings
+### Global Keybindings
 
-- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd> \ </kbd> to **show all**
-  **Finder tabs**
-- press <kbd>⌘ Command</kbd>+<kbd>↑ Arrow</kbd> for **Mission Control**
-
-- press <kbd>⌘ Command</kbd>+<kbd>↓ Arrow</kbd> to **show Desktop**
-
-- press <kbd>⌘ Command</kbd>+<kbd>← Arrow</kbd> to **move left a space**
-
-- press <kbd>⌘ Command</kbd>+<kbd>→ Arrow</kbd> to **move right a space**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⇥ Tab</kbd> to **jump to a space**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>P</kbd> to **screenshot**
-  **selected area**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>R</kbd> for **screenshot**
-  **recording options**
-
-- press <kbd>⌘ Command</kbd>+<kbd>T</kbd> to **open Terminal**
-
-- press <kbd>⌘ Command</kbd>+<kbd>Space</kbd> to **spotlight search**
-
-- press <kbd>⌘ Command</kbd>+<kbd>B</kbd> to **run backapp workflow**
-
-- press <kbd>⌘ Command</kbd>+<kbd>N</kbd> for **new tab**
-
-- press <kbd>⌘ Command</kbd>+<kbd>Enter</kbd> to **rename**
-
-- press <kbd>⌘ Command</kbd>+<kbd>H</kbd> to show **full history**
-
-- press <kbd>⌘ Command</kbd>+<kbd>C</kbd> to **copy**
-
-- press <kbd>⌘ Command</kbd>+<kbd>V</kbd> to **paste**
-
-- press <kbd>⌘ Command</kbd>+<kbd>S</kbd> to **save**
-
-- press <kbd>⌘ Command</kbd>+<kbd>F</kbd> to **find | regex search**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>→ Arrow</kbd> to **show**
-  **next tab**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>← Arrow</kbd> to **show**
-  **previous tab**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>H</kbd> to **go to Home**
-  **directory in Finder**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>C</kbd> to **go to**
-  **Computer directory in Finder**
-
-- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>D</kbd> to **go to**
-  **Desktop directory in Finder**
+2. **[User](https://github.com/briancrink/dotfiles/tree/master/.setup#global-defaults)**
 
 ### Boot Options
 
