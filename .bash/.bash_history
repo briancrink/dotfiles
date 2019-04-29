@@ -1,32 +1,3 @@
-NightWatch
-NightWatch
-reload
-NightWatch
-reload
-reload
-NightWatch
-reload
-NightWatch the flash
-NightWatch suits
-reload
-NightWatch suits
-NightWatch
-NightWatch the flash
-NightWatch the flash
-reload
-NightWatch the flash
-reload
-NightWatch the flash
-reload
-NightWatch the flash
-reload
-NightWatch the flash 3
-reload
-NightWatch the flash
-reload
-NightWatch the flash
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-sh /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 /usr/local/bin/bash /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
@@ -498,3 +469,32 @@ screenfetch --version
 clear
 reload
 screenfetch --version
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+python -u "/Users/briancrink/Widgets/reddit/tempCodeRunnerFile.py"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+which python
+coffee "/Users/briancrink/Widgets/reddit/tempCodeRunnerFile.coffee"
+python --version
+python --version
+cd ~/widgets/reddit
+ls
+python --version
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+/usr/bin/env python3 "/Users/briancrink/Widgets/reddit/reddit.coffee"
+ /usr/bin/env python3 "/Users/briancrink/Widgets/reddit/reddit.coffee"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+which $SHELL
+screenfetch --version
+brew doctor
