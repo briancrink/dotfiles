@@ -1,8 +1,15 @@
-# Add `~/bin` to the `$PATH`
+# export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+export PATH=""
+export PATH="/sbin:$PATH"
+export PATH="/bin:$PATH"
+export PATH="/usr/bin:$PATH"
+export PATH="/usr/sbin:$PATH"
 export PATH="$HOME/bin:$PATH";
-
-# Add `/usr/local/sbin` to the `$PATH`
 export PATH="/usr/local/sbin:$PATH";
+export PATH="/usr/local/bin:$PATH"
+export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+
+# # * /usr/local/opt/coreutils/libexec/gnubin:/usr/local/sbin:/Users/briancrink/bin:/usr/local/opt/coreutils/libexec/gnubin:/usr/local/sbin:/Users/briancrink/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/MacGPG2/bin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin
 
 # Append to the Bash history file, rather than overwriting it
 shopt -s histappend;

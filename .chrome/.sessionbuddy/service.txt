@@ -396,6 +396,11 @@ Development
       CSV to Table Generator
       https://www.tablesgenerator.com/markdown_tables#
 
+   Cloud Hosting
+
+      Linode
+      https://www.linode.com/
+
    Cloud Infrastructure
 
       Amazon Web Service
@@ -467,6 +472,17 @@ Development
 
       Trade Bit
       https://tradebit.com/
+
+      Socrata
+      http://open-source.socrata.com/
+
+   Data Platform
+
+      DKAN
+      https://www.drupal.org/project/dkan
+
+      CKAN
+      https://ckan.org/
 
    Data Recovery
 
@@ -1187,6 +1203,9 @@ Productivity
 
       Google Hangouts
       https://hangouts.google.com/
+
+      IRSSI
+      https://irssi.org/
 
       Line
       https://line.me/en-US/

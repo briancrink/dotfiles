@@ -1,3 +1,5 @@
+#! /usr/local/bin/bash
+
 # # * Xcode CLI tools
 xcode-select --install
 

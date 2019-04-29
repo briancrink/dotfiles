@@ -1,248 +1,3 @@
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-curl -G "https://openpirate.org/search/" --data-urlencode "msg=$query"
-reload
-q1
-clear
-reload
-urlencode the flash
-reload
-urlencode the flash
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-NightWatch -x
-reload
-urlencode the flash
-reload
-NightWatch
-clear
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-NightWatch the flash
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-NightWatch the flash
-curl -G "https://openpirate.org/search/" --data-urlencode "msg=$query"
-reload
-q1
-clear
-reload
-urlencode the flash
-reload
-urlencode the flash
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-NightWatch -x
-reload
-urlencode the flash
-reload
-NightWatch
-clear
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-NightWatch the flash
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-reload
-NightWatch
-NightWatch the flash
-man |
-man pipe
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh https://openpirate.org/search/the%20flash/0/3/0
-sh ~/flash.sh https://openpirate.org/search/the%20flash/0/3/0
-sh ~/flash.sh
-brew search firefox
-sh ~/flash.sh
-sh ~/nightwatch.sh
-/usr/local/bin/bash --version
-sh ~/nightwatch.sh
-sh ~/nightwatch.sh
-sh ~/nightwatch.sh
-reload
-NightWatch
-man firefox
-firefox --help
-reload
-NightWatch
-curl -G "https://google.com/search?" --data-urlencode "msg=hello world"
-curl -G "https://google.com/search?" --data-urlencode "msg=hello world"
-$ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
-curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
-reload
-NightWatch
-man curl
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-urlencode
-reload
-urlencode
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh https://openpirate.org/search/the%20flash/0/3/0
-sh ~/flash.sh https://openpirate.org/search/the%20flash/0/3/0
-sh ~/flash.sh
-brew search firefox
-sh ~/flash.sh
-sh ~/nightwatch.sh
-/usr/local/bin/bash --version
-sh ~/nightwatch.sh
-sh ~/nightwatch.sh
-sh ~/nightwatch.sh
-reload
-NightWatch
-man firefox
-firefox --help
-reload
-NightWatch
-curl -G "https://google.com/search?" --data-urlencode "msg=hello world"
-curl -G "https://google.com/search?" --data-urlencode "msg=hello world"
-$ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
-curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
-reload
-NightWatch
-man curl
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-urlencode
-reload
-urlencode
-urlencodepipe the flash
-set -x urlencode
-reload
-set +x
-reload
-urlencode
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh
-sh ~/flash.sh https://openpirate.org/search/the%20flash/0/3/0
-sh ~/flash.sh https://openpirate.org/search/the%20flash/0/3/0
-sh ~/flash.sh
-brew search firefox
-sh ~/flash.sh
-sh ~/nightwatch.sh
-/usr/local/bin/bash --version
-sh ~/nightwatch.sh
-sh ~/nightwatch.sh
-sh ~/nightwatch.sh
-reload
-NightWatch
-man firefox
-firefox --help
-reload
-NightWatch
-curl -G "https://google.com/search?" --data-urlencode "msg=hello world"
-curl -G "https://google.com/search?" --data-urlencode "msg=hello world"
-$ curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
-curl -G -v "http://localhost:30001/data" --data-urlencode "msg=hello world" --data-urlencode "msg2=hello world2"
-reload
-NightWatch
-man curl
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-reload
-urlencode
-urlencode
-reload
-urlencode
-urlencodepipe the flash
-set -x urlencode
-reload
-set +x
-reload
-urlencode
-reload
-set +x urlencode
-reload
-urlencode
-urlencode the flash
-reload
-urlencode the flash
-reload
-a
-reload
-a
-reload
-a
-reload
-urlencode
-reload
-NightWatch
-reload
-NightWatch
-set +x reload
-reload
-reload
-clea
-clear
-reload
-NightWatch
-reload
 NightWatch
 NightWatch
 reload
@@ -498,3 +253,248 @@ echo "# readme-symlink" >> README.md
 git init
 git remote add origin https://github.com/briancrink/readme-symlink.git
 git push -u origin master
+irssi
+fileicon set /Volumes/Drive/Workspace ~/.dotfiles/.icns/workspace.icns
+clear
+reload
+brew search irssi
+brew install irssi
+clear
+reload
+code ~/.irssi/config
+man irssi
+irssi -n spacebot
+man irssi
+irssi
+irssi
+irssi
+perl -MCPAN -e 'install Bundle::LWP
+perl -MCPAN -e 'install Bundle::LWP'
+clear
+irssi
+wget -P ~/.irssi/scripts http://scripts.irssi.org/scripts/scriptassist.pl
+cp ~/.irssi/scripts/scriptassist.pl.pl ~/.irssi/scripts/autorun
+ls
+cd irssi
+ls
+cd scripts
+ls
+cp ~/.irssi/scripts/scriptassist.pl ~/.irssi/scripts/autorun
+wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ 
+wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ 
+wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ -O ~/.irssi/config
+code ~/.irssc/config
+code ~/.irssi/config
+code ~/.irssi/config
+cp ~/.irssi/config ~/.irssi/.bak
+code ~/.irssi/.bak
+wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config -0 ~/.irssi/config
+wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ -0 ~/.irssi/config
+code ~/.irssi/config
+code ~/.irssi/config
+ls
+cd ..
+ls
+code config
+bundle
+irssi
+irssi
+irssi
+cd ~/.irssi
+git clone https://github.com/huyz/irssi-colors-solarized.git
+ls
+ls irssi-colors-solarized
+cp solarized-universal.theme ../solarized-universal.theme
+cp solarized-universal.theme ~/.irssi/solarized-universal.theme
+cp ~/.irssi/irssi-colors-solarized/solarized-universal.theme ~/.irssi/solarized-universal.theme
+ls
+irssi
+irssi
+man zip
+node --version
+cd Downloads
+wget -P http://tracesof.net/uebersicht/releases/Uebersicht-1.3.56.app.zip
+wget -P "http://tracesof.net/uebersicht/releases/Uebersicht-1.3.56.app.zip"
+wget -q http://tracesof.net/uebersicht/releases/Uebersicht-1.3.56.app.zip
+brew search uebersicht
+brew search ubersicht
+brew install ubersicht
+brew cask install ubersicht
+bundle
+clear
+cd ~/widgets/reddit
+ls
+py script.py
+python script.py
+python --version
+brew search coffee
+brew install coffeescript
+bundle
+update
+clean
+brew clean
+help --help
+brew --help
+man brew
+bash --version
+reload
+echo $PATH
+bash
+exec /usr/local/bin/bash
+reload
+bash
+bash --version
+source ~/.bash_profile
+exec /bin/bash
+reload
+source ~/.bash_profile
+$PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+source ~/.bash_profile
+reload
+reload
+source ~/.bash_profile
+exec bash
+exec bin/bash
+exec /bin/bash
+reload
+screenfetch -v
+reload
+lsb_release -sirc
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+coffee "/Users/briancrink/Downloads/widget/reddit/index.coffee"
+coffee "/Users/briancrink/Downloads/widget/reddit/index.coffee"
+python -u "/Users/briancrink/Widgets/reddit/script.py"
+python -u "/Users/briancrink/Widgets/reddit/urllibrequest.py"
+python -u "/Users/briancrink/Widgets/reddit/script2.py"
+python -u "/Users/briancrink/Widgets/reddit/script2.py"
+python -u "/Users/briancrink/Widgets/reddit/script2.py"
+python -u "/Users/briancrink/Widgets/reddit/script2.py"
+python -u "/Users/briancrink/Widgets/reddit/script2.py"
+coffee "/Users/briancrink/Widgets/reddit/reddit.coffee"
+reload
+clear
+clean
+brew reinstall mongodb
+clean
+echo $PATH
+reload
+reload
+reload
+reload
+reload
+reload
+clear
+bash
+sh
+echo $PATH
+reload
+echo $PATH
+chsh -s /usr/local/bin/bash
+/usr/local/bin/bash
+reload
+reload
+source ~/.bash_profile
+clear
+reload
+clean
+echo $PATH
+brew uninstall coreutils
+echo $PATH
+reload
+echo $PATH
+clean
+brew install coreutils --with-default-names
+brew cleanup
+brew install coreutils
+reload
+brew cleanup
+brew doctor
+brew gist-logs coreutils
+brew config
+echo $PATH
+screenfetch -v
+reloa
+reload
+cat /etc/os-release
+ls -1 /etc/*-release
+lsb_release -sirc
+clear
+reload
+reload
+reload
+reload
+clear
+reload
+reload
+echo $PATH
+reload
+cd ~/widgets/reddit/
+ls
+python script.py
+python --version
+pip install requests
+pip --version
+python --version
+python -m pip
+python3 -m pip install -U --force-reinstall pip
+python -m pip install -U --force-reinstall pip
+pip3 --version
+pip --version
+pip install requests
+pip install urllib
+pip search urllib
+python script.py
+%
+clear
+cd ~
+python ~/widgets/reddit/script.py
+cd ~/widgets/reddit
+python --version
+python script.py
+python script.py
+python3 script.py
+which python
+which python
+clear
+brew search python3
+sudo brew reinstall python3
+sudo brew reinstall python3
+brew reinstall python3
+which python
+python --version
+clear
+screenfetch --version
+reload
+reload
+reload
+reload
+bash --version
+bash --version
+reload
+reload
+bash --version
+python --version
+reload
+reload
+python --version
+screenfetch --version
+screenfetch --version
+screenfetch --version
+bash --version
+which python
+python --version
+bash --version
+which bash
+brew reinstall bash
+chsh -s /usr/local/bin/bash
+bash --version
+reload
+bash --version
+brew doctor
+reload
+bash --version
+screenfetch --version
+clear
+reload
+screenfetch --version

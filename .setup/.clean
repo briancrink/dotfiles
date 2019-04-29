@@ -1,10 +1,10 @@
 #! /usr/local/bin/bash
 
+# # * Check for errors
+brew doctor
+
 # # * Clean up brew
 brew cleanup
-
-# # * Clean brew
-brew clean
 
 # # * Dot_clean
 dot_clean -n /Volumes/Drive/

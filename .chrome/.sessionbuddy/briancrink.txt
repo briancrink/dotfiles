@@ -170,6 +170,9 @@ Home
 
    Backlog
 
+      Trotsky Morals
+      https://www.marxists.org/archive/trotsky/1938/morals/morals.htm
+
       Lean Automation enabled by Industry 4.0 Technologies
       https://sciencedirect.com/science/article/pii/S2405896315005984
 
@@ -1051,6 +1054,14 @@ Content
       Intel Core i7-5557U
       https://ark.intel.com/products/84993/Intel-Core-i7-5557U-Processor-4M-Cache-up-to-3_40-GHz
 
+   Theme
+
+      Solarized
+      https://ethanschoonover.com/solarized/
+
+      Uebersicht
+      http://tracesof.net/uebersicht-widgets/
+
 Education
 
    Training
@@ -1725,6 +1736,9 @@ News
 
       Cyber Wire
       https://thecyberwire.com/
+
+      Hackster.io
+      https://blog.hackster.io/
 
       iDownloadBlog
       https://www.idownloadblog.com/
