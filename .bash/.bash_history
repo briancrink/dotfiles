@@ -1,5 +1,4 @@
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 sh /Users/briancrink/.dotfiles/.chrome/.default/.rsyncwallpaper.sh
 launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
@@ -498,3 +497,4 @@ zip Apple\ Colour\ II.terminal Terminal\ Profile.zip
 man zip
 reboot
 sudo reboot
+echo $PATH
