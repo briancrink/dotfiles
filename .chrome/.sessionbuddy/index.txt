@@ -1749,6 +1749,9 @@ News
       P2P Foundation
       https://blog.p2pfoundation.net/
 
+      MacOS Developer Release Notes
+      https://developer.apple.com/documentation/macos_release_notes
+
       Mr. Money Mustache
       https://mrmoneymustache.com/
 
