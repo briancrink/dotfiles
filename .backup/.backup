@@ -6,13 +6,19 @@ fileicon get -f $scanner $dot/.icns/scanner
 fileicon get -f $screenshot $dot/.icns/screenshot
 fileicon get -f $ws $dot/.icns/workspace
 
-# # * Brewfile (bundle = alias)
+# # * Brewfile
 bundle
 
 # # * VS Code
 # install "Settings Sync" extension in vscode marketplace
 # type in vscode command palette `Sync : Advance Options > Toggle Auto-Upload on Setting Change` to auto-backup
 code --list-extensions > $dot/.vscode/.vscode
+
+# # * Session Buddy database
+osascript -e 'tell application "Google Chrome" to quit';
+if [ -f "$sbdb"/[1-9] ]; then
+  cp --remove-destination -v "$sbdb"/[1-9] $sbdir;
+fi
 
 # # * App data
 
@@ -22,13 +28,13 @@ code --list-extensions > $dot/.vscode/.vscode
 # # * System Preferences
 # (com.apple.***.plist -> ~convert to PlistBuddy bash commands~ -> ~export to~ -> ~/.sysprefs)
 
-# # * Git commit / push
-
-# # * Dotfiles Folder (zipdot = alias)
+# # * Dotfiles Folder
 zipdot
 
-# # * Drive (zipws = alias)
+# # * Drive
 zipws
+
+# # * Git commit / push
 
 # # * ~prompt notification~
 # (notication center -> backup has completed)

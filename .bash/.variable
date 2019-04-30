@@ -7,6 +7,10 @@ dot=$HOME/.dotfiles # $dot
 downloads=$HOME/Downloads # $downloads
 icloud=$HOME/Documents # $icloud
 
+# # * Session Buddy
+gcdb=$HOME/Library/Application\ Support/Google/Chrome/Default/databases # "$gcdb"
+sbdb=$gcdb/chrome-extension_edacconmaakjimmfgnblocblbcdcpbko_0 # "$sbdb"
+
 # # * Drive Paths
 drive=/Volumes/Drive # $drive
 ws=$drive/Workspace # $ws
@@ -24,3 +28,4 @@ dusk=$wallpaper/Dusk # $dusk
 theme=$wallpaper/Theme # $theme
 neon=$theme/neonspacecandy # $neon
 winter=$theme/winter # $winter
+sbdir=$dot/.chrome/.sessionbuddy # $sbdir

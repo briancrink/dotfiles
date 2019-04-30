@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+# # * ensure execution does not corrupt db
+# osascript -e 'tell application "Google Chrome" to quit';
+
+# # * Regex: find single digit file
+# ^[1-9]$
+
+# # * Restore: Dotfiles -> Chrome
+# if [ -f $sbdir/[1-9] ]; then
+#   cp --remove-destination -v $sbdir/[1-9] "$sbdb"
+# fi
+
+# # * Backup: Chrome -> Dotfiles
+# if [ -f "$sbdb"/[1-9] ]; then
+#   cp --remove-destination -v "$sbdb"/[1-9] $sbdir;
+# fi
+
+# # * Testing
+# if [ -f "$sbdb"/'#' ]; then
+#   echo exists!;
+# else echo error;
+# fi
