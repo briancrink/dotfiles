@@ -166,6 +166,25 @@
 - type `chown -R root:admin <filepath>` do shell script with administrator
   privileges
 
+### File Compression
+
+**note:** use `pushd` to navigate to the parent of [input] to prevent archiving
+parent directories; `popd` to return to original directory
+
+- type `zip -flag [output] [input]` to send input path to output zip
+
+- type `-r` to travel the directory structure recursively
+
+- type `-u` to replace (update) an existing entry in the zip archive only if it
+  has been modified more recently than the version already in the zip archive
+
+- type `zip -r foo foo -x \*.o \*.c` to exclude multiple filetypes
+
+- type `-v` for verbose execution
+
+- type `-y` to store symlinks as such in the zip archive to prevent from storing
+  multiple instances of the same path
+
 ### File Extraction
 
 - type `tar -zxvf <filename>.tar.gz` to extract file
