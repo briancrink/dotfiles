@@ -7,13 +7,13 @@ brew doctor
 brew cleanup
 
 # # * Dot_clean
-dot_clean -n /Volumes/Drive/
+dot_clean -n $drive
 
 # # * Empty the trash (empty, secure, skip confirmation)
 trash -esy
 
 # # * Reset folder .icns
-fileicon set ~/Downloads ~/.dotfiles/.icns/downloads.icns
-fileicon set /Volumes/Drive/Workspace ~/.dotfiles/.icns/workspace.icns
-fileicon set /Volumes/Drive/Workspace/Document/Scanner ~/.dotfiles/.icns/scanner.icns
-fileicon set /Volumes/Drive/Workspace/Document/Screenshot ~/.dotfiles/.icns/screenshot.icns
+fileicon set $downloads $dot/.icns/downloads.icns
+fileicon set $ws $dot/.icns/workspace.icns
+fileicon set $scanner $dot/.icns/scanner.icns
+fileicon set $screenshot $dot/.icns/screenshot.icns
