@@ -25,12 +25,9 @@ code --list-extensions > $dotfiles/.vscode/.vscode
 # # * Git commit / push
 
 # # * Dotfiles Folder
-# Send .dotfiles to.. -> Drive -> Workspace -> Mac -> dotfiles.zip
-# Send .dotfiles to.. -> iCloud Drive -> Documents -> dotfiles.zip
 zipdot
 
 # # * Drive
-# Send Workspace to.. -> iCloud Drive -> Documents -> workspace.zip
 zipws
 
 # # * ~prompt notification~
