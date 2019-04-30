@@ -1,9 +1,8 @@
 #! /usr/local/bin/bash
 
 pushd ~
-zip -rv $mac/dotfiles.zip .dotfiles
-zip -rv $icloud/dotfiles.zip .dotfiles
-popd
-
-# zip output to multiple destinations
-# zip only changed file(s) to output destination(s)
+dotzip=$mac/dotfiles.zip;
+zip -rv $dotzip .dotfiles;
+cp $dotzip $icloud;
+unset df; 
+popd;

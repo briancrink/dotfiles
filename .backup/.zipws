@@ -1,5 +1,10 @@
 #! /usr/local/bin/bash
 
 pushd $drive
-zip -rv $icloud/workspace.zip Workspace
+zip -rv $icloud/workspace.zip Workspace/
 popd
+
+# zip output to multiple destinations
+# zip only changed file(s) to output destination(s)
+.tmp.drivedownload
+Icon?
