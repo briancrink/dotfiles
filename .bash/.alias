@@ -18,12 +18,12 @@ alias plistbuddy='rlwrap /usr/libexec/PlistBuddy'
 alias %=battery
 
 # # * Backup Homebrew packages
-alias bundle='brew bundle dump --force --file=~/.dotfiles/.brew/.Brewfile'
+alias bundle='brew bundle dump --force --file='$dotfiles'/.brew/.Brewfile'
 
 # # * Chrome New Tab Background
 alias newtab='source ~/.dotfiles/.chrome/.default/.rsyncwallpaper.sh'
 
-# # * System Events
+# # * Dotfile Scripts
 alias clean='source ~/.clean'
 alias macos='source ~/.macos'
 alias theme='source ~/.theme'
