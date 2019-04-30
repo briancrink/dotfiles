@@ -1,306 +1,3 @@
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-clear
-reload
-Vid2Gif
-cd Desktop
-Vid2Gif
-Vid2Gif
-Vid2Gif
-clear
-Vid2Gif
-clear
-Vid2Gif
-leaks magik
-sudo leaks magick
-sudo leaks magick
-leaks magick
-Vid2Gif
-cd Desktop
-Vid2Gif
-Vid2Gif
-Vid2Gif
-Vid2Gif
-clear
-man image2pipe
-reload
-Vid2Gif
-reload
-Vid2Gif
-reload
-Vid2Gif
-reload
-Vid2Gif
-reload
-Vid2Gif
-reload
-Vid2Gif
-reload
-Vid2Gif
-cd Desktop
-Vid2Gif
-clear
-ls -la
-ls
-convert -version
-man ffmpeg
-man dot_clean
-brew search macchange
-brew search macchanger
-shell --version
-sh --version
-bash --version
-ffmpeg -i rsyncwallpaper.mp4 rsyncwallpaper.gif
-cd Desktop
-ffmpeg -i rsyncwallpaper.mp4 rsyncwallpaper.gif
-ffmpeg -i rsyncwallpaper.mp4 rsyncwallpaper.gif
-man ffmppeg 
-man ffmpeg 
-ffmpeg --version
-ffmpeg -version
-clear
-cd Desktop
-clear
-ffmpeg -i /Users/briancrink/Desktop/rsyncwallpaper.mov -qscale 0 output.mp4
-NightWatch twilight zone
-echo $SHELL
-man safe-rm
-brew search safe-rm
-brew install safe-rm
-bundle
-whereis shell
-whereis sh
-whereis bash
-whereis py
-whereis python
-reload
-bash --version
-reload
-whereis python
-whereis python
-man iftop
-man restart
-cd $HOME
-ls
-cd Desktop
-cd $HOME
-ls ~/Library/Mobile\ Documents/
-reload
-icloud
-ls
-clear
-echo "Your current directory is $(pwd)"
-reload
-cd?
-man bash
-vi /etc/shells
-code /etc/shells
-ls -l chsh
-ls -l csh
-ls -l /bin/csh
-man chsh
-man csh
-NightWatch Gotham
-%
-man pushd
-man builtin
-%
-code --list-extensions
-code --list-extensions > ~/.dotfiles/.vscode/.vscode
-reload
-reload
-reload
-backup
-reload
-backup
-reload
-cd screenshot
-cd dark
-cd icloud
-cd download
-cd downloads
-cd scanner
-reload
-cd $scanner
-reload
-cd $scanner
-cd $downloads
-cd $screenshot
-cd $winter
-reload
-cd $winter
-reload
-cd $winter
-cd $neonspacecandy
-cd $icloud
-reload
-cd $icloud
-reload
-cd $icloud
-reload
-cd icloud
-cd $icloud
-reload
-cd icloud
-cd $icloud
-reload
-cd "$icloud"
-cd downloads
-cd $downloads
-reload
-backup
-reload
-reload
-cd dotfiles
-reload
-cd dotfiles
-reload
-cd dotfiles
-reload
-cd dotfiles
-reload
-dotfiles
-reload
-cd dotfiles
-reload
-qw
-cd qw
-cd downloadss
-cd downloads
-cd $downloads
-cd qw
-cd $qw
-reload
-cd $qw
-cd qw
-cd qw
-qw
-cd qw
-reload
-%
-cd?
-reload
-reload
-rEFInd
-clear
-sudo restart
-restart
-reboot
-zip --version
-brew search zip
-brew install zip
-zip --version
-brew uninstall zip
-zip --version
-clear
-git push --set-upstream origin master
-echo "# readme-symlink" >> README.md
-git init
-git remote add origin https://github.com/briancrink/readme-symlink.git
-git push -u origin master
-irssi
-fileicon set /Volumes/Drive/Workspace ~/.dotfiles/.icns/workspace.icns
-clear
-reload
-brew search irssi
-brew install irssi
-clear
-reload
-code ~/.irssi/config
-man irssi
-irssi -n spacebot
-man irssi
-irssi
-irssi
-irssi
-perl -MCPAN -e 'install Bundle::LWP
-perl -MCPAN -e 'install Bundle::LWP'
-clear
-irssi
-wget -P ~/.irssi/scripts http://scripts.irssi.org/scripts/scriptassist.pl
-cp ~/.irssi/scripts/scriptassist.pl.pl ~/.irssi/scripts/autorun
-ls
-cd irssi
-ls
-cd scripts
-ls
-cp ~/.irssi/scripts/scriptassist.pl ~/.irssi/scripts/autorun
-wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ 
-wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ 
-wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ -O ~/.irssi/config
-code ~/.irssc/config
-code ~/.irssi/config
-code ~/.irssi/config
-cp ~/.irssi/config ~/.irssi/.bak
-code ~/.irssi/.bak
-wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config -0 ~/.irssi/config
-wget -q https://gist.githubusercontent.com/thibaultCha/f24b806c2a420be1f03a/raw/37c3f751db2c99269ff49789c42a740fdf3fc18b/config \ -0 ~/.irssi/config
-code ~/.irssi/config
-code ~/.irssi/config
-ls
-cd ..
-ls
-code config
-bundle
-irssi
-irssi
-irssi
-cd ~/.irssi
-git clone https://github.com/huyz/irssi-colors-solarized.git
-ls
-ls irssi-colors-solarized
-cp solarized-universal.theme ../solarized-universal.theme
-cp solarized-universal.theme ~/.irssi/solarized-universal.theme
-cp ~/.irssi/irssi-colors-solarized/solarized-universal.theme ~/.irssi/solarized-universal.theme
-ls
-irssi
-irssi
-man zip
-node --version
-cd Downloads
-wget -P http://tracesof.net/uebersicht/releases/Uebersicht-1.3.56.app.zip
-wget -P "http://tracesof.net/uebersicht/releases/Uebersicht-1.3.56.app.zip"
-wget -q http://tracesof.net/uebersicht/releases/Uebersicht-1.3.56.app.zip
-brew search uebersicht
-brew search ubersicht
-brew install ubersicht
-brew cask install ubersicht
-bundle
-clear
-cd ~/widgets/reddit
-ls
-py script.py
-python script.py
-python --version
-brew search coffee
-brew install coffeescript
-bundle
-update
-clean
-brew clean
-help --help
-brew --help
-man brew
-bash --version
-reload
-echo $PATH
-bash
-exec /usr/local/bin/bash
-reload
-bash
-bash --version
-source ~/.bash_profile
-exec /bin/bash
-reload
-source ~/.bash_profile
-$PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-source ~/.bash_profile
-reload
 reload
 source ~/.bash_profile
 exec bash
@@ -498,3 +195,306 @@ clear
 reload
 man zip
 man zip
+zip /Volumes/Drive/Workspace/Setup/Mac/Test.zip ~/Downloads/Test
+zip /Volumes/Drive/Workspace/Setup/Mac/Test.zip ~/Downloads/Test/
+zip -r /Volumes/Drive/Workspace/Setup/Mac/Test.zip $HOME/Downloads/Test/
+zip -jr /Volumes/Drive/Workspace/Setup/Mac/Test.zip $HOME/Downloads/Test/
+zip -jr /Volumes/Drive/Workspace/Setup/Mac/Test.zip $HOME/Downloads/Test
+zip -jrm /Volumes/Drive/Workspace/Setup/Mac/Test.zip $HOME/Downloads/Test
+pushd ~/Downloads
+zip -r /Volumes/Drive/Workspace/Setup/Mac/Test.zip Test
+popd
+pushd ~
+ls
+popd
+ls
+reload
+reload
+reload
+test
+reload
+test
+reload
+zipws
+clear
+reload
+zipws
+reload
+%
+zipws
+reload
+symlink
+source ~/.dotfiles/.setup/.symlink
+reload
+clear
+reload
+symlink
+clear
+reload
+zipws
+popd "$icloud"
+cd "$icloud"
+popd $icloud
+popd icloud
+reload
+pushd $docs
+pushd "~/Library/Mobile\ Documents"
+pushd "~/Library/Mobile Documents"
+cd ~
+"~/Library/Mobile\ Documents"
+"~/Library/Mobile Documents"
+pushd "users/briancrink/Library/Mobile Documents"
+pushd "/Users/briancrink/Library/Mobile Documents"
+pushd "~/Library/Mobile Documents"
+pushd "$HOME/Library/Mobile Documents"
+popd
+popd
+pushd "$HOME/Library/Mobile Documents"
+popd
+popd
+reload
+pushd $docs
+pushd docs
+pushd "$docs"
+pushd '$docs'
+pushd "${docs}"
+pushd "$docs"
+reload
+pushd "$docs"
+popd
+reload
+pushd "$icloud"
+popd
+reload
+zipdot
+clear
+pushd "$icloud"
+ls
+pushd iCloud~com~apple~DocumentsApp
+ls
+pushd Documents
+ls
+ls
+ls -la
+popd
+popd
+popd
+pushd "$icloud"
+mv dotfiles.zip $HOME/Documents
+mv workspace.zip $HOME/Documents
+ls
+popd
+clear
+sw
+ws
+wf
+dot
+wall
+man wall
+reload
+pushd rEFInd
+pushd "$rEFInd"
+ls
+popd
+pushd "$refind"
+ls
+popd
+pushd $refind
+ls
+popd
+clear
+reload
+show $PATH
+echo $PATH
+reload
+echo $PATH
+brew doctor
+reload
+brew doctor
+clear
+reload
+reload
+clear
+reload
+reload
+clear
+reload
+reload
+symlink
+cleawr
+clear
+reload
+reload
+zipdot
+reload
+zipdot
+reload
+zipdot
+reload
+zipdot
+reload
+zipdot
+zipdot
+reload
+zipdot
+reload
+zipdot
+df
+man df
+clear
+reload
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+clear
+reload
+reload
+zipws
+zipws
+zipws
+zipws
+zipws
+reload
+zipws
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+zipws
+reload
+reload
+zipws
+reload
+zipws
+reload
+zipws
+reload
+zipws
+zipws
+clear
+reload
+zipdot
+zipdot
+reload
+zipdot
+backup
+clear
+reload
+reload
+reload
+sessionb
+reload
+sessionb
+reload
+sessionb
+reload
+sbrestore
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+pushd sbdir
+pushd $sbdir
+popd
+%
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^[1-9]$
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/\^[1-9]$
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/[1-9]
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/(^[1-9])
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^([1-9])
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^\[1-9]
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^\([1-9])
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^[1-9]$
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^[1-9]
+code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/[1-9]
+relaod
+reload
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+reload
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+reload
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+reload
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+reload
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+reload
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+reload
+source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
+clear
+man cp
+code [$sbdir]\^[1-9]$
+code ["$sbdir"]\^[1-9]$
+code [$sbdir/]^[1-9]$
+code $sbdir\[/]^[1-9]$
+code $sbdir/\^[1-9]$
+code [$sbdir/]\^[1-9]$
+code $sbdir/\b\d\b
+code $sbdir\b\d\b
+code $sbdir/^\b\d\b
+code $sbdir/(\b\d\b)
+code $sbdir/[\b\d\b]
+code $sbdir/\d
+code $sbdir/[\d]
+code $sbdir/'\d'
+code $sbdir/"\d"
+code $sbdir/['\d']
+code $sbdir/'\b\d\b'
+code $sbdir/\b[1-9]\b
+code $sbdir/'\b[1-9]\b'
+reload
+sbrestore
+reload
+sbrestore
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+reload
+sbrestore
+clear
+reloa
+reload
+clear
+reload
+NightWatch arrow
+NightWatch legends of tomorrow
+reload
+clear
+reload
+%
+clear
+reload

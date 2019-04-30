@@ -75,6 +75,9 @@ Home
       YouTube
       https://youtube.com/feed/subscriptions
 
+      YouTube | Watch Later
+      https://www.youtube.com/playlist?list=WL
+
       TVTime
       https://tvtime.com/
 
