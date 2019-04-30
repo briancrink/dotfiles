@@ -2,7 +2,7 @@
 
 pushd ~
 dotzip=$mac/dotfiles.zip;
-zip -rv $dotzip .dotfiles;
+zip -FS -rv $dotzip .dotfiles;
 cp $dotzip $icloud;
 unset df; 
 popd;

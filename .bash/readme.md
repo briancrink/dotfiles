@@ -175,6 +175,18 @@ parent directories; `popd` to return to original directory
 
 - type `-r` to travel the directory structure recursively
 
+- type `zip -R foo "*.c"` to travel the directory structure recursively starting
+  at the current directory finding the pattern
+
+- type `-g` to grow (append to) the specified zip archive, instead of creating a
+  new one. If this operation fails, zip attempts to restore the archive to its
+  original state. If the restoration fails, the archive might become corrupted.
+  This option is ignored when there's no existing archive or when at least one
+  archive member must be updated or deleted.
+
+- type `-o` to set the "last modified" time of the zip archive to the latest
+  (oldest) "last modified" time found among the entries in the zip archive
+
 - type `-u` to replace (update) an existing entry in the zip archive only if it
   has been modified more recently than the version already in the zip archive
 

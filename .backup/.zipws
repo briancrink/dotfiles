@@ -1,6 +1,5 @@
 #! /usr/local/bin/bash
 
 pushd $drive
-# zip -rv $icloud/workspace.zip Workspace/ -x \*.tmp*
+zip -FS -rv $icloud/workspace.zip Workspace/ -x \*.tmp*
 popd
-# zip only changed file(s) to output destination(s)
