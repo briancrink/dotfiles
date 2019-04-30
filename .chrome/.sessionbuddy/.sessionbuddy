@@ -3,9 +3,6 @@
 # # * ensure execution does not corrupt db
 # osascript -e 'tell application "Google Chrome" to quit';
 
-# # * Regex: find single digit file
-# ^[1-9]$
-
 # # * Restore: Dotfiles -> Chrome
 # if [ -f $sbdir/[1-9] ]; then
 #   cp --remove-destination -v $sbdir/[1-9] "$sbdb"
@@ -16,7 +13,8 @@
 #   cp --remove-destination -v "$sbdb"/[1-9] $sbdir;
 # fi
 
-# # * Testing
+# # * Regex Testing: find single digit file
+# ^[1-9]$
 # if [ -f "$sbdb"/'#' ]; then
 #   echo exists!;
 # else echo error;
