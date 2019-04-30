@@ -86,7 +86,7 @@ tool for cloud storage backup.
 
 - type `git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles` to
   clone to the local home directory.
-- type `source ~/.dotfiles/.setup/.setup` to begin the setup process.
+- type `source ~/.dotfiles/.setup/.bootstrap` to begin the setup process.
 - Once finished, type `reboot` to restart the machine.
 - Done.
 
