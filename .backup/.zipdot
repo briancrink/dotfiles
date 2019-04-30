@@ -1,8 +1,16 @@
 #! /usr/local/bin/bash
 
-pushd ~
-dotzip=$mac/dotfiles.zip;
-zip -FS -rv $dotzip .dotfiles;
-cp $dotzip $icloud;
-unset df; 
-popd;
+pushd ~;
+dotz=dotfiles.zip;
+zip -FS -rv $mac/$dotz .dotfiles;
+pushd $mac;
+zip -FS -rv $icloud/$dotz $dotz;
+unset dotz;
+popd; popd;
+
+# pushd ~
+# dotzip=$mac/dotfiles.zip;
+# zip -FS -rv $dotzip .dotfiles;
+# cp $dotzip $icloud;
+# unset df; 
+# popd;

@@ -178,6 +178,14 @@ parent directories; `popd` to return to original directory
 - type `zip -R foo "*.c"` to travel the directory structure recursively starting
   at the current directory finding the pattern
 
+- type `-FS` to synchronize the contents of an archive with the files on the OS;
+  checks entries in the archive against the file system. If the file time and
+  file size of the entry matches that of the OS file, the entry is copied from
+  the old archive instead of being read from the file system and compressed. If
+  the OS file has changed, the entry is read and compressed as usual. If the
+  entry in the archive does not match a file on the OS, the entry is deleted; an
+  alternative to `-u` except removes _removed_ files from the zip archive
+
 - type `-g` to grow (append to) the specified zip archive, instead of creating a
   new one. If this operation fails, zip attempts to restore the archive to its
   original state. If the restoration fails, the archive might become corrupted.
