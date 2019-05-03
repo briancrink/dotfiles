@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+# Brian's Dotfiles
+
+<!-- <!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -21,7 +23,7 @@ img {
 Brian's Dotfiles
 </p>
 </body>
-</html>
+</html> -->
 
 [![](.asset/banner.png)](https://briancrink.com/software)
 
