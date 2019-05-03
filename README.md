@@ -1,12 +1,12 @@
 <p>
 <a href="https://briancrink.com">
-<img src=".asset/favicon.png" style="float:right;width:5px;height:5px;">
+<img src=".asset/favicon.png" style="float:right;width:2%;height:2%;">
 </a>
 <a href="https://twitter.com/briancrink">
-<img src=".asset/twitter.png" style="float:right;width:5px;height:5px;">
+<img src=".asset/twitter.png" style="float:right;width:2%;height:2%;">
 </a>
 <a href="https://reddit.com/user/NeonSpaceCandy">
-<img src=".asset/reddit.png" style="float:right;width:5px;height:5px;">
+<img src=".asset/reddit.png" style="float:right;width:2%;height:2%;">
 </a>
 Brian's Dotfiles
 </p>
