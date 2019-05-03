@@ -1,7 +1,15 @@
-#!/usr/bin/env bash
+#! /usr/local/bin/bash
+
+app=Google\ Chrome
+directory=/Applications/"$app".app
 
 # # * ensure execution does not corrupt db
-# osascript -e 'tell application "Google Chrome" to quit';
+if [ -d "$directory"  ]; then
+    osascript -e 'if application "'"$app"'" is running then tell application "'"$app"'" to quit';
+else echo '"'"$app"'" is not installed';
+fi
+unset directory;
+unset app;
 
 # # * Restore: Dotfiles -> Chrome
 # if [ -f $sbdir/[1-9] ]; then

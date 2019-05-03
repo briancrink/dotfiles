@@ -83,6 +83,11 @@
 - commands that start with a `space` aren't logged in history
 - type `history | grep <command>` to query a list of commands using that keyword
 
+### Exit Status
+
+- type the command
+- type `echo $?` to display the exit code (0-255; 0 = success, 1-255 = fail)
+
 ### Easter Eggs
 
 - type `cmatrix` to run the matrix rain
@@ -232,6 +237,11 @@ parent directories; `popd` to return to original directory
 - type `sudo !!` to repeat last command with sudo privileges, sudo BANG BANG!!
 - type `test -x <file>` tests whether `<file>` has execute permissions for the
   current user
+
+### Run Script in the background
+
+- type `script &`
+- moves process to the background and issues a new shell prompt immediately
 
 ### Command Flags
 

@@ -231,7 +231,9 @@ tool for cloud storage backup.
 - press <kbd>⌘ Command</kbd>+<kbd>O</kbd> to **open**
 - press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>O</kbd> to **open**
   **workspace**
-- press <kbd>⌘ Command</kbd>+<kbd>W</kbd> to **close workspace**
+- press <kbd>⌘ Command</kbd>+<kbd>W</kbd> to **close active editor**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>W</kbd> to **close**
+  **workspace**
 - press <kbd>⌘ Command</kbd>+<kbd>Q</kbd> to **quit vs code**
 - press <kbd>⌘ Command</kbd>+<kbd>P</kbd> to **open preview**
 - press <kbd>⌘ Command</kbd>+<kbd>K</kbd> to **open keyboard shortcuts**

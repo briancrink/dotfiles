@@ -257,6 +257,12 @@ Content
       WhoSampled
       https://whosampled.com
 
+      Twitter Card Preview Validator
+      https://cards-dev.twitter.com/validator
+
+      Search Mac App Store Apps
+      http://macappstore.org/
+
    Video
 
       BBC America
@@ -926,7 +932,7 @@ Development
       Codetriage
       https://codetriage.com/
 
-      Gist
+      Github Gists
       https://gist.github.com/
 
       Github
@@ -934,6 +940,11 @@ Development
 
       Github Desktop
       https://desktop.github.com/
+
+      Github Pages
+      https://pages.github.com/
+
+      Github
 
       Gitlab
       https://gitlab.com/

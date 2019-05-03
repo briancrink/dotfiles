@@ -1,0 +1,15 @@
+# Regex
+
+## http urls -> newline + double space + url
+
+### Find
+
+\((h.+?)\)
+
+### Replace
+
+\n\n  > $1
+
+## Software Dictionary
+
+mydict = {key1: value_a, key2: value_b, key3: value_c}

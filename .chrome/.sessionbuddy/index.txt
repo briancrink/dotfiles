@@ -364,6 +364,29 @@ Account
       Briancrink | All Trails
       https://alltrails.com/members/brian-crink
 
+   Social Feeds
+
+      Architecture | Twitter
+      https://twitter.com/briancrink/lists/architecture/members
+
+      Learning | Twitter
+      https://twitter.com/briancrink/lists/learning/members
+
+      Customer Support | Twitter
+      https://twitter.com/briancrink/lists/customer-support/members
+
+      Music | Twitter
+      https://twitter.com/briancrink/lists/music/members
+
+      Software Development | Twitter
+      https://twitter.com/briancrink/lists/software-development/members
+
+      Socioeconomics | Twitter
+      https://twitter.com/briancrink/lists/socioeconomics/members
+
+      STEM | Twitter
+      https://twitter.com/briancrink/lists/stem/members
+
    Software
 
       Briancrink | Gist Github
@@ -1784,6 +1807,29 @@ News
 
       Real Men Real Style
       https://realmenrealstyle.com/
+
+   Feeds
+
+      Architecture | Twitter
+      https://twitter.com/briancrink/lists/architecture
+
+      Learning | Twitter
+      https://twitter.com/briancrink/lists/learning
+
+      Customer Support | Twitter
+      https://twitter.com/briancrink/lists/customer-support
+
+      Music | Twitter
+      https://twitter.com/briancrink/lists/music
+
+      Software Development | Twitter
+      https://twitter.com/briancrink/lists/software-development
+
+      Socioeconomics | Twitter
+      https://twitter.com/briancrink/lists/socioeconomics
+
+      STEM | Twitter
+      https://twitter.com/briancrink/lists/stem
 
    Platform
 
