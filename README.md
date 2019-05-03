@@ -3,6 +3,11 @@
 <head>
 </head>
 <body>
+<style>
+img {
+    width: 3%;
+}
+</style>
 <p>
 <a href="https://briancrink.com">
 <img src=".asset/favicon.png" style="float:right;width:2%;height:2%;">
