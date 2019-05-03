@@ -1,29 +1,8 @@
 # Brian's Dotfiles
 
-<!-- <!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-<p>
-<style>
-img {
-    width: 3%;
-}
-</style>
-<a href="https://briancrink.com">
-<img src=".asset/favicon.png" style="float:right;width:2%;height:2%;">
-</a>
-<a href="https://twitter.com/briancrink">
-<img src=".asset/twitter.png" style="float:right;width:2%;height:2%;">
-</a>
-<a href="https://reddit.com/user/NeonSpaceCandy">
-<img src=".asset/reddit.png" style="float:right;width:2%;height:2%;">
-</a>
-Brian's Dotfiles
-</p>
-</body>
-</html> -->
+[![](.asset/favicon.png =20x20)](https://briancrink.com)
+[![](.asset/reddit.png =20x20)](https://reddit.com/user/NeonSpaceCandy)
+[![](.asset/twitter.png =20x20)](https://twitter.com/briancrink)
 
 [![](.asset/banner.png)](https://briancrink.com/software)
 
