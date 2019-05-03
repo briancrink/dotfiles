@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 <p>
 <a href="https://briancrink.com">
 <img src=".asset/favicon.png" style="float:right;width:2%;height:2%;">
@@ -10,6 +15,8 @@
 </a>
 Brian's Dotfiles
 </p>
+</body>
+</html>
 
 [![](.asset/banner.png)](https://briancrink.com/software)
 
