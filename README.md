@@ -1,11 +1,11 @@
 <h1>
 Brian's dotfiles
 <a href="https://reddit.com/user/NeonSpaceCandy">
-<img src=".asset/reddit.png" width="20" height="20" position="relative"> <a/>
+<img src=".asset/reddit.png" width="20" height="20" margin-left:auto margin-right:0> <a/>
 <a href="https://twitter.com/briancrink">
-<img src=".asset/twitter.png" width="25" height="25" position="relative"> <a/>
+<img src=".asset/twitter.png" width="25" height="25" margin-left:auto margin-right:0;> <a/>
 <a href="https://briancrink.com/">
-<img src=".asset/favicon.png" width="20" height="20" position="relative"> <a/>
+<img src=".asset/favicon.png" width="20" height="20" margin-left:auto margin-right:0> <a/>
 </h1>
 
 [![](.asset/banner.png)](https://briancrink.com/software)
