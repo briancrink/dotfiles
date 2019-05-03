@@ -8,12 +8,6 @@ Brian's dotfiles
 <img src=".asset/favicon.png" width="20" height="20" text-align="right"> <a/>
 </h1>
 
-<div style="display: flex; justify-content: space-around">
-   <div>Left</div>
-   <div>Middle</div>
-  <div>Right</div>
-</div>
-
 [![](.asset/banner.png)](https://briancrink.com/software)
 
 ## Attribution
