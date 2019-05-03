@@ -1,8 +1,8 @@
 # Brian's Dotfiles
 
-[![](.asset/favicon.png =20x)](https://briancrink.com)
-[![](.asset/reddit.png =20x)](https://reddit.com/user/NeonSpaceCandy)
-[![](.asset/twitter.png =20x)](https://twitter.com/briancrink)
+[![]<img src=".icns/favicon.png" width="20" height="20">](https://briancrink.com)
+[![]<img src=".icns/twitter.png" width="20" height="20">](https://reddit.com/user/NeonSpaceCandy)
+[![]<img src=".icns/reddit.png" width="20" height="20">](https://twitter.com/briancrink)
 
 [![](.asset/banner.png)](https://briancrink.com/software)
 
