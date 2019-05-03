@@ -1,4 +1,4 @@
-<h1>
+<p>
 <a href="https://briancrink.com">
 <img src=".asset/favicon.png" style="float:right;width:25px;height:25px;">
 </a>
@@ -9,7 +9,7 @@
 <img src=".asset/reddit.png" style="float:right;width:25px;height:25px;">
 </a>
 Brian's Dotfiles
-</h1>
+</p>
 
 [![](.asset/banner.png)](https://briancrink.com/software)
 
