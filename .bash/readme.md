@@ -230,6 +230,10 @@ parent directories; `popd` to return to original directory
 - type `echo "file_contents" > <filename.extension>` to create an empty file
   with contents
 
+## Find File
+
+- type `mdfind -name "<name>"`
+
 ### Execute a File
 
 - type `source file executable` to rerun a file
