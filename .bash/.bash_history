@@ -1,45 +1,3 @@
-popd
-clear
-reload
-show $PATH
-echo $PATH
-reload
-echo $PATH
-brew doctor
-reload
-brew doctor
-clear
-reload
-reload
-clear
-reload
-reload
-clear
-reload
-reload
-symlink
-cleawr
-clear
-reload
-reload
-zipdot
-reload
-zipdot
-reload
-zipdot
-reload
-zipdot
-reload
-zipdot
-zipdot
-reload
-zipdot
-reload
-zipdot
-df
-man df
-clear
-reload
 reload
 zipws
 reload
@@ -498,3 +456,45 @@ brew install glib
 %
 %
 clear
+sudo rm -r /Users/briancrink/Downloads
+clear
+reload
+brew cask uninstall textwrangler
+brew search text wrangler
+brew list
+brew cask list
+brew search mac-cleaner
+brew cask search mac-cleaner
+brew search mac clean
+brew info macclean
+brew cask install macclean
+brew cask list
+brew cask uninstall appzapper
+brew cask list
+brew info mac
+brew cask mac
+brew search mac
+brew info playonmac
+brew info macdependency
+brew info voicemac
+brew info aquamac
+brew info aquamacs
+brew info flip4mac
+brew info macdropany
+brew info macdrops
+brew search dotfile
+brew search dot
+brew search trello
+brew info wrk-trello
+brew cask uninstall macclean
+brew clean
+brew cleanup
+clear
+reload
+rm -r /Applications/Utilities/backup.app
+sudo
+sudo rm -r /Applications/Utilities/backup.app
+sudo rm -r /Applications/SSH\ Tunnel\ Manager.app 
+sudo rm -r /Applications/Automator.app 
+clear
+reload
