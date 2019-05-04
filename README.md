@@ -26,8 +26,9 @@
 ## Tools
 
 - [Autodot](https://github.com/ajmalsiddiqui/autodot)
-- [Fileicon](https://github.com/mklement0/fileicon#manual-installation)
+- [Dotshare.it](http://dotshare.it/)
 - [Desktoppr](https://github.com/scriptingosx/desktoppr)
+- [Fileicon](https://github.com/mklement0/fileicon#manual-installation)
 - [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle)
 - [Homebrew Quicklook](https://github.com/sindresorhus/quick-look-plugins)
 - [Homebrew Casks](https://github.com/Homebrew/homebrew-cask/tree/master/Casks)
@@ -52,9 +53,7 @@
 - [The Purpose of Bashrc](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
 - [Bashrc Loading Order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
-## 👨‍💻Community👩‍💻
-
-- **[dotshare.it](http://dotshare.it/)**
+## 👨‍💻[Community](http://dotshare.it/)👩‍💻
 
 - [@ptb's dotfiles](https://github.com/ptb/mac-setup)
 - [Ben Alman's dotfiles](https://github.com/cowboy/dotfiles)
