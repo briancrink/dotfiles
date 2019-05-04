@@ -1,20 +1,15 @@
-# Brian's Dotfiles
-
-[<img src=".asset/favicon.png" width="25" height="25">](https://briancrink.com)
-[<img src=".asset/twitter.png" width="25" height="25">](https://twitter.com/briancrink)
-[<img src=".asset/reddit.png" width="25" height="25">](https://reddit.com/user/NeonSpaceCandy)
+[<img src=".asset/favicon.png" width="20" height="20">](https://briancrink.com)
+[<img src=".asset/twitter.png" width="20" height="20">](https://twitter.com/briancrink)
+[<img src=".asset/reddit.png" width="20" height="20">](https://reddit.com/user/NeonSpaceCandy)
 
 [![](.asset/banner.png)](https://briancrink.com/software)
 
-## Attribution
-
-- [Mathias Bynens](https://mathiasbynens.be/) |
-  [@mathias](http://twitter.com/mathias)
-
-## [Forking](https://github.com/briancrink/dotfiles/tree/master/.setup#forking-brians-dotfiles)
-
-**Modification required:** Fork the repository, review the code, and remove
-things you don’t want or need.
+<html>
+<h1 align="center">
+  <a href="https://github.com/briancrink/dotfiles/tree/master/.setup#forking-brians-dotfiles">Fork</a>
+  <body>, review, send to ~/. 👩‍💻 👨‍💻</body>
+</h1>
+</html>
 
 ## Setup
 
@@ -58,6 +53,8 @@ things you don’t want or need.
 - [Bashrc Loading Order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
 ## Community
+
+- **[dotshare.it](http://dotshare.it/)**
 
 - [@ptb's dotfiles](https://github.com/ptb/mac-setup)
 - [Ben Alman's dotfiles](https://github.com/cowboy/dotfiles)

@@ -1,19 +1,3 @@
-sw
-ws
-wf
-dot
-wall
-man wall
-reload
-pushd rEFInd
-pushd "$rEFInd"
-ls
-popd
-pushd "$refind"
-ls
-popd
-pushd $refind
-ls
 popd
 clear
 reload
@@ -498,3 +482,19 @@ reload
 NightWatch Twilight Zone
 NightWatch Twilight Zone
 NightWatch Twilight Zone
+brew search dict
+brew search betterdictionary
+brew search better dictionary
+man diction
+brew desc diction
+brew desc dictator
+brew desc dictater
+brew cask desc dictater
+brew cask info dictater
+brew cask install dictater
+%
+brew install glib --with-static
+brew install glib
+%
+%
+clear

@@ -398,6 +398,9 @@ Account
       Briancrink | Github
       https://github.com/briancrink
 
+      Briancrink | Gitbook
+      https://app.gitbook.com/@briancrink/spaces
+
       Briancrink | Leetcode
       https://leetcode.com/briancrink/
 

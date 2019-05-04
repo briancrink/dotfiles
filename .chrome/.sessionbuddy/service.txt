@@ -944,6 +944,9 @@ Development
       Github Pages
       https://pages.github.com/
 
+      Gitbook
+      https://www.gitbook.com/
+
       Github
 
       Gitlab
