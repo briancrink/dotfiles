@@ -59,6 +59,7 @@
 - [@ptb's dotfiles](https://github.com/ptb/mac-setup)
 - [Ben Alman's dotfiles](https://github.com/cowboy/dotfiles)
 - [Cătălin Mariș dotfiles](https://github.com/alrra/dotfiles)
+- [Dikiaap's dotfiles](https://github.com/dikiaap/dotfiles)
 - [Dries Vints dotfiles](https://github.com/driesvints/dotfiles):
   [Brewfile](https://github.com/driesvints/dotfiles/blob/master/Brewfile)
 - [Gianni Chiappetta's dotfiles](https://github.com/gf3/dotfiles)
