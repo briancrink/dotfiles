@@ -52,7 +52,7 @@
 - [The Purpose of Bashrc](https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work)
 - [Bashrc Loading Order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
-## Community 👩‍💻 👨‍💻
+## 👨‍💻Community👩‍💻
 
 - **[dotshare.it](http://dotshare.it/)**
 
