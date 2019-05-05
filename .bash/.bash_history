@@ -1,25 +1,5 @@
 reload
 zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-clear
-reload
-reload
-zipws
 zipws
 zipws
 zipws
@@ -496,5 +476,25 @@ sudo
 sudo rm -r /Applications/Utilities/backup.app
 sudo rm -r /Applications/SSH\ Tunnel\ Manager.app 
 sudo rm -r /Applications/Automator.app 
+clear
+reload
+mdfind -name "Tidal"
+mdfind -name "Tidal.app"
+mdfind -name "macclean"
+sudo rm -r /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks/macclean.rb
+mdfind -name "macclean"
+mdfind -name "appzapper"
+sudo rm -r /Users/briancrink/Library/Application Support/AppZapper && sudo rm -r /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks/appzapper.rb
+sudo rm -r /Users/briancrink/Library/Application Support/AppZapper
+sudo rm -r /Users/briancrink/Library/Application\ Support/AppZapper
+sudo rm -r /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks/appzapper.rb
+mdfind -name "appzapper"
+mdfind -name "textwrangler"
+sudo rm -r /Users/briancrink/Library/TextWrangler
+sudo rm -r /Users/briancrink/Library/Application\ Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.ApplicationRecentDocuments/com.barebones.textwrangler.sfl2
+mdfind -name "textwrangler"
+mdfind -name "garageband"
+sudo rm -r /Library/Audio/Apple\ Loops/Apple/Apple\ Loops\ for\ GarageBand
+reload
 clear
 reload
