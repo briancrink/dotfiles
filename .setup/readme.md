@@ -3,7 +3,7 @@
 <!-- [![Screenfetch](https://i.imgur.com/oUqwcwE.png =60%x)](https://github.com/KittyKatt/screenFetch) -->
 <!-- [![Mac](https://i.imgur.com/QwgWnEt.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US) -->
 
-[![Mac](https://i.imgur.com/QwgWnEt.png)](https://support.apple.com/kb/sp715?locale=en_US)
+[![Mac](https://i.imgur.com/QwgWnEt.png =100x100)](https://support.apple.com/kb/sp715?locale=en_US)
 
 ## Steps
 
