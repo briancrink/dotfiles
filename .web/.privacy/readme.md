@@ -1,17 +1,20 @@
-# Privacy Documentation:
+# Privacy
 
-## Requirements:
-1. 
+## Requirements
 
-## Install:
+1.
+
+## Install
+
 - GNU Privacy Guard on Linux
-    - https://www.gnupg.org/
+  - https://www.gnupg.org/
 - GPGTools on Mac OS X
-    - https://gpgtools.org/
+  - https://gpgtools.org/
 - GPG4Win
-    - http://gpg4win.org/download.html
+  - http://gpg4win.org/download.html
 
-## Steps:
+## Steps
+
 1. cash -> bitcoin
 2. change MAC address
 3. destroy devices regularly
@@ -23,10 +26,11 @@
 9. block ads
 10. disable flash / java script / players
 11. never use personal identifiers
-12. hide the keys in ordinary objects
-    a. stick the usb stick in a book or teddy bear
+12. hide the keys in ordinary objects a. stick the usb stick in a book or teddy
+    bear
 
-## Disable:
+## Disable
+
 - JavaScript
 - Flash Player
 - All other plug-ins / clients / web services
@@ -41,38 +45,41 @@
 - Notifications
 - Location
 
-## Modify:
+## Modify
+
 - IP Address
 - MAC Address -> MacChanger
 
-## Secure Device:
-- Flash drive
-    - tiny
-    - plug ’n play
-    - easy to wipe
-    - isolated environment
-    - raspberry pi
-    - services installed
-- Wipe drive
-    - Effective use
-        - destroys computer
-        - fast ’n easy
-        - delivers a negative 220 volt electrical charge
-        - voltage must be negative
-        - chips have over-voltage protection for positive current
-        - simply fry’s
-            - the USB port
-            - part of the motherboard
-    - Counter protection
-        - negative voltage protection
-        - use a powered usb hub thats acts as an intermediary
+## Secure Device
 
-## Wipe Device:
+- Flash drive
+  - tiny
+  - plug ’n play
+  - easy to wipe
+  - isolated environment
+  - raspberry pi
+  - services installed
+- Wipe drive
+  - Effective use
+    - destroys computer
+    - fast ’n easy
+    - delivers a negative 220 volt electrical charge
+    - voltage must be negative
+    - chips have over-voltage protection for positive current
+    - simply fry’s
+      - the USB port
+      - part of the motherboard
+  - Counter protection
+    - negative voltage protection
+    - use a powered usb hub thats acts as an intermediary
+
+## Wipe Device
+
 - Wipe Drive
 - the ole’ glass of water
-    - only works in person
-    - must have a glass of liquid in hand
-    - must be prone to clumsiness
+  - only works in person
+  - must have a glass of liquid in hand
+  - must be prone to clumsiness
 - throw a brick at it
 - throw it out the window
 - throw it off a bridge

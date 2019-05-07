@@ -1,26 +1,3 @@
-zipdot
-reload
-zipdot
-backup
-clear
-reload
-reload
-reload
-sessionb
-reload
-sessionb
-reload
-sessionb
-reload
-sbrestore
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-pushd sbdir
-pushd $sbdir
-popd
-%
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^[1-9]$
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/\^[1-9]$
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/[1-9]
 code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/(^[1-9])
 code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^([1-9])
 code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^\[1-9]
@@ -498,3 +475,26 @@ NightWatch Arrow
 NightWatch Legends of Tomorrow
 clear
 reload
+pushd $docs
+git clone --mirror https://github.com/briancrink/dotfiles.git
+ls
+pushd dotfiles.git
+ls
+popd
+bfg -b 1M dotfiles.git
+pushd dotfiles.git
+ls
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+git push
+clear
+ls
+popd
+popd
+git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles
+pushd ~/.dotfiles
+ls
+zipdot
+clear
+zipws
+popd
+clear
