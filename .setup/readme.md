@@ -1,7 +1,9 @@
 # Setting up a New Machine
 
-[![Screenfetch](https://i.imgur.com/oUqwcwE.png =200x)](https://github.com/KittyKatt/screenFetch)
-[![Mac](https://i.imgur.com/QwgWnEt.png =27%x27%)](https://support.apple.com/kb/sp715?locale=en_US)
+<!-- [![Screenfetch](https://i.imgur.com/oUqwcwE.png =60%x)](https://github.com/KittyKatt/screenFetch) -->
+<!-- [![Mac](https://i.imgur.com/QwgWnEt.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US) -->
+
+[![Mac](https://i.imgur.com/QwgWnEt.png)](https://support.apple.com/kb/sp715?locale=en_US)
 
 ## Steps
 
