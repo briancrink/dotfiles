@@ -1,16 +1,3 @@
-reload
-reload
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-zipws
-clear
-reload
-zipdot
 zipdot
 reload
 zipdot
@@ -498,3 +485,16 @@ diskutil unmount /Volumes/EFI
 sudo mkdir /Volumes/EFI
 sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
 diskutil unmount /Volumes/EFI
+$docs
+pushd $docs
+ls
+git clone https://github.com/briancrink/.dotfiles.git dotfiles
+clear
+popd
+ls
+clear
+reload
+NightWatch Arrow
+NightWatch Legends of Tomorrow
+clear
+reload
