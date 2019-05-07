@@ -1,18 +1,3 @@
-zipws
-zipws
-zipws
-reload
-zipws
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-reload
-zipws
-zipws
 reload
 reload
 zipws
@@ -498,3 +483,18 @@ reload
 %
 clear
 man df
+man dtf
+clear
+reload
+clean
+update
+clear
+reload
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1
+sudo mkdir /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+diskutil unmount /Volumes/EFI
+sudo mkdir /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+diskutil unmount /Volumes/EFI

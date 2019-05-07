@@ -107,6 +107,8 @@
 
 - [pet](https://www.linuxlinks.com/essential-system-tools-gtop-system-monitoring-dashboard-terminal/):
 
+- [Gpick]()
+
 - [Alacritty](https://www.linuxlinks.com/essential-system-tools-alacritty-hardware-accelerated-terminal-emulator/):
 
 - [inxi](https://www.linuxlinks.com/essential-system-tools-inxi-cli-system-information-tool/):

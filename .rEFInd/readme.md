@@ -11,3 +11,7 @@
 7. type `rm -rf /Volumes/EFI/EFI/refind/refind.conf-sample` to remove sample
    config
 8. type `diskutil unmount /Volumes/EFI` to unmount disk
+
+## Documentation
+
+- [rEFInd Arch Linux](https://wiki.archlinux.org/index.php/REFInd)

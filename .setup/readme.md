@@ -1,7 +1,7 @@
 # Setting up a New Machine
 
-[![Screenfetch](../.asset/screenfetch.png =60%x)](https://github.com/KittyKatt/screenFetch)
-[![](../.asset/mac.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US)
+[![Screenfetch](https://i.imgur.com/oUqwcwE.png =60%x)](https://github.com/KittyKatt/screenFetch)
+[![](https://i.imgur.com/QwgWnEt.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US)
 
 ## Steps
 
@@ -13,7 +13,7 @@
 
 ## Building the Partition Table
 
-![](../.asset/guid.png)
+![imgur](https://i.imgur.com/s9n3NsI.png)
 
 **Note:** This partition table is designed to accomodate several persistent OS's
 with a local storage partition (Drive) visible in all. Drive is synced to
@@ -25,7 +25,7 @@ tool for cloud storage backup.
 - [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
 - [Linux](https://www.linux.org/pages/download/)
 
-![](../.asset/os.png)
+![imgur](../.asset/os.png)
 
 **Source:** unknown
 
@@ -82,20 +82,25 @@ tool for cloud storage backup.
 - [gnome (2.0 | 3.30.2)](https://www.gnome.org/gnome-3/)
 - [unity (7.5)](<https://en.wikipedia.org/wiki/Unity_(user_interface)>)
 
-### [Choosing a Bootloader](https://wiki.osdev.org/Bootloader)
+### [Choosing a Boot Manager](https://wiki.osdev.org/Bootloader)
 
 - [GRUB](https://www.gnu.org/software/grub/)
 - [rEFInd](https://www.rodsbooks.com/refind/)
+
+[![rEFInd](https://i.imgur.com/Q4FgTZ1.png)](https://github.com/briancrink/dotfiles/blob/master/.rEFInd)
+
+**Operating Systems:** [Manjaro Deepin](https://www.deepin.org/en/download/),
+[Linux Ubuntu](https://www.ubuntu.com/#download),
+[macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
 
 ## Forking Dotfiles
 
 **Note:** the hidden dotfiles folder will be cloned to the home directory.
 
 - type `git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles` to
-  clone to the local home directory.
-- type `source ~/.dotfiles/.setup/.bootstrap` to begin the setup process.
-- Once finished, type `reboot` to restart the machine.
-- Done.
+  **clone to the local home directory**.
+- type `source ~/.dotfiles/.setup/.bootstrap` to **begin the setup process**.
+- Once finished, type `reboot` to **restart the machine**.
 
 ## Setting up the Environment
 
@@ -171,8 +176,13 @@ tool for cloud storage backup.
 
 ### Photoshop
 
-- type <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>
+- press <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>
   to **merge all layers**
+
+### rEFInd
+
+- press <kbd>F2</kbd> to **select a boot option**
+- press <kbd>F10</kbd> to **screenshot the boot manager**
 
 ### Shell
 

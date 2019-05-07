@@ -1,8 +1,8 @@
-[<img src=".asset/favicon.png" width="20" height="20">](https://briancrink.com)
-[<img src=".asset/twitter.png" width="20" height="20">](https://twitter.com/briancrink)
-[<img src=".asset/reddit.png" width="20" height="20">](https://reddit.com/user/NeonSpaceCandy)
+[<img src="https://i.imgur.com/CijEIsH.png" width="20" height="20">](https://briancrink.com)
+[<img src="https://i.imgur.com/GqWnJKH.png" width="20" height="20">](https://twitter.com/briancrink)
+[<img src="https://i.imgur.com/CXdqFLS.png" width="20" height="20">](https://reddit.com/user/NeonSpaceCandy)
 
-[![](.asset/banner.png)](https://briancrink.com/software)
+[![](https://i.imgur.com/h3a5KMP.png)](https://briancrink.com/software)
 
 <html>
 <h1 align="center">
