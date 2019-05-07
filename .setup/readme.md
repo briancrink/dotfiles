@@ -1,7 +1,7 @@
 # Setting up a New Machine
 
 [![Screenfetch](https://i.imgur.com/oUqwcwE.png =60%x)](https://github.com/KittyKatt/screenFetch)
-[![](https://i.imgur.com/QwgWnEt.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US)
+[![Mac](https://i.imgur.com/QwgWnEt.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US)
 
 ## Steps
 
@@ -13,7 +13,7 @@
 
 ## Building the Partition Table
 
-![imgur](https://i.imgur.com/s9n3NsI.png)
+![GUID](https://i.imgur.com/s9n3NsI.png)
 
 **Note:** This partition table is designed to accomodate several persistent OS's
 with a local storage partition (Drive) visible in all. Drive is synced to
@@ -25,7 +25,7 @@ tool for cloud storage backup.
 - [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
 - [Linux](https://www.linux.org/pages/download/)
 
-![imgur](../.asset/os.png)
+![OS](https://i.imgur.com/E2FObZE.png)
 
 **Source:** unknown
 
