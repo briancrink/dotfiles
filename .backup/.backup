@@ -1,7 +1,6 @@
 #! /usr/local/bin/bash
 
 # # * Folder .icns
-fileicon get -f $downloads $dot/.icns/downloads
 fileicon get -f $scanner $dot/.icns/scanner
 fileicon get -f $screenshot $dot/.icns/screenshot
 fileicon get -f $ws $dot/.icns/workspace

@@ -4,10 +4,11 @@
 
 # # * macOS Paths
 dot=$HOME/.dotfiles # $dot
-downloads=$HOME/Downloads # $downloads
-icloud=$HOME/Documents # $icloud
+desktop=$HOME/Desktop # $desktop
+docs=$HOME/Documents # $icloud
 
 # # * Session Buddy
+sbdir=$dot/.chrome/.sessionbuddy # $sbdir
 gcdb=$HOME/Library/Application\ Support/Google/Chrome/Default/databases # "$gcdb"
 sbdb=$gcdb/chrome-extension_edacconmaakjimmfgnblocblbcdcpbko_0 # "$sbdb"
 
@@ -19,8 +20,7 @@ doc=$ws/Document # $doc
 scanner=$doc/Scanner # $scanner
 screenshot=$doc/Screenshot # $screenshot
 setup=$ws/Setup # $setup
-mac=$setup/Mac # $mac
-refind=$mac/Boot\ Manager/rEFInd # "$refind"
+refind=$setup/Boot\ Manager/rEFInd # "$refind"
 wallpaper=$setup/Wallpaper/Desktop # $wallpaper
 light=$wallpaper/Light # $light
 dark=$wallpaper/Dark # $dark
@@ -28,4 +28,3 @@ dusk=$wallpaper/Dusk # $dusk
 theme=$wallpaper/Theme # $theme
 neon=$theme/neonspacecandy # $neon
 winter=$theme/winter # $winter
-sbdir=$dot/.chrome/.sessionbuddy # $sbdir

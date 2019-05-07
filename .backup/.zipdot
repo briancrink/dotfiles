@@ -1,11 +1,11 @@
 #! /usr/local/bin/bash
 
 pushd ~;
-dotz=dotfiles.zip;
-zip -FS -rv $mac/$dotz .dotfiles;
-pushd $mac;
-zip -FS -rv $icloud/$dotz $dotz;
-unset dotz;
+dtf=dotfiles.zip;
+zip -FS -rv $setup/$dtf .dotfiles;
+pushd $setup;
+zip -FS -rv $docs/$dtf $dtf;
+unset dtf;
 popd; popd;
 
 # pushd ~

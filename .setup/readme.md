@@ -1,16 +1,19 @@
 # Setting up a New Machine
 
+[![Screenfetch](../.asset/screenfetch.png =60%x)](https://github.com/KittyKatt/screenFetch)
+[![](../.asset/mac.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US)
+
 ## Steps
 
 1. [Building the Partition Table](#Building-the-Partition-Table)
 2. [Choosing a Platform](#Choosing-a-Platform)
-3. [Forking the Dotfiles](#Forking-Brians-Dotfiles)
+3. [Forking the Dotfiles](#Forking-Dotfiles)
 4. [Setting up the Environment](#Setting-up-the-Environment)
 5. [Custom Keybindings](#Custom-Keybindings)
 
 ## Building the Partition Table
 
-![](guid.png)
+![](../.asset/guid.png)
 
 **Note:** This partition table is designed to accomodate several persistent OS's
 with a local storage partition (Drive) visible in all. Drive is synced to
@@ -21,6 +24,10 @@ tool for cloud storage backup.
 
 - [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
 - [Linux](https://www.linux.org/pages/download/)
+
+![](../.asset/os.png)
+
+**Source:** unknown
 
 ### [Choosing a Distribution](https://distrowatch.com/)
 
@@ -80,7 +87,7 @@ tool for cloud storage backup.
 - [GRUB](https://www.gnu.org/software/grub/)
 - [rEFInd](https://www.rodsbooks.com/refind/)
 
-## Forking Brians Dotfiles
+## Forking Dotfiles
 
 **Note:** the hidden dotfiles folder will be cloned to the home directory.
 

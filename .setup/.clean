@@ -13,7 +13,6 @@ dot_clean -n $drive
 trash -esy
 
 # # * Reset folder .icns
-fileicon set $downloads $dot/.icns/downloads.icns
 fileicon set $ws $dot/.icns/workspace.icns
 fileicon set $scanner $dot/.icns/scanner.icns
 fileicon set $screenshot $dot/.icns/screenshot.icns

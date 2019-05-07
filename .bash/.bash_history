@@ -1,6 +1,3 @@
-reload
-zipws
-zipws
 zipws
 zipws
 zipws
@@ -498,3 +495,6 @@ sudo rm -r /Library/Audio/Apple\ Loops/Apple/Apple\ Loops\ for\ GarageBand
 reload
 clear
 reload
+%
+clear
+man df

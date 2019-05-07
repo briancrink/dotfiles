@@ -1,5 +1,5 @@
 #! /usr/local/bin/bash
 
 pushd $drive;
-zip -FS -rv $icloud/workspace.zip Workspace/ -x \*.tmp*
+zip -FS -rv $docs/workspace.zip Workspace/ -x \*.tmp*
 popd;

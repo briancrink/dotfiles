@@ -1,14 +1,14 @@
 #! /usr/local/bin/bash
 
 app=Google\ Chrome
-directory=/Applications/"$app".app
+dir=/Applications/"$app".app
 
 # # * ensure execution does not corrupt db
-if [ -d "$directory"  ]; then
+if [ -d "$dir"  ]; then
     osascript -e 'if application "'"$app"'" is running then tell application "'"$app"'" to quit';
 else echo '"'"$app"'" is not installed';
 fi
-unset directory;
+unset dir;
 unset app;
 
 # # * Restore: Dotfiles -> Chrome

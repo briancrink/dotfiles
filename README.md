@@ -6,7 +6,7 @@
 
 <html>
 <h1 align="center">
-  <a href="https://github.com/briancrink/dotfiles/tree/master/.setup#forking-brians-dotfiles">Fork</a>
+  <a href="https://github.com/briancrink/dotfiles/tree/master/.setup#forking-dotfiles">Fork</a>
   <body>, review, 🚀 to ~/. </body>
 </h1>
 </html>
