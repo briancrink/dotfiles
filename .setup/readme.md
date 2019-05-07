@@ -1,8 +1,5 @@
 # Setting up a New Machine
 
-<!-- [![Screenfetch](https://i.imgur.com/oUqwcwE.png =60%x)](https://github.com/KittyKatt/screenFetch) -->
-<!-- [![Mac](https://i.imgur.com/QwgWnEt.png =27%x)](https://support.apple.com/kb/sp715?locale=en_US) -->
-
 <a href="https://github.com/KittyKatt/screenFetch">
 <img src="https://i.imgur.com/oUqwcwE.png" width="60%" height="60%">
 <a href="https://support.apple.com/kb/sp715?locale=en_US">
