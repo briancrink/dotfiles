@@ -15,7 +15,7 @@
 
 1. [Set up a New Machine](https://github.com/briancrink/dotfiles/blob/master/.setup)
 
-2. [Set up Web Workflows](https://github.com/briancrink/dotfiles/blob/master/.chrome)
+2. [Set up Web Workflows](https://github.com/briancrink/dotfiles/blob/master/.web)
 
 3. [Set up Social Feeds](https://github.com/briancrink/dotfiles/blob/master/.feed)
 
