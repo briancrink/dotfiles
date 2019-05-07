@@ -74,6 +74,22 @@
    original creator's master branch)
 10. tweet at the creator to let them know of your pull request
 
+### BFG Repo-Cleaner
+
+- [Repo](https://github.com/rtyley/bfg-repo-cleaner)
+- [Documentation](https://rtyley.github.io/bfg-repo-cleaner/)
+
+1. `brew install bfg`
+2. `pushd` into a directory outside of the project (doesn't matter, to avoid
+   mixup)
+3. `git clone --mirror git://example.com/some-big-repo.git`
+4. `bfg -b <size> <some-big-repo.git>` (size ~ 1M)
+5. `pushd <some-big-repo.git>`
+6. `git reflog expire --expire=now --all && git gc --prune=now --aggressive`
+7. `git push`
+8. pull out gitignore files from local clone, discard the old clone, pull down
+   fresh new clone
+
 ### possible improvement
 
 - use the ID of the requirement and task that was solved (as the commit message)
