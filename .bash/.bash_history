@@ -1,31 +1,3 @@
-reload
-sbrestore
-reload
-sbrestore
-clear
-reloa
-reload
-clear
-reload
-NightWatch arrow
-NightWatch legends of tomorrow
-reload
-clear
-reload
-%
-clear
-reload
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
 /usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
 /usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
 /usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
@@ -498,3 +470,31 @@ launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwall
 launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 reload
+update
+refind
+rEFInd
+sudo mkdir /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+clear
+reload
+reload
+reload
+reload
+update
+clean
+sudo mkdir /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+diskutil unmount /Volumes/EFI
+reload
+clean
+reload
+clean
+reload
+clean
+reload
+proceedClean
+reload
+proceedClean
+proceedClean
+reload
+proceedClean
