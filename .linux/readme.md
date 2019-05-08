@@ -30,6 +30,14 @@
 3. type `ubiquity --no-bootloader`
 4. proceed installing from live distro
 
+## Install Ubuntu
+
+1. https://www.maketecheasier.com/install-dual-boot-ubuntu-mac/
+2. https://medium.com/@mmiglier/ubuntu-installation-on-usb-stick-with-pure-efi-boot-mac-compatible-469ad33645c9
+3. GPT fdisk: https://sourceforge.net/projects/gptfdisk/?source=typ_redirect
+4. Etcher (Bootable USB): https://etcher.io/
+5. Swap Partition: https://askubuntu.com/questions/508870/what-is-a-swap-area
+
 ## Install Deb | Zip:
 
 1. type `cd Downloads` to navigate to file path

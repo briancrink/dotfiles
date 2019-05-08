@@ -16,6 +16,8 @@
 
 ## Building the Partition Table
 
+1. [Partition Formats](https://www.engadget.com/2011/09/19/mac-101-format-choices-for-usb-flash-drives)
+
 ![GUID](https://i.imgur.com/s9n3NsI.png)
 
 **Note:** This partition table is designed to accomodate several persistent OS's
@@ -112,6 +114,8 @@ tool for cloud storage backup.
 - [Linux](https://github.com/briancrink/dotfiles/blob/master/.linux)
 
 - [i3](https://github.com/briancrink/dotfiles/blob/master/.i3)
+
+- [rEFInd](https://github.com/briancrink/dotfiles/tree/master/.rEFInd)
 
 - [VS Code](https://github.com/briancrink/dotfiles/tree/master/.vscode)
 

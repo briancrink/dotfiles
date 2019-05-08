@@ -1,27 +1,3 @@
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/(^[1-9])
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^([1-9])
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^\[1-9]
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^\([1-9])
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^[1-9]$
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/^[1-9]
-code /Users/briancrink/.dotfiles/.chrome/.sessionbuddy/[1-9]
-relaod
-reload
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-reload
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-reload
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-reload
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-reload
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-reload
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-reload
-source ~/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy
-clear
-man cp
 code [$sbdir]\^[1-9]$
 code ["$sbdir"]\^[1-9]$
 code [$sbdir/]^[1-9]$
@@ -498,3 +474,27 @@ clear
 zipws
 popd
 clear
+brew search bfg
+brew isntall bfg
+brew install bfg
+clear
+man bfg
+bfg --help
+zipdot
+clear
+reload
+pushd $dot
+ls
+clear
+reload
+bfg --help
+clear
+reload
+popd
+clear
+reload
+Nightwatch The Flash
+NightWatch The Flash
+clear
+reload
+NightWatch The Flash
