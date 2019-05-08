@@ -344,23 +344,23 @@ CheckForFiles() {
       exit 1
    fi
 
-   if [[ -f "$RefindDir/refind.conf-sample" ]] ; then
-      ConfFile="$RefindDir/refind.conf-sample"
-   elif [[ -f "$ThisDir/refind.conf-sample" ]] ; then
-      ConfFile="$ThisDir/refind.conf-sample"
-   else
-      echo "The sample configuration file is missing! Aborting installation!"
-      exit 1
-   fi
+   # if [[ -f "$RefindDir/refind.conf-sample" ]] ; then
+   #    ConfFile="$RefindDir/refind.conf-sample"
+   # elif [[ -f "$ThisDir/refind.conf-sample" ]] ; then
+   #    ConfFile="$ThisDir/refind.conf-sample"
+   # else
+   #    echo "The sample configuration file is missing! Aborting installation!"
+   #    exit 1
+   # fi
 
-   if [[ -d "$RefindDir/icons" ]] ; then
-      IconsDir="$RefindDir/icons"
-   elif [[ -d "$ThisDir/icons" ]] ; then
-      IconsDir="$ThisDir/icons"
-   else
-      echo "The icons directory is missing! Aborting installation!"
-      exit 1
-   fi
+   # if [[ -d "$RefindDir/icons" ]] ; then
+   #    IconsDir="$RefindDir/icons"
+   # elif [[ -d "$ThisDir/icons" ]] ; then
+   #    IconsDir="$ThisDir/icons"
+   # else
+   #    echo "The icons directory is missing! Aborting installation!"
+   #    exit 1
+   # fi
 
    echo "ShimSource is $ShimSource"
    if [[ "$ShimSource" != "none" ]] ; then
