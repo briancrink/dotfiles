@@ -8,7 +8,7 @@ desktop=$HOME/Desktop # $desktop
 docs=$HOME/Documents # $icloud
 
 # # * Session Buddy
-sbdir=$dot/.chrome/.sessionbuddy # $sbdir
+sbdir=$dot/.web/.sessionbuddy # $sbdir
 gcdb=$HOME/Library/Application\ Support/Google/Chrome/Default/databases # "$gcdb"
 sbdb=$gcdb/chrome-extension_edacconmaakjimmfgnblocblbcdcpbko_0 # "$sbdb"
 
@@ -20,7 +20,7 @@ doc=$ws/Document # $doc
 scanner=$doc/Scanner # $scanner
 screenshot=$doc/Screenshot # $screenshot
 setup=$ws/Setup # $setup
-refind=$setup/Boot\ Manager/rEFInd # "$refind"
+refind=$dot/.rEFInd # $refind
 wallpaper=$setup/Wallpaper/Desktop # $wallpaper
 light=$wallpaper/Light # $light
 dark=$wallpaper/Dark # $dark

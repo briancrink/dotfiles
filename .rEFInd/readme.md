@@ -2,8 +2,9 @@
 
 ### Config
 
-1. `refind.conf`
-2. `theme.conf`
+1. [refind.conf](refind/refind.conf) or
+   [refind.conf-sample](resource/config/refind.conf-sample)
+2. [theme.conf](refind/themes/ambience/theme.conf)
 
 ### Setting up rEFInd on the Mac
 
