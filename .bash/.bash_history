@@ -1,14 +1,3 @@
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
@@ -498,3 +487,14 @@ proceedClean
 update
 reload
 diskutil unmount /Volumes/EFI
+zipdot
+zipws
+reload
+reload
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist

@@ -9,4 +9,4 @@ rsync /Library/Caches/Desktop\ Pictures/*/lockscreen.png $HOME/Library/Applicati
 rsync /Library/Caches/Desktop\ Pictures/*/lockscreen.png $HOME/.dotfiles/.rEFInd/refind/themes/ambience/background.png
 
 # macOS Mojave Filevault Background
-rsync /Library/Caches/Desktop\ Pictures/*/lockscreen.png /Library/Desktop\ Pictures/Mojave.heic
+sudo rsync /Library/Caches/Desktop\ Pictures/*/lockscreen.png /Library/Desktop\ Pictures/Mojave.heic

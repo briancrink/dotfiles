@@ -12,3 +12,6 @@ Thumbs.db
 
 # Workspace config
 *.code-workspace
+
+# refind background
+background.png
