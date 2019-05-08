@@ -1,39 +1,3 @@
-code [$sbdir]\^[1-9]$
-code ["$sbdir"]\^[1-9]$
-code [$sbdir/]^[1-9]$
-code $sbdir\[/]^[1-9]$
-code $sbdir/\^[1-9]$
-code [$sbdir/]\^[1-9]$
-code $sbdir/\b\d\b
-code $sbdir\b\d\b
-code $sbdir/^\b\d\b
-code $sbdir/(\b\d\b)
-code $sbdir/[\b\d\b]
-code $sbdir/\d
-code $sbdir/[\d]
-code $sbdir/'\d'
-code $sbdir/"\d"
-code $sbdir/['\d']
-code $sbdir/'\b\d\b'
-code $sbdir/\b[1-9]\b
-code $sbdir/'\b[1-9]\b'
-reload
-sbrestore
-reload
-sbrestore
-sbrestore
-reload
-sbrestore
-reload
-sbrestore
-reload
-sbrestore
-reload
-sbrestore
-reload
-sbrestore
-reload
-sbrestore
 reload
 sbrestore
 reload
@@ -498,3 +462,39 @@ NightWatch The Flash
 clear
 reload
 NightWatch The Flash
+sudo mkdir /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+reload
+$refind/refind-install
+reload
+sudo rEFInd
+sudo $refind/refind-install
+sudo $refind/refind-install
+diskutil unmount /Volumes/EFI
+clear
+sudo mkdir /Volumes/EFI
+sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
+diskutil unmount /Volumes/EFI
+sudo restart
+sudo reboot
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+sudo launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+sudo launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+sudo launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+NightWatch The Flash
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist

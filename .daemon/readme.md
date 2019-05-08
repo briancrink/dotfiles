@@ -10,6 +10,12 @@
 - type `launchctl load path/to/file.plist` to load plist
 - type `launchctl unload path/to/file.plist` to unload plist
 
+## Note
+
+- use `sudo` if located in root directory
+- else, ensure the file has standard user privileges
+- always use absolute path
+
 ## Reference
 
 - [Cronix](https://macupdate.com/find/mac/cronix)
