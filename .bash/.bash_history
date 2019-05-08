@@ -1,4 +1,3 @@
-sbrestore
 reload
 sbrestore
 reload
@@ -498,3 +497,4 @@ launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallp
 launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+reload

@@ -344,14 +344,14 @@ CheckForFiles() {
       exit 1
    fi
 
-   # if [[ -f "$RefindDir/refind.conf-sample" ]] ; then
-   #    ConfFile="$RefindDir/refind.conf-sample"
-   # elif [[ -f "$ThisDir/refind.conf-sample" ]] ; then
-   #    ConfFile="$ThisDir/refind.conf-sample"
-   # else
-   #    echo "The sample configuration file is missing! Aborting installation!"
-   #    exit 1
-   # fi
+   if [[ -f "$RefindDir/refind.conf" ]] ; then
+      ConfFile="$RefindDir/refind.conf"
+   elif [[ -f "$ThisDir/refind.conf" ]] ; then
+      ConfFile="$ThisDir/refind.conf"
+   else
+      echo "The configuration file is missing! Aborting installation!"
+      exit 1
+   fi
 
    # if [[ -d "$RefindDir/icons" ]] ; then
    #    IconsDir="$RefindDir/icons"
@@ -361,6 +361,15 @@ CheckForFiles() {
    #    echo "The icons directory is missing! Aborting installation!"
    #    exit 1
    # fi
+
+   if [[ -d "$RefindDir/themes" ]] ; then
+      ThemesDir="$RefindDir/themes"
+   elif [[ -d "$ThisDir/themes" ]] ; then
+      ThemesDir="$ThisDir/themes"
+   else
+      echo "The themes directory is missing! Aborting installation!"
+      exit 1
+   fi
 
    echo "ShimSource is $ShimSource"
    if [[ "$ShimSource" != "none" ]] ; then
@@ -707,12 +716,13 @@ CopyRefindFiles() {
    fi
    echo "Copied rEFInd binary files"
    echo ""
-   if [[ -d "$InstallDir/$TargetDir/icons" ]] ; then
-      rm -rf "$InstallDir/$TargetDir/icons-backup" &> /dev/null
-      mv -f "$InstallDir/$TargetDir/icons" "$InstallDir/$TargetDir/icons-backup"
-      echo "Notice: Backed up existing icons directory as icons-backup."
+   if [[ -d "$InstallDir/$TargetDir/themes" ]] ; then
+      rm -rf "$InstallDir/$TargetDir/themes" &> /dev/null
+      # mv -f "$InstallDir/$TargetDir/themes" "$InstallDir/$TargetDir/icons-backup"
+      # echo "Notice: Backed up existing icons directory as icons-backup."
    fi
-   cp -r "$IconsDir" "$InstallDir/$TargetDir"
+   # cp -r "$IconsDir" "$InstallDir/$TargetDir"
+   cp -r "$ThemesDir" "$InstallDir/$TargetDir"
    if [[ $? != 0 ]] ; then
       Problems=1
    fi
@@ -720,17 +730,13 @@ CopyRefindFiles() {
    cp -rf "$ThisDir"/keys/*.[cd]er "$InstallDir/$TargetDir/keys/" 2> /dev/null
    cp -rf "$EtcKeysDir"/*.[cd]er "$InstallDir/$TargetDir/keys/" 2> /dev/null
    if [[ -f "$InstallDir/$TargetDir/refind.conf" ]] ; then
-      echo "Existing refind.conf file found; copying sample file as refind.conf-sample"
-      echo "to avoid overwriting your customizations."
-      echo ""
+      echo "Existing refind.conf file found; overwriting your customizations."
       cp -f "$ConfFile" "$InstallDir/$TargetDir"
       if [[ $? != 0 ]] ; then
          Problems=1
       fi
    else
-      echo "Copying sample configuration file as refind.conf; edit this file to configure"
-      echo "rEFInd."
-      echo ""
+      echo "Copying refind.conf; edit this file to configure"
       cp -f "$ConfFile" "$InstallDir/$TargetDir/refind.conf"
       if [[ $? != 0 ]] ; then
          Problems=1

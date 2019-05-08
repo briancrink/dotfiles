@@ -3,6 +3,4 @@
 sudo mkdir /Volumes/EFI
 sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
 $refind/refind-install
-rm -rf /Volumes/EFI/EFI/refind/icons-backup
-rm -rf /Volumes/EFI/EFI/refind/refind.conf-sample
 diskutil unmount /Volumes/EFI
