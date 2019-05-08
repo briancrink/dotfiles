@@ -1,7 +1,9 @@
 #! /usr/local/bin/bash
 
 # # * rsync [options] [source] [destination]
-# rsync -v /Library/Caches/Desktop\ Pictures/D3ED9374-7127-4EA4-9D2A-BFDAC1D15A50/lockscreen.png ~/Library/Application\ Support/Google/Chrome/Default/background.jpg
+
+# Google Chrome New Tab Background
 rsync /Library/Caches/Desktop\ Pictures/*/lockscreen.png $HOME/Library/Application\ Support/Google/Chrome/Default/background.jpg
 
+# rEFInd Boot Manager Background
 rsync /Library/Caches/Desktop\ Pictures/*/lockscreen.png $HOME/.dotfiles/.rEFInd/refind/themes/ambience/background.png
