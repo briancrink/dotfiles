@@ -1,29 +1,4 @@
 /usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-/usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
 /usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
 /usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
 /usr/bin/env bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
@@ -498,3 +473,28 @@ proceedClean
 proceedClean
 reload
 proceedClean
+proceedClean
+reload
+proceedClean
+proceedClean
+reload
+proceedClean
+reload
+proceedClean
+reload
+proceedClean
+reload
+proceedClean
+reload
+proceedClean
+reload
+proceedClean
+reload
+proceedClean
+proceedClean
+proceedClean
+reload
+proceedClean
+update
+reload
+diskutil unmount /Volumes/EFI
