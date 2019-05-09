@@ -74,10 +74,27 @@
    original creator's master branch)
 10. tweet at the creator to let them know of your pull request
 
-### BFG Repo-Cleaner
+### [Github User Page](https://pages.github.com/)
 
-- [Repo](https://github.com/rtyley/bfg-repo-cleaner)
-- [Documentation](https://rtyley.github.io/bfg-repo-cleaner/)
+1. Create a new repository or add to an existing
+2. (Re)name repository <username>.github.io
+3. Create a new `index.htm` file
+4. Type `git add --all`
+5. Type `git commit -m "initial commit"`
+6. Type `git push -u origin master`
+7. Fire up a browser and go to https://username.github.io/
+
+### [Github Project Page](https://pages.github.com/)
+
+1. Create a new repository or add to an existing
+2. Create a new `index.htm` file
+3. Navigate to the repo settings on github.com
+4. Under Github pages, select the `master branch` as source
+5. Fire up a browser and go to https://username.github.io/repository
+
+### [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+
+[Repo](https://github.com/rtyley/bfg-repo-cleaner)
 
 1. `brew install bfg`
 2. `pushd` into a directory outside of the project (doesn't matter, to avoid
