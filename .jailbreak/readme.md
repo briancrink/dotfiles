@@ -2,9 +2,18 @@
 
 Last Updated April 19, 2019
 
+## Details
+
+- iPhone Model: iPhone X (GSM) 64gb (10,3) A11 Chip
+- Current Version: **12.1.1 (16C50) stable**
+- Signing?: **No**
+- Profile: [iOS 12 Beta Software Profile](https://betaprofiles.com/) **removed**
+- Jailbroken State: **Semi-Untethered**
+- Siri-Shortcut or Desktop Sideloading?: **Both**
+
 ## Installation
 
-1. **[Can I Jailbreak?](https://canijailbreak.com/)**
+1. **[Can I Jailbreak?](https://caniajailbreak.com/)**
 2. **Backup.** (iCloud or Deskop)
 3. **[Save SHSH Blobs](https://www.youtube.com/watch?v=8BxxLrp6ID4)**:
    [A5-A11](https://tsssaver.1conan.com/)
@@ -95,6 +104,12 @@ Last Updated April 19, 2019
 - [Tweak Compatible](https://jlippold.github.io/tweakCompatible/)
 - [Compatibility List](https://docs.google.com/spreadsheets/d/1oy6jGZLrojp2BZIUZnguZv57Dcl3XK2Tl7NtU7ied4M/htmlview?usp=sharing&sle=true)
 - [Full List: iOS updated](https://www.reddit.com/r/jailbreak/comments/atqc2e/discussion_now_that_there_is_a_full_ios_12/)
+
+### Wishlist
+
+- Bluetooth Renamer
+- Alt Swipe Gesture for Control Center
+- Playback Controls for Podcast.app Video Player
 
 ### Favorite Tweaks
 
