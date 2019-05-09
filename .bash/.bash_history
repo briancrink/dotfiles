@@ -1,38 +1,6 @@
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
  /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
@@ -498,3 +466,35 @@ launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallp
 launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
 launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
+ls
+ls -la
+code .alias
+code .update
+code .backup
+reload
+%
+%
+pushd $workflow/portfolio
+pushd $workflow/Portfolio
+pushd $wf/Portfolio
+ls
+git clone https://github.com/briancrink/briancrink.github.io.git
+ls
+cd briancrink.github.io
+echo "Hello World" > index.html
+git add --all
+git commit -m "initial commit"
+git push -u origin master
+gem install jekyll bundler
+popd
+popd
+gem install jekyll bundler
+sudo gem install jekyll bundler
+jekyll new myblog
+pushd myblog
+bundle exec jekyll serve
+bundle exec jekyll serve
+reload
+bundle exec jekyll serve
+bundle
+reload

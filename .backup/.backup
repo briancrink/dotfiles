@@ -6,7 +6,7 @@ fileicon get -f $screenshot $dot/.icns/screenshot
 fileicon get -f $ws $dot/.icns/workspace
 
 # # * Brewfile
-bundle
+brewbun
 
 # # * VS Code
 # install "Settings Sync" extension in vscode marketplace
