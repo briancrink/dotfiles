@@ -1,0 +1,14 @@
+{
+Word
+  > https://host.domain
+    1. Definition
+    2. Alt-Definition
+  > https://host.domain
+    1. Definition
+    2. Alt-Definition
+  Synonym: Word1, Word2
+  Antonym: Word3, Word4
+  # Tag1, Tag2
+}
+
+{Word\n[ ][ ]>[ ]https://host.domain\n[ ][ ][ ][ ][1-9].[ ]Definition\n[ ][ ][ ][ ][1-9].[ ]Definition\n[ ][ ]Synonym:[ ]Word1,[ ]Word2\n[ ][ ]Antonym:[ ]Word3,[ ]Word4\n[ ][ ]#[ ]Tag1,[ ]Tag2\n}

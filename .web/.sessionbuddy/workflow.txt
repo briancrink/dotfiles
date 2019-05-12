@@ -253,6 +253,9 @@ iOS Development
       SHSH Blobs
       https://tsssaver.1conan.com/
 
+      iPhone X 12.1.1 | SHSH Blobs
+      https://tsssaver.1conan.com/shsh/8467893369307182
+      
       Cydia Impactor
       https://cydiaimpactor.com/
 
@@ -376,6 +379,14 @@ Software Development
 
       Gifify
       https://github.com/jclem/gifify
+
+   Open Source
+
+      Open Source Project | Google
+      https://opensource.google.com/
+
+      Open Source Documentation | Google
+      https://opensource.google.com/docs/
 
    Software Development
 
@@ -597,6 +608,11 @@ Software Development
 
       The Floating Point Guide
       https://floating-point-gui.de/
+
+   Signal Processing
+
+      Linear Quantization v. Non-Linear Quantization
+      https://stackoverflow.com/questions/5321929/what-is-the-difference-between-linear-quantization-and-non-linear-quantization
 
 Web Development
 

@@ -1,3 +1,9 @@
+## Trello Json to markdown
+
+1. "name": "(.*\*(.*))\",
+
+2. $1
+
 ## Remove Duplicates
 
 1. select all

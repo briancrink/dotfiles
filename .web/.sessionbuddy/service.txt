@@ -1286,6 +1286,9 @@ Productivity
       Grammarly
       https://grammarly.com/
 
+      Capitalize my Title
+      https://capitalizemytitle.com/
+
       Google Docs
       https://google.com/docs
 
