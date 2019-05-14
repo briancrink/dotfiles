@@ -694,6 +694,23 @@ AccessEdu
       Open AccessEdu | Github
       https://github.com/briancrink/accessedu
 
+   Curriculum Studies
+
+      Open Curriculum: What and Why
+      https://www.jstor.org/stable/3423133?seq=1#page_scan_tab_contents
+
+      An Approach to the Core Curriculum
+      https://www.jstor.org/stable/25702445?seq=1#page_scan_tab_contents
+
+      Curriculum Development
+      https://files.eric.ed.gov/fulltext/ED471740.pdf
+      
+      Encyclopedia of Curriculum Studies
+      https://books.google.com/books?id=MQFzAwAAQBAJ&pg=PA623&lpg=PA623&dq=open+curriculum&source=bl&ots=D7uHPJ7Qg5&sig=ACfU3U1eRIqlMRlm6rJ40mCwKNOZOlKmbw&hl=en&sa=X&ved=2ahUKEwiImJOI0JviAhVLXq0KHeSuA0c4ZBDoATAJegQICRAB#v=onepage&q=open%20curriculum&f=false
+
+      Curriculum Reform in the Nation’s Largest School Districts
+      https://www.americanprogress.org/issues/education-k-12/reports/2018/08/29/454705/curriculum-reform-nations-largest-school-districts/
+
    Paradigms
 
       College is Dying, Design Your Own Education | Hackernoon
@@ -719,7 +736,10 @@ AccessEdu
       Rufus Pollock | Founder of Open Knowledge
       https://rufuspollock.com/
 
-   Data Collection | Assessment
+      OER | YouTube
+      https://www.youtube.com/playlist?list=PLNoVefpaPtVMH0v2sOONT3uPArh47sq8r
+
+   Data Collection
 
       Examples of Quantitative Data
       https://examples.yourdictionary.com/examples-of-quantitative.html
@@ -763,7 +783,13 @@ AccessEdu
       Non-Invasive Data Collection Query | Google
       https://google.com/search?q=non+invasive+data+collection+qualititive&oq=non+invasive+data+collection+qualititive&aqs=chrome..69i57.10871j0j1&sourceid=chrome&ie=UTF-8
 
-   Futurology: Work
+   Futurology
+
+      Future of Learning Documentaries
+      https://www.diygenius.com/documentaries-on-the-future-of-education/
+
+      Why the Future of Education is Unschooling
+      https://www.diygenius.com/unschooling-is-21st-century-education/
 
       The Future Of Work Is Human: Why The Future Is About People, Not Tech | Forbes
       https://forbes.com/sites/forbestechcouncil/2018/08/10/the-future-of-work-is-human-why-the-future-is-about-people-not-tech/#345557a6224c
@@ -936,6 +962,9 @@ AccessEdu
 
       Ranking Universities on Excellent Teaching Will be Better for Everyone
       https://theconversation.com/ranking-universities-on-excellent-teaching-will-be-better-for-everyone-44256
+
+      Teaching Methods
+      https://teach.com/what/teachers-know/teaching-methods/
 
       Pragmatic Approach as a Problem Solving Framework
       https://researchgate.net/publication/228604840_Pragmatic_Approach_as_a_Problem_Solving_Framework
