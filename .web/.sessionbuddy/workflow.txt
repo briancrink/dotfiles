@@ -495,6 +495,12 @@ Software Development
       Youtube
       https://youtube.com/watch?v=D4auWwMsEnY
 
+      Pie D3 Chart
+      https://beta.observablehq.com/@mbostock/d3-pie-chart
+
+      Iterating over Hashes
+      https://launchschool.com/books/ruby/read/hashes#iteratingoverhashes
+
       Leetcode
       https://leetcode.com/
 
@@ -754,6 +760,9 @@ AccessEdu
       Workday Student | Youtube
       https://youtube.com/watch?time_continue=120&v=f5tSWJKMg9k
 
+      Non-Invasive Data Collection Query | Google
+      https://google.com/search?q=non+invasive+data+collection+qualititive&oq=non+invasive+data+collection+qualititive&aqs=chrome..69i57.10871j0j1&sourceid=chrome&ie=UTF-8
+
    Futurology: Work
 
       The Future Of Work Is Human: Why The Future Is About People, Not Tech | Forbes
@@ -780,9 +789,6 @@ AccessEdu
       Why Humans Will Remain Central to the Future of Work | We Forum
       https://weforum.org/agenda/2019/01/why-humans-will-remain-central-to-the-future-of-work/
 
-      Non-Invasive Data Collection Query | Google
-      https://google.com/search?q=non+invasive+data+collection+qualititive&oq=non+invasive+data+collection+qualititive&aqs=chrome..69i57.10871j0j1&sourceid=chrome&ie=UTF-8
-
       The Future of Human Work Query | Google
       https://google.com/search?q=future+human+work&oq=future+human+work&aqs=chrome..69i57.3888j0j1&sourceid=chrome&ie=UTF-8
 
@@ -792,86 +798,8 @@ AccessEdu
       The Resume of the Future
       https://qz.com/work/1232692/the-resume-of-the-future/
 
-      Reddit
-      https://reddit.com/r/learnprogramming/comments/7rdlzf/how_is_online_game_matchmaking_done_from_a/
-
-      Reddit
-      https://reddit.com/r/compsci/comments/b0vxe9/matchmaking_algorithm_resources/
-
-      Youtube
-      https://youtube.com/watch?v=RE5PmdGNgj0
-
-      Youtube
-      https://youtube.com/watch?v=GazC3A4OQTE
-
-      Youtube
-      https://youtube.com/watch?v=0m_YW1zVs-Q
-
-      Google
-      https://google.com/search?q=n%3Dn%2B1+while+n%3Ct&oq=n%3Dn%2B1+while+n%3Ct&aqs=chrome..69i57.17987j0j1&sourceid=chrome&ie=UTF-8
-
-      Google
-      https://google.com/search?q=n%3Dn%2B1+math+expression&oq=n%3Dn%2B1+math+expression&aqs=chrome..69i57.11897j0j1&sourceid=chrome&ie=UTF-8
-
-      Columbia
-      https://columbia.edu/itc/sipa/math/summation.html
-
-      Google
-      https://google.com/search?newwindow=1&ei=8_GKXIuzBMu4sgWSxYzAAQ&q=stable+marriage+best+case&oq=stable+marriage+best+case&gs_l=psy-ab.3..33i160.893893.895198..895553...0.0..0.112.862.6j3......0....1..gws-wiz.......0i71j0i22i30j33i299j33i22i29i30.cVuE4HTGi60
-
-      Cs
-      https://cs.cmu.edu/afs/cs.cmu.edu/academic/class/15251-f10/Site/Materials/Lectures/Lecture21/lecture21.pdf
-
-      Jstor
-      https://jstor.org/stable/3009273?seq=1#page_scan_tab_contents
-
-      Cs
-      https://cs.princeton.edu/~wayne/cs423/lectures/intro-marriage-4up.pdf
-
-      Google
-      https://google.com/search?q=quantifying+data+example&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMjfrs_YLhAhUN2qwKHbbjCi8Q_AUIDigB&biw=1440&bih=820#imgrc=r7btEjhFB6J8QM:
-
-      Questionpro
-      https://questionpro.com/blog/quantitative-data/
-
-      Google
-      https://google.com/search?q=data+collection+methods&oq=data+collection+methods&aqs=chrome..69i57.3585j0j1&sourceid=chrome&ie=UTF-8
-
-      Research-methodology
-      https://research-methodology.net/research-methods/data-collection/
-
-      Google
-      https://google.com/search?newwindow=1&ei=oSyLXOSYHMfMjgT3uqnYBQ&q=do+hash+values+maintain+weight&oq=do+hash+values+maintain+&gs_l=psy-ab.1.0.33i299l2.36739.46025..48118...4.0..0.118.2566.21j7......0....1..gws-wiz.......0i71j35i39j0i131j0i67j0j0i10j0i20i263j0i22i30j0i22i10i30j0i13i5i30j0i8i13i30j0i8i13i10i30j33i22i29i30.RCxJDnJVolw
-
-      Artofmanliness
-      https://artofmanliness.com/articles/podcast-490-can-you-learn-to-be-lucky/
-
-      Google
-      https://google.com/search?q=37%25+rule&oq=37%25+rule&aqs=chrome..69i57.4710j0j1&sourceid=chrome&ie=UTF-8
-
-      Strategic dating: The 37% rule
-      https://plus.maths.org/content/mathematical-dating
-
-      A Dive Into The Mathematics Of Tinder | Youtube
-      https://youtube.com/watch?v=lddOBxOOv_8
-
-      Dating Algorithm | Youtube Query
-      https://youtube.com/results?search_query=dating+algorithm
-
-      Online Dating 101: Revealing how dating sites work | Youtube
-      https://youtube.com/watch?v=VQYBEWqQYNA
-
-      Google
-      https://google.com/search?newwindow=1&biw=1440&bih=820&ei=0d-JXJjCHZLljwTGv6aoBg&q=software+matchmaking+algorithm&oq=software+matchmaking+algorithm&gs_l=psy-ab.3...28923.28923..29488...0.0..0.161.161.0j1......0....1..gws-wiz.......0i71.ST92aMhdftQ
-
       Simple Web Server Setup | Gist
       https://gist.github.com/jgravois/5e73b56fa7756fd00b89
-
-      Pie D3 Chart
-      https://beta.observablehq.com/@mbostock/d3-pie-chart
-
-      Iterating over Hashes
-      https://launchschool.com/books/ruby/read/hashes#iteratingoverhashes
 
    Hiring Process
 
@@ -937,6 +865,60 @@ AccessEdu
 
       How a Matchmaking AI Conquered (and Was Exiled) from Tinder
       https://motherboard.vice.com/en_us/article/8x5vqx/how-a-matchmaking-ai-conquered-and-was-exiled-from-tinder
+
+      Quantifying Data Example | Google Query
+      https://google.com/search?q=quantifying+data+example&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMjfrs_YLhAhUN2qwKHbbjCi8Q_AUIDigB&biw=1440&bih=820#imgrc=r7btEjhFB6J8QM:
+
+      Quantitative Data Types
+      https://questionpro.com/blog/quantitative-data/
+
+      Data Collection Methods | Google Query
+      https://google.com/search?q=data+collection+methods&oq=data+collection+methods&aqs=chrome..69i57.3585j0j1&sourceid=chrome&ie=UTF-8
+
+      Data Collection Methods
+      https://research-methodology.net/research-methods/data-collection/
+
+      37% Rule | Google Query
+      https://google.com/search?q=37%25+rule&oq=37%25+rule&aqs=chrome..69i57.4710j0j1&sourceid=chrome&ie=UTF-8
+
+      Strategic dating: The 37% rule
+      https://plus.maths.org/content/mathematical-dating
+
+      A Dive Into The Mathematics Of Tinder | Youtube
+      https://youtube.com/watch?v=lddOBxOOv_8
+
+      How is online game matchmaking done from a programming perspective? Specifically, what CS algorithms are used match players together? | Reddit
+      https://reddit.com/r/learnprogramming/comments/7rdlzf/how_is_online_game_matchmaking_done_from_a/
+
+      Matchmaking Algorithm Resources? | Reddit
+      https://reddit.com/r/compsci/comments/b0vxe9/matchmaking_algorithm_resources/
+
+      Stable Matching | Youtube
+      https://youtube.com/watch?v=RE5PmdGNgj0
+
+      Dijkstra's Algorithm - Computerphile | Youtube
+      https://youtube.com/watch?v=GazC3A4OQTE
+
+      Gale-Shapley Algorithm | Youtube
+      https://youtube.com/watch?v=0m_YW1zVs-Q
+
+      Dating Algorithm | Youtube Query
+      https://youtube.com/results?search_query=dating+algorithm
+
+      Online Dating 101: Revealing how dating sites work | Youtube
+      https://youtube.com/watch?v=VQYBEWqQYNA
+
+      Stable Marriage Best Case | Google Query
+      https://google.com/search?newwindow=1&ei=8_GKXIuzBMu4sgWSxYzAAQ&q=stable+marriage+best+case&oq=stable+marriage+best+case&gs_l=psy-ab.3..33i160.893893.895198..895553...0.0..0.112.862.6j3......0....1..gws-wiz.......0i71j0i22i30j33i299j33i22i29i30.cVuE4HTGi60
+
+      The Stable Marriage Problem
+      https://cs.cmu.edu/afs/cs.cmu.edu/academic/class/15251-f10/Site/Materials/Lectures/Lecture21/lecture21.pdf
+
+      The Upper Bound for the Stable Marriage Problem
+      https://jstor.org/stable/3009273?seq=1#page_scan_tab_contents
+
+      Software Matchmaking Algorithm | Google Query
+      https://google.com/search?newwindow=1&biw=1440&bih=820&ei=0d-JXJjCHZLljwTGv6aoBg&q=software+matchmaking+algorithm&oq=software+matchmaking+algorithm&gs_l=psy-ab.3...28923.28923..29488...0.0..0.161.161.0j1......0....1..gws-wiz.......0i71.ST92aMhdftQ
 
    Learning Theory
 
