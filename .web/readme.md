@@ -57,6 +57,10 @@
 6. Type in a search query
 7. Press <kbd>Enter</kbd>
 
+### YouTube Advanced Search
+
+1. [Advanced Search](https://tubularinsights.com/advanced-youtube-search-tips/)
+
 | Title          | Keyword | URL                                                                                                                                                                                                                                                          |
 | -------------- | ------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Google         | g       | `{google:baseURL}search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}` |

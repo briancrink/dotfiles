@@ -23,6 +23,18 @@ alias brewbun='brew bundle dump --force --file='$dot'/.brew/.Brewfile'
 # # * Chrome New Tab Background
 alias newtab='source '$dot'/.chrome/.default/.rsyncwallpaper.sh'
 
+# # * Edit File in VS Code
+alias calias='code '$HOME'/.alias'
+alias cdict='code '$dot'/.dictionary/.dictionary'
+alias cvar='code '$HOME'/.variable'
+alias ckey='code '$dot'/.setup/readme.md'
+alias c0='code '$sbdir/'session\ buddy.code-workspace'
+alias c1='code '$sbdir/'index.txt'
+alias c3='code '$sbdir/'concept.txt'
+alias c2='code '$sbdir/'workflow.txt'
+alias c4='code '$sbdir/'service.txt'
+
+
 # # * Dotfile Scripts
 alias clean='source ~/.clean'
 alias macos='source ~/.macos'

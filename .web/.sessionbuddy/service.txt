@@ -1542,6 +1542,9 @@ Professional
       Computer Science Curriculum
       https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing&sle=true#
 
+      App Academy
+      https://www.appacademy.io/
+
    Event
 
       Blackhat
@@ -1763,6 +1766,9 @@ Professional
 
       YCombinator
       https://ycombinator.com/
+
+      Techstars
+      https://techstars.com/
 
    Residence
 

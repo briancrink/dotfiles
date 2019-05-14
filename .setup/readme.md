@@ -181,6 +181,10 @@ tool for cloud storage backup.
 - press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>D</kbd> to **go to**
   **Desktop directory in Finder**
 
+### Chrome
+
+- press <kbd>⌘ Command</kbd>+<kbd>R</kbd> to **reload page**
+
 ### Photoshop
 
 - press <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>

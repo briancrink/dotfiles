@@ -685,86 +685,118 @@ AccessEdu
 
    AccessEdu
 
-      Hackernoon
+      Open AccessEdu | Github
+      https://github.com/briancrink/accessedu
+
+   Paradigms
+
+      College is Dying, Design Your Own Education | Hackernoon
       https://hackernoon.com/college-is-dying-design-your-own-education-830dd607dad7
 
-      Reddit
+      Students Don’t Know What’s Best For Their Own Learning
+      https://theconversation.com/students-dont-know-whats-best-for-their-own-learning-33835
+
+   Knowledge Systems
+
+      Inrupt
+      https://inrupt.com/
+
+      Solid: How it Works | Inrupt
+      https://solid.inrupt.com/how-it-works
+
+      We Fund the Research – It Should be Free | Reddit
       https://reddit.com/r/technology/comments/9fgun1/scientific_publishing_is_a_ripoff_we_fund_the/
 
-      Scopestories
-      https://scopestories.wordpress.com/2017/12/06/flame-qualitative-data-collection/
+      The Open Revolution
+      https://openrevolution.net/
 
-      Nature
+      Rufus Pollock | Founder of Open Knowledge
+      https://rufuspollock.com/
+
+   Data Collection | Assessment
+
+      Examples of Quantitative Data
+      https://examples.yourdictionary.com/examples-of-quantitative.html
+
+      What Metrics Don’t Tell us About the Way Students Learn
+      https://theconversation.com/what-metrics-dont-tell-us-about-the-way-students-learn-59271
+
+      Methods of Data Collection in Qualitative Research | Nature
       https://nature.com/articles/bdj.2008.192
 
-      Ncbi
+      Qualitative Data Collection | Scopestories
+      https://scopestories.wordpress.com/2017/12/06/flame-qualitative-data-collection/
+
+      Qualitative Research: Data Collection, Analysis, and Management | Ncbi
       https://ncbi.nlm.nih.gov/pmc/articles/PMC4485510/
 
-      Psycnet
+      Case Study Research in Education: A Qualitative approach | Psycnet
       https://psycnet.apa.org/record/1989-97006-000
 
-      Youtube
+      Data Collection Techniques Query | Youtube
       https://youtube.com/results?search_query=qualitative+data+collection+techniques+
 
-      Rand
+      Data Collection: Semi-Structured Focus Groups | Rand
       https://rand.org/content/dam/rand/pubs/technical_reports/2009/RAND_TR718.pdf
 
-      Emgo
-      https://emgo.nl/kc/qual-data-collection/
+      Data Sources for Best Practices Dashboard Metrics | MI School Data
+      https://mischooldata.org/DistrictSchoolProfiles2/reportcard/data_documentation_final_v1.pdf
 
-      Forbes
+      Data Collected about Student Behaviour Doesn’t Help Improve Teaching or Learning
+      https://theconversation.com/data-collected-about-student-behaviour-doesnt-help-improve-teaching-or-learning-57793
+
+      Should all University Lectures be Automatically Recorded?
+      https://theconversation.com/should-all-university-lectures-be-automatically-recorded-39158
+
+      Workday Prism Analytics
+      https://workday.com/content/dam/web/en-us/documents/datasheets/datasheet-workday-prism-analytics.pdf
+
+      Workday Student | Youtube
+      https://youtube.com/watch?time_continue=120&v=f5tSWJKMg9k
+
+   Futurology: Work
+
+      The Future Of Work Is Human: Why The Future Is About People, Not Tech | Forbes
       https://forbes.com/sites/forbestechcouncil/2018/08/10/the-future-of-work-is-human-why-the-future-is-about-people-not-tech/#345557a6224c
 
-      Nsf
+      Future of Work at the Human-Technology Frontier NSF
       https://nsf.gov/funding/pgm_summ.jsp?pims_id=505620
 
-      Nsf
+      Future of Work at the Human - Technology Frontier | NSF
       https://nsf.gov/pubs/2018/nsf18548/nsf18548.htm
 
-      Rolandberger
+      The Future of Work is Matter of Being Human | Rolandberger
       https://rolandberger.com/en/Point-of-View/The-future-of-work-is-a-matter-of-being-human.html
 
-      Vox
+      Automation is Making Human Labor More Valuable Than Ever | Vox
       https://vox.com/a/new-economy-future/manual-labor-luxury-good
 
-      Hbr
+      The Future of Human Work Is Imagination, Creativity, and Strategy | HBR
       https://hbr.org/2018/01/the-future-of-human-work-is-imagination-creativity-and-strategy
 
-      Humanfutureofwork
+      Human Future of Work
       https://humanfutureofwork.ca/
 
-      Humanfutureofwork
-      https://humanfutureofwork.ca/services
-
-      Weforum
+      Why Humans Will Remain Central to the Future of Work | We Forum
       https://weforum.org/agenda/2019/01/why-humans-will-remain-central-to-the-future-of-work/
 
-      Google
+      Non-Invasive Data Collection Query | Google
       https://google.com/search?q=non+invasive+data+collection+qualititive&oq=non+invasive+data+collection+qualititive&aqs=chrome..69i57.10871j0j1&sourceid=chrome&ie=UTF-8
 
-      Google
+      The Future of Human Work Query | Google
       https://google.com/search?q=future+human+work&oq=future+human+work&aqs=chrome..69i57.3888j0j1&sourceid=chrome&ie=UTF-8
 
-      Qz
-      https://qz.com/work/1098756/the-next-harvey-weinstein-could-be-stopped-by-the-theories-of-nobel-prize-winning-economist-richard-thaler/
+      The Digital Future of Work: What Skills Will be Needed | Mckinsey
+      https://mckinsey.com/featured-insights/future-of-work/the-digital-future-of-work-what-skills-will-be-needed
 
-      Leetcode
-      https://leetcode.com/problems/first-bad-version/discuss/71378/SImple-binary-search-solution-o(log-n)
-
-      Hackerrank
-      https://hackerrank.com/challenges/task-scheduling/topics
-
-      Google
-      https://google.com/search?q=pass+by+reference&newwindow=1&tbm=isch&source=iu&ictx=1&fir=XX8MdA87Ic5-_M%253A%252CqzW65a2sJjSbSM%252C_&vet=1&usg=AI4_-kQdahHyBwWHwl7mf9YeLWalkiIhHw&sa=X&ved=2ahUKEwiv-O7Fnp7hAhWB8YMKHQxrC-EQ9QEwAHoECAwQCA#imgdii=2z2Md3b9WIB4NM:&imgrc=Ib6q6d-6-FKtvM:&vet=1
+      The Resume of the Future
+      https://qz.com/work/1232692/the-resume-of-the-future/
 
       Reddit
       https://reddit.com/r/learnprogramming/comments/7rdlzf/how_is_online_game_matchmaking_done_from_a/
 
       Reddit
       https://reddit.com/r/compsci/comments/b0vxe9/matchmaking_algorithm_resources/
-
-      Dash
-      https://dash.harvard.edu/bitstream/handle/1/2562765/Roth_NYC.pdf?sequence=2
 
       Youtube
       https://youtube.com/watch?v=RE5PmdGNgj0
@@ -811,229 +843,130 @@ AccessEdu
       Google
       https://google.com/search?newwindow=1&ei=oSyLXOSYHMfMjgT3uqnYBQ&q=do+hash+values+maintain+weight&oq=do+hash+values+maintain+&gs_l=psy-ab.1.0.33i299l2.36739.46025..48118...4.0..0.118.2566.21j7......0....1..gws-wiz.......0i71j35i39j0i131j0i67j0j0i10j0i20i263j0i22i30j0i22i10i30j0i13i5i30j0i8i13i30j0i8i13i10i30j33i22i29i30.RCxJDnJVolw
 
-      Launchschool
-      https://launchschool.com/books/ruby/read/hashes#iteratingoverhashes
-
-      Examples
-      https://examples.yourdictionary.com/examples-of-quantitative.html
-
-      Loc
-      https://loc.gov/pictures/collection/hh/
-
-      Kstarr
-      https://kstarr.com/references/
-
       Artofmanliness
       https://artofmanliness.com/articles/podcast-490-can-you-learn-to-be-lucky/
 
       Google
       https://google.com/search?q=37%25+rule&oq=37%25+rule&aqs=chrome..69i57.4710j0j1&sourceid=chrome&ie=UTF-8
 
-      Medium
-      https://medium.com/moments-of-passion/gush-the-comprehensive-guide-to-female-squirting-f295e4594d51
-
-      Plus
+      Strategic dating: The 37% rule
       https://plus.maths.org/content/mathematical-dating
 
-      Fs
-      https://fs.blog/2017/10/veil-ignorance/
-
-      Youtube
+      A Dive Into The Mathematics Of Tinder | Youtube
       https://youtube.com/watch?v=lddOBxOOv_8
 
-      Youtube
+      Dating Algorithm | Youtube Query
       https://youtube.com/results?search_query=dating+algorithm
 
-      Youtube
+      Online Dating 101: Revealing how dating sites work | Youtube
       https://youtube.com/watch?v=VQYBEWqQYNA
-
-      Bernsteinbear
-      https://bernsteinbear.com/blog/understanding-the-100-prisoners-problem/
 
       Google
       https://google.com/search?newwindow=1&biw=1440&bih=820&ei=0d-JXJjCHZLljwTGv6aoBg&q=software+matchmaking+algorithm&oq=software+matchmaking+algorithm&gs_l=psy-ab.3...28923.28923..29488...0.0..0.161.161.0j1......0....1..gws-wiz.......0i71.ST92aMhdftQ
 
-      Basicthinking
-      https://basicthinking.com/tinder-algorithm/
+      Simple Web Server Setup | Gist
+      https://gist.github.com/jgravois/5e73b56fa7756fd00b89
 
-      Motherboard
-      https://motherboard.vice.com/en_us/article/8x5vqx/how-a-matchmaking-ai-conquered-and-was-exiled-from-tinder
+      Pie D3 Chart
+      https://beta.observablehq.com/@mbostock/d3-pie-chart
 
-      Analyticsindiamag
-      https://analyticsindiamag.com/ai-dating-apps-machine-learning-comes-rescue-dating-apps/
+      Iterating over Hashes
+      https://launchschool.com/books/ruby/read/hashes#iteratingoverhashes
 
-      Sajari
-      https://sajari.com/match
+   Hiring Process
 
-      Nrmp
-      https://nrmp.org/matching-algorithm/
-
-      Pubnub
-      https://pubnub.com/blog/2014-07-31-skill-based-matchmaking-multiplayer-games-tutorial/
-
-      Neoteric
-      https://neoteric.eu/blog/tinder-algorithms-how-the-matchmaking-happens/
-
-      Github
-      https://github.com/topics/matchmaking
-
-      Hackernoon
-      https://hackernoon.com/how-to-build-a-dating-application-55d5ca0c8f5c
-
-      Applikeysolutions
-      https://applikeysolutions.com/blog/6-guidelines-for-successful-dating-app-development
-
-      Onlinelibrary
-      https://onlinelibrary.wiley.com/doi/epdf/10.1002/dir.20106?referrer_access_token=sMJEk4geqlclhk-1PmQPj04keas67K9QMdWULTWMo8PCEYKfuiM6ibbs0wRE5ERIg5OF9FulGTmPig-H4wmlU_sXRuvMICeI1m7p2xVxBx_e3UPpzeQ636V5pguYUlFO6vRaLXSzQdbY-FWqSqiUyw%3D%3D
-
-      Theverge
-      https://theverge.com/2018/7/11/17560352/hinge-most-compatible-dating-machine-learning-match-recommendation
-
-      Youtube
-      https://youtube.com/watch?v=FhRf0j068ZA
-
-      Ncbi
-      https://ncbi.nlm.nih.gov/pubmed/24142842
-
-      Linkedin
-      https://linkedin.com/company/humuhq/
+      Make a List of Your Job Requirements
+      https://experisjobs.us/exp_us/en/career-advice/blog/job-requirement-list.htm
 
       Humu
       https://humu.com/
 
-      Boards
-      https://boards.greenhouse.io/humu/jobs/1073724#.WqHBwJPwbOQ
-
-      Qz
-      https://qz.com/work/1232692/the-resume-of-the-future/
-
-      Amp
-      https://amp.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web
-
-      Imec
-      https://imec.org/
-
-      Youtube
-      https://youtube.com/watch?time_continue=120&v=f5tSWJKMg9k
-
-      Workday
-      https://workday.com/en-us/forms/demos/product-preview-student.dl.html?wdid=enus_ws_acfoufeat_wdhero_st_wd_pp_17.0455&seg=step1_default
-
-      Workday
-      https://workday.com/content/dam/web/en-us/documents/datasheets/datasheet-workday-prism-analytics.pdf
-
-      Thebalancecareers
-      https://thebalancecareers.com/list-of-soft-skills-2063770
-
-      Experisjobs
-      https://experisjobs.us/exp_us/en/career-advice/blog/job-requirement-list.htm
-
-      Google
-      https://google.com/search?q=match+making+services&oq=match+making+services&aqs=chrome..69i57.10036j0j1&sourceid=chrome&ie=UTF-8
-
-      Google
-      https://google.com/search?q=matchmaking+vs+marketplace&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQsc3U0uHeAhWl7YMKHaSDDvYQ_AUIDygC&biw=1440&bih=789#imgrc=hZeKPCTc0tr4rM:
-
-      Researchgate
-      https://researchgate.net/publication/228604840_Pragmatic_Approach_as_a_Problem_Solving_Framework
-
-      Solid
-      https://solid.inrupt.com/how-it-works
-
-      Inrupt
-      https://inrupt.com/
-
-      Stallman
-      https://stallman.org/
-
-      Lessig
-      https://lessig.org/about/#tab5
-
-      Snhu
+      Google Grant | SNHU
       https://snhu.edu/about-us/newsroom/2018/04/snhu-receives-1-million-google-grant-to-design-a-soft-skills-assessment-for-opportunity-youth
 
-      Sandboxcollaborative
-      https://sandboxcollaborative.org/space/
-
-      Google
+      SNHU Economic Opportunity | Google
       https://google.org/our-work/economic-opportunity/snhu/
 
-      Theta360
-      https://theta360.com/s/eDyz3TIsedRwiOyWrJvy49M2q
+      Frontal-parietal and limbic-striatal activity underlies information sampling in the best choice problem | Optimal Stopping Problem
+      https://ncbi.nlm.nih.gov/pubmed/24142842
 
-      Npr
-      https://npr.org/sections/ed/2017/10/14/545631502/when-the-focus-is-on-the-student-not-the-class
+      Tinder Algorithms: How the Matchmaking Happens
+      https://neoteric.eu/blog/tinder-algorithms-how-the-matchmaking-happens/
 
-      Theconversation
-      https://theconversation.com/should-all-university-lectures-be-automatically-recorded-39158
+      Matchmaking v. Marketplace | Google Query
+      https://google.com/search?q=matchmaking+vs+marketplace&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQsc3U0uHeAhWl7YMKHaSDDvYQ_AUIDygC&biw=1440&bih=789#imgrc=hZeKPCTc0tr4rM:
 
-      Theconversation
-      https://theconversation.com/ranking-universities-on-excellent-teaching-will-be-better-for-everyone-44256
+      100 Prisoner's Problem
+      https://bernsteinbear.com/blog/understanding-the-100-prisoners-problem/
 
-      Theconversation
-      https://theconversation.com/data-collected-about-student-behaviour-doesnt-help-improve-teaching-or-learning-57793
+      6 Guidelines For Successful Dating App Development
+      https://applikeysolutions.com/blog/6-guidelines-for-successful-dating-app-development
 
-      Theconversation
-      https://theconversation.com/what-metrics-dont-tell-us-about-the-way-students-learn-59271
+      How to Build a Dating Application | Hackernoon
+      https://hackernoon.com/how-to-build-a-dating-application-55d5ca0c8f5c
 
-      Edutopia
-      https://edutopia.org/blog/why-curiosity-enhances-learning-marianne-stenger
+      Hinge’s newest feature claims to use machine learning to find your best match
+      https://theverge.com/2018/7/11/17560352/hinge-most-compatible-dating-machine-learning-match-recommendation
 
-      Mckinsey
-      https://mckinsey.com/featured-insights/future-of-work/the-digital-future-of-work-what-skills-will-be-needed
+      Matchmaking | Github
+      https://github.com/topics/matchmaking
 
-      Mischooldata
-      https://mischooldata.org/DistrictSchoolProfiles2/reportcard/data_documentation_final_v1.pdf
+      The New York City High School Match
+      https://dash.harvard.edu/bitstream/handle/1/2562765/Roth_NYC.pdf?sequence=2
 
-      Theconversation
-      https://theconversation.com/students-dont-know-whats-best-for-their-own-learning-33835
+      People Are Experience Goods: Improve Online Dating With Virtual Dates
+      https://onlinelibrary.wiley.com/doi/epdf/10.1002/dir.20106?referrer_access_token=sMJEk4geqlclhk-1PmQPj04keas67K9QMdWULTWMo8PCEYKfuiM6ibbs0wRE5ERIg5OF9FulGTmPig-H4wmlU_sXRuvMICeI1m7p2xVxBx_e3UPpzeQ636V5pguYUlFO6vRaLXSzQdbY-FWqSqiUyw%3D%3D
 
-      Github
-      https://github.com/briancrink/accessedu
+      AI in Dating Apps: Machine Learning comes to the rescue of dating apps
+      https://analyticsindiamag.com/ai-dating-apps-machine-learning-comes-rescue-dating-apps/
 
-      Gist
-      https://gist.github.com/jgravois/5e73b56fa7756fd00b89
+      Matching | Sajari
+      https://sajari.com/match
 
-      Beta
-      https://beta.observablehq.com/@mbostock/d3-pie-chart
+      How the Matching Algorithm Works
+      https://nrmp.org/matching-algorithm/
 
-      Projects
-      https://projects.invisionapp.com/d/login?redir=%2Fd%2Fmain#/projects/boards/6054912
+      Matchmaking Algorithm: Skill-based Matchmaking
+      https://pubnub.com/blog/2014-07-31-skill-based-matchmaking-multiplayer-games-tutorial/
 
-      Parchment
-      https://parchment.com/
+      The Stable Matching Algorithm - Examples and Implementation | YouTube
+      https://youtube.com/watch?v=FhRf0j068ZA
 
-      Ted
-      https://ted.com/talks/takaharu_tezuka_the_best_kindergarten_you_ve_ever_seen/discussion
+      How Tinder Works
+      https://basicthinking.com/tinder-algorithm/
 
-      Arch
-      https://arch.iit.edu/life/tezuka-
+      How a Matchmaking AI Conquered (and Was Exiled) from Tinder
+      https://motherboard.vice.com/en_us/article/8x5vqx/how-a-matchmaking-ai-conquered-and-was-exiled-from-tinder
 
-      Eric
+   Learning Theory
+
+      Meta-Analysis and Empirical Research of Learning Style Theories in Higher Education: The Case of Slovenia
       https://eric.ed.gov/?id=EJ884596
 
-      Techstars
-      https://techstars.com/
+      Why Curiosity Enhances Learning | Edutopia
+      https://edutopia.org/blog/why-curiosity-enhances-learning-marianne-stenger
 
-      Techstars
-      https://techstars.com/startup-weekend/
+      The Fairness Principle: How the Veil of Ignorance Helps Test Fairness
+      https://fs.blog/2017/10/veil-ignorance/
 
-      Startupweekend
-      https://startupweekend.org/events?utf8=%E2%9C%93&q=Muskegon&button=
+      When The Focus Is On The Student, Not The Class | NPR
+      https://npr.org/sections/ed/2017/10/14/545631502/when-the-focus-is-on-the-student-not-the-class
 
-      Communities
-      https://communities.techstars.com/usa/grand-rapids/startup-weekend/13760
+      Ranking Universities on Excellent Teaching Will be Better for Everyone
+      https://theconversation.com/ranking-universities-on-excellent-teaching-will-be-better-for-everyone-44256
 
-      Uopeople
-      https://uopeople.edu/
+      Pragmatic Approach as a Problem Solving Framework
+      https://researchgate.net/publication/228604840_Pragmatic_Approach_as_a_Problem_Solving_Framework
 
-      Rufuspollock
-      https://rufuspollock.com/
+   Learning Space
 
-      Openrevolution
-      https://openrevolution.net/
+      Takaharu Tezuka: Nostalgic Future
+      https://arch.iit.edu/life/tezuka-
 
-      Judith Heerwagen | Google Search
+      Takaharu Tezuka: The Best Kindergarten You've Ever Seen | Ted Talk
+      https://ted.com/talks/takaharu_tezuka_the_best_kindergarten_you_ve_ever_seen/discussion
+
+      Judith Heerwagen | Google Query
       https://google.com/search?q=Judith+Heerwagen&newwindow=1&ei=3_aXXLLcEeufjwS2_Lgo&start=10&sa=N&ved=0ahUKEwjyx-LV3JvhAhXrz4MKHTY-DgUQ8tMDCF8&biw=1440&bih=820
 
       Judith Heerwagen Research | Semantic Scholar

@@ -1,132 +1,3 @@
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/tempCodeRunnerFile.shellscript"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
- /usr/local/bin/bash "/Users/briancrink/.dotfiles/.chrome/.sessionbuddy/.sessionbuddy"
-reload
-exitcode ls
-exitcode.sh ls
-sh exitcode.sh ls
- /usr/local/bin/bash "/Volumes/Drive/Workspace/Workflow/Software/Tool/Shell/Tool/Bash/Playground/tempCodeRunnerFile.sh"
-/usr/local/bin/bash "/Volumes/Drive/Workspace/Workflow/Software/Tool/Shell/Tool/Bash/Playground/tempCodeRunnerFile.sh" ls
-clear
-ls
-pushd Playground
-ls
-direxists.sh /Applications/Google\ Chrome.app
-exitcode.sh
-direxists.sh /Applications/Google Chrome.app
-exitcode.sh
-direxists.sh /Applications/Chrome.app
-direxists.sh /Applications/C
-direxists.sh /Applications/Chrome.app
-direxists.sh /Applications/Google\ Chrome.app
-ls
-pushd Playground
-ls
-direxists.sh /Applications/Tidal.app
-direxists.sh /Applications/Tidal.app
-direxists.sh /Applications/Tidal3.app
-direxists.sh
-direxists.sh
-direxists.sh /Application/
-direxists.sh App
-direxists.sh App
-direxists.sh Apple is awesome
-direxists.sh Apple is awesome
-direxists.sh Apple is awesome
-direxists.sh Apple is awesome
-direxists.sh /Application/
-direxists.sh /Application/
-direxists.sh /Applications/Google\ Chrome.app
-direxists.sh /Applications/Google\ Chrome.app
-direxists.sh /Applications/Tidal.app
-direxists.sh /Applications/Google\ Chrome.app
-direxists.sh /Application/
-direxists.sh /Application/
-direxists.sh /Application/
-direxists.sh /Application/
-direxists.sh /Application/
-direxists.sh /Applications/Google\ Chrome.app
-direxists.sh /Application/
-direxists.sh /Application/
-$?
-direxists.sh /Applications/Google\ Chrome.app
-$?
-direxists.sh /Applications/Google\ Chrome.app
-$?
-ls
-$?
-$?
-$?
-$?
-$?
-$?
-cd
-$?
-function.sh
-reload
-function.sh
-bash --version
  "Application Name"
 When looking for apps running in the GUI, it’s usually best to use the same case that the apps use in Mac OS X, or else you may not find anything.
 Privacy Badger has replaced this Facebook Share button.Privacy Badger has replaced this Twitter button.Privacy Badger has replaced this Twitter button.More
@@ -498,3 +369,132 @@ reload
 bundle exec jekyll serve
 bundle
 reload
+ls
+ls -la
+clear
+pushd /.dotfiles/.dictionary
+pushd .dotfiles/.dictionary
+ls
+ls -la
+code .dictionary
+..
+ls
+pushd .web/.sessionbuddy
+ls -la
+code service.txt
+NightWatch Twilight Zone
+popd
+code .dictionary/.dictionary
+%
+pushd .web/.sessionbuddy
+ls
+code index.txt
+code workflow.txt
+%
+ls
+popd
+.dictionary
+pushd .dictionary
+ls
+ls -la
+code .dictionary
+code .software
+code .accessedu
+sudo rm -r /Users/briancrink/Downloads
+popd
+pushd .regex
+ls -la
+code readme.md
+code readme.txt
+NightWatch Agents of Shield
+%
+popd
+ls
+pushd .dictionary
+ls -la
+code .accessedu
+rm .accessedu
+rm .software
+code .temp
+code dictionary.md
+rm dictionary.md
+ls -la
+code .unix*
+code readme.md
+popd
+pushd .web/.sessionbuddy
+ls
+code workflow.txt
+popd
+pushd .regex
+ls
+code readme.txt
+%
+popd
+pushd .web/.sessionbuddy
+workflow.txt
+ls -la
+code workflow.txt
+popd
+pushd .dictionary
+ls -la
+popd
+ls -la
+reloda
+reload
+ls -la
+%
+pushd .dictionary
+code .dictionary
+%
+code ~/.alias
+ls -la ~
+code ~/.variable
+reload
+calias
+cdict
+calias
+reload
+cdict
+cvar
+calias
+popd
+reloda
+reload
+ls -la
+cdict
+$HOME ls -la
+~ ls -la
+pushd ~
+ls -la
+popd
+ls -la
+pushd .setup
+ls -la
+%
+%
+%
+NightWatch Arrow
+NightWatch Legends of Tomorrow
+NightWatch Arrow
+%
+cdict
+reload
+calias
+reload
+ckey
+calias
+cvar
+pushd $sbdir
+ls -la
+reload
+c1
+ls -la
+..
+ls
+ls -la
+. .searchengine
+cd .searchengine
+ls
+..
+code readme.md
