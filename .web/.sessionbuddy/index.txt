@@ -358,6 +358,9 @@ Account
       Brian Crink | Meetup
       https://meetup.com/members/222435284/
 
+      Brian Crink | Vimeo
+      https://vimeo.com/briancrink
+      
       Brian Crink | YouTube
       https://youtube.com/c/BrianCrink
 

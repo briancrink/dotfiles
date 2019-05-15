@@ -1,66 +1,3 @@
- "Application Name"
-When looking for apps running in the GUI, it’s usually best to use the same case that the apps use in Mac OS X, or else you may not find anything.
-Privacy Badger has replaced this Facebook Share button.Privacy Badger has replaced this Twitter button.Privacy Badger has replaced this Twitter button.More
-Related
-Resolving Problems with OS X 10.11.4
-Resolving Problems with OS X 10.11.4
-The Mac Task Manager
-The Mac Task Manager
-Simple Tips to Improve Battery Life for Macs with OS X El Capitan & Yosemite
-Simple Tips to Improve Battery Life for Macs with OS X El Capitan & Yosemite
-Enjoy this tip? Subscribe to the OSXDaily newsletter to get more of our great Apple tips, tricks, and important news delivered to your inbox! Enter your email address below:
-Related articles:
-Quit Multiple Apps At Once on iPhone & iPad Using Multitouch in iOS 6
-Three “Apps at a Tap” Apple Watch Ads Debut
-How to Quit Apps in iOS 8 & iOS 7
-Easily Determine Architecture Type of Mac OS X Apps – Universal, Intel, or PowerPC
-Posted by: Paul Horowitz in Mac OS X, Tips & Tricks
-18 Comments
-» Comments RSS Feed
-Melody says:
-May 4, 2014 at 7:19 pm
-These are all great tips, thanks! I also used to love (in Snow Leopard) that I could take 4 fingers to the left or right on the trackpad and get the same thing as Command+tab. Is there a similar trackpThese are all great tips, thanks! IinThese are all great tips, thanks! I mThese are all greathaThese are all greata These are all great tips, thanks! I also used to love (in Snow Leopard) tha
-RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRr RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRr RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRr RRRRRRRRRRRRRRRRGreaRRRRRRRRRRRRRRRRlaRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRboRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRntRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRr RRRRRpsRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRyoRRRRRRRRRRive it back to them.
-Reply
-Keith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith JoyKeith JoyKeith J 2016 aKeith Jhanks for these clear explications, all except the last were clear for me. I was only in the past using command line activities and batch files in GWBasic and its successors.
-Anyhow thanks (my age: 74)
-Reply
-Ngeshlew says:
-May 16, 2016 at 10:44 am
-Thanks, just needed to Force Quit an app that wasn�’t closing.
-Reply
-Kushal Sogani says:
-June 28, 2016 at 10:56 am
-How can I check a process is running with grep? I want to execute a bash script and pass a command after an application quits. I am quitting through osascript. Is there a boolean command to check if the application is running?
-RRRRR
-PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPs PPPPPPPPPPPPPPPPPPPPPPPPP”PPPPnoPPPPPPPPPPPPPndPPPPPPPPPPPPPPPPPPPPPPP
-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSSSSSSSSSSSedSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSSSSSSSSSSSedSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSS it is apSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSSSSSSSSSSSedSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSSSSSSSSSSSedSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSS it is apSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSSSSSSSSSSSedSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSSSSSSSSSanSSSSSSSSSSSSSSSSSSSSSSSSedSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSen SSSSf SSSSSSSSSSve
-clear
-ps aux|grep Tidal
-ps aux|grep "Tidal"
-/Applications/Google\ Chrome.app
-if [-f /Applications/Google\ Chrome.app] then echo "success"; fi
-cd /Applications/Google\ Chrome.app
-ls
-popd
-cd ~
-pushd Volumes/macOS/Applications/Books.app
-pushd /Applications/Books.app
-popd
-pushd /Volumes/Applications/Books.app
-pushd Volumes/macOS/Applications/Books.app
-pushd /Applications/Books.app
-popd
-pushd /Applications/Google \Chrome.app
-pushd "/Applications/Google \Chrome.app"
-popd
-pushd ~/Downloads
-ls
-popd
-%
-close Tidal
-quit Tidal
-ech $?
 echo $?
 echo $?
 echo $?
@@ -498,3 +435,66 @@ cd .searchengine
 ls
 ..
 code readme.md
+cwf
+cwork
+cworkf
+calias
+c1
+c2
+code c2
+calias
+'code '$sbdir'/service.txt'
+code /Users/briancrink/.dotfiles/.web/.sessionbuddy/service.txt
+reload
+c5
+cvar
+pushd $sbdir
+code $sbdir/index.txt
+reload
+c2
+c1
+c2
+c3
+c4
+calias
+reload
+c0
+calias
+reload
+c0
+c0
+calias
+reload
+c0
+c0
+c0
+c0
+c0
+NightWatch The Flash
+bundle
+pushd myblog
+bundle exec jekyll serve
+clear
+reload
+popd
+pushd $wf/Business/Startup
+git clone https://github.com/briancrink/accessedu.git
+ls
+pushd accessedu
+echo "# accessedu" >> readme.md
+git init
+git add readme.md
+git commit -m "initial commit"
+git remote add origin https://github.com/briancrink/accessedu.git
+git push -u origin master
+ls
+code index.htm
+reload
+ls
+ls -la
+brew search gill sans
+brew search gill
+clear
+reload
+cdict
+calias
