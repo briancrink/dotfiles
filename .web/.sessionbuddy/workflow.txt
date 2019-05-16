@@ -889,7 +889,7 @@ AccessEdu
       How Tinder Works
       https://basicthinking.com/tinder-algorithm/
 
-      How a Matchmaking AI Conquered (and Was Exiled) from Tinder
+      How a Matchmaking AI Conquered Tinder
       https://motherboard.vice.com/en_us/article/8x5vqx/how-a-matchmaking-ai-conquered-and-was-exiled-from-tinder
 
       Quantifying Data Example | Google Query
@@ -983,48 +983,57 @@ AccessEdu
       Judith Heerwagen Research | Semantic Scholar
       https://semanticscholar.org/author/Judith-Heerwagen/3371027
 
-Bootsrap'd
+Bootstrap'd
 
    Bootstrap'd
+
+      Github
+      https://github.com/briancrink/bootstrapd
+
+   Creator Community
+
+      Behance
+      https://www.behance.net/
+
+      Dribbble
+      https://dribbble.com/
+
+      Fiverr
+      https://www.fiverr.com/
+
+      Indiegogo
+      https://indiegogo.com
+
+      Instagram
+      https://instagram.com
+
+      Kickstarter
+      https://kickstarter.com
+
+      r/Creator
+      https://www.reddit.com/r/Creator/
+
+      Twitter
+      https://twitter.com
+
+      YouTube
+      https://youtube.com
+
+   Service
+
+      Startup Bootstrap
+      https://startbootstrap.com/
+
+      Web Themez
+      https://webthemez.com/startup-multi-purpose-responsive-html5-bootstrap-template/
+
+   Startup
 
       Startups
       https://startups.com/
 
-      Irs
-      https://irs.gov/businesses/small-businesses-self-employed/business-structures
-
-      Startuprocket
-      https://startuprocket.com/resources
-
-      Startuprocket
-      https://startuprocket.com/articles
-
-      Thepathforward
-      https://thepathforward.io/explore/
-
-      Reddit
+      r/Startups | Reddit
       https://reddit.com/r/startups/
-
-      Thebalancesmb
-      https://thebalancesmb.com/
-
-      Trello
-      https://trello.com/b/IzEZSDJ6/hiring
-
-      Register Your Business Name
-      https://nolo.com/legal-encyclopedia/registering-business-name-30262.html
-
-      7 Tips for Starting Your Own Small Business - ABC News
-      https://abcnews.go.com/Business/tips-starting-small-business/story?id=14447409
-
-      Starting a Small Business
-      https://sba.gov/thinking-about-starting
-
-      Startup Without An Office
-      https://forbes.com/sites/quora/2012/10/30/to-what-extent-can-a-startup-work-without-an-office/
-
-      Run business without an office
-      https://elance.com/q/blog/2011/11/how-to-run-your-business-without-an-office.html
 
       On Startups
       https://onstartups.com/
@@ -1035,8 +1044,54 @@ Bootsrap'd
       BizFilings | Start-up Toolkit
       https://bizfilings.com/toolkit/index.aspx
 
+      Resources | Startup Rocket
+      https://startuprocket.com/resources
+
+      Articles | Startup Rocket
+      https://startuprocket.com/articles
+
+      Explore | The Path Forward
+      https://thepathforward.io/explore/
+
+      The Balance Small Business
+      https://thebalancesmb.com/
+
+      Register Your Business Name
+      https://nolo.com/legal-encyclopedia/registering-business-name-30262.html
+
+      7 Tips for Starting Your Own Small Business
+      https://abcnews.go.com/Business/tips-starting-small-business/story?id=14447409
+
+      Starting a Small Business
+      https://sba.gov/thinking-about-starting
+
+      Startup Without An Office
+      https://forbes.com/sites/quora/2012/10/30/to-what-extent-can-a-startup-work-without-an-office/
+
+   IRS
+
+      SBA
+      https://www.sba.gov/business-guide/10-steps-start-your-business/
+
+      Run business without an office
+      https://elance.com/q/blog/2011/11/how-to-run-your-business-without-an-office.html
+
       US Patent & Trademark Office
       https://uspto.gov/
+
+      Business Structures | IRS
+      https://irs.gov/businesses/small-businesses-self-employed/business-structures
+
+   Google Query
+
+      Bootstrap Startup Service
+      https://www.google.com/search?newwindow=1&ei=Zw2YXIDMOMGUsgX2ua_4Bw&q=bootstrap+startup+service&oq=bootstrap+startup+service&gs_l=psy-ab.3..33i299l3.11776.16303..16459...1.0..0.100.1355.15j1......0....1..gws-wiz.......0i71j35i39j0i20i263j0i67j0j0i22i30j33i160.34CJt4hQUFE
+
+      YouTube Creator Tax
+      https://www.google.com/search?q=youtube+creator+tax&oq=youtube+creator+tax&aqs=chrome..69i57.4530j0j7&sourceid=chrome&ie=UTF-8
+
+      YouTube Tax information
+      https://www.google.com/search?q=youtube+tax+information&oq=youtube+tax+information&aqs=chrome..69i57.9654j0j7&sourceid=chrome&ie=UTF-8
 
 DIY
 

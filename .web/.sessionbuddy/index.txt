@@ -5,8 +5,8 @@ Home
       Brian Crink | Connect. Follow. Join.
       https://briancrink.com/
 
-      Google Analytics
-      https://analytics.google.com/analytics/web/#/report-home/a133169541w192977788p188659608
+      Brian Crink | github.io
+      https://briancrink.github.io/
 
    Workspace
 
@@ -170,137 +170,6 @@ Home
 
       CommunityBridge
       https://people.communitybridge.org/#projects
-
-   Backlog
-
-      Trotsky Morals
-      https://www.marxists.org/archive/trotsky/1938/morals/morals.htm
-
-      Lean Automation enabled by Industry 4.0 Technologies
-      https://sciencedirect.com/science/article/pii/S2405896315005984
-
-      How Decision Trees Work | YouTube
-      https://youtube.com/watch?v=9TiezQ7Gb3M
-
-      Lightboard Demonstration | YouTube
-      https://youtube.com/watch?v=hZlPWVfoYFo&app=desktop
-
-      B-Tree Indexes | YouTube
-      https://youtube.com/watch?v=NI9wYuVIYcA
-
-      gRPC: Microservice Communication Twilio Talk | YouTube
-      https://www.youtube.com/watch?v=RoXT_Rkg8LA
-
-      RPC v. Simple Procedure Call | YouTube
-      https://www.youtube.com/watch?v=gr7oaiUsxSU
-
-      Serialization formats: JSON and Protobuf | YouTube
-      https://youtube.com/watch?v=uGYZn6xk-hA
-
-      Create A Hash Table Project in C++ | YouTube
-      https://youtube.com/watch?v=m6n_rozU8dA
-
-      Data Structures: Heaps | YouTube
-      https://youtube.com/watch?v=t0Cq6tVNRBA
-
-      C#: Abstract Class Polymorphism | YouTube
-      https://youtube.com/watch?v=RaHm_pSxqLY
-
-      Microservices Overview | YouTube
-      https://youtube.com/watch?v=WK3tbQCzVxg
-
-      Protocol Buffers with Kenton Varda | SE Daily
-      https://softwareengineeringdaily.com/2017/12/18/protocol-buffers-with-kenton-varda/
-
-      Apache Arrow with Uwe Korn | SE Daily
-      https://softwareengineeringdaily.com/2016/07/17/apache-arrow-with-uwe-korn/
-
-      Decentralized Objects with Martin Kleppman | SE Daily
-      https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman/
-
-      ER Diagram v. Class Diagram | Stackoverflow
-      https://stackoverflow.com/questions/17050422/difference-between-er-diagram-and-class-diagram
-
-      Input/Output with Files | Cplusplus
-      http://cplusplus.com/doc/tutorial/files/
-
-      Managing Hard-Coded filepaths in Code | Stackoverflow
-      https://stackoverflow.com/questions/29926997/managing-hard-coded-file-paths-names-in-code
-
-      Binary Search Trees | Stack Exchange
-      https://tex.stackexchange.com/questions/422128/how-to-make-binary-search-trees-in-an-easy-and-straight-forward-way
-
-      Clojure Protobuf | Github
-      https://github.com/ninjudd/clojure-protobuf
-
-      Using a Map instead of a Class to Represent Data | Stack Exchange
-      https://softwareengineering.stackexchange.com/questions/272302/use-map-instead-of-class-to-represent-data-rich-hickey
-
-      Serializing String Arrays in Solidity | Hackernoon
-      https://hackernoon.com/serializing-string-arrays-in-solidity-db4b6037e520
-
-      Uses of Org Mode
-      https://robots.thoughtbot.com/the-many-uses-of-org-mode
-
-      What is Olap?
-      http://olap.com/olap-definition/
-
-      Vizceral Open Source: Netflix | Medium
-      https://medium.com/netflix-techblog/vizceral-open-source-acc0c32113fe
-
-      What is Unified Modeling Language | Lucidchart
-      https://lucidchart.com/pages/what-is-UML-unified-modeling-language
-
-      Binary Trees: B
-      https://towardsdatascience.com/b-tree-balanced-and-multi-branched-52ef308d67a
-
-      10 Algorithms Every Programmer Should Know
-      https://technotification.com/2018/03/top-10-algorithms-for-programmer.html/amp
-
-      MapReduce Tutorial | Hadoop
-      https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html#Purpose
-
-      Simple Hash Map (Hash Table) Implementation in C++
-      https://medium.com/@aozturk/simple-hash-map-hash-table-implementation-in-c-931965904250
-
-      Implementing own Hash Table with Open Addressing Linear Probing in C++
-      https://geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/
-
-      Learning the Granular Details of a Programming Language?
-      https://dev.to/robertcoopercode/learning-the-granular-details-of-a-programming-language-pln
-
-      Getting to Know Some Pragmatic Programming Language Features | Hackernoon
-      https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118
-
-      Floating Point Rounding Errors
-      https://floating-point-gui.de/errors/rounding/
-
-      OOP Java Programmers Should Learn
-      https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html
-
-      Arrays | Brilliant
-      https://brilliant.org/practice/arrays/?p=9
-
-      Launching your Boot Camp partition in VMware Fusion
-      https://kb.vmware.com/s/article/1014618
-
-      Even The Most Advanced Computer Programmers Have Probably Never Heard Of This Concept
-      https://forbes.com/sites/quora/2018/05/18/even-the-most-advanced-computer-programmers-have-probably-never-heard-of-this-concept/amp/
-
-      What is MapReduce?
-      https://dev.to/kjir/what-is-mapreduce-25i6
-
-      Git Tips and Commands
-      https://thecuriousdev.org/useful-git-tips-commands/amp/
-
-      Introduction to Git: Core Concepts | YouTube
-      https://youtube.com/watch?v=uR6G2v_WsRA
-
-      Github Tutorial YouTube
-      https://youtube.com/watch?v=0fKg7e37bQE
-
-      Introduction to Git - Branching and Merging | YouTube
-      https://youtube.com/watch?v=FyAAIHHClqI
 
 Account
 
@@ -477,6 +346,12 @@ Account
 
       Dashboard | Google
       https://myaccount.google.com/dashboard?pli=1
+
+      AdSense | Google
+      https://www.google.com/adsense
+      
+      Google Analytics
+      https://analytics.google.com/analytics/web/
 
       News Help | Google
       https://support.google.com/googlenews/?hl=en&co=GENIE.Platform=iOS&oco=1&visit_id=636899387518793107-3402699318#topic=7688381
