@@ -1046,7 +1046,7 @@
 
    Wikipedia
 
-      wikimedia/wikipedia-ios: 📱The official Wikipedia iOS app.
+      wikimedia/wikipedia-ios: The official Wikipedia iOS app.
       https://github.com/wikimedia/wikipedia-ios
 
       Wikimedia Apps/Team/iOS - MediaWiki

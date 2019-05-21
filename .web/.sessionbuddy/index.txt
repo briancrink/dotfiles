@@ -26,7 +26,7 @@ Home
 
    News
 
-      9 to 5 Mac
+      9to5 Mac
       https://9to5mac.com/
 
       Medium
@@ -77,6 +77,9 @@ Home
 
       YouTube | Watch Later
       https://www.youtube.com/playlist?list=WL
+
+      TED Talk
+      https://www.ted.com/#/
 
       TVTime
       https://tvtime.com/
@@ -1589,6 +1592,7 @@ Exercise
 Finance
 
    Research
+
       Panama Papers
       https://occrp.org/en/panamapapers/
 

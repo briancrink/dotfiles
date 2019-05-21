@@ -47,3 +47,14 @@ function NightWatch() {
   # printf "NightWatch: " && read q ; # (optional read line into a 'q' variable; replace "$*" with "$q")
   # open -a "$a" "$v":"$p"://"$h"."$d"/search/"$(?=\s*\d+$)"/0/"$*[1-9]"/0 | urlencodepipe ;
 }
+
+# function (path, header) {
+#   line = 1;
+#   N = `wc -l path`;
+#   while $line ≤ "$N";
+#   if [ "$header" - "$line" | tail -1 | grep -q "# $header" ]; then
+#     code "$path" + "$line";
+#     return;
+#     "$line" = "$line" + 1;
+#   end;
+# }

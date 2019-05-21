@@ -129,6 +129,7 @@
 - type `ruby` to open ruby
 - type `javac or java` to compile or run java program
 - type `ssh` to open ssh
+- type `swift` to open swif repl
 
 ### Open Text Editor
 

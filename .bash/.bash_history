@@ -1,70 +1,3 @@
-echo $?
-echo $?
-echo $?
-reload
-reload
-clear
-reload
- NightWatch the flash
-clear
-reload
-NightWatch Twilight Zone
-clear
-reload
-NightWatch Twilight Zone
-NightWatch Twilight Zone
-NightWatch Twilight Zone
-brew search dict
-brew search betterdictionary
-brew search better dictionary
-man diction
-brew desc diction
-brew desc dictator
-brew desc dictater
-brew cask desc dictater
-brew cask info dictater
-brew cask install dictater
-%
-brew install glib --with-static
-brew install glib
-%
-%
-clear
-sudo rm -r /Users/briancrink/Downloads
-clear
-reload
-brew cask uninstall textwrangler
-brew search text wrangler
-brew list
-brew cask list
-brew search mac-cleaner
-brew cask search mac-cleaner
-brew search mac clean
-brew info macclean
-brew cask install macclean
-brew cask list
-brew cask uninstall appzapper
-brew cask list
-brew info mac
-brew cask mac
-brew search mac
-brew info playonmac
-brew info macdependency
-brew info voicemac
-brew info aquamac
-brew info aquamacs
-brew info flip4mac
-brew info macdropany
-brew info macdrops
-brew search dotfile
-brew search dot
-brew search trello
-brew info wrk-trello
-brew cask uninstall macclean
-brew clean
-brew cleanup
-clear
-reload
 rm -r /Applications/Utilities/backup.app
 sudo
 sudo rm -r /Applications/Utilities/backup.app
@@ -498,3 +431,70 @@ clear
 reload
 cdict
 calias
+export TOOLCHAINS=swift
+/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
+/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
+/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
+/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist org.swift.4020170919
+/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plistorg.swift.4020170919
+/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
+swift --version
+swift
+NightWatch Agents of S.H.I.E.L.D
+%
+%
+cfunction
+cfunc
+cfunct
+pushd ~/.dotfiles/.bash
+ls
+ls -la
+code .function
+man wx
+man wc
+popd
+cd Desktop
+echo "#Header \n testing" >> test.md
+ls
+code test.md
+man wc
+wc l test.md
+wc -l test.md
+pushd ~/.dotfiles/.bash
+code +32 .function
+code .function +32
+man code
+code
+code --help
+code -goto .function:57
+code -goto .function:*:q
+code -goto .function:*[:q]
+code -goto .function:.:[:q]
+code -goto .function:.*:[:q]
+grep code code -goto .function:$line[:q]
+pushd
+popd
+popd
+popd
+popd
+pushd ~
+pushd Desktop
+grep "# $1" test.md 
+grep "#" test.md 
+grep "#$header" test.md 
+%
+brew install httrack
+httrack
+clear
+python3 -m http.server "/Volumes/Drive/Workspace/Workflow/Profile/briancrink/portfolio/index.html"
+python -m http.server "/Volumes/Drive/Workspace/Workflow/Profile/briancrink/portfolio/index.html"
+reload
+calias
+reload
+cfun
+reload
+clear
+clean
+update
+clear
+reload
