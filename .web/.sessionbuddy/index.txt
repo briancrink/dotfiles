@@ -265,6 +265,11 @@ Account
       STEM | Twitter
       https://twitter.com/briancrink/lists/stem/members
 
+   Lists
+
+      Kits
+      https://kit.com/briancrink
+
    Software
 
       Briancrink | Gist Github
@@ -423,6 +428,11 @@ Account
       https://sessionbuddy.com/backup-restore/
 
 Career
+
+   Developer
+
+      Apple Developer
+      https://developer.apple.com/
 
    Career
 
@@ -784,6 +794,12 @@ Content
       P2P: The Commons Manifesto
       https://www.uwestminsterpress.co.uk/site/books/10.16997/book33/
    
+      1000 Books to Read
+      https://www.1000bookstoread.com/
+
+      Little Virtues
+      http://www.ages.fun/wp-content/uploads/2017/09/littlevirtues.pdf
+      
    Manifesto
 
       Agile Software Development
@@ -946,6 +962,9 @@ Content
 
       Filetypes
       https://fileinfo.com/filetypes/common
+
+      Lorem Ipsum
+      https://www.lipsum.com/
 
    Saved
 
@@ -1803,8 +1822,11 @@ Shop
       Force model 3329 | Invicta
       https://invictawatch.com/watches/detail/3329-invicta-i-force-men-46mm-stainless-steel-gold-blue-dial-ym92a-quartz
 
-      Invicta
+      Invicta Watch Bands
       https://invictawatchbands.com/
+
+      #3329 | Invicta Watch Bands
+      https://www.invictawatchbands.com/search/?q=3329&type=product
 
    Audio Gear
 
@@ -1859,6 +1881,14 @@ Shop
       Fake Airpods
       https://m.dhgate.com/product/airpods-2-supercopy-2nd-generation-1-1-with/460731418.html?invitorid=u6FvAf05
 
+   Auto
+
+      AutoZone
+      https://autozone.com
+
+      O'Reilly Auto Parts
+      https://www.oreillyauto.com/
+
    Beard
 
       Northern Fir Beard
@@ -1911,6 +1941,9 @@ Shop
       https://head-fi.org/showcase/
 
    Cycling
+
+      Raleigh R700 | Craigslist
+      https://www.searchtempest.com/search?search_string=raleigh%20r700&category=8&subcat=sss&hasPic=&maxAsk=&maxYear=&minAsk=&minYear=&srchType=&cityselect=zip&location=49457&maxDist=500&region_us=1&region_can=1&region_mex=1&Region=combined&addCities=&subCities=
 
       Velocity Clip
       https://velocityclip.com/collections/all/products/velocity-clip-bike-mount#.U-ueAqJX-uY
@@ -2154,6 +2187,11 @@ Shop
       Peekaboo Sunglasses | Aliexpress
       https://aliexpress.com/store/product/Peekaboo-one-piece-lens-sunglasses-women-transparent-men-style-sunglasses-clear-candy-color-brand-designer-2017/116732_32790820624.html
 
+   Supplies
+
+      Plexiglass 24" x 36" $6.99 | Hobby Lobby
+      https://www.hobbylobby.com/Crafts-Hobbies/Glass-Crafting/Stands-Accessories/Plexiglass---24%22-x-36%22/p/101026
+
    Trade
 
       Beckett
@@ -2191,7 +2229,19 @@ Shop
       Jetson AI Embedded System | Nvidia
       https://nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/?nvid=nv-int-mn-78458&cjevent=3327727549fd11e9835d00950a240614
 
+      13" Macbook Pro Space Gray | Apple
+      https://www.apple.com/us-hed/shop/buy-mac/macbook-pro/13-inch-space-gray-2.3ghz-quad-core-512gb#
+
+      12.9-inch iPad Pro 512GG Space Gray | Apple
+      https://www.apple.com/us-hed/shop/buy-ipad/ipad-pro/12.9-inch-display-512gb-space-gray-wifi
+
+      49 inch CRG9 Dual QHD Curved QLED Monitor | Samsung
+      https://www.samsung.com/us/computing/monitors/gaming/49-crg9-dual-qhd-curved-qled-gaming-monitor-lc49rg90ssnxza/
+
    Wardrobe
+
+      Pinterest Wardrobe
+      https://www.pinterest.com/briancrink/wardrobe/
 
       JoS. A. Bank
       https://josbank.com/
@@ -2231,3 +2281,51 @@ Shop
 
       Bonobos
       https://bonobos.com/
+
+      Patagonia
+      https://patagonia.com
+
+      Men's Clothing | Amazon
+      https://www.amazon.com/Men-Clothing/b?ie=UTF8&node=1040658
+
+      Zappos
+      https://www.zappos.com/c/mens-clothing
+
+      Tommy Hilfiger
+      https://usa.tommy.com/en/mens-sale-men
+
+      Macy's
+      https://www.macys.com/shop/mens-clothing?id=1&cm_sp=us_hdr-_-men-_-1_men
+
+      Scheel's
+      https://www.scheels.com/c/all/men
+
+      J. Crew
+      https://www.jcrew.com/
+
+      Nordstrom
+      https://shop.nordstrom.com/
+
+      Banana Republic
+      https://bananarepublicfactory.gapfactory.com/browse/division.do?cid=1044619&mlink=1037770,FLYOUT_TOPNAV_NA_MEN,visnav&clink=16463713
+
+      Taylor Stitch
+      https://www.taylorstitch.com/
+
+      Levi's
+      https://www.levi.com/US/en_US/shop/men
+
+      Ralph Lauren
+      https://www.ralphlauren.com/men?webcat=men
+
+      Vineyard Vines
+      https://www.vineyardvines.com/mens-clothing/
+
+      LL Bean
+      https://llbean.com
+
+      Proper Cloth
+      https://propercloth.com/
+
+      Saxx Underwear
+      https://www.saxxunderwear.com/

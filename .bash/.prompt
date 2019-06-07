@@ -2,30 +2,34 @@
 
 # Shell prompt:
 # Screenshot: http://i.imgur.com/EkEtphC.png
-# iTerm2 → Profiles → Text → use *pt Monaco with 1.1 vertical spacing
+# Terminal RGB: https://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
 
 # Prompt function:
     # 0. show where you are in the directory tree
     # 1. show which git branch you’re currently working with
-    # 2. 
 
 # # * 256 color variables
-blue=$(tput setaf 39);
-white=$(tput setaf 255);
-purple=$(tput setaf 56);
-pink=$(tput setaf 89);
+blue=$(tput setaf 4);
+teal=$(tput setaf 14);
+white=$(tput setaf 15);
+purple=$(tput setaf 105);
+pink=$(tput setaf 13);
 green=$(tput setaf 118);
+orange=$(tput setaf 214);
+yellow=$(tput setaf 3);
+red=$(tput setaf 124);
+grey=$(tput setaf 254);
 bold=$(tput bold);
 reset=$(tput sgr0);
 
 # # *  `\[\]` fix the incorrect cursor placement
-PS1="\[${blue}\]\u";
-PS1+="\[${white}\]@";
-PS1+="\[${pink}\]\h";
-PS1+="\[${purple}\] \W";
-PS1+="\[${pink}\] ";
-PS1+="\[${white}\]-> ";
-PS1+="\[${green}\]";
+PS1="\[${grey}\]\u";
+PS1+="\[${white}\] ";
+PS1+="\[${purple}\]\h";
+PS1+="\[${grey}\] \W";
+PS1+="\[${white}\] ";
+PS1+="\[${purple}\]-> ";
+PS1+="\[${grey}\]";
 export PS1;
 
 # # * display system information

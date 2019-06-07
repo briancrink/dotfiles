@@ -1,67 +1,3 @@
-rm -r /Applications/Utilities/backup.app
-sudo
-sudo rm -r /Applications/Utilities/backup.app
-sudo rm -r /Applications/SSH\ Tunnel\ Manager.app 
-sudo rm -r /Applications/Automator.app 
-clear
-reload
-mdfind -name "Tidal"
-mdfind -name "Tidal.app"
-mdfind -name "macclean"
-sudo rm -r /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks/macclean.rb
-mdfind -name "macclean"
-mdfind -name "appzapper"
-sudo rm -r /Users/briancrink/Library/Application Support/AppZapper && sudo rm -r /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks/appzapper.rb
-sudo rm -r /Users/briancrink/Library/Application Support/AppZapper
-sudo rm -r /Users/briancrink/Library/Application\ Support/AppZapper
-sudo rm -r /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks/appzapper.rb
-mdfind -name "appzapper"
-mdfind -name "textwrangler"
-sudo rm -r /Users/briancrink/Library/TextWrangler
-sudo rm -r /Users/briancrink/Library/Application\ Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.ApplicationRecentDocuments/com.barebones.textwrangler.sfl2
-mdfind -name "textwrangler"
-mdfind -name "garageband"
-sudo rm -r /Library/Audio/Apple\ Loops/Apple/Apple\ Loops\ for\ GarageBand
-reload
-clear
-reload
-%
-clear
-man df
-man dtf
-clear
-reload
-clean
-update
-clear
-reload
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1
-sudo mkdir /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-diskutil unmount /Volumes/EFI
-sudo mkdir /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-diskutil unmount /Volumes/EFI
-$docs
-pushd $docs
-ls
-git clone https://github.com/briancrink/.dotfiles.git dotfiles
-clear
-popd
-ls
-clear
-reload
-NightWatch Arrow
-NightWatch Legends of Tomorrow
-clear
-reload
-pushd $docs
-git clone --mirror https://github.com/briancrink/dotfiles.git
-ls
-pushd dotfiles.git
-ls
-popd
 bfg -b 1M dotfiles.git
 pushd dotfiles.git
 ls
@@ -498,3 +434,67 @@ clean
 update
 clear
 reload
+git clone https://github.com/potyt/fonts ~/Desktop
+git clone https://github.com/potyt/fonts ~/Desktop/fonts
+pushd Desktop/fonts
+ls
+pushd macfonts
+ls
+brew search avenir
+popd
+popd
+git clone https://github.com/sveinbjornt/lemur2013.git Desktop/font2
+csb
+c1
+c2
+c0
+code ~/.bash_profile
+code ~/.prompt
+reload
+pushd desktop
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+
+
+
+reload
+reload
+NightWatch Legends of Tomorrow
+c1
+c0
+calias
+code '$sbdir/'index.txt
+update
+reload
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
+NightWatch Twilight Zone
+NightWatch Agents of S.H.I.E.L.D
+%
+NightWatch Twilight Zone
+NightWatch Agents of S.H.I.E.L.D
+%
+rm -r ~/downloads
+sudo rm -r ~/downloads
