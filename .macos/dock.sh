@@ -31,5 +31,5 @@ dockutil --add '/Applications/Photos.app' --no-restart
 dockutil --add '/Applications/Books.app' --no-restart
 dockutil --add '/Applications/App Store.app' --no-restart
 dockutil --add '/Applications/Epic Games Launcher.app'
-
 defaults write com.apple.dock tilesize -int 50
+killall dock

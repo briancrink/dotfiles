@@ -263,6 +263,9 @@ Content
       Search Mac App Store Apps
       http://macappstore.org/
 
+      QR Generator
+      https://app.qr-code-generator.com
+
    Video
 
       BBC America

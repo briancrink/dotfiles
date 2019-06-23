@@ -1,181 +1,3 @@
-bfg -b 1M dotfiles.git
-pushd dotfiles.git
-ls
-git reflog expire --expire=now --all && git gc --prune=now --aggressive
-git push
-clear
-ls
-popd
-popd
-git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles
-pushd ~/.dotfiles
-ls
-zipdot
-clear
-zipws
-popd
-clear
-brew search bfg
-brew isntall bfg
-brew install bfg
-clear
-man bfg
-bfg --help
-zipdot
-clear
-reload
-pushd $dot
-ls
-clear
-reload
-bfg --help
-clear
-reload
-popd
-clear
-reload
-Nightwatch The Flash
-NightWatch The Flash
-clear
-reload
-NightWatch The Flash
-sudo mkdir /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-reload
-$refind/refind-install
-reload
-sudo rEFInd
-sudo $refind/refind-install
-sudo $refind/refind-install
-diskutil unmount /Volumes/EFI
-clear
-sudo mkdir /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-diskutil unmount /Volumes/EFI
-sudo restart
-sudo reboot
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-sudo launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-sudo launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-sudo launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-NightWatch The Flash
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-reload
-update
-refind
-rEFInd
-sudo mkdir /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-clear
-reload
-reload
-reload
-reload
-update
-clean
-sudo mkdir /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-diskutil unmount /Volumes/EFI
-reload
-clean
-reload
-clean
-reload
-clean
-reload
-proceedClean
-reload
-proceedClean
-proceedClean
-reload
-proceedClean
-proceedClean
-reload
-proceedClean
-proceedClean
-reload
-proceedClean
-reload
-proceedClean
-reload
-proceedClean
-reload
-proceedClean
-reload
-proceedClean
-reload
-proceedClean
-reload
-proceedClean
-proceedClean
-proceedClean
-reload
-proceedClean
-update
-reload
-diskutil unmount /Volumes/EFI
-zipdot
-zipws
-reload
-reload
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl unload /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl load /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-launchctl start /Users/briancrink/Library/LaunchAgents/com.briancrink.rsyncwallpaper.plist
-ls
-ls -la
-code .alias
-code .update
-code .backup
-reload
-%
-%
-pushd $workflow/portfolio
-pushd $workflow/Portfolio
-pushd $wf/Portfolio
-ls
-git clone https://github.com/briancrink/briancrink.github.io.git
-ls
-cd briancrink.github.io
-echo "Hello World" > index.html
-git add --all
-git commit -m "initial commit"
-git push -u origin master
-gem install jekyll bundler
-popd
-popd
-gem install jekyll bundler
-sudo gem install jekyll bundler
-jekyll new myblog
-pushd myblog
-bundle exec jekyll serve
-bundle exec jekyll serve
-reload
-bundle exec jekyll serve
-bundle
-reload
-ls
 ls -la
 clear
 pushd /.dotfiles/.dictionary
@@ -498,3 +320,181 @@ NightWatch Agents of S.H.I.E.L.D
 %
 rm -r ~/downloads
 sudo rm -r ~/downloads
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+killall Dock
+brew install git
+brew reinstall git
+update
+%
+%
+%
+%
+%
+%
+%
+git
+ls
+rm -r Downloads
+sudo rm -r Downloads
+pushd software
+pushd drive
+pushd ws
+pushd workspace
+code alias
+reload
+calias
+cfun
+calias
+cvar
+pushd ws
+pushd $ws
+ls
+pushd Workflow
+ls
+pushd Software/Project
+ls
+touch wip
+pushd wip
+ls
+rm wip
+ls
+mkdir wip
+ls
+pushd wip
+ls
+echo "# wip" >> README.md
+git init
+git init
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/briancrink/wip.git
+git push -u origin master
+code README.md
+ls
+reload
+%
+killall Finder
+man trash
+trash -esy
+trash -esy
+trash -esy
+reload
+code ~/.bash_profile
+code ~/.prompt
+reload
+reload
+tmutil listlocalsnapshotdates|grep -e "^2"|xargs -n 1 -- sudo tmutil deletelocalsnapshots
+update
+reload
+%
+whois minimalistconsultant.com
+sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)
+pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/TinySpace
+reload
+echo "# tinyspace" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/briancrink/tinyspace.git
+git remote add origin https://github.com/briancrink/tinyspace.git
+git push -u origin master
+ls
+code readme.md
+git push -u origin master
+reload
+popd
+pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/Tinyspace
+git push -u origin master
+git commit -m "update index.htm"
+gid add index.htm
+git add index.htm
+git commit -m "update index.htm"
+git push -u origin master
+%
+pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/Minimaliste Consultant
+pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/Minimaliste\ Consultant
+echo "# minimalisteconsultant" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/briancrink/minimalisteconsultant.git
+git push -u origin master
+sudo rm -r /Users/briancrink/Downloads 
+sudo rm -r /Users/briancrink/Public 
+sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Documents 
+sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Desktop 
+sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/.Trash 
+sudo rm -r /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Braille\ Outline /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Chancery /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Color\ Emoji /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ ls /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Symbols /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/AquaKana /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Black /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Narrow /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Rounded\ MT\ Bold /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Unicode\ MS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Avenir /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Avenir\ Next /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Avenir\ Next\ Condensed /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Baskerville /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Big\ Caslon /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Brandon\ Grotesque /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Brush\ Script\ MT /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Chalkboard /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Chalkboard\ SE /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Chalkduster /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Cochin /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Comic\ Sans\ MS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Copperplate /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Courier\ New /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Didot /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/font /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Futura /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Geeza\ Pro /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Geneva /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Georgia /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Gill\ Sans /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Helvetica /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Helvetica\ Neue /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Helvetica\ Neue\ DeskUI /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Herculanum /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Hoefler\ Text /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Icomoon /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Impact /Users/briancrink/.Trash/iTunes /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Keyboard /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/LastResort /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/listing /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Lucida\ Grande /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/magnet /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Marion /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Marker\ Felt /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Menlo /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Microsoft\ Sans\ Serif /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Monaco /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Noteworthy /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Optima /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Palatino /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Papyrus /Users/briancrink/.Trash/PhotoScape\ X /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Skia /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/STIXGeneral /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Tahoma /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Thonburi /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/tidyspace /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Trebuchet\ MS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Verdana 
+sudo rm -r /Users/briancrink/Desktop 
+sudo rm -r /Users/briancrink/Documents 
+reload
+sudo rm -r /Users/briancrink/Documents 
+sudo rm -r /Users/briancrink/.Trash/iTunes 
+sudo rm -r /Users/briancrink/.Trash/PhotoScape\ X 
+sudo rm -r /Users/briancrink/Applications 
+%
+NightWatch Agents of S.H.I.E.L.D.
+reload
+%
+reload
+%
+update
+cdot
+calias
+code ~/.update
+code ~/.clean
+cfun
+cvar
+reload
+update
+reload
+%
+sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Automator /Users/briancrink/iCloud\ Drive\ \(Archive\)/Boom\ 2 
+sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Logic\ Pro\ X /Users/briancrink/iCloud\ Drive\ \(Archive\)/Open\ Audible /Users/briancrink/iCloud\ Drive\ \(Archive\)/Script\ Editor /Users/briancrink/iCloud\ Drive\ \(Archive\)/Shortcuts /Users/briancrink/iCloud\ Drive\ \(Archive\)/VMware\ Fusion\ Pro 
+sudo rm -r /Users/briancrink/Downloads 
+sudo rm -r /Users/briancrink/Public 
+sudo rm -r /Users/briancrink/Downloads 
+sudo rm -r /Users/briancrink/Documents 
+sudo rm -r /Users/briancrink/backup 
+reload
+calias
+cvar
+code ~/.clean
+reload
+update
+code ~/.clean
+reload
+clean
+reload
+sudo rm -r /.file
+reload
+c0
+%
+ping google.com
+ping google.com
+whois -c US tinyspace.com
+whois -c 1 tinyspace.com
+whois -c US tinyspace.com
+whois -c US -h tinyspace.com
+whois tinyspace.com -h
+whois bootstrapd.com -h
+c4
+c0
+c0
+whois https://bootstrapd.com
+whois https://www.bootstrapd.com
+whois https://bootstrappd.com
+whois https://www.bootstrapped.com
+whois https://bootstrapped.com
+whois https://bootstrapd.com
+whois https://tinyspace.com
+whois https://www.tinyspace.com
+whois
+-h tinyspace.com
+whois -h tinyspace.com
+man whois
+NightWatch Agents of S.H.I.E.L.D.
+ping google.com
+ping google.com
+ping google.com

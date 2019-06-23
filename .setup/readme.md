@@ -1,7 +1,7 @@
 # Setting up a New Machine
 
 <a href="https://github.com/KittyKatt/screenFetch">
-<img src="https://i.imgur.com/oUqwcwE.png" width="60%" height="60%">
+<img src="https://i.imgur.com/Et4FA9z.png" width="60%" height="60%">
 <a href="https://support.apple.com/kb/sp715?locale=en_US">
 <img src="https://i.imgur.com/QwgWnEt.png" width="27%" height="27%">
 </a>

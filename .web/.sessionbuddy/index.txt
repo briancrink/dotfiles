@@ -2073,6 +2073,9 @@ Shop
       Offerup
       https://offerup.com/
 
+      NextDoor
+      https://nextdoor.com
+
       Craigslist
       https://craigslist.org/
 
@@ -2210,6 +2213,9 @@ Shop
 
       Apple
       https://apple.com/
+
+      Apple Repair Program
+      https://www.apple.com/support/exchange_repair/
 
       9to5toys
       https://9to5toys.com/

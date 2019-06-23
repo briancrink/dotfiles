@@ -7,12 +7,14 @@ brew doctor
 brew cleanup
 
 # # * Dot_clean
-dot_clean -n $drive
+# dot_clean -n $drive
 
 # # * Empty the trash (empty, secure, skip confirmation)
 trash -esy
 
 # # * Reset folder .icns
 fileicon set $ws $dot/.icns/workspace.icns
+fileicon set $wf $dot/.icns/workflow.icns
 fileicon set $scanner $dot/.icns/scanner.icns
 fileicon set $screenshot $dot/.icns/screenshot.icns
+fileicon set $project $dot/.icns/project.icns

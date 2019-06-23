@@ -17,6 +17,7 @@ drive=/Volumes/Drive # $drive
 ws=$drive/Workspace # $ws
 wf=$ws/Workflow # $wf
 doc=$ws/Document # $doc
+project=$ws/Project # $project
 scanner=$doc/Scanner # $scanner
 screenshot=$doc/Screenshot # $screenshot
 setup=$ws/Setup # $setup

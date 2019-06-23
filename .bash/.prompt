@@ -9,6 +9,7 @@
     # 1. show which git branch you’re currently working with
 
 # # * 256 color variables
+black=$(tput setaf 0);
 blue=$(tput setaf 4);
 teal=$(tput setaf 14);
 white=$(tput setaf 15);
@@ -24,12 +25,15 @@ reset=$(tput sgr0);
 
 # # *  `\[\]` fix the incorrect cursor placement
 PS1="\[${grey}\]\u";
+# PS1="\[${black}\]\u";
 PS1+="\[${white}\] ";
 PS1+="\[${purple}\]\h";
 PS1+="\[${grey}\] \W";
+# PS1+="\[${black}\] \W";
 PS1+="\[${white}\] ";
 PS1+="\[${purple}\]-> ";
 PS1+="\[${grey}\]";
+# PS1+="\[${black}\]";
 export PS1;
 
 # # * display system information

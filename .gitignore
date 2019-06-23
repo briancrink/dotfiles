@@ -18,3 +18,6 @@ background.png
 
 # SHSH blobs, saved screenshots
 .archive
+
+# Large folders
+.font
