@@ -1,20 +1,3 @@
-ls -la
-clear
-pushd /.dotfiles/.dictionary
-pushd .dotfiles/.dictionary
-ls
-ls -la
-code .dictionary
-..
-ls
-pushd .web/.sessionbuddy
-ls -la
-code service.txt
-NightWatch Twilight Zone
-popd
-code .dictionary/.dictionary
-%
-pushd .web/.sessionbuddy
 ls
 code index.txt
 code workflow.txt
@@ -498,3 +481,20 @@ NightWatch Agents of S.H.I.E.L.D.
 ping google.com
 ping google.com
 ping google.com
+ls -la
+reload
+pushd .dotfiles
+ls
+git add --all
+git commit -m "update file"
+git push -u origin master
+git add --all
+git commit -m "readme.md update img url"
+git push -u origin master
+git commit -m "readme.md update img url"
+git add --all
+git commit -m "readme.md update img url"
+git push -u origin master
+reload
+pushd ~
+git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles2
