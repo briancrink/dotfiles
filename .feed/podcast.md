@@ -1,26 +1,23 @@
-Subscription Settings:
-Notifications:
-- off
-Limit Episodes:
-- off
-Download Episodes:
+Notifications
+
+- off Limit Episodes:
+- off Download Episodes:
 - off
 
-Playlist Settings:
-Include:
+Playlist Settings Include
+
 - All Episodes
-- Unplayed only
-Play:
+- Unplayed only Play:
 - Manual
 
-Playlists:
+Playlists
+
 - Morning Routine
 - Afternoon Routine
 - Daily News
 - Tech News
 - Food for Thought
 - Nightly Routine
-
 - Business
 - Coding
 - HiFi
@@ -34,10 +31,8 @@ Playlists:
 - Music Reviews
 - Entertainment
 
-Podcast App UI:
-- Night Theme
+## App Functionality
 
-Functionality:
 - Video playback
 - Add external podcast URL’s
 - Add channels to playlists

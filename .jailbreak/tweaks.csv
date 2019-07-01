@@ -8,6 +8,7 @@ AppList,https://apt.thebigboss.org/repofiles/cydia/,free,,stable,,yes
 AutoDismissSiri,https://repo.packix.com/,free,,stable,,yes
 Artsy,https://repo.packix.com/,free,,broken,,wishlist
 AutoUnlockX,http://sparkdev.me/,free,,stable,,yes
+Barmoji,https://repo.cpdigitaldarkroom.com/,free,,stable,,yes
 BatteryNotch,https://repo.packix.com/,1.5,,stable,,wishlist
 BatteryPercentX,http://sparkdev.me/,free,,stable,,yes
 BetterCCXI,https://repo.packix.com/,1.49,,,,wishlist
@@ -41,6 +42,7 @@ DoubleTapLock,http://sparkdev.me/,free,,partial,,yes
 Eclipse Dark Mode,https://repo.packix.com/,1.49,,stable,,yes
 EvanescoXI,https://repo.chariz.io/,free,,stable,,yes
 Exsto,https://julioverne.github.io/,free,,broken,not recently tested,wishlist
+EZSwipe,https://repo.packix.com/,free,,stable,,yes
 FastCopy,https://apt.thebigboss.org/repofiles/cydia/,free,,stable,,wishlist
 Fileza File Manager,https://apt.thebigboss.org/repofiles/cydia/,free,,stable,,yes
 Flame,https://apt.thebigboss.org/repofiles/cydia/,free,,stable,,yes
@@ -50,6 +52,7 @@ FolderBackgroundBeGone,,free,PrimalFolder,,,no
 Gif2Ani V2,https://repo.midnightchips.me/,free,,partial,,yes
 Glacier,http://squ1dd13.tk/repo/,free,,stable,,yes
 HideBarX,http://sparkdev.me/,free,,stable,,yes
+HideYourApps,https://repo.dynastic.co/,free,,stable,,yes
 iCleaner Pro,https://ib-soft.net/cydia/,free,,broken,,yes
 IGDarkMode,https://repo.packix.com/,free,Eclipse Dark Mode,stable,,wishlist
 IGOLED,https://repo.packix.com/,free,IGDarkMode,stable,,wishlist
@@ -66,6 +69,7 @@ Melior,http://sparkdev.me/,free,Aerify,stable,,wishlist
 Mikoto,https://cydia.angelxwind.net/,free,,partial,not recently tested,wishlist
 MinimalHUD,https://apt.thebigboss.org/repofiles/cydia/,free,,partial,not recently tested,wishlist
 Moonshine,https://repo.chariz.io/,2.49,,stable,notifications HUD,wishlist
+Muzik,https://repo.packix.com/,1,,stable,,yes
 NavAway,https://apt.thebigboss.org/repofiles/cydia/,free,,partial,,yes
 NewTerm 2,https://cydia.hbang.ws/,free,,stable,,yes
 NoDots10,https://apt.thebigboss.org/repofiles/cydia/,free,,stable,,yes
@@ -88,10 +92,11 @@ Passby,https://apt.thebigboss.org/repofiles/cydia/,free,,stable,,wishlist
 PencilChargingIndicator,,free,,,,wishlist
 RealCC,https://apt.thebigboss.org/repofiles/cydia/,free,,broken,not updated,wishlist
 ReProvision,https://repo.incendo.ws/,free,,stable,sign applications on device,yes
-resprint,https://cydia.ceadd.ca/,free,,stable,,yes
+respring,https://cydia.ceadd.ca/,free,,stable,,yes
 Rooster,https://repo.packix.com/,free,,broken,enable/disable app notifications via force touch,wishlist
 SafeShutdown,https://apt.thebigboss.org/repofiles/cydia/,1.99,,stable,,wishlist
 Saw,https://apt.thebigboss.org/repofiles/cydia/,free,CleanTab,partial,not recently tested,wishlist
+SB EW3,https://evynw.github.io,free,,stable,,yes
 Semperin,https://repo.packix.com/,0.99,,partial,not recently tested always-on display,wishlist
 SendDelay,https://apt.thebigboss.org/repofiles/cydia/,free,Whoops,stable,,wishlist
 ShortLook,https://repo.dynastic.co/,3.99,,stable,,yes
@@ -113,6 +118,7 @@ TweakCount2,https://apt.thebigboss.org/repofiles/cydia/,free,,stable,,yes
 Twitter Profile Pictures for ShortLook,https://repo.dynastic.co/,free,,stable,,yes
 TwitterTweak,https://repo.packix.com/,free,,stable,,yes
 UltraSound,https://repo.dynastic.co/,2.99,,stable,volume HUD,wishlist
+Vesta,http://sparkdev.me/,free,,stable,,yes
 Whoops,http://sparkdev.me/,free,,stable,,yes
 WishDia,https://julioverne.github.io/,free,,stable,,yes
 XenHTML,https://xenpublic.incendo.ws/,free,,partial,causes app freeze and conflicts with DoubleTapLock,yes

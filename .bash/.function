@@ -43,10 +43,11 @@ EOF
 function NightWatch() {
   local a="Firefox"; local p="https"; local h="openpirate"; local d="org";
   open -a "$a" "$p"://"$h"."$d"/search/"$*"/0/3/0 | urlencodepipe ;
+  }
   # local a="Firefox"; local v="view-source"; local p="https"; local h="openpirate"; local d="org";
   # printf "NightWatch: " && read q ; # (optional read line into a 'q' variable; replace "$*" with "$q")
   # open -a "$a" "$v":"$p"://"$h"."$d"/search/"$(?=\s*\d+$)"/0/"$*[1-9]"/0 | urlencodepipe ;
-}
+
 
 # function (path, header) {
 #   line = 1;

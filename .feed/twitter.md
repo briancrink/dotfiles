@@ -1,22 +1,27 @@
-News Feed:
+## Tech News
 
-Company:
-
-Tech News
     - Apple News
     - Tesla
     - MKBHD
     - SpaceX
     - Other*
-Sports:
+
+## Sports
+
     - Detroit
     - MSU
-World News:
+
+## World News
+
     - PDS
-Science:
+
+## Science
+
     - VScauce
     - Veritasium
-Public Figures:
+
+## Public Figures
+
     - Elon Musk
     - Donald Trump
     - Gary Vee
@@ -24,13 +29,16 @@ Public Figures:
     - Bill Gates
     - Richard Branson
     - Tim Cook
-Music:
+
+## Music
+
     - Chance the Rapper
     - Skrillex
     - Donald Glover
     - J. Cole
     - Mac Miller
-Business / Financial:
+
+## Business
+
     - Forbes
     - Art of Manliness
-    

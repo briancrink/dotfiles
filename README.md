@@ -1,8 +1,8 @@
-[<img src="https://i.imgur.com/CijEIsH.png" width="20" height="20">](https://briancrink.com)
-[<img src="https://i.imgur.com/GqWnJKH.png" width="20" height="20">](https://twitter.com/briancrink)
-[<img src="https://i.imgur.com/CXdqFLS.png" width="20" height="20">](https://reddit.com/user/NeonSpaceCandy)
+[<img src="https://i.imgur.com/CijEIsH.png" width="18" height="18">](https://briancrink.com)
+[<img src="https://i.imgur.com/GqWnJKH.png" width="18" height="18">](https://twitter.com/briancrink)
+[<img src="https://i.imgur.com/CXdqFLS.png" width="18" height="18">](https://reddit.com/user/NeonSpaceCandy)
 
-[![](https://i.imgur.com/h3a5KMP.png)](https://briancrink.com/software)
+[![](https://i.imgur.com/6EOG5Sg.png)](https://briancrink.com/software)
 
 <html>
 <h1 align="center">
@@ -15,13 +15,13 @@
 
 1. [Set up a New Machine](https://github.com/briancrink/dotfiles/blob/master/.setup)
 
-2. [Set up Web Workflows](https://github.com/briancrink/dotfiles/blob/master/.web)
+2. [Set up Web Workflow](https://github.com/briancrink/dotfiles/blob/master/.web)
 
-3. [Set up Social Feeds](https://github.com/briancrink/dotfiles/blob/master/.feed)
+3. [Set up Content Feed](https://github.com/briancrink/dotfiles/blob/master/.feed)
 
-4. [Migrate Music Collections](https://github.com/briancrink/dotfiles/blob/master/.music)
+4. [Migrate Music Collection](https://github.com/briancrink/dotfiles/blob/master/.music)
 
-5. [Jailbreak Apple Devices](https://github.com/briancrink/dotfiles/blob/master/.jailbreak)
+5. [Jailbreak Device](https://github.com/briancrink/dotfiles/blob/master/.jailbreak)
 
 ## Tools
 

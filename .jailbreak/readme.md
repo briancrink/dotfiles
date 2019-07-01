@@ -1,10 +1,79 @@
-# unc0ver Jailbreak 12.1.1 - 12.1.2
+# Unc0ver Jailbreak 12.1.1 - 12.1.2
 
 Last Updated April 19, 2019
 
+## Catalina Pro
+
+![lockscreen](https://i.imgur.com/fShnMyh.jpg =24%x24%)
+![homescreen](https://i.imgur.com/GywqG7i.jpg =24%x24%)
+![volume_bar](https://i.imgur.com/mKL3hn2.jpg =24%x24%)
+![call_bar](https://i.imgur.com/J6C92xQ.jpg =24%x24%)
+![today_view](https://i.imgur.com/sNveGhQ.jpg =24%x24%)
+![app_drawer](https://i.imgur.com/wDQbyRS.png =24%x24%)
+![settings](https://i.imgur.com/01QvA8C.png =24%x24%)
+![control_center](https://i.imgur.com/YopWHHJ.jpg =24%x24%)
+
+### Catalina Pro Setup
+
+| tweak                                    | repo                                        | cost |
+| ---------------------------------------- | ------------------------------------------- | ---- |
+| AnimationsBeFast                         | https://exqusic.com/                        | free |
+| AppList                                  | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| AutoDismissSiri                          | https://repo.packix.com/                    | free |
+| AutoUnlockX                              | http://sparkdev.me/                         | free |
+| Barmoji                                  | https://repo.cpdigitaldarkroom.com/         | free |
+| BatteryPercentX                          | http://sparkdev.me/                         | free |
+| BetterSettings                           | https://repo.midnightchips.me/              | free |
+| CallBar XS                               | https://limneos.net/repo/                   | 1    |
+| CallDismiss                              | http://tateu.net/repo/                      | free |
+| CCModules                                | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| CCSupport                                | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| CleanTab                                 | https://repo.midnightchips.me/              | free |
+| CleanPasswordXI                          | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| Discord Profile Pictures for ShortLook   | https://repo.dynastic.co/                   | free |
+| DoubleTapLock                            | http://sparkdev.me/                         | free |
+| Eclipse Dark Mode                        | https://repo.packix.com/                    | 1.49 |
+| EZSwipe                                  | https://repo.packix.com/                    | free |
+| Flame                                    | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| FloatingDock                             | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| Glacier                                  | http://squ1dd13.tk/repo/                    | free |
+| HideBarX                                 | http://sparkdev.me/                         | free |
+| HideYourApps                             | https://repo.dynastic.co/                   | free |
+| iCleaner                                 | https://ib-soft.net/cydia/                  | free |
+| Instagram Profile Pictures for ShortLook | https://repo.dynastic.co/                   | free |
+| JellyFish                                | https://repo.dynastic.co/                   | 1.99 |
+| LeaveMeAlone                             | https://karimo299.github.io/repo/           | free |
+| LetMeBlock                               | https://cydia.ceadd.ca/                     | free |
+| Linkedin Contact Photos for ShortLook    | https://repo.dynastic.co/                   | free |
+| Lotus                                    | https://cydia.zodttd.com/repo/cydia/        | free |
+| Muzik                                    | https://repo.packix.com/                    | 1    |
+| NewTerm 2                                | https://cydia.hbang.ws/                     | free |
+| NoLowPowerAlert                          | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| Notifica                                 | https://repo.nepeta.me/                     | free |
+| OpenSSH                                  | https://apt.bingner.com/                    | free |
+| Pinterest Profile Pictures for ShortLook | https://repo.dynastic.co/                   | free |
+| PreferenceOrganizer 2                    | https://cydia.angelxwind.net/               | free |
+| Reddit Profile Pictures for ShortLook    | https://repo.dynastic.co/                   | free |
+| ReProvision                              | https://repo.incendo.ws/                    | free |
+| respring                                 | https://cydia.ceadd.ca/                     | free |
+| SB EW3                                   | https://evynw.github.io                     | free |
+| ShortLook                                | https://repo.dynastic.co/                   | 3.99 |
+| SmallSiri                                | https://repo.packix.com/                    | free |
+| Snapback                                 | https://repo.midnightchips.me/              | free |
+| Snapchat Bitmoji for ShortLook           | https://repo.dynastic.co/                   | free |
+| Snowboard                                | http://sparkdev.me/                         | free |
+| TweakCount2                              | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| TweakCompatible                          | https://apt.thebigboss.org/repofiles/cydia/ | free |
+| Twitter Profile Pictures for ShortLook   | https://repo.dynastic.co/                   | free |
+| Vesta                                    | http://sparkdev.me/                         | free |
+| WishDia                                  | https://julioverne.github.io/               | free |
+| XenHTML                                  | https://xenpublic.incendo.ws/               | free |
+| XenInfo                                  | http://junesiphone.com/supersecret/         | free |
+| YouTube Profile Photos for ShortLook     | https://repo.dynastic.co/                   | free |
+
 ## Details
 
-- iPhone Model: iPhone X (GSM) 64gb (10,3) A11 Chip
+- iPhone Model: **A5-11** iPhone X (GSM) 64gb (10,3) A11 Chip
 - Current Version: **12.1.1 (16C50) stable**
 - Signing?: **No**
 - Profile: [iOS 12 Beta Software Profile](https://betaprofiles.com/) **removed**
@@ -46,7 +115,7 @@ Last Updated April 19, 2019
 - [Save SHSH Blobs](https://www.youtube.com/watch?v=8BxxLrp6ID4)
 - [Restore SHSH Blobs](https://www.youtube.com/watch?v=kMMXvi6zJH0)
 - [SHSH Blobs A5-A11](https://tsssaver.1conan.com/)
-- [unc0ver Jailbreak Tutorial](https://www.youtube.com/watch?v=IhEIPxvWDyo)
+- [unc0ver Jailbreak Tutorial](https://youtube.com/watch?v=IhEIPxvWDyo)
 - [unc0ver Settings](https://imgur.com/a/MMo9Hbd#EndCjXl)
 
 ## Stay up to date!
@@ -113,7 +182,7 @@ Last Updated April 19, 2019
 
 ### Favorite Tweaks
 
-|                  tweak                   |                    repo                     | cost |     duplicate     | status  |                        note                        | installed |
+|                  tweak                   |                    repo                     | cost |    alternative    | status  |                        note                        | installed |
 | :--------------------------------------: | :-----------------------------------------: | :--: | :---------------: | :-----: | :------------------------------------------------: | :-------: |
 |                Activator                 |           https://rpetri.ch/repo/           | free |                   | stable  |                                                    | wishlist  |
 |           Adblock for YouTube            | https://apt.thebigboss.org/repofiles/cydia/ | free |                   | stable  |                                                    |    yes    |

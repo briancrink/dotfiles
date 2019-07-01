@@ -1,84 +1,3 @@
-ls
-code index.txt
-code workflow.txt
-%
-ls
-popd
-.dictionary
-pushd .dictionary
-ls
-ls -la
-code .dictionary
-code .software
-code .accessedu
-sudo rm -r /Users/briancrink/Downloads
-popd
-pushd .regex
-ls -la
-code readme.md
-code readme.txt
-NightWatch Agents of Shield
-%
-popd
-ls
-pushd .dictionary
-ls -la
-code .accessedu
-rm .accessedu
-rm .software
-code .temp
-code dictionary.md
-rm dictionary.md
-ls -la
-code .unix*
-code readme.md
-popd
-pushd .web/.sessionbuddy
-ls
-code workflow.txt
-popd
-pushd .regex
-ls
-code readme.txt
-%
-popd
-pushd .web/.sessionbuddy
-workflow.txt
-ls -la
-code workflow.txt
-popd
-pushd .dictionary
-ls -la
-popd
-ls -la
-reloda
-reload
-ls -la
-%
-pushd .dictionary
-code .dictionary
-%
-code ~/.alias
-ls -la ~
-code ~/.variable
-reload
-calias
-cdict
-calias
-reload
-cdict
-cvar
-calias
-popd
-reloda
-reload
-ls -la
-cdict
-$HOME ls -la
-~ ls -la
-pushd ~
-ls -la
-popd
 ls -la
 pushd .setup
 ls -la
@@ -498,3 +417,84 @@ git push -u origin master
 reload
 pushd ~
 git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles2
+pushd .dotfiles
+ls
+ls -la
+pushd bash
+ls
+ls -la
+code .bash_history
+ls
+popd
+popd
+ls
+git clone --mirror git://github.com/briancrink/.dotfiles.git
+bfg -b 1M .dotfiles.git
+pushd .dotfiles.git
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+git push
+git push https://github.com/briancrink/.dotfiles.git
+git remote push https://github.com/briancrink/.dotfiles.git
+git remote add push https://github.com/briancrink/.dotfiles.git
+git push
+popd
+git clone --mirror https://github.com/briancrink/dotfiles.git
+bfg -b 1M dotfiles.git
+pushd dotfiles.git
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+git push
+popd
+git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles2
+reload
+reload
+pushd .dotfiles
+git add --all
+git commit -m "readme.md update #bfg 3. 9."
+git push -u origin master
+popd
+reload
+calias
+zipdot
+zipws
+reload
+%
+sudo rm -r /Users/briancrink/Downloads 
+sudo rm -r /Users/briancrink/Downloads 
+sudo rm -r /Users/briancrink/Public
+sudo rm -r /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Documents/Documents\ -\ MacBook\ Pro
+update
+%
+%
+%
+%
+update
+reload
+update
+reload
+NightWatch Fear the Walking Dead S04E07
+NightWatch Fear the Walking Dead S04E07
+brew search mpv
+brew cask mpv
+brew cask install mpv
+brew search inna
+NightWatch Grand Design
+reload
+alias
+calias
+cfun
+cvar
+reload
+update
+reload
+clean
+reload
+NightWatch Agent of S.H.I.E.L.D.
+NightWatch Agents of S.H.I.E.L.D.
+NightWatch Agents of S.H.I.E.L.D.
+cfun
+%
+whois millennialassistant.com
+whois minimalistassistant.com
+reload
+updare
+update
