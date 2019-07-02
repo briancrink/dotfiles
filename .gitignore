@@ -16,8 +16,9 @@ Thumbs.db
 # refind background
 background.png
 
-# SHSH blobs, saved screenshots
-.archive
-
 # Large folders
 .font
+
+# SHSH blobs, saved screenshots, misc
+.archive
+.bash_history

@@ -13,13 +13,13 @@
 
 ## Setup
 
-1. [Set up a New Machine](https://github.com/briancrink/dotfiles/blob/master/.setup)
+1. [New Machine](https://github.com/briancrink/dotfiles/blob/master/.setup)
 
-2. [Set up Web Workflow](https://github.com/briancrink/dotfiles/blob/master/.web)
+2. [Web Workflow](https://github.com/briancrink/dotfiles/blob/master/.web)
 
-3. [Set up Content Feed](https://github.com/briancrink/dotfiles/blob/master/.feed)
+3. [Content Feed](https://github.com/briancrink/dotfiles/blob/master/.feed)
 
-4. [Migrate Music Collection](https://github.com/briancrink/dotfiles/blob/master/.music)
+4. [Migrate Music](https://github.com/briancrink/dotfiles/blob/master/.music)
 
 5. [Jailbreak Device](https://github.com/briancrink/dotfiles/blob/master/.jailbreak)
 

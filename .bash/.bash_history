@@ -1,8 +1,3 @@
-ls -la
-pushd .setup
-ls -la
-%
-%
 %
 NightWatch Arrow
 NightWatch Legends of Tomorrow
@@ -498,3 +493,8 @@ whois minimalistassistant.com
 reload
 updare
 update
+pushd dot
+pushd $dot
+git add .
+git commit -m "update file"
+git push

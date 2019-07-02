@@ -4,6 +4,8 @@
 fileicon get -f $scanner $dot/.icns/scanner
 fileicon get -f $screenshot $dot/.icns/screenshot
 fileicon get -f $ws $dot/.icns/workspace
+fileicon get -f $wf $dot/.icns/workflow
+fileicon get -f $project $dot/.icns/project
 
 # # * Brewfile
 brewbun
