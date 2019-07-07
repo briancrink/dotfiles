@@ -102,6 +102,8 @@ and iCloud Drive.
 
 **Note:** the hidden dotfiles folder will be cloned to the home directory.
 
+**Size:** ~9mb zip; ~25mb unzip
+
 - type `git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles` to
   **clone to the local home directory**.
 - type `source ~/.dotfiles/.setup/.bootstrap` to **begin the setup process**.
