@@ -717,9 +717,7 @@ CopyRefindFiles() {
       mv -f "$InstallDir/$TargetDir/icons" "$InstallDir/$TargetDir/icons-backup"
       echo "Notice: Backed up existing icons directory as icons-backup."
    fi
-   cp -r "$ThemesDir/$Theme" -t "$InstallDir/$TargetDir/themes" 2> /dev/null
-   # # * For some unknown reason, `cp -r` does not source files -t for symlinks
-   cp --remove-destination "$ThemesDir/$Theme/$Background" -t "$InstallDir/$TargetDir/themes/$Theme" 2> /dev/null
+   cp "$ThemesDir" -rLt "$InstallDir/$TargetDir" 2> /dev/null
    # cp -r "$IconsDir" -t "$InstallDir/$TargetDir"
    if [[ $? != 0 ]] ; then
       Problems=1

@@ -22,14 +22,7 @@ render
    [refind.conf-sample](refind/refind.conf-sample)
 4. modify [refind-install](refind-install), overwrite the following code:
 
-add variables:
-
-```
-Theme="ambience"
-Background="background.png"
-```
-
-rename `refind.conf-sample` -> `refind.conf`
+rename `refind.conf-sample` -> `refind.conf`:
 
 ```
    if [[ -f "$RefindDir/refind.conf" ]] ; then
@@ -59,12 +52,10 @@ add themes folder:
    fi
 ```
 
-copy theme folder to EFI, set background:
+copy themes folder to EFI, set background:
 
 ```
-   cp -r "$ThemesDir/$Theme" -t "$InstallDir/$TargetDir/themes" 2> /dev/null
-   # # * For some unknown reason, `cp -r` does not source -t for symlinks
-   cp --remove-destination "$ThemesDir/$Theme/$Background" -t "$InstallDir/$TargetDir/themes/$Theme"
+   cp "$ThemesDir" -rLt "$InstallDir/$TargetDir" 2> /dev/null
 ```
 
 ### Setting up (Easy)
