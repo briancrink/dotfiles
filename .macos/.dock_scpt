@@ -1,0 +1,57 @@
+#! /usr/local/bin/bash
+
+# # * Set Dock application placement (dependency -> brew install dockutil)
+dockutil --remove all --no-restart
+dockutil --add '/Applications/System Preferences.app' --no-restart
+dockutil --add '/Applications/iTerm.app' --no-restart
+dockutil --add '/Applications/Visual Studio Code.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Logic Pro X.app' --no-restart
+dockutil --add '/Applications/Live Home 3D Pro.app' --no-restart
+dockutil --add '/Applications/Photoshop.app' --no-restart
+dockutil --add '/Applications/PhotoScapeX.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/TIDAL.app' --no-restart
+dockutil --add '/Applications/Spotify.app' --no-restart
+dockutil --add '/Applications/VOX.app' --no-restart
+dockutil --add '/Applications/Google Play Music Desktop Player.app' --no-restart
+dockutil --add '/Applications/Music.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Podcasts.app' --no-restart
+dockutil --add '/Applications/Books.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Google Chrome.app' --no-restart
+dockutil --add '/Applications/Trello.app' --no-restart
+dockutil --add '/Applications/draw.io.app' --no-restart
+dockutil --add '/Applications/News.app' --no-restart
+dockutil --add '/Applications/Twitterrific.app' --no-restart
+dockutil --add '/Applications/Slack.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Contacts.app' --no-restart
+dockutil --add '/Applications/Messages.app' --no-restart
+dockutil --add '/Applications/Signal.app' --no-restart
+dockutil --add '/Applications/Spark.app' --no-restart
+dockutil --add '/Applications/FaceTime.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/Photos.app' --no-restart
+dockutil --add '/Applications/Calendar.app' --no-restart
+dockutil --add '' --type spacer --section apps --no-restart
+dockutil --add '/Applications/App Store.app' --no-restart
+dockutil --add '/Applications/TV.app' --no-restart
+dockutil --add '/Applications/Epic Games Launcher.app' --no-restart
+defaults write com.apple.dock tilesize -int 50
+killall dock
+
+# # * filepath = '/Applications'
+# loop through $apps
+# # * dockutil --add "$filepath"/"$app".app --no-restart
+# # * defaults write com.apple.dock tilesize -int 50
+# # * killall dock
+
+# remove all except app_name
+# # * (.*)(file)(.*)
+# # * $1
+
+# cut trailing whitespace
+# # * [ \t]+$
+# (leave blank)

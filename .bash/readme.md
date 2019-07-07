@@ -68,6 +68,10 @@
 - type `mv <file> <newlocation>` to move files
 - `pushd`, `popd` (to move across directory)
 
+### Alias
+
+- type `ln -s /path/to/original/ /path/to/link` to create an alias
+
 ### Remove
 
 - type `sudo rm <file> -r or -rf` to recursively remove files
@@ -367,7 +371,7 @@ parent directories; `popd` to return to original directory
 
 - `PS1="\u-> ";`
   - `export PS1;`
-- `PS1="N e o n S p a c e C a n d y $ ";`
+- `PS1=" ";`
 - `$(tput setaf 100)`
 - Special Characters:
   - `\h` the hostname up to the first .

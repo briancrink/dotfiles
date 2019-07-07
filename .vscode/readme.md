@@ -1,5 +1,7 @@
 # VS Code
 
+[Download Visual Studio Code](): `brew cask install visual-studio-code`
+
 ## Install `Code` Shell
 
 - Command Pallete -> type `Shell Command: Install Code` to **install code**

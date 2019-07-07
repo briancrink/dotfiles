@@ -1,378 +1,3 @@
-%
-NightWatch Arrow
-NightWatch Legends of Tomorrow
-NightWatch Arrow
-%
-cdict
-reload
-calias
-reload
-ckey
-calias
-cvar
-pushd $sbdir
-ls -la
-reload
-c1
-ls -la
-..
-ls
-ls -la
-. .searchengine
-cd .searchengine
-ls
-..
-code readme.md
-cwf
-cwork
-cworkf
-calias
-c1
-c2
-code c2
-calias
-'code '$sbdir'/service.txt'
-code /Users/briancrink/.dotfiles/.web/.sessionbuddy/service.txt
-reload
-c5
-cvar
-pushd $sbdir
-code $sbdir/index.txt
-reload
-c2
-c1
-c2
-c3
-c4
-calias
-reload
-c0
-calias
-reload
-c0
-c0
-calias
-reload
-c0
-c0
-c0
-c0
-c0
-NightWatch The Flash
-bundle
-pushd myblog
-bundle exec jekyll serve
-clear
-reload
-popd
-pushd $wf/Business/Startup
-git clone https://github.com/briancrink/accessedu.git
-ls
-pushd accessedu
-echo "# accessedu" >> readme.md
-git init
-git add readme.md
-git commit -m "initial commit"
-git remote add origin https://github.com/briancrink/accessedu.git
-git push -u origin master
-ls
-code index.htm
-reload
-ls
-ls -la
-brew search gill sans
-brew search gill
-clear
-reload
-cdict
-calias
-export TOOLCHAINS=swift
-/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
-/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
-/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
-/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist org.swift.4020170919
-/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plistorg.swift.4020170919
-/usr/libexec/PlistBuddy -c "Print CFBundleIdentifier:" /Library/Developer/Toolchains/swift-4.0-RELEASE.xctoolchain/Info.plist
-swift --version
-swift
-NightWatch Agents of S.H.I.E.L.D
-%
-%
-cfunction
-cfunc
-cfunct
-pushd ~/.dotfiles/.bash
-ls
-ls -la
-code .function
-man wx
-man wc
-popd
-cd Desktop
-echo "#Header \n testing" >> test.md
-ls
-code test.md
-man wc
-wc l test.md
-wc -l test.md
-pushd ~/.dotfiles/.bash
-code +32 .function
-code .function +32
-man code
-code
-code --help
-code -goto .function:57
-code -goto .function:*:q
-code -goto .function:*[:q]
-code -goto .function:.:[:q]
-code -goto .function:.*:[:q]
-grep code code -goto .function:$line[:q]
-pushd
-popd
-popd
-popd
-popd
-pushd ~
-pushd Desktop
-grep "# $1" test.md 
-grep "#" test.md 
-grep "#$header" test.md 
-%
-brew install httrack
-httrack
-clear
-python3 -m http.server "/Volumes/Drive/Workspace/Workflow/Profile/briancrink/portfolio/index.html"
-python -m http.server "/Volumes/Drive/Workspace/Workflow/Profile/briancrink/portfolio/index.html"
-reload
-calias
-reload
-cfun
-reload
-clear
-clean
-update
-clear
-reload
-git clone https://github.com/potyt/fonts ~/Desktop
-git clone https://github.com/potyt/fonts ~/Desktop/fonts
-pushd Desktop/fonts
-ls
-pushd macfonts
-ls
-brew search avenir
-popd
-popd
-git clone https://github.com/sveinbjornt/lemur2013.git Desktop/font2
-csb
-c1
-c2
-c0
-code ~/.bash_profile
-code ~/.prompt
-reload
-pushd desktop
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-reload
-
-
-
-reload
-reload
-NightWatch Legends of Tomorrow
-c1
-c0
-calias
-code '$sbdir/'index.txt
-update
-reload
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-python -u "/Volumes/Drive/Workspace/Workflow/Software/Concept/Algorithms/Exercise/char match-swap/solution.py"
-NightWatch Twilight Zone
-NightWatch Agents of S.H.I.E.L.D
-%
-NightWatch Twilight Zone
-NightWatch Agents of S.H.I.E.L.D
-%
-rm -r ~/downloads
-sudo rm -r ~/downloads
-dockutil --add '' --type spacer --section apps --no-restart
-dockutil --add '' --type spacer --section apps --no-restart
-killall Dock
-brew install git
-brew reinstall git
-update
-%
-%
-%
-%
-%
-%
-%
-git
-ls
-rm -r Downloads
-sudo rm -r Downloads
-pushd software
-pushd drive
-pushd ws
-pushd workspace
-code alias
-reload
-calias
-cfun
-calias
-cvar
-pushd ws
-pushd $ws
-ls
-pushd Workflow
-ls
-pushd Software/Project
-ls
-touch wip
-pushd wip
-ls
-rm wip
-ls
-mkdir wip
-ls
-pushd wip
-ls
-echo "# wip" >> README.md
-git init
-git init
-git init
-git commit -m "first commit"
-git remote add origin https://github.com/briancrink/wip.git
-git push -u origin master
-code README.md
-ls
-reload
-%
-killall Finder
-man trash
-trash -esy
-trash -esy
-trash -esy
-reload
-code ~/.bash_profile
-code ~/.prompt
-reload
-reload
-tmutil listlocalsnapshotdates|grep -e "^2"|xargs -n 1 -- sudo tmutil deletelocalsnapshots
-update
-reload
-%
-whois minimalistconsultant.com
-sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)
-pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/TinySpace
-reload
-echo "# tinyspace" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/briancrink/tinyspace.git
-git remote add origin https://github.com/briancrink/tinyspace.git
-git push -u origin master
-ls
-code readme.md
-git push -u origin master
-reload
-popd
-pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/Tinyspace
-git push -u origin master
-git commit -m "update index.htm"
-gid add index.htm
-git add index.htm
-git commit -m "update index.htm"
-git push -u origin master
-%
-pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/Minimaliste Consultant
-pushd /Volumes/Drive/Workspace/Workflow/Business/Startup/Minimaliste\ Consultant
-echo "# minimalisteconsultant" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/briancrink/minimalisteconsultant.git
-git push -u origin master
-sudo rm -r /Users/briancrink/Downloads 
-sudo rm -r /Users/briancrink/Public 
-sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Documents 
-sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Desktop 
-sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/.Trash 
-sudo rm -r /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Braille\ Outline /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Chancery /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Color\ Emoji /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ ls /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Apple\ Symbols /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/AquaKana /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Black /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Narrow /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Rounded\ MT\ Bold /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Arial\ Unicode\ MS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Avenir /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Avenir\ Next /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Avenir\ Next\ Condensed /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Baskerville /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Big\ Caslon /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Brandon\ Grotesque /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Brush\ Script\ MT /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Chalkboard /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Chalkboard\ SE /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Chalkduster /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Cochin /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Comic\ Sans\ MS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Copperplate /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Courier\ New /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Didot /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/font /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Futura /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Geeza\ Pro /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Geneva /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Georgia /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Gill\ Sans /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Helvetica /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Helvetica\ Neue /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Helvetica\ Neue\ DeskUI /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Herculanum /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Hoefler\ Text /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Icomoon /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Impact /Users/briancrink/.Trash/iTunes /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Keyboard /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/LastResort /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/listing /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Lucida\ Grande /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/magnet /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Marion /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Marker\ Felt /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Menlo /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Microsoft\ Sans\ Serif /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Monaco /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Noteworthy /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Optima /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Palatino /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Papyrus /Users/briancrink/.Trash/PhotoScape\ X /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Skia /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/STIXGeneral /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Tahoma /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Thonburi /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/tidyspace /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Trebuchet\ MS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash/Verdana 
-sudo rm -r /Users/briancrink/Desktop 
-sudo rm -r /Users/briancrink/Documents 
-reload
-sudo rm -r /Users/briancrink/Documents 
-sudo rm -r /Users/briancrink/.Trash/iTunes 
-sudo rm -r /Users/briancrink/.Trash/PhotoScape\ X 
-sudo rm -r /Users/briancrink/Applications 
-%
-NightWatch Agents of S.H.I.E.L.D.
-reload
-%
-reload
-%
-update
-cdot
-calias
-code ~/.update
-code ~/.clean
-cfun
-cvar
-reload
-update
-reload
-%
-sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Automator /Users/briancrink/iCloud\ Drive\ \(Archive\)/Boom\ 2 
-sudo rm -r /Users/briancrink/iCloud\ Drive\ \(Archive\)/Logic\ Pro\ X /Users/briancrink/iCloud\ Drive\ \(Archive\)/Open\ Audible /Users/briancrink/iCloud\ Drive\ \(Archive\)/Script\ Editor /Users/briancrink/iCloud\ Drive\ \(Archive\)/Shortcuts /Users/briancrink/iCloud\ Drive\ \(Archive\)/VMware\ Fusion\ Pro 
-sudo rm -r /Users/briancrink/Downloads 
-sudo rm -r /Users/briancrink/Public 
-sudo rm -r /Users/briancrink/Downloads 
-sudo rm -r /Users/briancrink/Documents 
-sudo rm -r /Users/briancrink/backup 
-reload
-calias
-cvar
-code ~/.clean
-reload
-update
-code ~/.clean
-reload
-clean
-reload
-sudo rm -r /.file
-reload
-c0
-%
-ping google.com
-ping google.com
-whois -c US tinyspace.com
-whois -c 1 tinyspace.com
-whois -c US tinyspace.com
 whois -c US -h tinyspace.com
 whois tinyspace.com -h
 whois bootstrapd.com -h
@@ -498,3 +123,378 @@ pushd $dot
 git add .
 git commit -m "update file"
 git push
+alias
+variable
+function
+cfun
+cvar
+pushd $dot
+git add .
+git commit -m "update file"
+git push
+brew search tor
+reload
+update
+reload
+sudo rm -r /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Automator /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Cinemagraph\ Pro /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Documents\ by\ Readdle /Users/briancrink/Library/CloudStorage/iCloud\ Drive/GarageBand\ for\ iOS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/GarageBand\ for\ macOS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Grab /Users/briancrink/Library/CloudStorage/iCloud\ Drive/iThoughts /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Keynote /Users/briancrink/Library/CloudStorage/iCloud\ Drive/MindNode /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Music\ Memos /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Numbers /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Pages /Users/briancrink/Library/CloudStorage/iCloud\ Drive/PDF\ Reader /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Preview /Users/briancrink/Library/CloudStorage/iCloud\ Drive/PRINT /Users/briancrink/Library/CloudStorage/iCloud\ Drive/RSSRadio /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Script\ Editor /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Twitterrific /Users/briancrink/Library/CloudStorage/iCloud\ Drive/iMovie /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash-from-provider\ 4 /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash-from-provider\ 3
+sudo rm -r /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Automator /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Cinemagraph\ Pro /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Documents\ by\ Readdle /Users/briancrink/Library/CloudStorage/iCloud\ Drive/GarageBand\ for\ iOS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/GarageBand\ for\ macOS /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Grab /Users/briancrink/Library/CloudStorage/iCloud\ Drive/iThoughts /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Keynote /Users/briancrink/Library/CloudStorage/iCloud\ Drive/MindNode /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Music\ Memos /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Numbers /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Pages /Users/briancrink/Library/CloudStorage/iCloud\ Drive/PDF\ Reader /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Preview /Users/briancrink/Library/CloudStorage/iCloud\ Drive/PRINT /Users/briancrink/Library/CloudStorage/iCloud\ Drive/RSSRadio /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Script\ Editor /Users/briancrink/Library/CloudStorage/iCloud\ Drive/Twitterrific /Users/briancrink/Library/CloudStorage/iCloud\ Drive/iMovie /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash-from-provider\ 4 /Users/briancrink/Library/CloudStorage/iCloud\ Drive/.Trash-from-provider\ 3
+reload
+brew search google-chrome
+brew search vs code
+brew search vs-code
+brew search code
+brew search iterm2
+$Home
+pushd desktop
+pushd $HOME
+popd
+popd
+pushd desktop
+pushd HOME
+pushd ~
+man ln
+sudo rm -r /Users/briancrink/Downloads /Users/briancrink/Pictures /Users/briancrink/Public
+sudo rm -r /Users/briancrink/Downloads 
+sudo rm -r /Users/briancrink/Pictures 
+sudo rm -r /Users/briancrink/Music 
+sudo rm -r /Users/briancrink/Downloads 
+sudo rm -r /Users/briancrink/Photos 
+sudo rm -r /Users/briancrink/Movies 
+reload
+sudo rm -r /Users/briancrink/Music 
+NightWatch John Wick 2
+clean
+dockutil
+dockutil --list
+dockutil --list --homeloc
+dockutil --list --homeloc /Volumes/RAID/Homes --allhomes
+dockutil --list
+pushd desktop
+dockutil --list << test.txt
+dockutil --list >> test.txt
+test.txt
+sudo test.txt
+code text.txt
+code test.txt
+dockutil
+#!/usr/bin/env bash >> t.txt
+cat #!/usr/bin/env bash >> t.txt
+reload
+git
+git -C
+git --v
+git --version
+reload
+npm i -g bash-language-server
+reload
+reload
+sudo npm i -g bash-language-server tree-sitter tree-sitter-bash --unsafe-perm
+sudo npm i -g bash-language-server tree-sitter tree-sitter-bash --unsafe-perm
+sudo npm i -g bash-language-server tree-sitter tree-sitter-bash --unsafe-perm
+reload
+echo $SHELL
+whereis python
+which python
+whereis python
+reload
+python --version
+reload
+python --version
+whereis python
+which python
+python
+reload
+brew installed
+brew list
+brew search python
+whereis bash
+bash --version
+reload
+brew search refind
+/Volumes/Drive/rEFInd/refind-install; exit
+/Volumes/Drive/rEFInd/refind-install
+sudo /Volumes/Drive/rEFInd/refind-install
+reload
+diskutil unmount /Volumes/EFI
+reload
+rEFInd
+rEFInd
+diskutil
+diskutil eject EFI
+diskutil eject /Volumes/EFI
+diskutil unmount /Volumes/EFI
+diskutil mount /Volumes/Drive
+diskutil mount disk0
+diskutil mount disk0s1
+diskutil mountDisk disk0s1
+diskutil mountDisk disk0s2
+diskutil list
+diskutil mount EFI
+sudo diskutil mount EFI
+sudo diskutil unmount EFI
+sudo diskutil mount Drive
+man mv
+pushd $drive
+ls -la
+pushd a
+ls
+#hello >> a.md
+ls
+touch a.md
+ls
+#hello >> a.md
+ls
+a.md
+code a.md
+popd
+pushd b
+ln -s $drive/a/a.md $drive/b/a.md
+ls
+popd
+pushd a
+popd
+pushd b
+mv -t a.md $drive/c
+mv -t $drive/b/a.md $drive/c
+mv $drive/b/a.md -t $drive/c
+cp $drive/b/a.md -t $drive/c
+popd
+popd
+ln -s $HOME/background.png /Users/briancrink/.dotfiles/.rEFInd/refind/themes/ambience
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+cp /Users/briancrink/.dotfiles/.rEFInd/refind/themes/ambience/background.png -t $drive
+reloda
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+rEFInd
+reload
+cp -r /Volumes/Drive/a1/ambience -t /Volumes/Drive/a2
+pushd /Volumes/Drive/a2
+ls
+pushd ambience
+ls
+popd
+cp /Volumes/Drive/a1/ambience -rt /Volumes/Drive/a2
+popd
+pushd /Volumes/Drive/1
+touch file1 file2 << dir/
+touch file1 file2 >> mkdir dir
+mkdir dir >> touch file1 file2
+mkdir dir; pushd dir; touch file1 file2; ln -s file1; popd; popd; cp 1/dir -rt 2;
+mkdir dir; pushd dir; touch file1 file2; ln -s ../file0 file0; popd; popd; cp 1/dir -rt 2/;
+mkdir 1 2; touch file0; pushd 1; mkdir dir; pushd dir; touch file1 file2; ln -s ~/file0 file0; popd; popd; cp 1/dir -rt 2/;
+mkdir 1 2; touch file0; pushd 1; mkdir dir; pushd dir; touch file1 file2; ln -s ~/file0 file0; popd; popd; cp 1/dir -rt 2/;
+mkdir 1 2; touch file0; pushd 1; mkdir dir; pushd dir; touch file1 file2; ln -s ~/file0 file0; popd; popd; cp 1/dir -rt 2/;
+mkdir 3; cp file0 -t 3/
+mkdir 1 2 3; touch file0; pushd 1; mkdir dir; pushd dir; touch file1 file2; ln -s ~/file0 file0; popd; popd; cp 1/dir -rt 2/; cp file0 -t 3/;
+mkdir 1 2 3; touch file0; pushd 1; mkdir dir; pushd dir; touch file1 file2; ln -s ../file0 file0; popd; popd; cp 1/dir -rt 2/; cp file0 -t 3/;
+reload
+pushd $drive
+ls
+popd
+$docs
+pushd $docs
+ls
+reload
+reload
+popd
+zipdrive
+reload
+zipdrive
+zipdot
+$setup
+pushd $setup
+reload
+zipdot
+reload
+zipdrive
+reload
+zipdrive
+reload
+a1
+reload
+reload
+zipd
+reload
+zipd
+reload
+popd
+zipd
+ln -s $dot/.backup/.zipdrive ~/.zipdrive
+reload
+zipdrive
+reload
+zipdrive
+reload
+zipdrive
+reload
+zipdrive
+reload
+zipdrive
+reloda
+reload
+zipdrive
+reload
+zipdrive
+reload
+zipdrive
+reload
+zipdrive
+reload
+zipdrive
+NightWatch Agents of S.H.I.E.L.D.
+man cp
+rEFInd
+sudo diskutil unmount /Volumes/EFI
+sudo diskutil unmount EFI
+reload
+rEFInd
+rEFInd
+reload
+rEFInd
+rEFInd
+reload
+rEFInd
+reload
+brewbun
+xcode-select --install
+reload
+brewbun
+update
+sudo rm -r /Applications/Utilities/XQuartz.app 
+sudo xcode-select --switch /Applications/Xcode.app
+brew cleanup
+clean
+brewbun
+ruby
+ruby --version
+ruby --help
+brew search ruby
+brew install ruby
+clean
+brewbun
+reload
+update
+update
+reload
+brew cask uninstall xquartz
+brewbun
+brew cask uninstall ssh-tunnel-manager
+brewbun
+reload
+reload
+man zip
+man cp
+ln -s $HOME/.dotfiles/.vscode/settings.json $HOME/Library/Application\ Support/Code/User/settings.json
+ln -s $HOME/.dotfiles/.vscode/keybindings.json $HOME/Library/Application\ Support/Code/User/keybindings.json
+man cp
+code --help
+reload
+osascript -e 'tell application "Backup and Sync from Google" to open'
+osascript -e 'tell application "Backup and Sync" to open'
+osascript -e 'tell application "Backup and Sync" to open'
+cp -vus $HOME/.dotfiles/.transmission/*.plist $HOME/Library/Preferences
+reload
+reload
+cp -ur $HOME/.dotfiles/.terminal/*.json $HOME/Library/Application\ Support/iTerm2/DynamicProfiles/*.json
+cp -ur $HOME/.dotfiles/.terminal/*.json $HOME/Library/Application\ Support/iTerm2/DynamicProfiles
+pushd $HOME/Library/Application\ Support/iTerm2/DynamicProfiles
+ls
+cp -ur $HOME/.dotfiles/.terminal/*.json $HOME/Library/Application\ Support/iTerm2/DynamicProfiles
+ls
+man ln
+man cp
+cp -rus $HOME/.dotfiles/.vscode/*.json $HOME/Library/Application\ Support/Code/User
+pushd
+pushd $HOME/Library/Application\ Support/Code/User
+ls
+cp -rus $HOME/.dotfiles/.ssh $HOME
+man cp
+brew cask info java
+cp -vrus $HOME/.dotfiles/.irssi $HOME
+reload
+cp -vrus $HOME/.dotfiles/.{ssh,irssi} $HOME
+cp -vrus $HOME/.dotfiles/.vscode/*.json $HOME/Library/Application\ Support/Code/User
+cp -vrus $HOME/.dotfiles/.{backup,bash,brew,duti,gitconfig,macos,mysql,plistbuddy,python,rEFInd,setup,zsh}/. $HOME
+cp -vrus $HOME/.dotfiles/.ssh $HOME
+reload
+popd
+man cp

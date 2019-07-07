@@ -1,0 +1,63 @@
+#! /usr/local/bin/bash
+
+# # * Xcode CLI tools
+xcode-select --install
+
+# # * Homebrew
+usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# # * Brew dependencies
+if [ -f $HOME/.Brewfile ]; then
+brew bundle --global;
+fi
+
+# # * Mackup
+# restoring app data
+
+# # * Session Buddy database
+# osascript -e 'tell application "Google Chrome" to quit';
+# if [ -f $sbdir/[1-9] ]; then
+#   cp --remove-destination -v $sbdir/[1-9] "$sbdb"
+# fi
+
+# # * Oh-My-Zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+
+# # * Installing MySQL
+# mysqladmin -u root password <yourpassword>
+
+pip install tensorflow
+
+npm install -g fileicon
+npm install -g node-gyp
+npm install -g bootstrap
+npm install -g @angular/cli@latest
+npm install -g express
+npm install -g nodemon
+npm install -g typescript
+npm install -g eslint
+npm install -g npmlist
+
+# # * Apps (open audible, live home 3d pro, logic pro x)
+cp -r $HOME/Library/Mobile\ Documents/iCloud~com~belightsoft~LiveHome3D/Documents/Live\ Home\ 3D\ Pro/Live\ Home\ 3D\ Pro.app /Applications/
+cp -zur $HOME/Library/Mobile\ Documents/com~apple~CloudDocs/Live\ Home\ 3D\ Pro/Live\ Home\ 3D\ Pro.app /Applications/
+cp -zur $HOME/Library/Mobile\ Documents/com~apple~CloudDocs/Logic\ Pro\ X/Logic\ Pro\ X.app /Applications/
+cp -zur $HOME/Library/Mobile\ Documents/com~apple~CloudDocs/Open\ Audible/OpenAudible.app /Applications/
+
+# # * Fonts (system = /Library/Fonts | user = $HOME/Library/Fonts)
+for font in $HOME/.dotfiles/.font/{avantgardepro,gotham,hack,operator-mono}/*.{otf,ttf}; do
+  [ -f $font ] && cp $font $HOME/Library/Fonts;
+done;
+unset font;
+
+# # * Font collections (Bug - does not copy collection with a space in the name)
+for fontCollection in $HOME/.dotfiles/.font/FontCollections/*; do
+  [ -f $fontCollection ] && cp $fontCollection $HOME/Library/FontCollections;
+done;
+unset fontCollection;
+
+# # * Terminal Profiles
+cp -ur $HOME/.dotfiles/.terminal/*.json $HOME/Library/Application\ Support/iTerm2/DynamicProfiles
+
+# # * VS Code Extensions
+code --install-extension $HOME/.dotfiles/.vscode/.vscode

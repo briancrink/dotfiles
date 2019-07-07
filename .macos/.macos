@@ -1,3 +1,13 @@
+#! /usr/local/bin/bash
+
+# # * Dependencies
+# brew, duti, diskutil, osascript, npm, ruby, xcode, code, pip, plistbuddy, trash, fileicon, dockutil, systemsetup, fileicon, brewbun
+
+# # * Set default shell to Homebrew's shell
+if [ -f $HOME/.brewshell ]; then
+    brewshell;
+fi
+
 # # * Close open System Preferences panes to prevent overriding
 osascript -e 'tell application "System Preferences" to quit'
 
@@ -10,9 +20,6 @@ if [ -f ~/.sysprefs ]; then
 fi
 
 # # * Setup desktop spaces -> assign apps to desktops -> theme
-if [ -f ~/.theme ]; then
-    theme;
+if [ -f ~/.flavour ]; then
+    flavour;
 fi
-
-# # * PlistBuddy modifications requires reboot for changes to take effect
-osascript -e 'tell application "System Events" to restart'

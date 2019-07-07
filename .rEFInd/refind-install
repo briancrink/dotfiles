@@ -1,6 +1,5 @@
 #! /usr/local/bin/bash
-
-# # * Current Version: 0.11.2
+#
 # Linux/MacOS X script to install rEFInd
 #
 # Usage:
@@ -39,6 +38,8 @@
 
 # Revision history:
 #
+# 0.11.4  -- Fixed generation of GUID when automount of ESP in use on Linux
+# 0.11.3  -- Added support for ESP mounted at /efi under Linux
 # 0.11.1  -- In Linux, be less aggressive about replacing existing NVRAM entries
 # 0.11.0  -- Create BOOT.CSV file and option to encrypt SB private key
 # 0.10.8  -- Enabled use of shimx64.efi.signed as Shim source file
@@ -115,7 +116,8 @@ LocalKeys=0
 EncryptKeys=0
 DeleteRefindDir=0
 AlwaysYes=0
-
+Theme="ambience"
+Background="background.png"
 #
 # Functions used by both OS X and Linux....
 #
@@ -225,7 +227,6 @@ ReadYesNo() {
       read YesNo
    fi
 }
-
 
 # Get a passphrase for decrpyting a private key, and store it in the
 # KeyPassphrase variable.
@@ -353,21 +354,16 @@ CheckForFiles() {
       exit 1
    fi
 
-   # if [[ -d "$RefindDir/icons" ]] ; then
-   #    IconsDir="$RefindDir/icons"
-   # elif [[ -d "$ThisDir/icons" ]] ; then
-   #    IconsDir="$ThisDir/icons"
-   # else
-   #    echo "The icons directory is missing! Aborting installation!"
-   #    exit 1
-   # fi
-
-   if [[ -d "$RefindDir/themes" ]] ; then
+   if [[ -d "$RefindDir/icons" ]] ; then
+      IconsDir="$RefindDir/icons"
+   elif [[ -d "$ThisDir/icons" ]] ; then
+      IconsDir="$ThisDir/icons"
+   elif [[ -d "$RefindDir/themes" ]] ; then
       ThemesDir="$RefindDir/themes"
    elif [[ -d "$ThisDir/themes" ]] ; then
       ThemesDir="$ThisDir/themes"
    else
-      echo "The themes directory is missing! Aborting installation!"
+      echo "Either the icons or themes directory is missing! Aborting installation!"
       exit 1
    fi
 
@@ -716,13 +712,15 @@ CopyRefindFiles() {
    fi
    echo "Copied rEFInd binary files"
    echo ""
-   if [[ -d "$InstallDir/$TargetDir/themes" ]] ; then
-      rm -rf "$InstallDir/$TargetDir/themes" &> /dev/null
-      # mv -f "$InstallDir/$TargetDir/themes" "$InstallDir/$TargetDir/icons-backup"
-      # echo "Notice: Backed up existing icons directory as icons-backup."
+   if [[ -d "$InstallDir/$TargetDir/icons" ]] ; then
+      rm -rf "$InstallDir/$TargetDir/icons-backup" &> /dev/null
+      mv -f "$InstallDir/$TargetDir/icons" "$InstallDir/$TargetDir/icons-backup"
+      echo "Notice: Backed up existing icons directory as icons-backup."
    fi
-   # cp -r "$IconsDir" "$InstallDir/$TargetDir"
-   cp -r "$ThemesDir" "$InstallDir/$TargetDir"
+   cp -r "$ThemesDir/$Theme" -t "$InstallDir/$TargetDir/themes" 2> /dev/null
+   # # * For some unknown reason, `cp -r` does not source files -t for symlinks
+   cp --remove-destination "$ThemesDir/$Theme/$Background" -t "$InstallDir/$TargetDir/themes/$Theme" 2> /dev/null
+   # cp -r "$IconsDir" -t "$InstallDir/$TargetDir"
    if [[ $? != 0 ]] ; then
       Problems=1
    fi
@@ -730,13 +728,17 @@ CopyRefindFiles() {
    cp -rf "$ThisDir"/keys/*.[cd]er "$InstallDir/$TargetDir/keys/" 2> /dev/null
    cp -rf "$EtcKeysDir"/*.[cd]er "$InstallDir/$TargetDir/keys/" 2> /dev/null
    if [[ -f "$InstallDir/$TargetDir/refind.conf" ]] ; then
-      echo "Existing refind.conf file found; overwriting your customizations."
+      echo "Existing refind.conf file found; copying sample file as refind.conf"
+      echo "to avoid overwriting your customizations."
+      echo ""
       cp -f "$ConfFile" "$InstallDir/$TargetDir"
       if [[ $? != 0 ]] ; then
          Problems=1
       fi
    else
-      echo "Copying refind.conf; edit this file to configure"
+      echo "Copying sample configuration file as refind.conf; edit this file to configure"
+      echo "rEFInd."
+      echo ""
       cp -f "$ConfFile" "$InstallDir/$TargetDir/refind.conf"
       if [[ $? != 0 ]] ; then
          Problems=1
@@ -782,15 +784,15 @@ CreateBootCsvFile() {
    IConv=`which iconv 2> /dev/null`
    if [[ -x "$IConv" ]] ; then
       if [[ "$Platform" == "x64" && -d "$InstallDir/$TargetDir" ]] ; then
-         echo "$TargetX64,rEFInd boot manager,,This is the boot entry for rEFInd" | \
+         echo "$TargetX64,rEFInd Boot Manager,,This is the boot entry for rEFInd" | \
               $IConv -t UCS-2 > "$InstallDir/$TargetDir/BOOT.CSV"
       fi
       if [[ "$Platform" == "ia32" && -d "$InstallDir/$TargetDir" ]] ; then
-         echo "$TargetIA32,rEFInd boot manager,,This is the boot entry for rEFInd" | \
+         echo "$TargetIA32,rEFInd Boot Manager,,This is the boot entry for rEFInd" | \
               $IConv -t UCS-2 > "$InstallDir/$TargetDir/BOOT.CSV"
       fi
       if [[ "$Platform" == "aarch64" && -d "$InstallDir/$TargetDir" ]] ; then
-         echo "$TargetAARCH64,rEFInd boot manager,,This is the boot entry for rEFInd" | \
+         echo "$TargetAARCH64,rEFInd Boot Manager,,This is the boot entry for rEFInd" | \
               $IConv -t UCS-2 > "$InstallDir/$TargetDir/BOOT.CSV"
       fi
    fi
@@ -871,7 +873,7 @@ SetupMacHfs() {
         <key>ProductName</key>
         <string>rEFInd</string>
         <key>ProductVersion</key>
-        <string>0.11.2</string>
+        <string>0.11.4</string>
 </dict>
 </plist>
 ENDOFHERE
@@ -1123,8 +1125,8 @@ ReSignBinaries() {
    fi
    GenerateKeys
    mkdir -p "$TempDir/drivers_$Platform"
-   cp "$RefindDir/refind.conf-sample $TempDir" 2> /dev/null
-   cp "$ThisDir/refind.conf-sample $TempDir" 2> /dev/null
+   cp "$RefindDir/refind.conf $TempDir" 2> /dev/null
+   cp "$ThisDir/refind.conf $TempDir" 2> /dev/null
    cp "$RefindDir/refind_ia32.efi $TempDir" 2> /dev/null
    cp -a "$RefindDir/drivers_ia32 $TempDir" 2> /dev/null
    cp -a "$ThisDir/drivers_ia32 $TempDir" 2> /dev/null
@@ -1190,9 +1192,13 @@ FindLinuxESP() {
 FindMountedESP() {
    mount /boot &> /dev/null
    mount /boot/efi &> /dev/null
-   EspLine=`df "$RootDir/boot/efi" 2> /dev/null | grep boot/efi`
+   mount /efi &> /dev/null
+   EspLine=`df "$RootDir/efi" 2> /dev/null | grep efi`
    if [[ ! -n "$EspLine" ]] ; then
-      EspLine=`df "$RootDir"/boot | grep boot`
+      EspLine=`df "$RootDir"/boot/efi 2> /dev/null | grep boot/efi`
+   fi
+   if [[ ! -n "$EspLine" ]] ; then
+      EspLine=`df "$RootDir"/boot 2> /dev/null | grep boot`
    fi
    InstallDir=`echo $EspLine | cut -d " " -f 6`
 
@@ -1231,7 +1237,7 @@ AddBootEntry() {
 
    Efibootmgr=`which efibootmgr 2> /dev/null`
    if [[ "$Efibootmgr" ]] ; then
-      InstallPart=`grep "$InstallDir" /etc/mtab | cut -d " " -f 1`
+      InstallPart=`grep "$InstallDir" /etc/mtab | grep -v autofs | cut -d " " -f 1`
       for Name in `lsblk -r | grep disk | cut -f 1 -d " "` ; do
          if [[ $InstallPart == *"$Name"* ]] ; then
             InstallDisk="/dev/"$Name
@@ -1422,10 +1428,11 @@ if [[ $UnmountEsp == '1' ]] ; then
    echo "Unmounting install dir"
    case "$OSTYPE" in
    darwin*)
-      diskutil unmount $InstallDir
+      sudo diskutil unmount EFI
       ;;
    *)
       umount $InstallDir
+      sudo diskutil unmount EFI
       ;;
    esac
 fi

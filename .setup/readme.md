@@ -20,14 +20,14 @@
 
 ![GUID](https://i.imgur.com/s9n3NsI.png)
 
-**Note:** This partition table is designed to accomodate several persistent OS's
-with a local storage partition (Drive) visible in all. Drive is synced to
+**Note:** This partition table accomodates several OS's with a local storage
+partition (Drive) with Read / Write privileges in all. Drive is synced to
 [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/)
-tool for cloud storage backup.
+and iCloud Drive for cloud storage backup.
 
 ## [Choosing a Platform](https://en.wikipedia.org/wiki/Operating_system)
 
-- [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
+- [macOS Catalina](macappstores://itunes.apple.com/app/id1455661060)
 - [Linux](https://www.linux.org/pages/download/)
 
 ![OS](https://i.imgur.com/E2FObZE.png)
@@ -96,7 +96,7 @@ tool for cloud storage backup.
 
 **Operating Systems:** [Manjaro Deepin](https://www.deepin.org/en/download/),
 [Linux Ubuntu](https://www.ubuntu.com/#download),
-[macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828?mt=12)
+[macOS Catalina](macappstores://itunes.apple.com/app/id1455661060)
 
 ## Forking Dotfiles
 
@@ -109,7 +109,8 @@ tool for cloud storage backup.
 
 ## Setting up the Environment
 
-- [macOS](https://github.com/briancrink/dotfiles/blob/master/.macos)
+- [macOS](https://github.com/briancrink/dotfiles/blob/master/.macos) _updated_
+  _to support Catalina_
 
 - [Linux](https://github.com/briancrink/dotfiles/blob/master/.linux)
 
@@ -189,6 +190,16 @@ tool for cloud storage backup.
 
 - press <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>
   to **merge all layers**
+
+### Slack
+
+- press <kbd>⌘ Command</kbd>+<kbd>/</kbd> to **toggle shortcut panel**
+- press <kbd>⌘ Command</kbd>+<kbd>F</kbd> to **search**
+- press <kbd>⌘ Command</kbd>+<kbd>⇧ Shift</kbd>+<kbd>S</kbd>cmd to **star**
+  **items**
+- press <kbd>@</kbd>+‘username’
+- press <kbd>#</kbd>+‘channel’
+- press <kbd>⌘ Command</kbd>+<kbd>U</kbd> to **upload a file**
 
 ### rEFInd
 

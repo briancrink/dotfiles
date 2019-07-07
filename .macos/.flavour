@@ -1,0 +1,3 @@
+#! /usr/local/bin/bash
+
+osascript ~/flavour.applescript

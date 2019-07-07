@@ -1,3 +1,0 @@
-#! /usr/local/bin/bash
-
-cp --remove-destination -vrs ~/.dotfiles/.{backup,bash,brew,duti,gitconfig,macos,mysql,plistbuddy,python,rEFInd,setup,zsh}/. ~/

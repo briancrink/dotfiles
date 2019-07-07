@@ -34,10 +34,14 @@ Control</kbd> <kbd>⇧ Shift</kbd> <kbd>⌘ Command</kbd> <kbd>⎋ Escape</kbd> 
 Caps lock</kbd> <kbd>⇥ Tab</kbd> <kbd>⏏︎ Eject</kbd> <kbd>⌫ Delete</kbd> <kbd>↑
 Arrow</kbd> <kbd>↓ Arrow</kbd> <kbd>← Arrow</kbd> <kbd>→ Arrow</kbd>
 
-`inline code`
+`inline code enclosed in backtick`
 
     block of code
     4 spaces then code
+
+```
+code enclosed in three backticks
+```
 
 [inline url](https://briancrink.com)
 

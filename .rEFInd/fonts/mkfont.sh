@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # copyright (c) 2013 by Roderick W. Smith
 #

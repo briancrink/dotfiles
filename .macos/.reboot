@@ -1,0 +1,5 @@
+#! /usr/local/bin/bash
+
+# # * PlistBuddy configuration requires reboot
+osascript -e 'tell application "System Events" to restart'
+# reboot

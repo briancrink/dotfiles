@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/local/bin/bash
 #
 # Linux script to move an existing rEFInd installation from one directory to
 # another
@@ -49,7 +49,7 @@ FindLinuxESP() {
    fi
    InstallDir=`echo $EspLine | cut -d " " -f 6`
    if [[ -n $InstallDir ]] ; then
-      EspFilesystem=`grep $InstallDir /etc/mtab | cut -d " " -f 3`
+      EspFilesystem=`grep $InstallDir /etc/mtab | grep -v autofs | cut -d " " -f 3`
    fi
    if [[ $EspFilesystem != 'vfat' ]] ; then
       echo "$RootDir/boot/efi doesn't seem to be on a VFAT filesystem. The ESP must be"
@@ -231,8 +231,8 @@ CreateBootCsvFile() {
 AddNvramEntry() {
    InstallIt="0"
    Efibootmgr=`which efibootmgr 2> /dev/null`
-   InstallDisk=`grep $InstallDir /etc/mtab | cut -d " " -f 1 | cut -c 1-8`
-   PartNum=`grep $InstallDir /etc/mtab | cut -d " " -f 1 | cut -c 9-10`
+   InstallDisk=`grep $InstallDir /etc/mtab | grep -v autofs | cut -d " " -f 1 | cut -c 1-8`
+   PartNum=`grep $InstallDir /etc/mtab | grep -v autofs | cut -d " " -f 1 | cut -c 9-10`
 
    if [[ $TargetShim != "none" ]] ; then
       EntryFilename=$EspTargetDir/$TargetShim

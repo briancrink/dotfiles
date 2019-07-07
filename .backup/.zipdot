@@ -1,9 +1,10 @@
 #! /usr/local/bin/bash
 
-pushd ~;
-dtf=dotfiles.zip;
-zip -FS -rv $setup/$dtf .dotfiles;
-pushd $setup;
-zip -FS -rv $docs/$dtf $dtf;
-unset dtf;
-popd; popd;
+pushd $HOME;
+dotf=dotfiles.zip;
+zip -FS -rv $ws/$dotf .dotfiles;
+# pushd $ws; # # * iCloud Drive sync issues on macOS Catalina
+# zip -FS -rv $docs/$dotf $dotf;
+unset dotf;
+# popd;
+popd;

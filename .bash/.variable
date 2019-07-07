@@ -2,7 +2,7 @@
 
 # [Bash Escape Sequences](https://unix.stackexchange.com/questions/108635/why-i-cant-escape-spaces-on-a-bash-script)
 
-# # * macOS Paths
+# # * macOS Home Paths
 dot=$HOME/.dotfiles # $dot
 desktop=$HOME/Desktop # $desktop
 docs=$HOME/Documents # $docs

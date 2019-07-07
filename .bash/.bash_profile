@@ -3,9 +3,11 @@ export PATH="/sbin:$PATH"
 export PATH="/bin:$PATH"
 export PATH="/usr/bin:$PATH"
 export PATH="/usr/sbin:$PATH"
-export PATH="$HOME/bin:$PATH";
-export PATH="/usr/local/sbin:$PATH";
+export PATH="$HOME/bin:$PATH"
+export PATH="/usr/local/sbin:$PATH"
 export PATH="/usr/local/bin:$PATH"
+export PATH="/usr/local/git/bin/git:$PATH"
+export PATH="/usr/local/bin/bash-language-server:$PATH"
 export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 # fixes the `readlink -f` error usage on Mac, screenfetch dependency -> `brew install coreutils`
 # # * export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
@@ -21,7 +23,7 @@ shopt -s cdspell;
 # # * ~/.path can be used to extend `$PATH`.
 # # * ~/.extra can be used for other settings you don’t want to commit.
 # # * for file in ~/.{path,bash_prompt,exports,aliases,functions,extra}; do
-for file in ~/.{bashrc,prompt,alias,variable,function}; do
+for file in ~/.{prompt,alias,variable,function}; do
   [ -r "$file" ] && [ -f "$file" ] && source "$file";
 done;
 unset file;

@@ -1,0 +1,22 @@
+# Web Extensions
+
+|        Extension        |                                             Chrome Store                                             |                                   Firefox                                    |
+| :---------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|        1Password        | https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk | https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager/ |
+|   AdBlocker Ultimate    |    https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof     |      https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/      |
+|      Award Wallet       |                                       https://awardwallet.com/                                       |                                                                              |
+|        Flipboard        |        https://chrome.google.com/webstore/detail/%2B-flip-it/fbmppankahdodchhioklnbcmohehhjoa        |    https://addons.mozilla.org/en-US/firefox/addon/flip-this-/?src=search     |
+|          Honey          |           https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj           |       https://addons.mozilla.org/en-US/firefox/addon/honey/?src=search       |
+|    HTTPS Everywhere     |     https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp      |       https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/       |
+|    Infinity New Tab     | https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg | https://addons.mozilla.org/en-US/firefox/addon/infinity-new-tab-pro-firefox/ |
+| IP Address Information  | https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa |  https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/  |
+|        JSON View        |         https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc          |           https://addons.mozilla.org/en-US/firefox/addon/jsonview/           |
+|     Magic Enhancer      | https://chrome.google.com/webstore/detail/magic-enhancer-for-youtub/koiaokdomkpjdgniimnkhgbilbjgpeak |     https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/     |
+|          Pigg           | https://chrome.google.com/webstore/detail/piggy-automatic-coupons-c/hfapbcheiepjppjbnkphkmegjlipojba |                                                                              |
+|        Pinterest        |   https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic   | https://addons.mozilla.org/en-US/firefox/addon/pinterest-firefox/?src=search |
+|     Privacy Badger      |      https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp       |       https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/       |
+|    Scrum for Trello     |     https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje      |       https://addons.mozilla.org/en-US/firefox/addon/scrum-for-trello/       |
+|      Session Buddy      |       https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko       |                                                                              |
+|      TamperMonkey       |       https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo        |         https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/         |
+|   Turn off the lights   |    https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn    |     https://addons.mozilla.org/en-US/firefox/addon/turn-off-the-lights/      |
+| Wikipedia Reading Lists |  https://chrome.google.com/webstore/detail/wikipedia-reading-lists/nngeaaogaldpfiedmmpicdnoddglbkmi  |   https://addons.mozilla.org/en-US/firefox/addon/wikipedia-reading-lists/    |

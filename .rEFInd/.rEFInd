@@ -1,6 +1,4 @@
 #! /usr/local/bin/bash
 
-sudo mkdir /Volumes/EFI
-sudo mount -t msdos /dev/disk0s1 /Volumes/EFI
-$refind/refind-install
-diskutil unmount /Volumes/EFI
+sudo $refind/refind-install
+sudo diskutil unmount EFI

@@ -8,6 +8,7 @@ fileicon get -f $wf $dot/.icns/workflow
 fileicon get -f $project $dot/.icns/project
 
 # # * Brewfile
+# back up brew-installed apps, packages, dependencies
 brewbun
 
 # # * VS Code
@@ -16,26 +17,31 @@ brewbun
 code --list-extensions > $dot/.vscode/.vscode
 
 # # * Session Buddy database
-osascript -e 'tell application "Google Chrome" to quit';
-if [ -f "$sbdb"/[1-9] ]; then
-  cp --remove-destination -v "$sbdb"/[1-9] $sbdir;
-fi
+# osascript -e 'tell application "Google Chrome" to quit';
+# if [ -f "$sbdb"/[1-9] ]; then
+#   cp --remove-destination -v "$sbdb"/[1-9] $sbdir;
+# fi
 
 # # * App data
+
+# # * Terminal Profile(s)
+cp -ur $HOME/Library/Application\ Support/iTerm2/DynamicProfiles/*.json $HOME/.dotfiles/.terminal
 
 # # * Finder View
 # (com.apple.finder.plist -> convert to .. -> export to > ..)
 
 # # * System Preferences
-# (com.apple.***.plist -> ~convert to PlistBuddy bash commands~ -> ~export to~ -> ~/.sysprefs)
+# (com.apple.***.plist -> ~convert to PlistBuddy bash commands~ -> ~export to~ -> $HOME/.sysprefs)
 
-# # * Dotfiles Folder
+# # * Dock
+# dockutil --list >> $HOME/.dotfiles/.macos/.dock
+
+# # * Zip Dotfiles
 zipdot
 
-# # * Drive
-zipws
+# # * Zip Drive Volume
+osascript -e 'tell application "Backup and Sync" to open'
+zipdrive
+
 
 # # * Git commit / push
-
-# # * ~prompt notification~
-# (notication center -> backup has completed)

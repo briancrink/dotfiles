@@ -15,7 +15,7 @@
 
 1. [New Machine](https://github.com/briancrink/dotfiles/blob/master/.setup)
 
-2. [Web Workflow](https://github.com/briancrink/dotfiles/blob/master/.web)
+2. [Web Browser](https://github.com/briancrink/dotfiles/blob/master/.web)
 
 3. [Content Feed](https://github.com/briancrink/dotfiles/blob/master/.feed)
 

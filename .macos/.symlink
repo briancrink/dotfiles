@@ -1,0 +1,11 @@
+#! /usr/local/bin/bash
+
+# # * .env determines which .install, .update, .clean, .backup to symlink
+## * ignore common files, only symlink .rEFInd from rEFInd
+# unecessary flag?: --remove-destination
+cp -vrus $HOME/.dotfiles/.{backup,bash,brew,duti,gitconfig,macos,mysql,plistbuddy,python,setup,zsh}/. $HOME
+cp -vus $HOME/.dotfiles/.rEFInd/.rEFInd $HOME
+cp -vrus $HOME/.dotfiles/.ssh $HOME
+cp -vrus $HOME/.dotfiles/.irssi $HOME
+cp -vrus $HOME/.dotfiles/.vscode/*.json $HOME/Library/Application\ Support/Code/User
+cp -vus $HOME/.dotfiles/.transmission/*.plist $HOME/Library/Preferences

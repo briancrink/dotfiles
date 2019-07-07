@@ -19,6 +19,12 @@ background.png
 # Large folders
 .font
 
-# SHSH blobs, saved screenshots, misc
+# SHSH blobs, saved screenshots, misc.
 .archive
+.bash/.bash_history
+.zsh/.zsh_history
+.mysql/.mysql_history
 .bash_history
+.zsh_history
+.mysql_history
+.ssh

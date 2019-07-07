@@ -1,0 +1,6 @@
+#! /usr/local/bin/bash
+
+pushd /Volumes/; # * iCloud Drive sync issues on macOS Catalina
+# zip -FS -rv $docs/drive.zip -i Document/ Project/ Workflow/ Workspace/ -x \*.tmp*
+zip -rv $HOME/drive.zip Drive/ -i b/
+popd;
