@@ -186,6 +186,14 @@ and iCloud Drive.
 
 - press <kbd>⌘ Command</kbd>+<kbd>R</kbd> to **reload page**
 
+- press <kbd>⌘ Command</kbd>+<kbd>L</kbd> to **focus search bar**
+
+- press <kbd>⌘ Command</kbd>+<kbd>W</kbd> to **close active window**
+
+- press <kbd>⌘ Command</kbd>+<kbd>N</kbd> to **open new tab**
+
+- press <kbd>⌘ Command</kbd>+<kbd>Q</kbd> to **quit application**
+
 ### Photoshop
 
 - press <kbd>⇧ Shift</kbd>+<kbd>⌘ Command</kbd>+<kbd>⌥ Option</kbd>+<kbd>E</kbd>
