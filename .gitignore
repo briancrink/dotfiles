@@ -16,8 +16,13 @@ Thumbs.db
 # refind background
 background.png
 
-# Large folders
+# folders
 .font
+.1password
+.ical
+.keys
+.maps
+.mail
 
 # SHSH blobs, saved screenshots, misc.
 .archive
