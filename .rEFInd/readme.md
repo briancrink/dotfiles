@@ -15,7 +15,7 @@ Official Documentation:
 **Note:** background must be `.png` for appropriate rendering, `.jpg` do not
 render
 
-1. add [.rEFInd](.rEFInd) and [readme.md](readme.md) to root directory
+1. add [.rEFInd](.rEFInd) and [readme.md](readme.md) to root `.rEFInd/`
 2. add [refind.conf](refind/refind.conf) and [themes](refind/themes) to
    `.rEFInd/refind/`
 3. modify [theme.conf](refind/themes/ambience/theme.conf) using options from
@@ -35,7 +35,7 @@ rename `refind.conf-sample` -> `refind.conf`:
    fi
 ```
 
-add themes folder:
+add ThemesDir:
 
 ```
    if [[ -d "$RefindDir/icons" ]] ; then
@@ -52,7 +52,7 @@ add themes folder:
    fi
 ```
 
-copy themes folder to EFI, set background:
+copy `themes` folder to EFI, set background:
 
 ```
    cp "$ThemesDir" -rLt "$InstallDir/$TargetDir" 2> /dev/null
