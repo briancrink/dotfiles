@@ -23,7 +23,7 @@
 **Note:** This partition table accomodates several OS's with a local storage
 partition (Drive) with Read / Write privileges in all. Drive is synced to
 [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/)
-and iCloud Drive for cloud storage backup.
+and iCloud Drive.
 
 ## [Choosing a Platform](https://en.wikipedia.org/wiki/Operating_system)
 
