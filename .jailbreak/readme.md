@@ -4,22 +4,7 @@ Last Updated April 19, 2019
 
 ## Catalina Pro
 
-<!-- ![lockscreen](https://i.imgur.com/fShnMyh.jpg =24%x24%) -->
-<img src="https://i.imgur.com/fShnMyh.jpg" width=24% height=24%>
-<!-- ![homescreen](https://i.imgur.com/GywqG7i.jpg =24%x24%) -->
-<img src="https://i.imgur.com/GywqG7i.jpg" width=24% height=24%>
-<!-- ![volume_bar](https://i.imgur.com/mKL3hn2.jpg =24%x24%) -->
-<img src="https://i.imgur.com/mKL3hn2.jpg" width=24% height=24%>
-<!-- ![call_bar](https://i.imgur.com/J6C92xQ.jpg =24%x24%) -->
-<img src="https://i.imgur.com/J6C92xQ.jpg" width=24% height=24%>
-<!-- ![today_view](https://i.imgur.com/sNveGhQ.jpg =24%x24%) -->
-<img src="https://i.imgur.com/sNveGhQ.jpg" width=24% height=24%>
-<!-- ![app_drawer](https://i.imgur.com/wDQbyRS.png =24%x24%) -->
-<img src="https://i.imgur.com/wDQbyRS.png" width=24% height=24%>
-<!-- ![settings](https://i.imgur.com/01QvA8C.png =24%x24%) -->
-<img src="https://i.imgur.com/01QvA8C.png" width=24% height=24%>
-<!-- ![control_center](https://i.imgur.com/YopWHHJ.jpg =24%x24%) -->
-<img src="https://i.imgur.com/YopWHHJ.jpg" width=24% height=24%>
+<img src="https://i.imgur.com/fShnMyh.jpg" width=24% height=24%><img src="https://i.imgur.com/GywqG7i.jpg" width=24% height=24%><img src="https://i.imgur.com/mKL3hn2.jpg" width=24% height=24%><img src="https://i.imgur.com/J6C92xQ.jpg" width=24% height=24%><img src="https://i.imgur.com/sNveGhQ.jpg" width=24% height=24%><img src="https://i.imgur.com/wDQbyRS.png" width=24% height=24%><img src="https://i.imgur.com/01QvA8C.png" width=24% height=24%><img src="https://i.imgur.com/YopWHHJ.jpg" width=24% height=24%>
 
 ### Catalina Pro Setup
 
