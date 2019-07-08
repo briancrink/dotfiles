@@ -37,6 +37,7 @@
 5. type `csrutil disable`
 6. type `reboot` to leave **Recovery Mode**
 7. Boot up normal again
+8. type `csrutil status` to verify SIP status
 
 ### GPT fdisk
 
