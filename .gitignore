@@ -27,10 +27,14 @@ background.png
 
 # SHSH blobs, saved screenshots, misc.
 .archive
+.ssh
+.bash_history
+.mysql_history
+.python_history
+.regex_history
+.zsh_history
 .bash/.bash_history
+.python/.python_history
+.regex/.regex_history
 .zsh/.zsh_history
 .mysql/.mysql_history
-.bash_history
-.zsh_history
-.mysql_history
-.ssh
