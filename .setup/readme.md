@@ -90,9 +90,9 @@ and iCloud Drive.
 ### [Choosing a Boot Manager](https://wiki.osdev.org/Bootloader)
 
 - [GRUB](https://www.gnu.org/software/grub/)
-- [rEFInd](https://www.rodsbooks.com/refind/)
+- [rEFInd](https://github.com/briancrink/dotfiles/blob/master/.rEFInd)
 
-[![rEFInd](https://i.imgur.com/Q4FgTZ1.png)](https://github.com/briancrink/dotfiles/blob/master/.rEFInd)
+[![rEFInd](https://i.imgur.com/E9LMF9f.jpg)](https://imgur.com/a/OrnmFtE)
 
 **Operating Systems:** [Manjaro Deepin](https://www.deepin.org/en/download/),
 [Linux Ubuntu](https://www.ubuntu.com/#download),

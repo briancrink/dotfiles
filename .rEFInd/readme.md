@@ -2,6 +2,8 @@
 
 Updated: July 5th, 2019
 
+[![rEFInd](https://i.imgur.com/E9LMF9f.jpg)](https://imgur.com/a/OrnmFtE)
+
 Download:
 [rEFInd 0.11.4 (Latest Version)](https://sourceforge.net/projects/refind/files/)
 
