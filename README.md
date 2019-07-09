@@ -26,6 +26,7 @@
 ## Tools
 
 - [Autodot](https://github.com/ajmalsiddiqui/autodot)
+- [Dockutil](https://github.com/kcrawford/dockutil)
 - [Dotshare.it](http://dotshare.it/)
 - [Desktoppr](https://github.com/scriptingosx/desktoppr)
 - [Fileicon](https://github.com/mklement0/fileicon#manual-installation)
@@ -33,6 +34,8 @@
 - [Homebrew Quicklook](https://github.com/sindresorhus/quick-look-plugins)
 - [Homebrew Casks](https://github.com/Homebrew/homebrew-cask/tree/master/Casks)
 - [Homebrew Fonts](https://github.com/Homebrew/homebrew-cask-fonts/tree/master/Casks)
+- [Mackup](https://github.com/lra/mackup)
+- [rcm](https://github.com/thoughtbot/rcm/blob/master/README.md)
 
 ## Guides
 
@@ -73,3 +76,9 @@
 - [Mohammed Ajmal Siddiqui's dotfiles](https://github.com/ajmalsiddiqui/dotfiles)
 - [Nicolas Gallagher's dotfiles](https://github.com/necolas/dotfiles)
 - [Tom Ryder's dotfiles](https://sanctum.geek.nz/cgit/dotfiles.git/about)
+- [Liam Curry's dotfiles](https://github.com/liamcurry/dotfiles)
+- [Zeekay's dotfiles](https://github.com/zeekay/dot-irssi)
+- [Zhangsu's dotfiles](https://github.com/zhangsu/dotfiles)
+- [Gerardbm's dotfiles](https://github.com/gerardbm/dotfiles)
+- [Nono's dotfiles](https://github.com/nono/dotfiles)
+- []()
