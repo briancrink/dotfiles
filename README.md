@@ -81,4 +81,3 @@
 - [Zhangsu's dotfiles](https://github.com/zhangsu/dotfiles)
 - [Gerardbm's dotfiles](https://github.com/gerardbm/dotfiles)
 - [Nono's dotfiles](https://github.com/nono/dotfiles)
-- []()
