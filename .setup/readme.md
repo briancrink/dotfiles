@@ -61,6 +61,7 @@ and iCloud Drive.
 - [Mate](https://ubuntu-mate.org/download/)
 - [Cinnamin](https://linuxmint.com/edition.php?id=261)
 - [KDE Neon](https://neon.kde.org/download)
+- [EndlessOS](https://endlessos.com/)
 - [Ubuntu Flavors](https://www.ubuntu.com/download/flavours)
 
 ### [Choosing a Window Manager](https://en.wikipedia.org/wiki/Window_manager)
