@@ -80,6 +80,8 @@ Man pages are the standard documentation for every Unix
   when copying from them. POSIX leaves it unspecified whether symbolic links are
   by default followed during a recursive copy
 - supply with `-L` or `-H` flags to convert symbolic links to hard links
+- supply with `-P` to copy symbolic links as symbolic links rather than copying
+  the files that they point to.
 
 ### Move
 
