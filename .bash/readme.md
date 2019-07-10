@@ -29,6 +29,7 @@ Man pages are the standard documentation for every Unix
 ### Best Practice
 
 - use `curl` for **single** files, use `wget` for **multiple** files
+- use `pushd` for **navigation** on the call stack, `popd` to remove from stack
 - use `ls` for **navigation**, use `find` in **scripting**
 - use `cat` for **text** files, use `ffmpeg` for **encoded media** files
 - use `ls` not `cd` when **piping for a file in a directory**
