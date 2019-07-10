@@ -7,7 +7,10 @@
 <html>
 <h1 align="center">
   <a href="https://github.com/briancrink/dotfiles/tree/master/.setup#forking-dotfiles">Fork</a>
-  <body>, review, 🚀 to ~/. </body>
+  <body>, review, 🚀 to ~/. </body><br>
+  <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform">
+  <img src="https://img.shields.io/github/repo-size/briancrink/dotfiles.svg?color=orange" alt="github repo size">
+  <img src="https://img.shields.io/github/license/briancrink/dotfiles.svg?color=yellow" alt="github repo license">
 </h1>
 </html>
 
