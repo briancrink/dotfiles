@@ -106,6 +106,9 @@ Man pages are the standard documentation for every Unix
 
 ### Exit Status
 
+**Note:** An exit status of zero indicates success, and a nonzero value
+indicates failure.
+
 - type the command
 - type `echo $?` to display the [exit code](exitcode.csv) (0-255; 0 = success,
   1-255 = fail)
