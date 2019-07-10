@@ -10,8 +10,9 @@
   <body>, review, 🚀 to ~/. </body><br>
   <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform">
   <img src="https://img.shields.io/github/last-commit/briancrink/dotfiles.svg" alt="last commit">
+  <img src="https://img.shields.io/badge/bootstrap-pending-yellow.svg" alt="bootstrap status">
   <img src="https://img.shields.io/github/repo-size/briancrink/dotfiles.svg?color=orange" alt="github repo size">
-  <img src="https://img.shields.io/github/license/briancrink/dotfiles.svg?color=yellow" alt="github repo license">
+  <img src="https://img.shields.io/github/license/briancrink/dotfiles.svg?color=red" alt="github repo license">
 </h1>
 </html>
 
