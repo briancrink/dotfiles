@@ -90,7 +90,8 @@
 ### Exit Status
 
 - type the command
-- type `echo $?` to display the exit code (0-255; 0 = success, 1-255 = fail)
+- type `echo $?` to display the [exit code](exitcode.csv) (0-255; 0 = success,
+  1-255 = fail)
 
 ### Easter Eggs
 
