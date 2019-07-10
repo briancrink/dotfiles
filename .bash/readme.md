@@ -15,6 +15,17 @@
 
 ## Essential Commands
 
+### [Man Pages](https://www.cs.mcgill.ca/~guide/help/man.html)
+
+Man pages are the standard documentation for every Unix
+
+**Note:** The default pager for reading a man page is `less`
+
+- type `man man` for information of man references
+- type `man` or `info` following with the search query for man references
+- type `/` following with the search query within man references
+- type `man -k` following with the search query for **related man references**
+
 ### Best Practice
 
 - use `curl` for **single** files, use `wget` for **multiple** files
