@@ -74,6 +74,11 @@ Man pages are the standard documentation for every Unix
 - type `cat <file1> <file2> <file3> > merged_file` to merge files together
 - type `cp /full/path/to/<filename> -r /destination/path/` to copy file(s) and
   sub-files and paste in new folder
+- use `-rLt` flags to
+  [recursively copy files in a directory to the directory source (for symlinks)](https://www.reddit.com/r/bash/comments/c9wz5h/unexpected_result_copying_files_and_symlinks/)
+  on any POSIX-conformant cp implementation, where `-L` follows symbolic links
+  when copying from them. POSIX leaves it unspecified whether symbolic links are
+  by default followed during a recursive copy
 
 ### Move
 
