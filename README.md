@@ -9,11 +9,21 @@
 <h1 align="center">
   <a href="https://github.com/briancrink/dotfiles/tree/master/.setup#forking-dotfiles">Fork</a>
   <body>, review, 🚀 to ~/. </body><br>
+  <a href="https://github.com/briancrink/dotfiles/tree/master/.macos">
   <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform">
+  </a>
+  <a href="https://github.com/briancrink/dotfiles/commits/master">
   <img src="https://img.shields.io/github/last-commit/briancrink/dotfiles.svg" alt="last commit">
+  </a>
+  <a href="https://github.com/briancrink/dotfiles/issues">
   <img src="https://img.shields.io/badge/bootstrap-pending-yellow.svg" alt="bootstrap status">
+  </a>
+  <a href="https://github.com/briancrink/dotfiles/tree/master/.setup#forking-dotfiles">
   <img src="https://img.shields.io/github/repo-size/briancrink/dotfiles.svg?color=orange" alt="github repo size">
+  </a>
+  <a href="https://github.com/briancrink/dotfiles/blob/master/LICENSE">
   <img src="https://img.shields.io/github/license/briancrink/dotfiles.svg?color=red" alt="github repo license">
+  </a>
 </h1>
 </html>
 

@@ -27,7 +27,9 @@ and iCloud Drive.
 
 ## [Choosing a Platform](https://en.wikipedia.org/wiki/Operating_system)
 
-- [macOS Catalina](macappstores://itunes.apple.com/app/id1455661060)
+<!-- - [macOS Catalina](macappstores://itunes.apple.com/app/id1455661060) -->
+
+- [macOS Catalina](https://github.com/briancrink/dotfiles/blob/master/.macos)
 - [Linux](https://www.linux.org/pages/download/)
 
 ![OS](https://i.imgur.com/E2FObZE.png)
@@ -78,15 +80,18 @@ and iCloud Drive.
 - [pip](https://pypi.org/project/pip/)
 - [npm](https://www.npmjs.com/get-npm)
 - [apt-get](https://itsfoss.com/apt-get-linux-guide/)
+- [pacman](https://wiki.archlinux.org/index.php/pacman)
 
 ### [Choosing a Shell](<https://en.wikipedia.org/wiki/Shell_(computing)>)
 
-- [bash (5.0.7.1)](https://www.gnu.org/software/bash/)
-- [oh-my-zsh (5.7.1)](https://ohmyz.sh/)
-- [shell (3.2.57)](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-- [powershell (6.2.0)](https://github.com/PowerShell/PowerShell)
-- [gnome (2.0 | 3.30.2)](https://www.gnome.org/gnome-3/)
-- [unity (7.5)](<https://en.wikipedia.org/wiki/Unity_(user_interface)>)
+- [bash](https://www.gnu.org/software/bash/)
+  ![homebrew](https://img.shields.io/homebrew/v/bash.svg)
+- [oh-my-zsh](https://ohmyz.sh/)
+  ![homebrew](https://img.shields.io/homebrew/v/zsh.svg)
+- [shell](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+- [powershell](https://github.com/PowerShell/PowerShell)
+- [gnome](https://www.gnome.org/gnome-3/)
+- [unity](<https://en.wikipedia.org/wiki/Unity_(user_interface)>)
 
 ### [Choosing a Boot Manager](https://wiki.osdev.org/Bootloader)
 
@@ -103,12 +108,9 @@ and iCloud Drive.
 
 **Note:** the hidden dotfiles folder will be cloned to the home directory.
 
-**Size:** ~9mb zip; ~25mb unzip
-
 - type `git clone https://github.com/briancrink/.dotfiles.git ~/.dotfiles` to
   **clone to the local home directory**.
 - type `source ~/.dotfiles/.setup/.bootstrap` to **begin the setup process**.
-- Once finished, type `reboot` to **restart the machine**.
 
 ## Setting up the Environment
 
@@ -122,6 +124,10 @@ and iCloud Drive.
 - [rEFInd](https://github.com/briancrink/dotfiles/tree/master/.rEFInd)
 
 - [VS Code](https://github.com/briancrink/dotfiles/tree/master/.vscode)
+
+## Uninstalling
+
+**Note:** add soon
 
 ## Custom Keybindings
 
