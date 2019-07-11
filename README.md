@@ -1,6 +1,7 @@
 [<img src="https://i.imgur.com/CijEIsH.png" width="18" height="18">](https://briancrink.com)
 [<img src="https://i.imgur.com/CXdqFLS.png" width="18" height="18">](https://reddit.com/user/NeonSpaceCandy)
 ![Twitter Follow](https://img.shields.io/twitter/follow/briancrink.svg?label=%40briancrink&style=social)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/dotfiles.svg?style=social)
 
 [![](https://i.imgur.com/6EOG5Sg.png)](https://briancrink.com/software)
 
