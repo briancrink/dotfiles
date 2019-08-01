@@ -31,6 +31,8 @@
 1. 1Password -> File -> Export -> All items
 2. Open Keka -> Add password -> Drag File -> Send to Zip
 3. Save to `Volumes/Drive/Workspace/Setup`
+4. backup location
+   `$HOME/Library/Group\ Containers/2BUA8C4S2C.com.agilebits/Library/Application\ Support/1Password/Backups`
 
 ### Session Buddy
 
