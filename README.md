@@ -1,5 +1,8 @@
-[<img src="https://i.imgur.com/CijEIsH.png" width="18" height="18">](https://briancrink.com)
-[<img src="https://i.imgur.com/CXdqFLS.png" width="18" height="18">](https://reddit.com/user/NeonSpaceCandy)
+[<img src="https://i.imgur.com/CijEIsH.png" width="22" height="22">](https://briancrink.com)
+<a href="https://dev.to/briancrink">
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Brian Crink's DEV Profile" height="22" width="22">
+</a>
+[<img src="https://i.imgur.com/CXdqFLS.png" width="22" height="22">](https://reddit.com/user/NeonSpaceCandy)
 [![Twitter Follow](https://img.shields.io/twitter/follow/briancrink.svg?label=%40briancrink&style=social)](https://twitter.com/briancrink)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/dotfiles.svg?style=social)](https://reddit.com/r/dotfiles)
 

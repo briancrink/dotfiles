@@ -19,7 +19,11 @@
 
 #### Header 3
 
+###### Header 6
+
 [Header Anchor](#Header-1)
+
+[Header Anchor Within File](foo.md#bar)
 
 _italicize_
 
@@ -42,6 +46,12 @@ Arrow</kbd> <kbd>↓ Arrow</kbd> <kbd>← Arrow</kbd> <kbd>→ Arrow</kbd>
 ```
 code enclosed in three backticks
 ```
+
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> Blockquotes are very handy in email to emulate reply text.
+
+- [x] This is a complete item
+- [ ] This is an incomplete item (supported in github flavored markdown)
 
 [inline url](https://briancrink.com)
 

@@ -14,7 +14,7 @@ Thumbs.db
 *.code-workspace
 
 # refind background
-background.png
+background.*
 
 # folders
 .font
