@@ -132,6 +132,17 @@ Architecture
       Printing a Plan at Scale
       https://homedesignersoftware.com/support/article/KB-00116/printing-a-plan-at-a-specific-scale.html
 
+      Architecture, Design + Photography Podcast (+ Conversation) - YouTube
+      https://www.youtube.com/watch?v=V_nKcx9D0XE
+
+   Grand Design
+
+      Grand Designs Season 17 Episode 1 | Gloucestershire Treehouse - video dailymotion
+      https://www.dailymotion.com/video/x4ynpha
+
+      Peak District | Grand Designs
+      https://www.granddesigns.tv/peak-district/
+
 AWS
 
    AWS
@@ -824,6 +835,55 @@ Open Source
 
       High Impact Teams | Open Source
       https://opensource.com/article/18/7/high-impact-teams?utm_campaign=intrel
+
+      open-mobile-developers-guide/en at master · guardianproject/open-mobile-developers-guide
+      https://github.com/guardianproject/open-mobile-developers-guide/tree/master/en
+
+   Wikipedia
+
+      wikimedia/wikipedia-ios: 📱The official Wikipedia iOS app.
+      https://github.com/wikimedia/wikipedia-ios
+
+      Wikimedia Apps/Team/iOS - MediaWiki
+      https://www.mediawiki.org/wiki/Wikimedia_Apps/Team/iOS
+
+      Wikipedia-iOS-App-Backlog · Workboard
+      https://phabricator.wikimedia.org/project/view/782/
+
+      ⚓ T177562 As a user of reading lists, I would like a way to export and 'share' the articles in my list
+      https://phabricator.wikimedia.org/T177562
+
+   Open Design
+
+      manifestos | Open Design Now
+      http://opendesignnow.org/index.php/tag/manifestos/index.html
+
+      DESIGN AND GOVERNMENT / BERT MULDER | Open Design Now
+      http://opendesignnow.org/index.html%3Fp=429.html
+
+      open everything | Open Design Now
+      http://opendesignnow.org/index.php/tag/open_everything/index.html
+
+      co-creation | Open Design Now
+      http://opendesignnow.org/index.php/tag/co-creation.1.html
+
+      knowledge | Open Design Now
+      http://opendesignnow.org/index.php/tag/knowledge.1.html
+
+      Center for a Stateless Society » The Communard Manifesto
+      https://c4ss.org/content/45925
+
+      The People’s Platform: An Essential Manifesto for Reclaiming Our Cultural Commons in the Age of Commerce – Brain Pickings
+      https://www.brainpickings.org/2015/02/05/the-peoples-platform-astra-taylor/
+
+      The Academic Manifesto: From an Occupied to a Public University | SpringerLink
+      https://link.springer.com/article/10.1007/s11024-015-9270-9
+
+      The Small Scale Agile Manifesto | Opensource.com
+      https://opensource.com/article/19/1/small-scale-agile-manifesto
+
+      The Magna Carta Manifesto: Liberties and Commons for All
+      https://provisionaluniversity.files.wordpress.com/2012/12/peter-linebaugh-the-magna-carta-manifesto-liberties-and-commons-for-all-2008.pdf
 
 Operating Systems
 
@@ -1541,3 +1601,16 @@ Theory
 
       Science: Conjectures and Refutations | Karl Popper
       https://nemenmanlab.org/~ilya/images/0/07/Popper-1953.pdf
+
+vscode
+
+   vs code
+
+      viatsko/awesome-vscode: 🎨 A curated list of delightful VS Code packages and resources.
+      https://github.com/viatsko/awesome-vscode#markdown-all-in-one
+
+      Extension API | Visual Studio Code Extension API
+      https://code.visualstudio.com/api
+
+      Customizing Visual Studio Code for Writing - DZone Integration
+      https://dzone.com/articles/customizing-visual-studio-code-for-writing

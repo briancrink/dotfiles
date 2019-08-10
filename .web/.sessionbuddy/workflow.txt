@@ -59,6 +59,15 @@ Audio Production
       En-us
       https://en-us.sennheiser.com/about-sennheiser-at-a-glance-counterfeit
 
+      Lossless Audio Checker
+      http://losslessaudiochecker.com
+
+      Where to Get Lossless Music | Reddit
+      https://www.reddit.com/r/audiophile/comments/8yzgl1/where_to_get_lossless_music/
+
+      Audiofile Quality Checker
+      https://www.reddit.com/r/audiophile/comments/ck9rsm/audio_file_quality_checker_tool_for_unix_cli_or/
+
       Kenrockwell
       https://kenrockwell.com/audio/sennheiser/hd-650.htm
 
@@ -277,6 +286,148 @@ iOS Development
       Electra
       https://coolstar.org/electra/
 
+Hacking
+
+   Pi-Hole
+
+      is a Pi-Hole worth it? : linuxquestions
+      https://www.reddit.com/r/linuxquestions/comments/c4b70h/is_a_pihole_worth_it/
+
+   Window 32
+
+      MagicMirror²
+      https://magicmirror.builders/
+
+      Home | MagicMirror Forum
+      https://forum.magicmirror.builders/
+
+      smartmirror - YouTube
+      https://www.youtube.com/results?search_query=smartmirror
+
+      Smart Mirror with AI using Raspberry Pi plays youtube, news, controls nest, smart light etc. - YouTube
+      https://www.youtube.com/watch?v=cVmDjJmcd2M
+
+      Arduino vs. Raspberry Pi - Which is best? | AddOhms #7 - YouTube
+      https://www.youtube.com/watch?v=7vhvnaWUZjE
+
+      Sensors - which one to use - YouTube
+      https://www.youtube.com/watch?v=DlG6LY84MUU
+
+      You can learn Arduino in 15 minutes. - YouTube
+      https://www.youtube.com/watch?v=nL34zDTPkcs
+
+      A simple guide to electronic components. - YouTube
+      https://www.youtube.com/watch?v=6Maq5IyHSuc
+
+      How to Build a Smart Home 101 - YouTube
+      https://www.youtube.com/watch?v=jyMC_HAIzpg
+
+   Window 31
+
+      ALEXA Smart Mirror (New Build) - YouTube
+      https://www.youtube.com/watch?v=aa3VVZA0e5Y
+
+      Smart Mirror (EASY Software Setup) - YouTube
+      https://www.youtube.com/watch?v=HO326ptdlco
+
+      Complete Raspberry Pi Magic Mirror Tutorial (Newbie Friendly) | Magic Mirror Central
+      https://www.magicmirrorcentral.com/complete-raspberry-pi-magic-mirror-tutorial/
+
+      Search and find – Medium
+      https://medium.com/search?q=smartmirror&ref=opensearch
+
+      My Bathroom Mirror Is Smarter Than Yours – Max Braun – Medium
+      https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba
+
+      [HowTo] build a SmartMirror in 2h – Emanuele Lanni – Medium
+      https://medium.com/@e.lanni87/howto-build-a-smartmirror-in-2h-150b51b22ab9
+
+      Prototyping Smart Mirror — UX Case Study – Prototypr
+      https://blog.prototypr.io/prototyping-smart-mirror-ux-case-study-da20571c4428
+
+      Where can I buy cheap Two Way Mirrors for Smart Mirror projects? : raspberry_pi
+      https://www.reddit.com/r/raspberry_pi/comments/5brfl3/where_can_i_buy_cheap_two_way_mirrors_for_smart/
+
+      Where to buy cheap two-way mirror? | MagicMirror Forum
+      https://forum.magicmirror.builders/topic/9225/where-to-buy-cheap-two-way-mirror/2
+
+      Smart Mirror Store | Optical Quality Beamsplitter Glass
+      https://www.twowaymirrors.com/smart-mirror/
+
+      Where to buy 2 way mirror in USA | MagicMirror Forum
+      https://forum.magicmirror.builders/topic/1775/where-to-buy-2-way-mirror-in-usa
+
+      DIY Smart Mirror: Step-By-Step Ultimate Smart Mirror Guide 2019 [NEW]
+      https://www.twowaymirrors.com/diy-smart-mirror/
+
+      TV Mirror | Order Dielectric Mirror To Cover Your Television
+      https://www.twowaymirrors.com/tvmirror/
+
+      Glass Two Way Mirror | In Stock | Custom Sizes | Worldwide Shipping
+      https://www.twowaymirrors.com/glass/
+
+      Two Way Mirror Test: How To Detect (Tips & Tricks!)
+      https://www.twowaymirrors.com/two-way-mirror-test/
+
+      Amazon.com
+      https://www.amazon.com/hz/wishlist/ls/25GQYN9SFQZCT?&sort=default
+
+   Window 9
+
+      3rd Party Modules · MichMich/MagicMirror Wiki
+      https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules
+
+      ronny3050/phone-notification-mirror: Displays and alerts mirror users on new phone notifications
+      https://github.com/ronny3050/phone-notification-mirror
+
+      Veldrovive/MMM-Bob-Ross: A simple module to put a happy little painting and video on your MagicMirror²
+      https://github.com/Veldrovive/MMM-Bob-Ross
+
+      andrecarlucci/MMM-DailyDilbert: A module for MagicMirror2 that displays the daily Dilbert strip.
+      https://github.com/andrecarlucci/MMM-DailyDilbert
+
+      Blastitt/DailyXKCD: A module for MagicMirror2 that displays the daily XKCD web comic.
+      https://github.com/Blastitt/DailyXKCD
+
+      marcobiedermann/MMM-dribbble: MagicMirror² module which shows the latest popular dribbble shots
+      https://github.com/marcobiedermann/MMM-dribbble
+
+      mykle1/MMM-FMI: Find My iPhone tells you the location of your iPhone and sends loud, beeping tones, even when muted.
+      https://github.com/mykle1/MMM-FMI
+
+      paviro/MMM-Facial-Recognition: This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user.
+      https://github.com/paviro/MMM-Facial-Recognition
+
+      LukeSkywalker92/MMM-Globe: Earth globe for MagicMirror2
+      https://github.com/LukeSkywalker92/MMM-Globe
+
+      mykle1/MMM-JEOPARDY: Spanning more than 40 years, the widely popular game show comes to your Magic Mirror. With more than 156,800 clues and answers from the show.
+      https://github.com/mykle1/MMM-JEOPARDY
+
+      kjb085/MMM-Reddit: Magic Mirror Module for displaying top level content from reddit
+      https://github.com/kjb085/MMM-Reddit
+
+      MagicPlugins/snow at master · nhubbard/MagicPlugins
+      https://github.com/nhubbard/MagicPlugins/tree/master/snow
+
+      Jopyth/MMM-Remote-Control: Magic Mirror Module to shutdown or configure your mirror
+      https://github.com/Jopyth/MMM-Remote-Control
+
+      michael5r/mmm-hue-lights: Display the status of your Philips Hue lights and light groups on your MagicMirror. Supports multiple view types and modes.
+      https://github.com/michael5r/mmm-hue-lights
+
+      MitchSS/MMM-Hue: Philips Hue Module for MagicMirror2
+      https://github.com/MitchSS/MMM-Hue
+
+      rejas/MMM-MotionDetector: This is a motion detector module for MagicMirror
+      https://github.com/rejas/MMM-MotionDetector
+
+      Issues · Jopyth/MMM-Trello
+      https://github.com/Jopyth/MMM-Trello/issues
+
+      SVendittelli/MMM-fitbit: MagicMirror Module for fitbit
+      https://github.com/SVendittelli/MMM-fitbit
+
 Portfolio
 
    Portfolio
@@ -365,8 +516,998 @@ Portfolio
       Devonstank
       https://devonstank.com/squarespace-code-shop/
 
+Career
+
+   Resume
+
+      Resume - Google Drive
+      https://drive.google.com/drive/u/0/folders/1KNHqXb4fu453n5b4NnTRLOVhBtetLQDT
+
+      2019 - Google Docs
+      https://docs.google.com/document/d/1HHKZuyYyamaAwDJE_oQkse0jwKfS9EoAALC5RWcSySE/edit
+
+   Portfolio
+
+      Brian Crink | Connect. Follow. Join.
+      https://briancrink.wixsite.com/briancrink
+
+      https://briancrink.com
+      https://briancrink.com/
+
+   Portfolios
+
+      Ashik Gurung
+      https://ag09.github.io/
+
+      Liyas Thomas
+      https://liyasthomas.github.io/
+
+Research
+
+   Research
+
+      Systems theory - Wikipedia
+      https://en.wikipedia.org/wiki/Systems_theory
+
+      Epistemology - Wikipedia
+      https://en.wikipedia.org/wiki/Epistemology
+
+   Research
+
+      Sci-Hub | Rational-Choice Models of Political Behavior vs. Functionalist and Conformist Theories. World Politics, 21(04), 513–538 | 10.2307/2009665
+      https://sci-hub.tw/https://www.cambridge.org/core/journals/world-politics/article/rationalchoice-models-of-political-behavior-vs-functionalist-and-conformist-theories/DFBF67D322D59896D06CD5368BE50843
+
+      Quality Attributes
+      https://resources.sei.cmu.edu/asset_files/TechnicalReport/1995_005_001_16427.pdf
+
+      wads-2004-florence.doc
+      https://pdfs.semanticscholar.org/8357/8a455e255189560531cf81437010c3979397.pdf
+
+      Research | MIT Center for Collective Intelligence
+      https://cci.mit.edu/klein/research/
+
+      Mitish.pdf
+      https://dspace.cc.tut.fi/dpub/bitstream/handle/123456789/26735/Mitish.pdf?
+
+      Sci-Hub | Synergy between Diversity and Similarity in Group-Idea Generation. Small Group Research, 35(5), 540–564 | 10.1177/1046496404264942
+      https://sci-hub.tw/https://journals.sagepub.com/doi/abs/10.1177/1046496404264942
+
+   Political Theory
+
+      non-conformist political theory - Google Search
+      https://www.google.com/search?newwindow=1&biw=1440&bih=820&ei=hju1XI77FsyQsAXxsZuwBA&q=non-conformist+political+theory&oq=non-conformist+political+theory&gs_l=psy-ab.3...10757963.10758420..10758841...0.0..0.96.174.2......0....1..gws-wiz.......0i71j33i299.Fd6JN9i4Mc0
+
+      Education for Civic and Political Participation: A Critical Approach - Google Books
+      https://books.google.com/books?id=yvMNy3gyOEQC&pg=PA57&lpg=PA57&dq=non-conformist+political+systems+theory&source=bl&ots=cJ77dhuJqh&sig=ACfU3U1QcsOVkX2KSXPfnnl_b19N4bg0sQ&hl=en&sa=X&ved=2ahUKEwiO1pycxtPhAhVMCKwKHfHYBkYQ6AEwFHoECAcQAQ#v=onepage&q=non-conformist%20political%20systems%20theory&f=false
+
+      PSC421600 1..21
+      http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.911.7672&rep=rep1&type=pdf
+
+      Rational-Choice Models of Political Behavior vs. Functionalist and Conformist Theories | World Politics | Cambridge Core
+      https://www.cambridge.org/core/journals/world-politics/article/rationalchoice-models-of-political-behavior-vs-functionalist-and-conformist-theories/DFBF67D322D59896D06CD5368BE50843
+
+      An Approach to the Analysis of Political Systems on JSTOR
+      https://www.jstor.org/stable/2008920?seq=1#page_scan_tab_contents
+
+   Systems
+
+      Lean Automation enabled by Industry 4.0 Technologies - ScienceDirect
+      https://www.sciencedirect.com/science/article/pii/S2405896315005984
+
+      Men and systems. By James Allen The James Allen Free Library
+      http://james-allen.in1woord.nl/?text=men-and-systems
+
+      How the Boeing 737 Max Disaster Looks to a Software Developer - IEEE Spectrum
+      https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer
+
+      Leon Trotsky: Their Morals and Ours (1938)
+      https://www.marxists.org/archive/trotsky/1938/morals/morals.htm
+
+      Digital Platform for Self-Organisation in Urban Planning - P2P Foundation
+      https://wiki.p2pfoundation.net/Digital_Platform_for_Self-Organisation_in_Urban_Planning
+
+   IQ
+
+      role of IQ socioeconomic status - Google Search
+      https://www.google.com/search?q=role+of+IQ+socioeconomic+status&oq=role+of+IQ+socioeconomic+status&aqs=chrome..69i57.8565j0j7&sourceid=chrome&ie=UTF-8
+
+      Socioeconomic Status and Intelligence: Why Test Scores Do Not Equal Merit: Journal of Poverty: Vol 8, No 3
+      https://www.tandfonline.com/doi/abs/10.1300/J134v08n03_05
+
+      Home Page | Mensa International
+      https://www.mensa.org/
+
 Software Development
 
+   dotfiles
+
+      twpayne/chezmoi: Manage your dotfiles across multiple machines, securely.
+      https://github.com/twpayne/chezmoi
+
+      mac tags plist - Google Search
+      https://www.google.com/search?q=mac+tags+plist&oq=mac+tags+plist&aqs=chrome..69i57.10493j0j7&sourceid=chrome&ie=UTF-8
+
+      swift - How do I retrieve all available Finder tags? - Stack Overflow
+      https://stackoverflow.com/questions/41779969/how-do-i-retrieve-all-available-finder-tags
+
+      Tagging files from the macOS command line - BrettTerpstra.com
+      https://brettterpstra.com/2017/08/22/tagging-files-from-the-command-line/
+
+   refind
+
+      refind version - Google Search
+      https://www.google.com/search?q=refind+version&oq=refind+version&aqs=chrome..69i57.2944j0j7&sourceid=chrome&ie=UTF-8
+
+      rEFInd - ArchWiki
+      https://wiki.archlinux.org/index.php/REFInd
+
+      The rEFInd Boot Manager: Revisions
+      https://www.rodsbooks.com/refind/revisions.html
+
+   XML
+
+      XQuery - Wikipedia
+      https://en.wikipedia.org/wiki/XQuery
+
+      XQuery Tutorial
+      https://www.w3schools.com/xml/xquery_intro.asp
+
+      Introduction to web scraping: Selecting content on a web page with XPath
+      https://librarycarpentry.org/lc-webscraping/02-xpath/index.html
+
+      A Really, Really, Really Good Introduction to XML — SitePoint
+      https://www.sitepoint.com/really-good-introduction-xml/
+
+   Badge
+
+      badge/README.md at master · HazAT/badge
+      https://github.com/HazAT/badge/blob/master/README.md
+
+      Shields.io: Quality metadata badges for open source projects
+      https://shields.io/
+
+      badges/shields: Concise, consistent, and legible badges in SVG and raster format
+      https://github.com/badges/shields
+
+      dwyl/repo-badges: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
+      https://github.com/dwyl/repo-badges
+
+      Use GitHub Badges to Feel Less Nooby
+      https://www.freecodecamp.org/news/how-to-use-badges-to-stop-feeling-like-a-noob-d4e6600d37d2/
+
+      Code badges cheatsheet
+      https://devhints.io/badges
+
+   Travis
+
+      Travis CI - Test and Deploy with Confidence
+      https://travis-ci.com/
+
+      Travis CI Tutorial - Travis CI
+      https://docs.travis-ci.com/user/tutorial/
+
+      Brian Crink - Profile - Travis CI
+      https://travis-ci.com/account/repositories
+
+   Org Mode
+
+      Org mode for Emacs – Your Life in Plain Text
+      https://orgmode.org/
+
+      IvanMalison/org-projectile: Manage org-mode TODOs for your projectile projects
+      https://github.com/IvanMalison/org-projectile
+
+      bbatsov/projectile: Project Interaction Library for Emacs
+      https://github.com/bbatsov/projectile
+
+      The Org Manual: Exporting
+      https://orgmode.org/manual/Exporting.html
+
+   Network Traffic
+
+      Vizceral Open Source: Netflix | Medium
+      https://medium.com/netflix-techblog/vizceral-open-source-acc0c32113fe
+
+   VM
+
+      Launching your Boot Camp partition in VMware Fusion (1014618)
+      https://kb.vmware.com/s/article/1014618
+
+   PHP
+
+      Login system using PHP with MYSQL database - YouTube
+      https://www.youtube.com/watch?v=arqv2YVp_3E
+
+   Theory
+
+      Online Courses - Anytime, Anywhere | Udemy
+      https://www.udemy.com/courses/search/?src=ukw&q=computer%20science&p=2&ratings=4.5
+
+      Computer Science 101: Master the Theory Behind Programming | Udemy
+      https://www.udemy.com/computer-science-101-master-the-theory-behind-programming/
+
+      Theory of Computation Part 1 : Become a master of DFA | Udemy
+      https://www.udemy.com/theory-of-computation-online-course/
+
+      Graph Theory Algorithms | Udemy
+      https://www.udemy.com/graph-theory-algorithms/
+
+      Discrete Mathematics For Computer Science In 2019 | Udemy
+      https://www.udemy.com/discrete-mathematics-learn-discrete-math/
+
+      Discrete Math Series : Propositional Logic masterclass | Udemy
+      https://www.udemy.com/discretemathematics/
+
+      My edX Search | 653 search results for Computer Science
+      https://www.edx.org/course/?subject=Computer%20Science
+
+      Open Source Software Development Methods | Coursera
+      https://www.coursera.org/learn/open-source-software-development-methods
+
+      Computation Structures 3: Computer Organization | edX
+      https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0
+
+      Logic and Computational Thinking
+      https://www.edx.org/course/logic-and-computational-thinking-3
+
+      Introduction to Design Thinking
+      https://www.edx.org/course/introduction-to-design-thinking-3
+
+      Algorithms and Data Structures
+      https://www.edx.org/course/algorithms-and-data-structures-3
+
+   Tutorial
+
+      AddictiveTipsTV - YouTube
+      https://www.youtube.com/user/AddictiveTipsTV/videos
+
+      DistroTube - YouTube
+      https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos
+
+      Coding Tech - YouTube
+      https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/videos
+
+   Linux
+
+      How to set the program defaults in Gnome Shell - YouTube
+      https://www.youtube.com/watch?v=PtRvQ81Q7gs
+
+      How to output Linux commands to a file - YouTube
+      https://www.youtube.com/watch?v=GzngXsIlmBg
+
+      How to install Nmap on Linux - YouTube
+      https://www.youtube.com/watch?v=IzwspCPpMNU
+
+      How to open programs with Root access on Linux - YouTube
+      https://www.youtube.com/watch?v=n-Dh853WIYM
+
+      How to install Kodi 18 on Linux - YouTube
+      https://www.youtube.com/watch?v=3u7TBJHyd84
+
+      How to download torrents from the command-line on Linux - YouTube
+      https://www.youtube.com/watch?v=spqTxmr3NHM
+
+      How to encrypt hard drive partitions on Linux - YouTube
+      https://www.youtube.com/watch?v=w5iz4Ve26o8
+
+      How to change the Linux computer hostname - YouTube
+      https://www.youtube.com/watch?v=fcHoTMG4MMo
+
+      How to schedule system commands with Cron on Linux - YouTube
+      https://www.youtube.com/watch?v=z9EPirqXGtk
+
+      How to install Java on Linux - YouTube
+      https://www.youtube.com/watch?v=AakQKHmln0Q
+
+      How to install Microsoft Visual Studio Code on Linux - YouTube
+      https://www.youtube.com/watch?v=Cvftjria21k
+
+      How to install Webtorrent on Linux - YouTube
+      https://www.youtube.com/watch?v=Qq-eWiQ6qv0
+
+      How to find your IP address on Linux - YouTube
+      https://www.youtube.com/watch?v=gwWx_mO6d3A
+
+      How to integrate Git with Gnome file manager on Linux - YouTube
+      https://www.youtube.com/watch?v=NHqM2hk2h7M
+
+      How to switch from Bash to C Shell on Linux - YouTube
+      https://www.youtube.com/watch?v=p228x_yWIcI
+
+      How to install the Signal Privacy Messenger on Linux - YouTube
+      https://www.youtube.com/watch?v=6eQe6aaF6gE
+
+   ubersicht
+
+      ubersicht mac - Google Search
+      https://www.google.com/search?q=ubersicht+mac&oq=ubersicht+mac&aqs=chrome..69i57.4635j0j7&sourceid=chrome&ie=UTF-8
+
+      Issues · felixhageloh/uebersicht
+      https://github.com/felixhageloh/uebersicht/issues
+
+      Übersicht Widgets
+      http://tracesof.net/uebersicht-widgets/#battery-bar
+
+   Search Engine
+
+      Dan6erbond/Fuzzle: Expandable search engine written in Python. Models upcoming!
+      https://github.com/Dan6erbond/Fuzzle/
+
+   Swift
+
+      Swift.org - Getting Started
+      https://swift.org/getting-started/#using-the-package-manager
+
+      Swift Development with Visual Studio Code — On Linux!
+      https://medium.com/@pvzig/swift-development-with-visual-studio-code-on-linux-99cac3918582
+
+      Swift Development with Visual Studio Code - NSHipster
+      https://nshipster.com/vscode/
+
+   App Developer
+
+      Apple Developer Documentation
+      https://developer.apple.com/documentation/
+
+      How to Publish Your App on Apple’s App Store in 2018
+      https://medium.com/@the_manifest/how-to-publish-your-app-on-apples-app-store-in-2018-f76f22a5c33a
+
+   Bookmark
+
+      jarun/Buku: Browser-independent bookmark manager
+      https://github.com/jarun/Buku
+
+   Package Manager
+
+      npm bundle install - Google Search
+      https://www.google.com/search?q=npm+bundle+install&oq=npm+bundle+install&aqs=chrome..69i57.8378j0j1&sourceid=chrome&ie=UTF-8
+
+      npm-bundle - npm
+      https://www.npmjs.com/package/npm-bundle
+
+   Window 19
+
+      Markdown Tables generator - TablesGenerator.com
+      https://www.tablesgenerator.com/markdown_tables
+
+      Open a markdown file at the specified header level? : Markdown
+      https://www.reddit.com/r/Markdown/comments/bnlsqr/open_a_markdown_file_at_the_specified_header_level/
+
+      visual code go to line command line - Google Search
+      https://www.google.com/search?newwindow=1&ei=-xTiXKa8BMOotQXH0IaYCA&q=visual+code+go+to+line+command+line&oq=visual+code+go+to+line+command+line&gs_l=psy-ab.3..33i299.19414.22470..22617...0.0..0.199.1699.0j13......0....1..gws-wiz.......0i71j0i22i30j33i22i29i30j33i10i299.aeHh4pEL9C4
+
+      The Visual Studio Code Command Line Options
+      https://code.visualstudio.com/docs/editor/command-line
+
+   Data Collection
+
+      Methods of Data Collection - YouTube
+      https://www.youtube.com/watch?v=BItJyUSgXAM
+
+   Software Architecture
+
+      Whatsapp System design or software architecture - YouTube
+      https://www.youtube.com/watch?v=L7LtmfFYjc4
+
+      Architectural Technical Debt Library
+      https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=509492
+
+      Software Engineering Institute Digital Library
+      https://resources.sei.cmu.edu/library/results.cfm#stq=%20&stp=1
+
+      Infrastructure as Code: Final Report
+      https://resources.sei.cmu.edu/asset_files/WhitePaper/2019_019_001_539335.pdf
+
+      System Architecture Virtual Integration: ROI on Early Discovery of Defects
+      https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=534007
+
+      Software Architecture Publications
+      https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513817
+
+      Architecture Tradeoff Analysis Method Collection
+      https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513908
+
+      Reasoning About Software Quality Attributes
+      https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513803
+
+      Managing technical debt in software-reliant systems
+      https://resources.sei.cmu.edu/asset_files/ConferencePaper/2010_021_001_88118.pdf
+
+      The C4 model for visualising software architecture
+      https://c4model.com/
+
+      Structurizr - Diagram editor basics - YouTube
+      https://www.youtube.com/watch?v=6y8zwhFuLl8
+
+      Quality Attributes in Software - DEV Community 👩‍💻👨‍💻
+      https://dev.to/frosnerd/quality-attributes-in-software-1ha9
+
+      How to Write Meaningful Quality Attributes for Software Development | Codementor
+      https://www.codementor.io/antoniopfesilva/how-to-write-meaningful-quality-attributes-for-software-development-ez8y90wyo
+
+      Non-Functional Requirements, Quality Attributes and Better Software Architecture
+      https://medium.com/@andreigridnev/non-functional-requirements-quality-attributes-and-better-software-architecture-855425310e60
+
+      Microsoft PowerPoint - 09-QualityAttributes.ppt
+      https://moodle.fct.unl.pt/pluginfile.php/82092/mod_resource/content/0/slides/02-QualityAttributes.pdf
+
+      4.2 Architecture and Quality Attributes :: Chapter 4. Understanding Quality Attributes :: Part Two: Creating an Architecture :: Software architecture in practice :: Programming :: eTutorials.org
+      http://etutorials.org/Programming/Software+architecture+in+practice,+second+edition/Part+Two+Creating+an+Architecture/Chapter+4.+Understanding+Quality+Attributes/4.2+Architecture+and+Quality+Attributes/
+
+      GIT-CC-95-41.pdf
+      https://smartech.gatech.edu/bitstream/handle/1853/6701/GIT-CC-95-41.pdf?sequence=1&isAllowed=y
+
+      US9189757B2 - Monitoring and maintaining balance of factory quality attributes within a software factory environment - Google Patents
+      https://patents.google.com/patent/US9189757B2/en
+
+      Contextual Design
+      https://www.lti.cs.cmu.edu/sites/default/files/Architecture%20Quality%20Attributes%20for%20Knowledge%20Management%20Systems.pdf
+
+   Microservices
+
+      How microservices and containers are changing applications | Opensource.com
+      https://opensource.com/business/14/12/containers-microservices-and-orchestrating-whole-symphony
+
+      The What, Why, and How of a Microservices Architecture
+      https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
+
+      Microservices
+      https://martinfowler.com/articles/microservices.html
+
+      stateless vs stateful service software - Google Search
+      https://www.google.com/search?q=stateless+vs+stateful+service+software&oq=stateless+vs+stateful+service+software&aqs=chrome..69i57.10821j0j1&sourceid=chrome&ie=UTF-8
+
+      Stateful and Stateless Application Development Solutions - XenonStack
+      https://www.xenonstack.com/insights/what-are-stateful-and-stateless-applications/
+
+      Learning by Observing via Inverse Reinforcement Learning - YouTube
+      https://www.youtube.com/watch?v=5Cfd5btfR3g
+
+      Intro to gRPC: A Modern Toolkit for Microservice Communication - YouTube
+      https://www.youtube.com/watch?v=RoXT_Rkg8LA
+
+      Microservices Overview: What and Why? - YouTube
+      https://www.youtube.com/watch?v=WK3tbQCzVxg
+
+   Data-Driven Learning
+
+      Sci-Hub | Data-driven vs model-driven imitative learning. 2017 6th Data Driven Control and Learning Systems (DDCLS) | 10.1109/DDCLS.2017.8067719
+      https://sci-hub.tw/https://ieeexplore.ieee.org/document/8067719?reload=true
+
+   Git
+
+      Useful Git Tips and Commands – THE CURIOUS DEVELOPER
+      https://www.thecuriousdev.org/useful-git-tips-commands/amp/
+
+      Introduction to Git - Core Concepts - YouTube
+      https://www.youtube.com/watch?v=uR6G2v_WsRA
+
+      Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics - YouTube
+      https://www.youtube.com/watch?v=0fKg7e37bQE
+
+      Introduction to Git - Branching and Merging - YouTube
+      https://www.youtube.com/watch?v=FyAAIHHClqI
+
+      Using Git with VS Code and Github - YouTube
+      https://www.youtube.com/watch?v=9cMWR-EGFuY
+
+      Publishing a new repository to GitHub from VS code – losol.io
+      https://losol.io/publishing-a-new-repository-to-github-from-vs-code/
+
+      RomuloOliveira/commit-messages-guide: A guide to understand the importance of commit messages and how to write them well
+      https://github.com/RomuloOliveira/commit-messages-guide
+
+      CheatSheet - Setup Github on Visual Studio Code — Not Your Dad's IT
+      https://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code
+
+      A handful of free Git tutorials : github
+      https://www.reddit.com/r/github/comments/bj1p3n/a_handful_of_free_git_tutorials/
+
+   Encoding
+
+      Storing regex patterns in object format? : regex
+      https://www.reddit.com/r/regex/comments/bjj3o1/storing_regex_patterns_in_object_format/
+
+      PHP: base64_encode - Manual
+      https://www.php.net/manual/en/function.base64-encode.php
+
+      data encoding - Google Search
+      https://www.google.com/search?q=data+encoding&oq=data+encoding+&aqs=chrome..69i57.2946j0j7&sourceid=chrome&ie=UTF-8
+
+      MIME base64 - Google Search
+      https://www.google.com/search?q=MIME+base64&oq=MIME+base64&aqs=chrome..69i57.407j0j7&sourceid=chrome&ie=UTF-8
+
+      MIME::Base64 - Encoding and decoding of base64 strings - metacpan.org
+      https://metacpan.org/pod/MIME::Base64
+
+   Filevault Wallpaper
+
+      mac filevault login wallpaper - Google Search
+      https://www.google.com/search?newwindow=1&ei=cxDTXO7rAoaotQXyzaHIDA&q=mac+filevault+login+wallpaper&oq=mac+filevault+login+wallpaper&gs_l=psy-ab.3...244031.245652..245826...0.0..0.113.851.6j3......0....1..gws-wiz.......0i71j33i10.WLSrZWsGkug
+
+      How do I change the login screen background in macOS Mojave? - Ask Different
+      https://apple.stackexchange.com/questions/337445/how-do-i-change-the-login-screen-background-in-macos-mojave
+
+      [Mojave] How can I change login screen wallpaper for all user screen? : MacOS
+      https://www.reddit.com/r/MacOS/comments/9iltpo/mojave_how_can_i_change_login_screen_wallpaper/
+
+   Music Collection
+
+      Google Play Music playlist downloader : DataHoarder
+      https://www.reddit.com/r/DataHoarder/comments/8io4jv/google_play_music_playlist_downloader/
+
+      I created a script to export Google music to Spotify : googleplaymusic
+      https://www.reddit.com/r/googleplaymusic/comments/a4byvk/i_created_a_script_to_export_google_music_to/
+
+      soulfx/gmusic-playlist.js: a javascript version of gmusic-playlist
+      https://github.com/soulfx/gmusic-playlist.js
+
+      Export your CSV albums from various music streaming services to Tidal
+      https://gist.github.com/RZetko/71801a20188e842ef03bed3b6d7a297f
+
+      (fixed/updated 2016-05-10) Export your Google Music Library and Playlists (Google Play Music All Access) (see http://webapps.stackexchange.com/questions/50311/print-playlist-from-google-play-music for more)
+      https://gist.github.com/jmiserez/c9a9a0f41e867e5ebb75
+
+   Image Recognition
+
+      Computational Imaging for VLBI Image Reconstruction
+      https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bouman_Computational_Imaging_for_CVPR_2016_paper.pdf
+
+   Daemons
+
+      The most important Firefox command line options - gHacks Tech News
+      https://www.ghacks.net/2017/10/08/the-most-important-firefox-command-line-options/
+
+      A launchd Tutorial
+      https://www.launchd.info/
+
+   rsync
+
+      A Practical Guide to Using rsync
+      https://www.createdbypete.com/a-practical-guide-to-using-rsync/
+
+      rsync easy - Google Search
+      https://www.google.com/search?q=rsync+easy&oq=rs&aqs=chrome.1.69i57j69i59j69i60l2.2068j0j7&sourceid=chrome&ie=UTF-8
+
+      Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux
+      https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+
+      rsync daemon auto - Google Search
+      https://www.google.com/search?q=rsync+daemon+auto&oq=rsync+daemon+auto&aqs=chrome..69i57.7018j0j7&sourceid=chrome&ie=UTF-8
+
+      mac automate rsync local - Google Search
+      https://www.google.com/search?newwindow=1&ei=g-m_XLiIDoaKtQXdwI7IBQ&q=mac+automate+rsync+local&oq=mac+automate+rsync+local&gs_l=psy-ab.3...5517.5847..6080...0.0..0.95.366.4......0....1..gws-wiz.......0i71j35i304i39.Hl2FLmBcCXE
+
+      mac rsync daemon - Google Search
+      https://www.google.com/search?q=mac+rsync+daemon&newwindow=1&ei=Kuq_XJ2XM8iWsQWr2o24Cg&start=10&sa=N&ved=0ahUKEwid1PCW9ufhAhVIS6wKHSttA6cQ8tMDCIYB&biw=1440&bih=820
+
+      rsyncd setup on Mac OsX. | BLOG.BRAVI.ORG
+      https://blog.bravi.org/?p=732
+
+      Bahut: rsync server daemon on Mac OS X with launchctl
+      http://bahut.alma.ch/2013/01/rsync-server-daemon-on-mac-os-x.html
+
+      Rsync Server | Bonhard Computing
+      http://bonhardcomputing.com/rsync-server/
+
+      mac launchd rsync - Google Search
+      https://www.google.com/search?newwindow=1&ei=m-6_XLPlK8K8sAWntbXgCw&q=mac+launchd+rsync&oq=mac+launchd+rsync&gs_l=psy-ab.3..0i22i30.511537.519445..519846...0.0..0.194.1469.12j3....2..0....1..gws-wiz.......0i71j35i39j0i67j0j0i20i263.Dk_t1HWMk8U
+
+      launchd - How to run a LaunchAgent that runs a script which causes failures because of System Integrity Protection - Ask Different
+      https://apple.stackexchange.com/questions/338213/how-to-run-a-launchagent-that-runs-a-script-which-causes-failures-because-of-sys
+
+      Backups With Rsync and Launchd - Stuff… And Things…
+      https://stuff-things.net/2015/03/18/backups-with-rsync-and-launchd/
+
+      Confused as to why rsync won't run in… - Apple Community
+      https://discussions.apple.com/thread/8060697
+
+   Screensaver
+
+      Creating a macOS screensaver - jamesliu.io
+      http://jamesliu.io/posts/macos-screensaver/
+
+      Cocoa Dev Central: Write a Screen Saver: Part I
+      http://cocoadevcentral.com/articles/000088.php
+
+      Making a macOS screen saver in swift with SceneKit
+      https://blog.viacom.tech/2016/06/27/making-a-macos-screen-saver-in-swift-with-scenekit/
+
+      Launch Services | Apple Developer Documentation
+      https://developer.apple.com/documentation/coreservices/launch_services
+
+      ScreenSaver | Apple Developer Documentation
+      https://developer.apple.com/documentation/screensaver
+
+      ScreenSaverView - ScreenSaver | Apple Developer Documentation
+      https://developer.apple.com/documentation/screensaver/screensaverview
+
+      docterd/MusaicFM: Screensaver inspired by Apple’s inbuilt iTunes Screensaver. It can display Artwork by Spotify or last.fm Profile Data.
+      https://github.com/docterd/MusaicFM
+
+   irssi
+
+      dotfiles-irssi/config at master · garbas/dotfiles-irssi
+      https://github.com/garbas/dotfiles-irssi/blob/master/config
+
+      irssi config
+      https://gist.github.com/maxdeliso/07ddcf790017d184749e
+
+      A Guide to Efficiently Using Irssi and Screen
+      https://quadpoint.org/articles/irssi/
+
+      Irssi - Startup How-To
+      https://irssi.org/documentation/startup/#first-steps
+
+      Search · irssi theme
+      https://github.com/search?p=2&q=irssi+theme&ref=opensearch&type=Repositories
+
+      Internet Relay Chat! (Announcements, Support, QDB)
+      https://www.reddit.com/r/irc/
+
+      irssi show all channels - Google Search
+      https://www.google.com/search?q=irssi+show+all+channels&oq=irssi+show+all+channels&aqs=chrome..69i57.6570j0j7&sourceid=chrome&ie=UTF-8
+
+      Finding Channels - freenode
+      https://freenode.net/kb/answer/findingchannels
+
+      How to Regain a Registered IRC Nickname With Nickserv | Techwalla.com
+      https://www.techwalla.com/articles/how-to-regain-a-registered-irc-nickname-with-nickserv
+
+      Irssi - YouTube
+      https://www.youtube.com/watch?v=_a6_Ar0mkwA
+
+   Python CoffeeScript
+
+      https://www.reddit.com/user/neonspacecandy/about.json
+      https://www.reddit.com/user/neonspacecandy/about.json
+
+      https://www.reddit.com/r/all/top/.json
+      https://www.reddit.com/r/all/top/.json
+
+      Python 3 Get and parse JSON API - Stack Overflow
+      https://stackoverflow.com/questions/35120250/python-3-get-and-parse-json-api
+
+      coffeescript ImportError - Google Search
+      https://www.google.com/search?q=coffeescript+ImportError&oq=coffeescript+ImportError&aqs=chrome..69i57.30899j0j7&sourceid=chrome&ie=UTF-8
+
+      Python like import in coffee-script
+      https://gist.github.com/t0ster/792488/71f7690bd8dc515b81d86a37b56c95ede1fedf52
+
+      coffeescript python script import error - Google Search
+      https://www.google.com/search?q=coffeescript+python+script+import+error&oq=coffeescript+python+script+import+error&aqs=chrome..69i57.25156j0j7&sourceid=chrome&ie=UTF-8
+
+      ipython - "ImportError: No module named" when trying to run Python script - Stack Overflow
+      https://stackoverflow.com/questions/15514593/importerror-no-module-named-when-trying-to-run-python-script
+
+      importError: No Module named - Google Search
+      https://www.google.com/search?newwindow=1&biw=1440&bih=820&ei=q3XGXNmcFJCSsAWH8J34BA&q=importError%3A+No+Module+named&oq=importError%3A+No+Module+named&gs_l=psy-ab.3..0i67j0i7i30j0i20i263j0i67j0j0i67j0j0i7i30j0j0i67.114374.114374..114633...0.0..0.103.103.0j1....1..0....1..gws-wiz.BtKNiqxK4CU
+
+      Python error "ImportError: No module named" - Stack Overflow
+      https://stackoverflow.com/questions/338768/python-error-importerror-no-module-named
+
+      print (sys.path) - Google Search
+      https://www.google.com/search?q=print+(sys.path)&oq=print+(sys.path)&aqs=chrome..69i57.1507j0j7&sourceid=chrome&ie=UTF-8
+
+      python - how to print contents of PYTHONPATH - Stack Overflow
+      https://stackoverflow.com/questions/18486469/how-to-print-contents-of-pythonpath/18486534
+
+      import sys print(sys.path) python3 - Google Search
+      https://www.google.com/search?newwindow=1&ei=Bn3GXJGnL8aQsAX82q7gDQ&q=import+sys+print%28sys.path%29+python3&oq=import+sys+print%28sys.path%29+python3&gs_l=psy-ab.3..33i22i29i30.120660.122744..122997...0.0..0.127.791.0j7......0....1..gws-wiz.......0i71j33i10.Q9ygI4Ffa5s
+
+      Do "python3" and "python" use different path variables? - Ask Ubuntu
+      https://askubuntu.com/questions/747408/do-python3-and-python-use-different-path-variables
+
+      use python3 in coffeescript - Google Search
+      https://www.google.com/search?q=use+python3+in+coffeescript&oq=use+python3+in+coffeescript&aqs=chrome..69i57.6035j0j7&sourceid=chrome&ie=UTF-8
+
+      How can I switch Python version for script - support - Atom Discussion
+      https://discuss.atom.io/t/how-can-i-switch-python-version-for-script/24036/14
+
+      app using python2 - Google Search
+      https://www.google.com/search?newwindow=1&ei=vIPGXKjfCcmQsAW89YgQ&q=app+using+python2&oq=app+using+python2&gs_l=psy-ab.3...590924.596086..596666...0.0..0.130.1471.16j1....2..0....1..gws-wiz.......0j35i39j0i67j0i10i67j0i10j0i22i30j0i20i263.FJRO8MtXIsc
+
+      python - how to force the applications to use python3.5 instead of python2.7? - Ask Ubuntu
+      https://askubuntu.com/questions/975438/how-to-force-the-applications-to-use-python3-5-instead-of-python2-7
+
+      python:cours:mementopython3-english.pdf
+      https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+
+      make coffeescript python 2 - Google Search
+      https://www.google.com/search?newwindow=1&ei=L4fGXJemHYmwsAXd2rMw&q=make+coffeescript+python+2&oq=make+coffeescript+python+2&gs_l=psy-ab.3..33i22i29i30l8.536.1384..1635...0.0..0.121.235.0j2......0....1..gws-wiz.......0i71j33i160._PMLEieVpK4
+
+      CoffeeScript
+      https://coffeescript.org/#switch
+
+   Pinterest API
+
+      Engineering | Pinterest Careers
+      https://careers.pinterest.com/careers/engineering
+
+      Pinterest Developers
+      https://developers.pinterest.com/docs/getting-started/introduction/?
+
+   Linter Formatter
+
+      Write Good Linter - Visual Studio Marketplace
+      https://marketplace.visualstudio.com/items?itemName=travisthetechie.write-good-linter&ssr=false#overview
+
+      plain text linter - Google Search
+      https://www.google.com/search?newwindow=1&ei=7ifJXIP6LMyotQXb0LTQCA&q=plain+text+linter&oq=plain+text+linter&gs_l=psy-ab.3...3068.7526..7761...0.0..0.350.1475.0j10j0j1....2..0....1..gws-wiz.......0i71j0i67j0i7i30j0i7i10i30j0i20i263j0j0i8i7i30j0i8i7i10i30.QiyE5FVMsgM
+
+      Creating new linters
+      https://cran.r-project.org/web/packages/lintr/vignettes/creating_linters.html
+
+      Lint, Lint and Away! Linters for the English Language - DZone Agile
+      https://dzone.com/articles/lint-lint-and-away-linters-for-the-english-languag
+
+      ppeszko/vscode-proselint: Proselint support for vscode
+      https://github.com/ppeszko/vscode-proselint
+
+      vale - Visual Studio Marketplace
+      https://marketplace.visualstudio.com/items?itemName=lunaryorn.vale
+
+      vscode-textlint - Visual Studio Marketplace
+      https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint
+
+      Collection of textlint rule · textlint/textlint Wiki
+      https://github.com/textlint/textlint/wiki/Collection-of-textlint-rule
+
+      Designing Your Own Format
+      https://www.fileformat.info/mirror/egff/ch08_07.htm
+
+      create a text formatter - Google Search
+      https://www.google.com/search?newwindow=1&biw=1440&bih=788&ei=MjDJXJX9LYqisAWx0xA&q=create+a+text+formatter&oq=create+a+text+formatter&gs_l=psy-ab.3..0i22i30.173044.177538..178214...0.0..0.108.665.4j3....2..0....1..gws-wiz.......0i71j35i304i39j0i7i30j0i30j0i7i5i30j0i8i30j0i8i10i30j0i8i7i30j0i13i30j0i8i13i30j33i22i29i30.mTcp4BtXDUI
+
+      Creating a Formatter Extension
+      https://code.visualstudio.com/blogs/2016/11/15/formatters-best-practices
+
+      vscode/vscode.d.ts at master · Microsoft/vscode
+      https://github.com/Microsoft/vscode/blob/master/src/vs/vscode.d.ts#L4172
+
+      jrieken/vscode-formatter-sample
+      https://github.com/jrieken/vscode-formatter-sample
+
+      Formatting and styling text – Squarespace Help
+      https://support.squarespace.com/hc/en-us/articles/115012080887-Formatting-and-styling-text
+
+      Using Text Styles
+      http://app-help.vectorworks.net/2018/eng/VW2018_Guide/Text/Using_Text_Styles.htm
+
+      Beautify - Visual Studio Marketplace
+      https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+
+      Prettier · Opinionated Code Formatter
+      https://prettier.io/
+
+      vs code custom formatter - Google Search
+      https://www.google.com/search?newwindow=1&ei=XTrJXMC9FoKytQXb0r2ADQ&q=vs+code+custom+formatter&oq=vs+code+custom+formatter&gs_l=psy-ab.3..0.27566020.27567073..27567280...0.0..0.110.677.5j2....2..0....1..gws-wiz.......0i71j0i7i30j0i13j35i304i39.w1BDZqZ3S80
+
+      Managing Code Formatting
+      https://msdn.microsoft.com/en-us/library/999b219z(v=vs.71).aspx
+
+      vs code create formatter - Google Search
+      https://www.google.com/search?q=vs+code+create+formatter&oq=vs+code+create+formatter&aqs=chrome..69i57.7396j0j7&sourceid=chrome&ie=UTF-8
+
+      save regex commands in file - Google Search
+      https://www.google.com/search?q=save+regex+commands+in+file&newwindow=1&ei=_6vJXPv9D4K6tgWGrbvQBQ&start=10&sa=N&ved=0ahUKEwi7-d6lxPrhAhUCna0KHYbWDloQ8tMDCI8B&biw=1440&bih=788
+
+      RegExr: Learn, Build, & Test RegEx
+      https://regexr.com/
+
+      regex - Export all regular expression matches in Textpad or Notepad++ as a list - Super User
+      https://superuser.com/questions/477628/export-all-regular-expression-matches-in-textpad-or-notepad-as-a-list
+
+      Store regular expressions in a file.
+      https://www.perlmonks.org/?node_id=870806
+
+      javascript - Can I store RegExp and Function in JSON? - Stack Overflow
+      https://stackoverflow.com/questions/8328119/can-i-store-regexp-and-function-in-json
+
+      javascript - Regex pattern in JSON? - Stack Overflow
+      https://stackoverflow.com/questions/25426464/regex-pattern-in-json
+
+      regex-stringify - npm
+      https://www.npmjs.com/package/regex-stringify
+
+      PCRE - Perl Compatible Regular Expressions
+      https://www.pcre.org/
+
+      python - Best way to store dicts, regex and variables in external file? - Stack Overflow
+      https://stackoverflow.com/questions/54388734/best-way-to-store-dicts-regex-and-variables-in-external-file
+
+      string regular expression - Google Search
+      https://www.google.com/search?newwindow=1&biw=1440&bih=788&ei=_sHJXPqSAZCe5gKf5pHoAQ&q=string+regular+expression&oq=string+regular+expression&gs_l=psy-ab.3..0i7i30j0i20i263j0i7i30l5j0i20i263j0i7i30l2.9413.10163..12534...0.0..0.185.816.0j6....3..0....1..gws-wiz.......0i71j0i67.QGwxgRb4r1I
+
+      Consider serializing RegExp objects to strings · Issue #91 · json5/json5
+      https://github.com/json5/json5/issues/91
+
+      json notation - Google Search
+      https://www.google.com/search?newwindow=1&ei=csfJXMLYHIfv_QbCtJqACg&q=json+notation&oq=json+notation&gs_l=psy-ab.3..0i67j0l2j0i22i30l7.10775.14092..14307...2.0..0.144.1902.0j15....2..0....1..gws-wiz.......0i71j35i39j0i10i67j0i20i263.2ZG3dpDosPM
+
+   Trello API
+
+      Makefile
+      https://gist.github.com/isaacs/62a2d1825d04437c6f08
+
+      blangel/wrk: A command line interface to Trello
+      https://github.com/blangel/wrk
+
+      API Introduction
+      https://developers.trello.com/docs/api-introduction#section--a-name-auth-your-first-api-call-a-
+
+   Bash Exit Status
+
+      stop bash script if true - Google Search
+      https://www.google.com/search?q=stop+bash+script+if+true&oq=stop+bash+script+if+true&aqs=chrome..69i57.25166j0j7&sourceid=chrome&ie=UTF-8
+
+      bash - How do I exit a script in a conditional statement? - Unix & Linux Stack Exchange
+      https://unix.stackexchange.com/questions/23961/how-do-i-exit-a-script-in-a-conditional-statement
+
+      bash exit errors - Google Search
+      https://www.google.com/search?q=bash+exit+errors&oq=bash+exit+errors&aqs=chrome..69i57.9693j0j7&sourceid=chrome&ie=UTF-8
+
+      Exit Codes With Special Meanings
+      https://www.tldp.org/LDP/abs/html/exitcodes.html
+
+      view-source:https://www.tldp.org/LDP/abs/html/exitcodes.html
+      view-source:https://www.tldp.org/LDP/abs/html/exitcodes.html
+
+      Exit and Exit Status
+      http://tldp.org/LDP/abs/html/exit-status.html
+
+      bash exit directory not exist - Google Search
+      https://www.google.com/search?q=bash+exit+directory+not+exist&oq=bash+exit+directory+not+exist&aqs=chrome..69i57.21123j0j7&sourceid=chrome&ie=UTF-8
+
+      unix - Check if a directory exists in a shell script - Stack Overflow
+      https://stackoverflow.com/questions/59838/check-if-a-directory-exists-in-a-shell-script
+
+      bash variable space in single quote - Google Search
+      https://www.google.com/search?q=bash+variable+space+in+single+quote&oq=bash+variable+space+in+single+quote+&aqs=chrome..69i57.14763j0j7&sourceid=chrome&ie=UTF-8
+
+      bash - Why does my shell script choke on whitespace or other special characters? - Unix & Linux Stack Exchange
+      https://unix.stackexchange.com/questions/131766/why-does-my-shell-script-choke-on-whitespace-or-other-special-characters
+
+      shell - Expansion of variable inside single quotes in a command in Bash - Stack Overflow
+      https://stackoverflow.com/questions/13799789/expansion-of-variable-inside-single-quotes-in-a-command-in-bash/13802438
+
+      bash osascript variable - Google Search
+      https://www.google.com/search?q=bash+osascript+variable&oq=bash+osascript+variable+&aqs=chrome..69i57.20523j0j7&sourceid=chrome&ie=UTF-8
+
+      Pass a variable from bash shell into Applescript? - Ask Different
+      https://apple.stackexchange.com/questions/341040/pass-a-variable-from-bash-shell-into-applescript
+
+      bash - Pass in variable from shell script to applescript - Stack Overflow
+      https://stackoverflow.com/questions/17242773/pass-in-variable-from-shell-script-to-applescript
+
+      terminal - How to pass variables from bash script to AppleScript - Ask Different
+      https://apple.stackexchange.com/questions/266695/how-to-pass-variables-from-bash-script-to-applescript
+
+      Bash Reference Manual
+      https://www.gnu.org/software/bash/manual/bash.html#Single-Quotes
+
+      how to pass bash variables to AppleScript - Stack Overflow
+      https://stackoverflow.com/questions/30400322/how-to-pass-bash-variables-to-applescript
+
+      osascript using bash variable with a space - Stack Overflow
+      https://stackoverflow.com/questions/23923017/osascript-using-bash-variable-with-a-space/23923167#23923167
+
+   Trees
+
+      How Decision Trees Work - YouTube
+      https://www.youtube.com/watch?v=9TiezQ7Gb3M
+
+      B-Tree Indexes - YouTube
+      https://www.youtube.com/watch?v=NI9wYuVIYcA
+
+      How to make binary search trees in an easy and straight forward way? - TeX - LaTeX Stack Exchange
+      https://tex.stackexchange.com/questions/422128/how-to-make-binary-search-trees-in-an-easy-and-straight-forward-way
+
+   MapReduce
+
+      What Is MapReduce? - DEV Community 👩‍💻👨‍💻
+      https://dev.to/kjir/what-is-mapreduce-25i6
+
+      java - "Use map instead of class to represent data" -Rich Hickey - Software Engineering Stack Exchange
+      https://softwareengineering.stackexchange.com/questions/272302/use-map-instead-of-class-to-represent-data-rich-hickey
+
+      MapReduce Tutorial
+      https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html#Purpose
+
+   Whiteboard
+
+      Lightboard Demonstration - YouTube
+      https://www.youtube.com/watch?v=hZlPWVfoYFo&app=desktop
+
+   Programming Concepts
+
+      Even The Most Advanced Computer Programmers Have Probably Never Heard Of This Concept
+      https://www.forbes.com/sites/quora/2018/05/18/even-the-most-advanced-computer-programmers-have-probably-never-heard-of-this-concept/amp/
+
+      10 Object-Oriented (OOP) Design Principles Java Programmer Should Learn in 2019
+      https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html
+
+      Getting to know some pragmatic programming language features
+      https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118
+
+      Learning the Granular Details of a Programming Language? - DEV Community 👩‍💻👨‍💻
+      https://dev.to/robertcoopercode/learning-the-granular-details-of-a-programming-language-pln
+
+   Hash Map
+
+      Simple Hash Map (Hash Table) Implementation in C++ – Abdullah Ozturk - Blog – Medium
+      https://medium.com/@aozturk/simple-hash-map-hash-table-implementation-in-c-931965904250
+
+      How to Create A Hash Table Project in C++ , Part 1 , Setting Up the Hash Table Project - YouTube
+      https://www.youtube.com/watch?v=m6n_rozU8dA
+
+      Implementing own Hash Table with Open Addressing Linear Probing in C++ - GeeksforGeeks
+      https://www.geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/
+
+   Serialization
+
+      Protocol Buffers with Kenton Varda - Software Engineering Daily
+      https://softwareengineeringdaily.com/2017/12/18/protocol-buffers-with-kenton-varda/
+
+      Serialization formats: JSON and Protobuf - YouTube
+      https://www.youtube.com/watch?v=uGYZn6xk-hA
+
+      ninjudd/clojure-protobuf: Google protocol buffers wrapper for Clojure.
+      https://github.com/ninjudd/clojure-protobuf
+
+      Serializing string arrays in solidity – HackerNoon.com
+      https://hackernoon.com/serializing-string-arrays-in-solidity-db4b6037e520
+
+   OOP
+
+      RPC Vs Simple Procedure Call - Georgia Tech - Advanced Operating Systems - YouTube
+      https://www.youtube.com/watch?v=gr7oaiUsxSU
+
+      Data Structures: Heaps - YouTube
+      https://www.youtube.com/watch?v=t0Cq6tVNRBA
+
+      C# Tutorial 9 Abstract Class Polymorphism - YouTube
+      https://www.youtube.com/watch?v=RaHm_pSxqLY
+
+      The Floating-Point Guide - Rounding Errors
+      https://floating-point-gui.de/errors/rounding/
+
+      Arrays Practice Problems Online | Brilliant
+      https://brilliant.org/practice/arrays/?p=9
+
+   File I/O
+
+      Input/output with files - C++ Tutorials
+      http://www.cplusplus.com/doc/tutorial/files/
+
+      c++ - managing hard-coded file paths/names in code - Stack Overflow
+      https://stackoverflow.com/questions/29926997/managing-hard-coded-file-paths-names-in-code
+
+   Diagram
+
+      Difference between ER diagram and Class diagram - Stack Overflow
+      https://stackoverflow.com/questions/17050422/difference-between-er-diagram-and-class-diagram
+
+      What is Unified Modeling Language | Lucidchart
+      https://www.lucidchart.com/pages/what-is-UML-unified-modeling-language
+
+   Algorithms
+
+      Top 10 Algorithms Every Programmer Should Know
+      https://www.technotification.com/2018/03/top-10-algorithms-for-programmer.html/amp
+
+   Objects
+
+      Apache Arrow with Uwe Korn - Software Engineering Daily
+      https://softwareengineeringdaily.com/2016/07/17/apache-arrow-with-uwe-korn/
+
+      Decentralized Objects with Martin Kleppman - Software Engineering Daily
+      https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman/
+
+   Badge Code
+
+      org-projectile - MELPA
+      https://melpa.org/#/org-projectile
    Documentation
 
       SEI | Carnegie Mellon
@@ -625,6 +1766,126 @@ Software Development
 
 Web Development
 
+   Watch
+
+      develop website using html css - YouTube
+      https://www.youtube.com/results?search_query=develop+website+using+html+css
+
+      Build a Responsive, Mobile First Website - HTML5 & CSS3 - YouTube
+      https://www.youtube.com/watch?v=XsEnj-1hG2o
+
+      Build An HTML5 Website With A Responsive Layout - YouTube
+      https://www.youtube.com/watch?v=Wm6CUkswsNw
+
+      Fast and Beautiful Modern Image Delivery Techniques - YouTube
+      https://www.youtube.com/watch?v=5suhXh19e9M&list=WL&index=68&t=0s
+
+      Getting Started with VueJS and WordPress - YouTube
+      https://www.youtube.com/watch?v=EZUES3EEPk8&list=WL&index=66&t=0s
+
+   Window 2
+
+      W3.CSS Layout
+      https://www.w3schools.com/w3css/w3css_layout.asp
+
+      Tryit Editor v3.6
+      https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_layout_align_all
+
+      https://www.w3schools.com/w3css/4/w3.css
+      https://www.w3schools.com/w3css/4/w3.css
+
+      HTML5 Introduction
+      https://www.w3schools.com/html/html5_intro.asp
+
+      Tryit Editor v3.6
+      https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_portfolio&stacked=h
+
+      W3.CSS Template
+      https://www.w3schools.com/w3css/tryw3css_templates_portfolio.htm
+
+   Window 3
+
+      Brian Crink | Connect. Follow. Join.
+      https://www.briancrink.com/
+
+      Brian Crink
+      http://127.0.0.1:5500/index.htm
+
+      Brian Crink
+      http://127.0.0.1:5500/content.htm
+
+      Wix Website Editor - briancrink
+      https://editor.wix.com/html/editor/web/renderer/edit/24602785-eda3-4b5f-b2a7-2e95283453c0?metaSiteId=8bfa5bc6-b99f-483d-9b58-47e80f1de429&editorSessionId=04027616-a479-48eb-a717-3f2fc28a37b2&referralInfo=dashboard
+
+      Dashboard | Wix.com
+      https://www.wix.com/dashboard/8bfa5bc6-b99f-483d-9b58-47e80f1de429/home
+
+   Window 4
+
+      Human interface guidelines - Wikipedia
+      https://en.wikipedia.org/wiki/Human_interface_guidelines
+
+      google material - Google Search
+      https://www.google.com/search?q=google+material&oq=google+material&aqs=chrome..69i57.5895j0j7&sourceid=chrome&ie=UTF-8
+
+      Design - Material Design
+      https://material.io/design/
+
+   Window 5
+
+      html alt img src - Google Search
+      https://www.google.com/search?q=html+alt+img+src&oq=html+alt+img+src&aqs=chrome..69i57.7083j0j7&sourceid=chrome&ie=UTF-8
+
+      HTML img alt Attribute
+      https://www.w3schools.com/tags/att_img_alt.asp
+
+      use css to switch img to alt - Google Search
+      https://www.google.com/search?q=use+css+to+switch+img+to+alt&oq=use+css+to+switch+img+to+alt&aqs=chrome..69i57.7141j0j7&sourceid=chrome&ie=UTF-8
+
+      Nine Techniques for CSS Image Replacement | CSS-Tricks
+      https://css-tricks.com/css-image-replacement/
+
+      css image swap alt - Google Search
+      https://www.google.com/search?q=css+image+swap+alt&oq=css+image+swap+alt&aqs=chrome..69i57.4271j0j7&sourceid=chrome&ie=UTF-8
+
+      html - @media queries and image swapping - Stack Overflow
+      https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping
+
+      css img show alt - Google Search
+      https://www.google.com/search?q=css+img+show+alt&oq=css+img+show+alt&aqs=chrome..69i57.11890j0j7&sourceid=chrome&ie=UTF-8
+
+      Don't show image, only alternate text with CSS - Stack Overflow
+      https://stackoverflow.com/questions/39094840/dont-show-image-only-alternate-text-with-css
+
+      Make img alt visible - CSS-Tricks
+      https://css-tricks.com/forums/topic/make-img-alt-visible/
+
+      How to display img alt text using CSS? - Stack Overflow
+      https://stackoverflow.com/questions/23188691/how-to-display-img-alt-text-using-css/23188736
+
+      css swap image on hover - Google Search
+      https://www.google.com/search?q=css+swap+image+on+hover&oq=css+swap+image+on+hover&aqs=chrome..69i57.11675j0j7&sourceid=chrome&ie=UTF-8
+
+      How to Change Image on Hover with CSS
+      https://www.tutorialrepublic.com/faq/how-to-change-image-on-hover-with-css.php
+
+      Live Demo: Change Image on Hover in CSS
+      https://www.tutorialrepublic.com/codelab.php?topic=faq&file=css-image-swap-on-hover
+
+      CSS margin-top property
+      https://www.w3schools.com/cssref/pr_margin-top.asp
+
+   Window 6
+
+      Basic steps for hosting on Github
+      https://gist.github.com/TylerFisher/6127328
+
+      Using a custom domain with GitHub Pages - GitHub Help
+      https://help.github.com/en/articles/using-a-custom-domain-with-github-pages
+
+      rgb to hex - Google Search
+      https://www.google.com/search?q=rgb+to+hex&oq=rgb+to+hex&aqs=chrome..69i57.3378j0j7&sourceid=chrome&ie=UTF-8
+
    Web Development
 
       Medium
@@ -692,6 +1953,125 @@ Web Development
 
 AccessEdu
 
+   Workflow
+
+      Your Account | Meetup
+      https://www.meetup.com/account/#account-topics
+
+   Documentation
+
+      Open AccessEdu - AccessEdu
+      https://accessedu.gitbook.io/home/
+
+      briancrink/accessedu
+      https://github.com/briancrink/accessedu
+
+      Open AccessEdu - AccessEdu
+      https://app.gitbook.com/@accessedu/s/home/
+
+   Backlog
+
+      Rutgar Bregman’s case for UBI, open borders, and a 15-hour workweek - Vox
+      https://www.vox.com/policy-and-politics/2019/7/26/8909436/rutger-bregman-utopia-for-realists-ubi-open-borders
+
+      Wealthy Parents in Illinois Exploit Loophole to Earn Financial Aid and Scholarships – Rogue Rocket
+      https://roguerocket.com/2019/07/30/wealthy-parents-in-illinois-exploit-loophole-to-earn-financial-aid-and-scholarships/
+
+      (PDF) A school for the future: design, democracy and student expectations in England 2016.
+      https://www.researchgate.net/publication/313545977_A_school_for_the_future_design_democracy_and_student_expectations_in_England_2016
+
+   Talk
+
+      TED Talks
+      https://www.ted.com/talks?sort=relevance&q=education+system
+
+      Michael Bierut: How to design a library that makes kids want to read | TED Talk
+      https://www.ted.com/talks/michael_bierut_how_to_design_a_library_that_makes_kids_want_to_read
+
+      Ali Carr-Chellman: Gaming to re-engage boys in learning | TED Talk
+      https://www.ted.com/talks/ali_carr_chellman_gaming_to_re_engage_boys_in_learning
+
+      Emily Pilloton: Teaching design for change | TED Talk
+      https://www.ted.com/talks/emily_pilloton_teaching_design_for_change
+
+      Alvin Irby: How to inspire every child to be a lifelong reader | TED Talk
+      https://www.ted.com/talks/alvin_irby_how_to_inspire_every_child_to_be_a_lifelong_reader
+
+      Linda Hill: How to manage for collective creativity | TED Talk
+      https://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity
+
+      Dave Eggers: My wish: Once Upon a School | TED Talk
+      https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school
+
+      John Hardy: My green school dream | TED Talk
+      https://www.ted.com/talks/john_hardy_my_green_school_dream
+
+      Anant Agarwal: Why massive open online courses (still) matter | TED Talk
+      https://www.ted.com/talks/anant_agarwal_why_massively_open_online_courses_still_matter
+
+      Sugata Mitra: Build a School in the Cloud | TED Talk
+      https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud
+
+      John Green: The nerd's guide to learning everything online | TED Talk
+      https://www.ted.com/talks/john_green_the_nerd_s_guide_to_learning_everything_online
+
+      Majora Carter: Greening the ghetto | TED Talk
+      https://www.ted.com/talks/majora_carter_s_tale_of_urban_renewal#t-705613
+
+      Barry Schwartz: Our loss of wisdom | TED Talk
+      https://www.ted.com/talks/barry_schwartz_on_our_loss_of_wisdom
+
+      Sir Ken Robinson: Bring on the learning revolution! | TED Talk
+      https://www.ted.com/talks/sir_ken_robinson_bring_on_the_revolution
+
+   Education Architecture
+
+      Out of the Ruins: The Emergence of Radical Informal Learning Spaces
+      https://secure.pmpress.org/index.php?l=product_detail&p=815
+
+      Unschooling | The Anarchist Library
+      https://theanarchistlibrary.org/library/peter-gray-unschooling-surveys
+
+      The Purposes and Functions of Schooling: some reasons governments give for building schools – Architecture and Education
+      https://architectureandeducation.org/2017/11/07/the-purposes-and-functions-of-schooling-some-reasons-governments-give-for-building-schools/
+
+      Giancarlo De Carlo: How to Keep Educational Architecture Human or Creative Anti-Institutionalism – Architecture and Education
+      https://architectureandeducation.org/2018/06/28/giancarlo-de-carlo-how-to-keep-educational-architecture-human-or-creative-anti-institutionalism/
+
+      ribabetterspacesforlearningpdf.pdf
+      https://www.architecture.com/-/media/gathercontent/better-spaces-for-learning/additional-documents/ribabetterspacesforlearningpdf.pdf
+
+      University of South Australia Future Learning Space | Woods Bagot
+      https://www.woodsbagot.com/projects/university-of-south-australia-future-learning-space/
+
+      Creating inspirational learning spaces
+      https://woodforgood.com/news-and-views/2018/03/23/creating-inspirational-learning-spaces-with-wood/
+
+   Gitbook
+
+      Colors - Customer.io
+      https://customer-io.gitbook.io/fly/foundations/colors
+
+      Your Repositories
+      https://github.com/briancrink?tab=repositories
+
+      Setup | Jekyll • Simple, blog-aware, static sites
+      https://jekyllrb.com/docs/step-by-step/01-setup/
+
+      New Project
+      https://github.com/new/project
+
+      Spaces - GitBook
+      https://app.gitbook.com/@briancrink/spaces
+
+      LayerX
+      https://yuhua-chen.github.io/LayerX/
+
+      Dev Status – Session Buddy
+      https://sessionbuddy.com/dev-status/
+
+      Plan · Root Systems Handbook
+      https://www.rootsystems.nz/context/plan.html
    AccessEdu
 
       Open AccessEdu | Github
@@ -987,6 +2367,44 @@ AccessEdu
       https://semanticscholar.org/author/Judith-Heerwagen/3371027
 
 Bootstrap'd
+
+   Docusign
+
+      Forms W-2 & Other Documents | Internal Revenue Service
+      https://www.irs.gov/faqs/electronic-filing-e-file/forms-w-2-other-documents
+
+      2018 Form 1040-SS
+      https://www.irs.gov/pub/irs-pdf/f1040ss.pdf
+
+      Free File Software Offers
+      https://apps.irs.gov/app/freeFile/
+
+      Free File: Do Your Federal Taxes for Free | Internal Revenue Service
+      https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free
+
+      eSignatures for Taxes and Accounting | DocuSign
+      https://www.docusign.com/solutions/industries/accounting-tax
+
+      Electronic signature format | DocuSign
+      https://www.docusign.com/esignature/electronic-signature-format
+
+      IRS electronic signature form | DocuSign
+      https://www.docusign.com/esignature/irs-electronic-signature-form
+
+      Best Practices for Submitting Electronically Signed Forms to the IRS | DocuSign Support Center
+      https://support.docusign.com/en/articles/Best-Practices-for-Submitting-Electronically-Signed-Forms-to-the-IRS
+
+      Print or Download a Document - DocuSign eSignature User Guide | DocuSign Support Center
+      https://support.docusign.com/guides/ndse-user-guide-download-or-print-your-document
+
+      Billing and Usage | DocuSign
+      https://admin.docusign.com/billing
+
+      2018 Form 8878
+      https://www.irs.gov/pub/irs-pdf/f8878.pdf
+
+      2018 Form 8879
+      https://www.irs.gov/pub/irs-pdf/f8879.pdf
 
    Bootstrap'd
 
@@ -1830,9 +3248,12 @@ macSpace
       Sunrise | Sunset Location
       https://sunrise-sunset.org/
 
-OpenFuture
+Open Framework
 
-   OpenFuture
+   Open Framework
+
+      lego block logo - Google Search
+      https://www.google.com/search?q=lego+block+logo&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0jLjL3_vhAhVGJKwKHeyHCzUQ_AUIDigB&biw=1440&bih=788#imgrc=_
 
       Future Timeline
       https://futuretimeline.net/
@@ -1983,6 +3404,73 @@ OpenFuture
 
       Rufuspollock
       https://rufuspollock.com/
+
+minimaliste consulting
+
+   minimaliste consultant
+
+      Minimaliste (@minimaliste.tinyhouses) • Instagram photos and videos
+      https://www.instagram.com/minimaliste.tinyhouses/?hl=en
+
+      Minimaliste Houses - Micro-maisons sur roues à la fine pointe de l'écologie
+      https://minimalistehouses.com/en/
+
+   Consulting
+
+      muskegon | create posting
+      https://post.craigslist.org/k/3rfqyZaN6RG2VMa7y4aKmg/GSz79?s=billing
+
+      how to be a consultant - Google Search
+      https://www.google.com/search?q=how+to+be+a+consultant&oq=how+to+be+a+consultant&aqs=chrome..69i57.4808j0j7&sourceid=chrome&ie=UTF-8
+
+      How To Become A Top Freelance Consultant
+      https://www.forbes.com/sites/abdullahimuhammed/2017/03/15/how-to-become-a-highly-paid-freelance-consultant/#11f9b334124a
+
+      How to Start a Consulting Business
+      https://www.entrepreneur.com/article/41384
+
+      home service consultant rate - Google Search
+      https://www.google.com/search?q=home+service+consultant+rate&oq=home+service+consultant+rate&aqs=chrome..69i57.7336j0j7&sourceid=chrome&ie=UTF-8
+
+      Consulting Fees & Rates: How Much Should I Charge?
+      https://www.consulting.com/consulting-fees-rates
+
+      House Cleaning Service App | Tidy
+      https://www.tidy.com/
+
+      MINIMALISM: SPACE. LIGHT. OBJECT.
+      https://www.minimalism.sg/
+
+   Window 1
+
+      Build a Responsive, Mobile First Website - HTML5 & CSS3 - YouTube
+      https://www.youtube.com/watch?v=XsEnj-1hG2o
+
+      consultant webpage - Google Search
+      https://www.google.com/search?q=consultant+webpage&oq=consultant+webpage&aqs=chrome..69i57.5510j0j7&sourceid=chrome&ie=UTF-8
+
+      22 Best Consultant Websites (And Why They Have Them)
+      https://tsavoneal.com/best-consultant-websites/
+
+      Consulting & Coaching Website Templates | Business | Wix - 2
+      https://www.wix.com/website/templates/html/business/consulting-coaching/2
+
+   Window 2
+
+      HTML5 Introduction
+      https://www.w3schools.com/html/html5_intro.asp
+
+      W3.CSS Layout
+      https://www.w3schools.com/w3css/w3css_layout.asp
+
+      Minimaliste Houses - Micro-maisons sur roues à la fine pointe de l'écologie
+      https://minimalistehouses.com/en/
+
+      House Cleaning Service App | Tidy
+      https://www.tidy.com/
+
+      Tech Interview Pro
+      https://www.techseries.dev/
 
 Rideway
 
@@ -2157,6 +3645,29 @@ SmartMirror
 
 tinyspace
 
+   Webpage
+
+      tiny house listing - Google Search
+      https://www.google.com/search?q=tiny+house+listing&oq=tiny+house+listing&aqs=chrome..69i57.2562j0j7&sourceid=chrome&ie=UTF-8
+
+      Tiny Houses For Sale & Rent: List Yours Free
+      https://tinyhouselistings.com/search?property_type=land
+
+      Understanding CSS Custom Properties - YouTube
+      https://www.youtube.com/watch?v=IGlQjnH2Eyk&list=WL&index=75&t=0s
+
+      Build An HTML5 Website With A Responsive Layout - YouTube
+      https://www.youtube.com/watch?v=Wm6CUkswsNw
+
+      Tiny House Listings: Tiny Houses For Sale and Rent
+      https://tinyhouselistings.com/
+
+      Vacation Rentals, Homes, Experiences & Places - Airbnb
+      https://www.airbnb.com/?logo=1
+
+      Tinyspace: Pin Your Next Tiny House Location
+      https://briancrink.wixsite.com/tinyspace
+
    tinyspace
 
       Tumbleweedhouses
@@ -2316,3 +3827,50 @@ Tune.to
       Trakt
       https://trakt.docs.apiary.io/#introduction/required-headers
 
+Woodworking
+
+   Search
+
+      reddit.com: search results - dining table
+      https://www.reddit.com/r/DIY/search?q=dining%20table&restrict_sr=1
+
+      Delta belt sander - tools - by owner - sale
+      https://muskegon.craigslist.org/tls/d/muskegon-delta-belt-sander/6871167564.html
+
+   Amazon List
+
+      Amazon.com
+      https://www.amazon.com/hz/wishlist/ls/1F365OH9J63MF
+
+      Amazon.com
+      https://www.amazon.com/hz/wishlist/ls/MTISZROE7GAL
+
+   Table Saw
+
+      reddit.com: search results - Craftsman 113
+      https://www.reddit.com/r/woodworking/search/?q=Craftsman%20113&restrict_sr=1&sort=top
+
+   YouTube
+
+      Making zero clearance table saw inserts - YouTube
+      https://www.youtube.com/watch?v=Jgh1Hqg1LY8
+
+      Steve Ramsey - Woodworking for Mere Mortals - YouTube
+      https://www.youtube.com/user/stevinmarin/videos
+
+      Matthias Wandel - YouTube
+      https://www.youtube.com/user/Matthiaswandel/videos
+
+      table saw rip cut long - YouTube
+      https://www.youtube.com/results?search_query=table+saw+rip+cut+long+
+
+   CNC Machine
+
+      $400 DIY CNC Machine is Surprisingly Simple! | Hackaday
+      https://hackaday.com/2014/07/11/400-diy-cnc-machine-is-surprisingly-simple/
+
+      CNC ROUTER BUILDS | OpenBuilds
+      https://openbuilds.com/?id=286
+
+      Build Your CNC - CNC, CNC Router, CNC Router Kits, CNC Machine Kits, Laser Machines, CNC Machine Tools, and CNC Cutting
+      https://buildyourcnc.com/

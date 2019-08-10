@@ -2,10 +2,10 @@ Home
 
    Portfolio
 
-      Brian Crink | Connect. Follow. Join.
+      briancrink | Connect. Follow. Join.
       https://briancrink.com/
 
-      Brian Crink | github.io
+      briancrink | github.io
       https://briancrink.github.io/
 
    Workspace
@@ -26,7 +26,7 @@ Home
 
    News
 
-      9to5 Mac
+      9to5mac
       https://9to5mac.com/
 
       Medium
@@ -34,6 +34,9 @@ Home
 
       Bookmarks | Medium
       https://medium.com/me/list/bookmarks
+
+      dev.to
+      https://dev.to/
 
       Flipboard
       https://flipboard.com/
@@ -79,7 +82,7 @@ Home
       https://www.youtube.com/playlist?list=WL
 
       TED Talk
-      https://www.ted.com/#/
+      https://ted.com/
 
       TVTime
       https://tvtime.com/
@@ -178,68 +181,71 @@ Account
 
    Portfolio
 
-      Brian Crink | Connect. Follow. Join.
+      briancrink | Connect. Follow. Join.
       https://briancrink.com/
 
-      Brian Crink | github.io
+      briancrink | github.io
       https://briancrink.github.io/
 
    Profile
 
-      Brian Crink | Linkedin
+      briancrink | Linkedin
       https://linkedin.com/in/briancrink/
 
-      Brian Crink | WayUp
+      briancrink | WayUp
       https://wayup.com/profile/Brian-Crink-754b5bd347/
 
-      Brian Crink | Merit Pages
+      briancrink | Merit Pages
       https://meritpages.com/briancrink
 
-      Brian Crink | Kaggle
+      briancrink | Kaggle
       https://kaggle.com/briancrink
 
-      Brian Crink | Elite Prospects
+      briancrink | Elite Prospects
       https://eliteprospects.com/player/319693/brian-crink
 
    Social Media
 
-      @beardlybrian | Twitter
-      https://twitter.com/beardlybrian
-
-      @briancrink | Twitter
+      briancrink | Twitter
       https://twitter.com/briancrink
 
-      @briancrink | Instagram
+      briancrink | Instagram
       https://instagram.com/briancrink/
 
-      @briancrink | Medium
-      https://medium.com/@briancrink
+      briancrink | Medium
+      https://medium.com/briancrink
 
-      @briancrink | Soundcloud
+      briancrink | Soundcloud
       https://soundcloud.com/briancrink
 
-      @briancrink | Pinterest
+      briancrink | Bandcamp
+      https://bandcamp.com/briancrink
+
+      briancrink | Pinterest
       https://pinterest.com/briancrink/
 
-      @briancrink | Untappd
+      briancrink | Untappd
       https://untappd.com/user/briancrink
 
-      @briancrink | TVTime
+      briancrink | TED
+      https://www.ted.com/profiles/13476851
+
+      briancrink | TVTime
       https://tvtime.com/en/user/19702695/profile
 
-      Brian Crink | Meetup
+      briancrink | Meetup
       https://meetup.com/members/222435284/
 
-      Brian Crink | Vimeo
+      briancrink | Vimeo
       https://vimeo.com/briancrink
       
-      Brian Crink | YouTube
+      briancrink | YouTube
       https://youtube.com/c/BrianCrink
 
-      Brian Crink | Yummly
+      briancrink | Yummly
       https://yummly.com/profile/BrianCrink
 
-      Briancrink | All Trails
+      briancrink | All Trails
       https://alltrails.com/members/brian-crink
 
    Social Feeds
@@ -272,58 +278,61 @@ Account
 
    Software
 
-      Briancrink | Gist Github
+      briancrink | Gist Github
       https://gist.github.com/briancrink
 
-      Briancrink | Gitlab
+      briancrink | Gitlab
       https://gitlab.com/briancrink
 
-      Briancrink | Github
+      briancrink | Github
       https://github.com/briancrink
 
-      Briancrink | Gitbook
-      https://app.gitbook.com/@briancrink/spaces
+      briancrink | Gitbook
+      https://app.gitbook.com/briancrink/spaces
 
-      Briancrink | Leetcode
+      briancrink | Leetcode
       https://leetcode.com/briancrink/
 
-      Briancrink | Coderbyte
+      briancrink | Coderbyte
       https://coderbyte.com/profile/briancrink
 
-      Briancrink | Hackerrank
+      briancrink | Hackerrank
       https://hackerrank.com/briancrink?hr_r=1
 
-      Briancrink | Stackshare
+      briancrink | Stackshare
       https://stackshare.io/briancrink
 
-      Briancrink | Stackoverflow
+      briancrink | Stackoverflow
       https://stackoverflow.com/story/briancrink
 
-      Briancrink | Wikimedia
+      briancrink | Wikimedia
       https://phabricator.wikimedia.org/p/briancrink/
 
-      Briancrink | Udemy
+      briancrink | Udemy
       https://udemy.com/user/brian-crink/
 
-      Briancrink | Codecademy
+      briancrink | Codecademy
       https://codecademy.com/briancrink
 
-      Briancrink | Behance
+      briancrink | dev.to
+      https://dev.to/briancrink
+
+      briancrink | Behance
       https://behance.net/briancrinkf24d
 
-      Briancrink | Dribbble
+      briancrink | Dribbble
       https://dribbble.com/briancrink
 
-      Briancrink | Codepen.io
+      briancrink | Codepen.io
       https://codepen.io/briancrink/
 
-      Briancrink | Deviantart
+      briancrink | Deviantart
       https://deviantart.com/briancrink
 
-      Briancrink | Producthunt
-      https://producthunt.com/@briancrink
+      briancrink | Producthunt
+      https://producthunt.com/briancrink
 
-      Briancrink | Sketchup
+      briancrink | Sketchup
       https://3dwarehouse.sketchup.com/by/briancrink?nav=models
 
    p0lyr
@@ -769,6 +778,11 @@ Content
       Flickr
       https://flickr.com/photos/megane_wakui/
 
+   Badges
+
+      dev.to Badge
+      https://dev.to/p/badges
+
    D.O.N.G
 
       Brilliant
@@ -814,7 +828,7 @@ Content
       Data Centric Manifesto
       http://datacentricmanifesto.org/
 
-      Brian Crink | Data Centric Manifesto
+      briancrink | Data Centric Manifesto
       http://datacentricmanifesto.org/sign/3419/
 
       GNU
@@ -1006,6 +1020,76 @@ Content
       http://tracesof.net/uebersicht-widgets/
 
 Education
+
+   Training
+
+      NRA Instructors
+      https://nrainstructors.org/
+
+   Mathematics
+
+      Wolframalpha
+      https://wolframalpha.com/
+
+      Sigfigscalculator
+      https://sigfigscalculator.com/
+
+      Slader
+      https://slader.com/
+
+      Integral Calculator
+      https://integral-calculator.com/
+
+      Derivative Calculator
+      https://derivative-calculator.net/
+
+      Inverse of Matrix Calculator
+      https://emathhelp.net/calculators/linear-algebra/inverse-of-matrix-calculator/
+
+   Window 9
+
+      Scholar
+      https://scholar.google.com/
+
+      Wikipedia
+      https://wikipedia.org/
+
+      Sci-hub
+      https://sci-hub.tw/
+
+      Archive
+      https://archive.org/
+
+      Turnitin
+      https://turnitin.com/
+
+      Citationmachine
+      https://citationmachine.net/apa/cite-a-website
+
+      Wordcounter
+      https://wordcounter.net/
+
+      Owl
+      https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html
+
+      Msu
+      https://msu.edu/~jdowell/135/transw.html
+
+      Writingcenter
+      https://writingcenter.unc.edu/tips-and-tools/fallacies/
+
+      Owl
+      https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_author_authors.html
+
+   Window 11
+
+      Apexcalculus
+      https://apexcalculus.com/downloads/
+
+   Window 12
+
+      Aws
+      https://aws.amazon.com/education/awseducate/
 
    Training
 
@@ -1463,6 +1547,14 @@ Event
       Stubhub
       https://stubhub.com/
 
+   Meetup
+
+      Create a Meetup
+      https://www.meetup.com/start/location
+
+      World Cafe Method
+      http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/
+
 Exercise
 
    Activity
@@ -1610,6 +1702,14 @@ Exercise
 
 Finance
 
+   Credit
+
+      Equifax Credit Monitoring
+      https://lockandalert.equifax.com/member-center/myaccount/
+
+      TransUnion Credit Monitoring
+      https://membership.trueidentity.com/tucm/login.page?
+
    Research
 
       Panama Papers
@@ -1683,6 +1783,9 @@ News
 
       Cyber Wire
       https://thecyberwire.com/
+
+      dev.to
+      https://dev.to/
 
       Hackster.io
       https://blog.hackster.io/
@@ -1816,6 +1919,88 @@ News
       https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_ylo=2015&as_vis=1&q=software+architecture&btnG=
 
 Shop
+
+   Window 1
+
+      CCM Super Tacks Senior Hockey Gloves - Senior Hockey Gloves - Hockey Gloves - Equipment
+      https://www.hockeymonkey.com/equipment/gloves/senior-hockey-gloves/ccm-hockey-gloves-super-tacks-sr.html
+
+      CCM Super Tacks Hockey Gloves - Senior | Pure Hockey Equipment
+      https://www.purehockey.com/product/ccm-super-tacks-hockey-gloves-senior/itm/26840-41/
+
+   Window 2
+
+      raleigh r700 on SearchTempest
+      https://www.searchtempest.com/search?search_string=raleigh%20r700&category=8&subcat=sss&cityselect=zip&location=49457&maxDist=1000&Region=combined
+
+   Apple
+
+      Favorites - Education - Apple
+      https://www.apple.com/us-hed/shop/favorites
+
+   CCM Super Tacks 2.0 Stick
+
+      Composite Hockey Sticks> Ice Hockey | Hockey World
+      https://www.hockeyworld.com/Ice-Hockey/Sticks-Composite#product_listing=%3Fcurrent_page%3D1%26results_per_page%3D12%26order_by%3Drelevance%26search_params%3DProductTypeAttribute_DELIMITER_custom_age_level%3ASr%3A%3AProduct_DELIMITER_manufacturer_id%3A20%3A%3AConfigurationOptionUpgrade_DELIMITER_hand%3ARight%26search%3Dtrue%26search_params%3DProductTypeAttribute_DELIMITER_custom_age_level%3ASr%3A%3AProduct_DELIMITER_manufacturer_id%3A20%3A%3AConfigurationOptionUpgrade_DELIMITER_hand%3ARight
+
+      CCM Super Tacks 2.0 Hockey Stick- Sr
+      https://www.hockeyworld.com/CCM-Super-Tacks-2-0-Hockey-Stick-Sr
+
+   Raleigh R700
+
+      1999 Raleigh R700 - Bicycle Details - BicycleBlueBook.com
+      https://www.bicyclebluebook.com/SearchListingDetail.aspx?id=84243&make=723&model=74485
+
+   Wardrobe Organization
+
+      https://www.ikea.com/ms/en_US/usearch/?&query=wardrobe organizer&rows=40&view=grid&start=40
+      https://www.ikea.com/ms/en_US/usearch/?&query=wardrobe%20organizer&rows=40&view=grid&start=40
+
+      KOMPLEMENT Pull-out pants hanger - 19 5/8x22 7/8 " - IKEA
+      https://www.ikea.com/us/en/catalog/products/90257350/
+
+      KOMPLEMENT Pull-out multi-use hanger - 22 7/8 " - IKEA
+      https://www.ikea.com/us/en/catalog/products/20262487/
+
+      KOMPLEMENT Shoe shelf - 39 3/8x13 3/4 " - IKEA
+      https://www.ikea.com/us/en/catalog/products/90257251/
+
+      KOMPLEMENT Glass shelf - 19 5/8x22 7/8 " - IKEA
+      https://www.ikea.com/us/en/catalog/products/40257649/#/90257656
+
+   Guide
+
+      Style & Grooming Archives | The Art of Manliness
+      https://www.artofmanliness.com/category/dress-grooming/
+
+      Podcast Sponsors | The Art of Manliness
+      https://www.artofmanliness.com/podcast-sponsors/
+
+      Payment - Northern Fir - Checkout
+      https://www.northernfirbeard.com/17196667/checkouts/7e4b10f7ad1bb944e189985cbb1f24de?previous_step=shipping_method&step=payment_method
+
+   Sell
+
+      Used Book Buying Websites | BookScouter.com
+      https://bookscouter.com/watchlist
+
+      ⚰ 🕵 eBay Sold Items & Completed Listings [USA] - WatchCount.com℠
+      http://www.watchcount.com/completed.php?bkw=hanson+brothers+signed+jersey&bcat=0&bcts=&sfsb=Show+Me%21&csbin=all&cssrt=ts&bslr=&bnp=&bxp=#serp
+
+   Window 9
+
+      Mac Miller - Faces - 2x LP Vinyl - Ear Candy Music
+      https://earcandymusic.biz/mac-miller-faces-2x-lp-vinyl/
+
+   Window 10
+
+      United Nuclear , Scientific Equipment & Supplies
+      https://unitednuclear.com/
+
+   Apartment
+
+      Apartment List
+      https://www.apartmentlist.com
 
    Accessary
 
@@ -2335,3 +2520,99 @@ Shop
 
       Saxx Underwear
       https://www.saxxunderwear.com/
+
+Travel
+
+   Window 1
+
+      Property Prices in Trondheim. Price per square foot/meter in Trondheim
+      https://www.numbeo.com/property-investment/in/Trondheim?displayCurrency=USD
+
+   University
+
+      remoteintech/remote-jobs: A list of semi to fully remote-friendly companies in tech.
+      https://github.com/remoteintech/remote-jobs
+
+      2019 List of Tuition Free Universities in Norway for International Students | After School Africa
+      https://www.afterschoolafrica.com/7039/tuition-free-universities-in-norway/
+
+      Study in Norway - The American-Scandinavian Foundation
+      http://www.amscan.org/fellowships-and-grants/study-in-norway/
+
+      Want to apply: Study permit - UDI
+      https://www.udi.no/en/want-to-apply/studies/studietillatelse/?c=usa#link-58
+
+      Studies - Financing and scholarships - self financing - NTNU
+      https://www.ntnu.edu/studies/financingandscholarships/is_self_financing
+
+      English language requirements - NTNU
+      https://www.ntnu.edu/studies/langcourses/languagerequirements
+
+      Media and Computer Science Courses - NTNU
+      https://www.ntnu.edu/studies/exchange/media_computer_science
+
+      Søknadsweb
+      https://fsweb.no/soknadsweb/steg.jsf
+
+   NTNU
+
+      Studies at Department of Computer Science - NTNU
+      https://www.ntnu.edu/idi/studies/
+
+      Norwegian University of Science and Technology - Wikipedia
+      https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology
+
+      Study programmes in English - University of Oslo
+      https://www.uio.no/english/studies/programmes/#topic=&type=
+
+      Dataingeniør – ingeniør/bachelorprogram – 3-årig – Trondheim – Gjøvik – Ålesund - NTNU
+      https://www.ntnu.no/studier/bidata
+
+      Google Translate
+      https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=https%3A%2F%2Fwww.ntnu.no%2Fstudier%2Fbidata
+
+      Google Translate
+      https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fwww.ntnu.no%2Fstudier%2Fbidata
+
+   Norway2 Hockey
+
+      transitions
+      https://www.hockey.no/forbundet/overganger/#internasjonale
+
+      Elite Prospects - Nidaros Hockey
+      https://www.eliteprospects.com/team/12510/nidaros-hockey#players
+
+      Elite Prospects - 1. divisjon (Norway2)
+      https://www.eliteprospects.com/league/norway2
+
+      Nidaros Hockey – Trønderhockey tilbake til eliten
+      https://nidaroshockey.no/
+
+      Google Translate
+      https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fnidaroshockey.no%2Fkontakt-oss%2F
+
+      Brian Crink - Elite Prospects
+      https://www.eliteprospects.com/player/319693/brian-crink
+
+      Norwegian First Division (ice hockey) - Wikipedia
+      https://en.wikipedia.org/wiki/Norwegian_First_Division_(ice_hockey)
+
+   Window 5
+
+      Plots, Plots | FINN.no
+      https://www.finn.no/realestate/plots/search.html?filters=
+
+      m^2 to acres - Google Search
+      https://www.google.com/search?q=m%5E2+to+acres&oq=m%5E2+to+acres&aqs=chrome..69i57.12441j0j7&sourceid=chrome&ie=UTF-8
+
+      norwegian krone vs swedish krona - Google Search
+      https://www.google.com/search?newwindow=1&ei=fdQnXY7EAZW1tAbPy4aoCw&q=norwegian+krone+vs+swedish+krona&oq=norwegian+krona+vs.+swe&gs_l=psy-ab.1.0.0i22i30.26064.42866..44215...14.0..0.148.3477.23j12......0....1..gws-wiz.......0i71j35i39j0j0i67j0i131j0i20i263j0i10j0i22i10i30j0i13i70i258j0i13j0i20i263i70i258j0i10i70i258j33i10i160j0i13i30j0i8i13i30.NNo2Bej2Lhk
+
+      SEK to USD - Google Search
+      https://www.google.com/search?q=SEK+to+USD&oq=SEK+to+USD&aqs=chrome..69i57.2051j0j7&sourceid=chrome&ie=UTF-8
+
+      kr to usd - Google Search
+      https://www.google.com/search?q=kr+to+usd&oq=KR+to+USD&aqs=chrome.0.69i59.1845j0j7&sourceid=chrome&ie=UTF-8
+
+      Keeping Scandinavian Currencies Straight
+      https://www.tripsavvy.com/currencies-in-scandinavia-1626462

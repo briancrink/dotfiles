@@ -19,6 +19,7 @@ background.*
 # folders
 .font
 .1password
+.dictionary
 .ical
 .keys
 .maps

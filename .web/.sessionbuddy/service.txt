@@ -126,6 +126,9 @@ Content
 
    Music
 
+      Bandcamp
+      https://bandcamp.com/
+
       Boom
       https://www.globaldelight.com/boom/index.php
 
@@ -279,6 +282,12 @@ Content
 
       Hulu
       https://hulu.com
+
+      iina
+      https://iina.io/
+
+      mpv
+      https://mpv.io
 
       Netflix
       https://netflix.com
@@ -1591,6 +1600,29 @@ Professional
 
       W3
       https://e3expo.com/
+
+   Hosting a TED Event
+
+      Application Tips
+      https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/application-tips
+
+      Before You Start
+      https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start
+
+      TED Rules
+      https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/tedx-rules
+
+      Event Types
+      https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/event-types
+
+      Standard Event
+      https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/event-types/standard-event
+
+      Apply for a TED License
+      https://www.ted.com/participate/organize-a-local-tedx-event/apply-for-a-tedx-license
+
+      TED Licenses
+      https://tedx-apply.ted.com/licenses/new?tags=Ed
 
    Funding
 

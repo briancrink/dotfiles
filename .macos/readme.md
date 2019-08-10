@@ -22,11 +22,12 @@
 
 1. press <kbd>C</kbd> to **Boot to USB**
 2. press <kbd>N</kbd> for **Netboot**
-3. press <kbd>⌥ Option</kbd> for **Boot Manager**
-4. press <kbd>⇧ Shift</kbd> for **Safe Boot**
-5. press <kbd>⌘ Command</kbd>+<kbd>R</kbd> for **Recovery Mode**
-6. press <kbd>⌘ Command</kbd>+<kbd>V</kbd> for **Verbose Mode**
-7. press <kbd>⌘ Command</kbd>+<kbd>S</kbd> for **Single User Mode**
+3. press <kbd>D</kbd> for **Diagnostics**
+4. press <kbd>⌥ Option</kbd> for **Boot Manager**
+5. press <kbd>⇧ Shift</kbd> for **Safe Boot**
+6. press <kbd>⌘ Command</kbd>+<kbd>R</kbd> for **Recovery Mode**
+7. press <kbd>⌘ Command</kbd>+<kbd>V</kbd> for **Verbose Mode**
+8. press <kbd>⌘ Command</kbd>+<kbd>S</kbd> for **Single User Mode**
 
 ### Disable SIP
 
