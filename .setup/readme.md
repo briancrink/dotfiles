@@ -153,6 +153,8 @@ and iCloud Drive.
 
 - press <kbd>⌘ Command</kbd>+<kbd>T</kbd> to **open Terminal**
 
+- press <kbd>⌘ Command</kbd>+<kbd>3</kbd> to **tag an item**
+
 - press <kbd>⌘ Command</kbd>+<kbd>Space</kbd> to **spotlight search**
 
 - press <kbd>⌘ Command</kbd>+<kbd>B</kbd> to **run backapp workflow**
