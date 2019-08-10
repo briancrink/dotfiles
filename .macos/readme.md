@@ -9,10 +9,11 @@
 5. [Show Hidden Files](#Show-Hidden-Files)
 6. [Remove `._files`](#Remove-`._files`-on-Shared-Volumes)
 7. [Menubar Advanced Settings](#Menubar-Advanced-Settings)
-8. [Change Screenshot Location](#Change-Screenshot-Location)
-9. [Airplay -> Apple TV](#Airplay-->-Apple-TV)
-10. [MacChanger](#MacChanger)
-11. [Find a Solution 🤔](#Find-a-Solution)
+8. [Tag Shortcut](#Tag-Shortcut)
+9. [Change Screenshot Location](#Change-Screenshot-Location)
+10. [Airplay -> Apple TV](#Airplay-->-Apple-TV)
+11. [MacChanger](#MacChanger)
+12. [Find a Solution 🤔](#Find-a-Solution)
 
 ### Global Keybindings
 
@@ -64,6 +65,12 @@
 2. press <kbd>⌥ Option</kbd>+<kbd>Click</kbd> on **bluetooth icon** for network
    information
 3. change color to `#171717` for **transparent menubar**
+
+### Tag Shortcut
+
+1. remove all favorite tags from Finder -> Preferences -> Tags -> Favorites
+2. add shortcut `Tags...` with keybinding to Finder in System Preferences ->
+   Keyboard -> Shortcut
 
 ### Change Screenshot Location
 
