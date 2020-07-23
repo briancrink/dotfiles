@@ -7,7 +7,6 @@
 # plistbuddy -c "Delete :DSKDesktopPrefPane:UserFolderPaths:4 string" ~/Library/Preferences/com.apple.systempreferences.plist
 # plistbuddy -c "Delete :DSKDesktopPrefPane:UserFolderPaths:5 string" ~/Library/Preferences/com.apple.systempreferences.plist
 # plistbuddy -c "Delete :DSKDesktopPrefPane:UserFolderPaths:6 string" ~/Library/Preferences/com.apple.systempreferences.plist
-# plistbuddy -c "Delete :DSKDesktopPrefPane:UserFolderPaths:7 string" ~/Library/Preferences/com.apple.systempreferences.plist
 
 plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:0 String" ~/Library/Preferences/com.apple.systempreferences.plist
 plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:0 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dusk'" ~/Library/Preferences/com.apple.systempreferences.plist
