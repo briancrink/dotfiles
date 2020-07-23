@@ -23,8 +23,6 @@ plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:5 String" ~/Library/Prefe
 plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:5 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Winter'" ~/Library/Preferences/com.apple.systempreferences.plist
 plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:6 String" ~/Library/Preferences/com.apple.systempreferences.plist
 plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:6 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/iPad/Landscape'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:7 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:7 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Women'" ~/Library/Preferences/com.apple.systempreferences.plist
 plistbuddy -c "Save" ~/Library/Preferences/com.apple.systempreferences.plist
 
 killall 'System Preferences'
