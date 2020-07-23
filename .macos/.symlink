@@ -8,4 +8,3 @@ cp -vus $HOME/.dotfiles/.rEFInd/.rEFInd $HOME
 cp -vrus $HOME/.dotfiles/.ssh $HOME
 cp -vrus $HOME/.dotfiles/.irssi $HOME
 cp -vrus $HOME/.dotfiles/.vscode/*.json $HOME/Library/Application\ Support/Code/User
-cp -vus $HOME/.dotfiles/.transmission/*.plist $HOME/Library/Preferences
