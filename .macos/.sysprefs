@@ -136,24 +136,6 @@ defaults write NSGlobalDomain AppleHighlightColor -string "0.764700 0.976500 0.5
 # Appearance: Graphite
 defaults write -g AppleAquaColorVariant -int 6
 
-# Set desktop folder locations (System Preferences -> Desktop / Screensaver)
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:0 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:0 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dusk'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:1 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:1 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Light'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:2 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:2 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Dark'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:3 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:3 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/neonspacecandy'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:4 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:4 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Forest'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:5 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:5 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Winter'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:6 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:6 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/iPad/Landscape'" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Add :DSKDesktopPrefPane:UserFolderPaths:7 String" ~/Library/Preferences/com.apple.systempreferences.plist
-plistbuddy -c "Set :DSKDesktopPrefPane:UserFolderPaths:7 '/Volumes/Drive/Workspace/Workflow/Setup/Wallpaper/Desktop/Theme/Women'" ~/Library/Preferences/com.apple.systempreferences.plist
-
 # Set UI appearance (Light | Dark)
 plistbuddy -c "Add :AppleInterfaceStyle String" ~/Library/Preferences/.GlobalPreferences.plist
 plistbuddy -c "Set :AppleInterfaceStyle Dark" ~/Library/Preferences/.GlobalPreferences.plist
